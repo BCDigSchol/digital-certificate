@@ -19,14 +19,14 @@
 
 
 //Example of a localled called tiled basemap created from a .geotiff  using gdal2tiles (workflow available)
-			var mapTest = L.tileLayer('https://maps.georeferencer.com/georeferences/bb2ea065-7ee6-55fa-a29e-1ccb6cc568a9/2020-12-06T14:11:56.847793Z/map/{z}/{x}/{y}.png?key=rFFmpdCwWU8gzjF5Xbgk', {tms: true, attribution: "", minZoom: 0, maxZoom: 10}).addTo(map);
+			var mapTest = L.tileLayer('https://maps.georeferencer.com/georeferences/bb2ea065-7ee6-55fa-a29e-1ccb6cc568a9/2020-12-06T14:11:56.847793Z/map/{z}/{x}/{y}.png?key=rFFmpdCwWU8gzjF5Xbgk', {attribution: ""}).addTo(map);
 
 			var baseLayers = {
 				"Satellite Imagery" : Esri_WorldImagery,
 				};
 
 			var overlayMaps = {
-				"Test Map" : mapTest,
+				"Test" : mapTest,
 
 				};
 				L.control.layers(baseLayers, overlayMaps).addTo(map);
