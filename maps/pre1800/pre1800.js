@@ -2,9 +2,9 @@
 //Define map start up options, here defined to center on Italy
 		var mapOptions = {
 			center: [41.8875, 12.72], //set center
-			zoom: 3 , //set initial zoom
+			zoom: 4 , //set initial zoom
 			maxZoom : 12,  //set max zoom
-			minZoom : 1,
+			minZoom : 2,
 			maxBounds: [ [-90, -180] , [90,180] ]
 			}
 
@@ -19,14 +19,14 @@
 
 
 //Example of a localled called tiled basemap created from a .geotiff  using gdal2tiles (workflow available)
-			var mapTest = L.tileLayer('https://maps.georeferencer.com/georeferences/bb2ea065-7ee6-55fa-a29e-1ccb6cc568a9/2020-12-06T14:11:56.847793Z/map/{z}/{x}/{y}.png?key=rFFmpdCwWU8gzjF5Xbgk', {attribution: ""}).addTo(map);
+			var piriReis1525 = L.tileLayer('https://maps.georeferencer.com/georeferences/bb2ea065-7ee6-55fa-a29e-1ccb6cc568a9/2020-12-06T14:11:56.847793Z/map/{z}/{x}/{y}.png?key=rFFmpdCwWU8gzjF5Xbgk', {attribution: ""}).addTo(map);
 
 			var baseLayers = {
 				"Satellite Imagery" : Esri_WorldImagery,
 				};
 
 			var overlayMaps = {
-				"Test" : mapTest,
+				"Pirî Reis, 1525" : piriReis1525,
 
 				};
 				L.control.layers(baseLayers, overlayMaps).addTo(map);
