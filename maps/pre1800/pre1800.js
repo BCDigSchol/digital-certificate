@@ -26,7 +26,8 @@
 				};
 
 			var overlayMaps = {
-				"Pirî Reis, 1525" : piriReis1525,
+				"<a target='_blank' href='https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~300654~90071746'>Pirî Reis, 1525</a>" : piriReis1525
+
 
 				};
 				L.control.layers(baseLayers, overlayMaps).addTo(map);
