@@ -45,10 +45,10 @@
 			    // For each row, columns `Latitude`, `Longitude`, and `Title` are required
 			    for (var i in data) {
 			      var row = data[i];
-
+						var popupContent = "Title: " + row.Title;
 			      var marker = L.marker([row.Latitude, row.Longitude], {
 			        opacity: 1
-			      }).bindPopup(row.Title, row.Description);
+			      }).bindPopup(popupContent);
 
 			      marker.addTo(map);
 			    }
