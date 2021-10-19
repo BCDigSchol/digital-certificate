@@ -44,7 +44,9 @@
 			    }
 				});
 
-			
+			   map.attributionControl.setPrefix(
+			     'View <a href="https://github.com/HandsOnDataViz/leaflet-map-csv" target="_blank">code on GitHub</a>'
+			   );
 
 
 //Lets you see lat/long in the console window. Useful for placing non-georeferenced maps in the correct location or for placing markers
