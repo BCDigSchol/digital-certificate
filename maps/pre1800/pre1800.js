@@ -24,7 +24,7 @@
 
 			var piriReis1554 = L.tileLayer('https://maps.georeferencer.com/georeferences/0c4a3a8a-d799-532b-8028-492d017cc8d6/2017-09-21T09:12:07.141853Z/map/{z}/{x}/{y}.png?key=rFFmpdCwWU8gzjF5Xbgk',{attribution: "David Rumsey Map Collection"}).addTo(map);
 
-
+			var layerGroup = L.layerGroup().addTo(map);
 				// Read markers data from data.csv
 		$.get('./data.csv', function(csvString) {
 
@@ -40,7 +40,7 @@
 			        opacity: 1
 			      }).bindPopup(popupContent);
 
-			      marker.addTo(map);
+			      marker.addTo(layerGroup);
 			    }
 				});
 
@@ -48,7 +48,7 @@
 			     'View <a href="https://github.com/HandsOnDataViz/leaflet-map-csv" target="_blank">code on GitHub</a>'
 			   );
 
-
+testlayer.addTo(map);
 
 //Lets you see lat/long in the console window. Useful for placing non-georeferenced maps in the correct location or for placing markers
 			map.on('click', function(e){
