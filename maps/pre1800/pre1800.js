@@ -5,7 +5,8 @@
 			zoom: 1 , //set initial zoom
 			maxZoom : 12,  //set max zoom
 			minZoom : 2,
-			maxBounds: [ [-90, -180] , [90,180] ]
+			maxBounds: [ [-90, -180] , [90,180] ],
+			tap: false
 			}
 
 //Creates Map according to map options
