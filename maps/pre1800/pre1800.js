@@ -37,7 +37,7 @@
 			      var row = data[i];
 						var popupContent = "<b>Location: </b>" + row.PlaceDescribed + "<br>" + "<br>" + "<b>Description: </b>" + row.Description;
 						var popupOptions = {
-							'maxHeight': '300'
+							'maxHeight': '250'
 						}
 						var marker = L.marker([row.Latitude, row.Longitude], {
 			        opacity: 1
