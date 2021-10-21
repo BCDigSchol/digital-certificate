@@ -20,9 +20,9 @@
 
 
 //Example of a localled called tiled basemap created from a .geotiff  using gdal2tiles (workflow available)
-			var piriReis1525 = L.tileLayer('https://maps.georeferencer.com/georeferences/bb2ea065-7ee6-55fa-a29e-1ccb6cc568a9/2020-12-06T14:11:56.847793Z/map/{z}/{x}/{y}.png?key=rFFmpdCwWU8gzjF5Xbgk', {attribution: "David Rumsey Map Collection"}).addTo(map);
+			//var piriReis1525 = L.tileLayer('https://maps.georeferencer.com/georeferences/bb2ea065-7ee6-55fa-a29e-1ccb6cc568a9/2020-12-06T14:11:56.847793Z/map/{z}/{x}/{y}.png?key=rFFmpdCwWU8gzjF5Xbgk', {attribution: "David Rumsey Map Collection"}).addTo(map);
 
-			var piriReis1554 = L.tileLayer('https://maps.georeferencer.com/georeferences/0c4a3a8a-d799-532b-8028-492d017cc8d6/2017-09-21T09:12:07.141853Z/map/{z}/{x}/{y}.png?key=rFFmpdCwWU8gzjF5Xbgk',{attribution: "David Rumsey Map Collection"}).addTo(map);
+			var piriReis1554 = L.tileLayer('https://bcdigschol.github.io/digitalcertificate/maps/pre1800/PiriReis1554/{z}/{x}/{y}.png',{attribution: "David Rumsey Map Collection"}).addTo(map);
 
 			var layerGroup = L.layerGroup().addTo(map);
 				// Read markers data from data.csv
