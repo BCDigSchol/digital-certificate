@@ -36,9 +36,12 @@
 			    for (var i in data) {
 			      var row = data[i];
 						var popupContent = "<b>Location: </b>" + row.PlaceDescribed + "<br>" + "<br>" + "<b>Description: </b>" + row.Description;
-			      var marker = L.marker([row.Latitude, row.Longitude], {
+						var popupOptions = {
+							'maxHeight': '300'
+						}
+						var marker = L.marker([row.Latitude, row.Longitude], {
 			        opacity: 1
-			      }).bindPopup(popupContent);
+			      }).bindPopup(popupContent, popupOptions);
 
 			      marker.addTo(layerGroup);
 			    }
