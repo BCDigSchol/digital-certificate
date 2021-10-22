@@ -54,10 +54,8 @@ var piriReis1554;
 			   );
 
 
-		/*		 var cluster_places= new L.MarkerClusterGroup({showCoverageOnHover: false});
+			var cluster_places= new L.MarkerClusterGroup({showCoverageOnHover: false});
 				 cluster_places.addLayer(layerGroup);
-				 cluster_places.addTo(map); */
-
 
 //Lets you see lat/long in the console window. Useful for placing non-georeferenced maps in the correct location or for placing markers
 			map.on('click', function(e){
