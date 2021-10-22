@@ -45,7 +45,7 @@ var piriReis1554;
 			        opacity: 1
 			      }).bindPopup(popupContent, popupOptions);
 
-			      marker.addTo(layerGroup);
+			      marker.addTo(layerGroup).addTo(map);
 			    }
 				});
 
