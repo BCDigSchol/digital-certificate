@@ -22,9 +22,11 @@
 //Example of a localled called tiled basemap created from a .geotiff  using gdal2tiles (workflow available)
 			//var piriReis1525 = L.tileLayer('https://maps.georeferencer.com/georeferences/bb2ea065-7ee6-55fa-a29e-1ccb6cc568a9/2020-12-06T14:11:56.847793Z/map/{z}/{x}/{y}.png?key=rFFmpdCwWU8gzjF5Xbgk', {attribution: "David Rumsey Map Collection"}).addTo(map);
 
-			var piriReis1554 = L.tileLayer('https://bcdigschol.github.io/digitalcertificate/maps/pre1800/PiriReis1554/{z}/{x}/{y}.png',{attribution: "David Rumsey Map Collection"}).addTo(map);
+			var piriReis1554 = L.tileLayer('./PiriReis1554/{z}/{x}/{y}.png',{attribution: "David Rumsey Map Collection"}).addTo(map);
 
-			var layerGroup = L.layerGroup().addTo(map);
+
+
+			var layerGroup = L.layerGroup();
 				// Read markers data from data.csv
 		$.get('./data.csv', function(csvString) {
 
@@ -52,6 +54,11 @@
 			   );
 
 
+				 var cluster_places= new L.MarkerClusterGroup({showCoverageOnHover: false});
+				 cluster_places.addLayer(layerGroup);
+				 cluster_places.addTo(map);
+
+
 //Lets you see lat/long in the console window. Useful for placing non-georeferenced maps in the correct location or for placing markers
 			map.on('click', function(e){
 			var coord = e.latlng;
@@ -67,6 +74,6 @@
 			var overlayMaps = {
 				"<a target='_blank' href='https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~300654~90071746'>Pirî Reis, 1525</a>" : piriReis1525,
 				"<a target='_blank' href='https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~299966~90071732:fol--41a-Oval-world-map-with-the-At?sort=Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No&qvq=q:%3Dworld%20AND%20pub_date%3D1500...1700%20;sort:Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No;lc:RUMSEY~8~1&mi=190&trs=10031'>Pirî Reis, 1554</a>" : piriReis1554,
-				"Locations":layerGroup
+				"Locations" : cluster_places
 				};
 				L.control.layers(baseLayers, overlayMaps).addTo(map);
