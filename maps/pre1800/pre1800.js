@@ -26,7 +26,7 @@
 var piriReis1554;
 
 
-			var layerGroup = L.layerGroup();
+			var places = L.layerGroup();
 				// Read markers data from data.csv
 		$.get('./data.csv', function(csvString) {
 
@@ -55,7 +55,7 @@ var piriReis1554;
 
 
 			var cluster_places= new L.MarkerClusterGroup({showCoverageOnHover: false});
-				 cluster_places.addLayer(layerGroup);
+				 cluster_places.addLayer(places);
 				 cluster_places.addTo(map);
 
 //Lets you see lat/long in the console window. Useful for placing non-georeferenced maps in the correct location or for placing markers
