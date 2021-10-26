@@ -20,7 +20,7 @@
 
 
 //Example of a localled called tiled basemap created from a .geotiff  using gdal2tiles (workflow available)
-			var piriReis1554 = L.tileLayer('WorldMap/{z}/{x}/{y}.png', {attribution: "David Rumsey Map Collection"}).addTo(map);
+			var piriReis1554 = L.tileLayer('WorldMap/{z}/{x}/{y}.png', {tms: true, attribution: "David Rumsey Map Collection"}).addTo(map);
 
 
 
