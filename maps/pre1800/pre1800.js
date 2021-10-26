@@ -17,15 +17,14 @@
 		var Esri_WorldImagery = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
 			attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
 			}).addTo(map);
-/*
+
 
 //Example of a localled called tiled basemap created from a .geotiff  using gdal2tiles (workflow available)
-			//var piriReis1525 = L.tileLayer('https://maps.georeferencer.com/georeferences/bb2ea065-7ee6-55fa-a29e-1ccb6cc568a9/2020-12-06T14:11:56.847793Z/map/{z}/{x}/{y}.png?key=rFFmpdCwWU8gzjF5Xbgk', {attribution: "David Rumsey Map Collection"}).addTo(map);
+			var piriReis1554 = L.tileLayer('WorldMap/{z}/{x}/{y}.png', {attribution: "David Rumsey Map Collection"}).addTo(map);
 
-			//var piriReis1554 = L.tileLayer('./PiriReis1554/{z}/{x}/{y}.png',{attribution: "David Rumsey Map Collection"}).addTo(map);
-var piriReis1554;
 
-*/
+
+
 var places = L.geoJson(data, {
 	onEachFeature: popUp
 }
