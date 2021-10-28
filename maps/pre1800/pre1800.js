@@ -4,7 +4,7 @@
 		var mapOptions = {
 			center: [41.8875, 12.72], //set center
 			zoom: 1 , //set initial zoom
-			maxZoom : 8,  //set max zoom
+			maxZoom : 5,  //set max zoom
 			minZoom : 2,
 			maxBounds: [ [-90, -180] , [90,180] ],
 			tap: false
