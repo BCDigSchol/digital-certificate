@@ -4,7 +4,7 @@
 		var mapOptions = {
 			center: [41.8875, 12.72], //set center
 			zoom: 1 , //set initial zoom
-			maxZoom : 5,  //set max zoom
+			maxZoom : 10,  //set max zoom
 			minZoom : 2,
 			maxBounds: [ [-90, -180] , [90,180] ],
 			tap: false
@@ -62,3 +62,26 @@ function popUp(f,l) {
 
 				L.control.pan().addTo(map);
 				L.control.scale().addTo(map);
+
+				var searchLayers = L.layerGroup([cluster_places]);
+
+				var searchControl = new L.Control.Search({
+					layer: searchLayers,
+					propertyName: 'PlaceName',
+					marker: false,
+					textPlaceholder: 'Search by Location',
+					textErr: 'Location not found',
+					moveToLocation: function(latlng, title, map) {
+						//map.fitBounds( latlng.layer.getBounds() );
+						//var zoom = map.getBoundsZoom(latlng.layer.getBounds());
+						var zoom = 8;
+						map.setView(latlng, zoom); // access the zoom
+					}
+				});
+				map.addControl( searchControl );  //inizialize search control
+
+				searchControl.on('search:locationfound', function(e) {
+					if(e.layer._popup)
+						e.layer.openPopup();
+				}).on('search:collapsed', function(e) {
+				});
