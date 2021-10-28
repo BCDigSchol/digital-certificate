@@ -4,7 +4,7 @@
 		var mapOptions = {
 			center: [41.8875, 12.72], //set center
 			zoom: 1 , //set initial zoom
-			maxZoom : 12,  //set max zoom
+			maxZoom : 8,  //set max zoom
 			minZoom : 2,
 			maxBounds: [ [-90, -180] , [90,180] ],
 			tap: false
@@ -21,8 +21,6 @@
 
 //Example of a localled called tiled basemap created from a .geotiff  using gdal2tiles (workflow available)
 			var piriReis1554 = L.tileLayer('WorldMap/{z}/{x}/{y}.png', {tms: true, attribution: "David Rumsey Map Collection"}).addTo(map);
-
-
 
 
 var places = L.geoJson(data, {
