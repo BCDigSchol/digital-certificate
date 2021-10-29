@@ -20,6 +20,8 @@
   <script src="Leaflet.Pancontrol/src/L.Control.Pan.js"></script>
   <link rel="stylesheet" href="leaflet-search/src/leaflet-search.css" />
 	<script src="leaflet-search/src/leaflet-search.js"></script>
+  <script src="wNumb.js"></script>
+
   <link rel="stylesheet" href="noUiSlider/distribute/nouislider.min.css" />
 	<script src="noUiSlider/distribute/nouislider.min.js"></script>
   <script type="text/javascript" src="./data.js"></script>
@@ -28,6 +30,10 @@
 .leaflet-popup-content {
   max-height: 300px;
   overflow: scroll;
+}
+.center {
+  text-align: center;
+  margin-top:30px;
 }
   </style>
 
@@ -39,6 +45,8 @@
   <div id="slider-year" style="top: 0px; right: 1px; margin: 10px 25px;"></div>
 		<div style="margin-right: auto; margin-left: auto; width: 90%; margin-bottom: 10px; text-align: center;">
 	</div>
+  <div class="center"> You are currently filtering between <span class="example-val" id="event-start"></span> AD and <span class="example-val" id="event-end"></span> AD </div>
+
   <script type="text/javascript" src="pre1800.js"></script>
 </body>
 

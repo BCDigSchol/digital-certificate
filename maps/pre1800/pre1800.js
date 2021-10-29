@@ -20,7 +20,7 @@
 
 
 //Example of a localled called tiled basemap created from a .geotiff  using gdal2tiles (workflow available)
-			var piriReis1554 = L.tileLayer('WorldMap2/{z}/{x}/{y}.png', {tms: true, attribution: "David Rumsey Map Collection"}).addTo(map);
+			var piriReis1554 = L.tileLayer('WorldMap2/{z}/{x}/{y}.png', {tms: true, attribution: "David Rumsey Map Collection"});
 
 
 var places = L.geoJson(data, {
@@ -99,13 +99,23 @@ noUiSlider.create(yearSlider, {
     range: {
         'min': 1500,
         'max': 1800
-    }
+    },
+		format: wNumb({
+        decimals: 0})
 });
+var yearValues = [
+	document.getElementById('event-start'),
+	document.getElementById('event-end')
+];
+yearValues[0].innerHTML=1500;
+yearValues[1].innerHTML=1800;
 
 yearSlider.noUiSlider.on('change', function (values, handle) {
-	dateValues[handle].innerHTML = values[handle];
-	rangeMin= dateValues[0].innerHTML; //set min for filtering
-	rangeMax= dateValues[1].innerHTML; //set max for filtering
+	yearValues[handle].innerHTML = values[handle];
+	rangeMin= yearValues[0].innerHTML; //set min for filtering
+	rangeMax= yearValues[1].innerHTML; //set max for filtering
+	console.log(rangeMin);
+	console.log(rangeMax);
 	cluster_places.clearLayers();
 	places = new L.geoJson(data,{
 		onEachFeature: popUp,
