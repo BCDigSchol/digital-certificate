@@ -5,7 +5,7 @@
 			center: [41.8875, 0], //set center
 			zoom: 3 , //set initial zoom
 			maxZoom : 7,  //set max zoom
-			minZoom : 2,
+			minZoom : 3,
 			maxBounds: [ [-90, -180] , [90,180] ],
 			tap: false
 			}
@@ -86,3 +86,33 @@ function popUp(f,l) {
 						e.layer.openPopup();
 				}).on('search:collapsed', function(e) {
 				});
+
+var yearSlider = document.getElementById('slider-year');
+noUiSlider.create(yearSlider, {
+    start: [1500, 1800],
+    connect: true,
+		step:10,
+		pips: {
+        mode: 'steps',
+        density: 3,
+			},
+    range: {
+        'min': 1500,
+        'max': 1800
+    }
+});
+
+yearSlider.noUiSlider.on('change', function (values, handle) {
+	dateValues[handle].innerHTML = values[handle];
+	rangeMin= dateValues[0].innerHTML; //set min for filtering
+	rangeMax= dateValues[1].innerHTML; //set max for filtering
+	cluster_places.clearLayers();
+	places = new L.geoJson(data,{
+		onEachFeature: popUp,
+		filter:
+			function(feature, layer) {
+				return (feature.properties.YearOfTravel <= rangeMax) && (feature.properties.YearOfTravel >= rangeMin);
+			}
+	});
+	cluster_places.addLayer(places);
+});
