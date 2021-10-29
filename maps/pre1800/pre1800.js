@@ -93,9 +93,11 @@ noUiSlider.create(yearSlider, {
     connect: true,
 		step:5,
 		pips: {
-        mode: 'steps',
-        density: 2,
-			},
+        mode: 'positions',
+        values: [0, 25, 50, 75, 100],
+        density: 4,
+        stepped: true
+    },
     range: {
         'min': 1500,
         'max': 1800
