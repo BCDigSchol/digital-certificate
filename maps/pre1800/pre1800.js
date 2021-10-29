@@ -91,10 +91,10 @@ var yearSlider = document.getElementById('slider-year');
 noUiSlider.create(yearSlider, {
     start: [1500, 1800],
     connect: true,
-		step:10,
+		step:5,
 		pips: {
         mode: 'steps',
-        density: 3,
+        density: 2,
 			},
     range: {
         'min': 1500,
