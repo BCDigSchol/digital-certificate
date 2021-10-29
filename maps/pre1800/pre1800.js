@@ -12,7 +12,6 @@
 
 //Creates Map according to map options
 		var map = new L.map('map', mapOptions);
-
 //Examples of an externally called tiled basemap
 		var Esri_WorldImagery = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
 			attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
@@ -63,6 +62,7 @@ function popUp(f,l) {
 
 				L.control.pan().addTo(map);
 				L.control.scale().addTo(map);
+				map.addControl(new L.Control.Fullscreen());
 
 				var searchLayers = L.layerGroup([cluster_places]);
 
