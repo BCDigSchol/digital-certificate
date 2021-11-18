@@ -174,3 +174,21 @@ yearSlider.noUiSlider.on('change', function (values, handle) {
 	controlBox.addOverlay(imagesMap , "Images");
 
 });
+
+const legend = L.control.Legend({
+				position: "bottomleft",
+				collapsed: false,
+				symbolWidth: 24,
+				opacity: 1,
+				column: 2,
+				legends: [{
+						label: "Description",
+						type: "image",
+						url: "marker/blue.png",
+				}, {
+						label: "Image",
+						type: "image",
+						url: "marker/orange.png"
+				}]
+		})
+		.addTo(map);
