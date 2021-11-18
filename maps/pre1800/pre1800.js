@@ -42,13 +42,15 @@ var images =L.geoJson(images, {
     },
 	onEachFeature: popUpImages
 }
-);
+).addTo(map);
 
 function popUpImages(f,l) {
 	var photoImg = '<img src="'+f.properties.ImageURL+'" width="300px" />';
 	var out = [];
 	if (f.properties) {
-		out.push(f.properties.PlaceName + '<br>');
+		out.push('<i>' + f.properties.ImageTitle + ' </i> (' + f.properties.PlaceName +', '+f.properties.Year+ ')');
+		out.push(f.properties.Artist);
+		out.push(f.properties.HostInstitution);
 		out.push('<a href="' +f.properties.ImageURL + '" target="_blank">' + photoImg +'</a>');
 		l.bindPopup(out.join("<br />"));
 	}};
