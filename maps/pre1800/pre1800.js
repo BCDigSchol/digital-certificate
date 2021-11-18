@@ -37,7 +37,7 @@ function popUpImages(f,l) {
 	var out = [];
 	if (f.properties) {
 		out.push(f.properties.PlaceName + '<br>');
-		out.push(photoImg);
+		out.push('<a href="' +f.properties.ImageURL + '" target="_blank">' + photoImg +'</a>');
 		l.bindPopup(out.join("<br />"));
 	}};
 
