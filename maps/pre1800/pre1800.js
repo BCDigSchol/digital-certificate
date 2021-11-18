@@ -36,7 +36,7 @@ var geojsonMarkerOptions = {
     fillOpacity: 0.8
 };
 
-var images =L.geoJson(images, {
+var imagesMap =L.geoJson(images, {
 	pointToLayer: function (feature, latlng) {
         return L.circleMarker(latlng, geojsonMarkerOptions);
     },
@@ -84,10 +84,9 @@ function popUp(f,l) {
 			var overlayMaps = {
 		  	"<a target='_blank' href='https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~299966~90071732:fol--41a-Oval-world-map-with-the-At?sort=Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No&qvq=q:%3Dworld%20AND%20pub_date%3D1500...1700%20;sort:Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No;lc:RUMSEY~8~1&mi=190&trs=10031'>Pirî Reis, 1554</a>" : piriReis1554,
 				"Descriptions" : cluster_places,
-				"Images" : images
-
+				"Images" : imagesMap
 				};
-				L.control.layers(baseLayers, overlayMaps).addTo(map);
+			var controlBox = L.control.layers(baseLayers, overlayMaps).addTo(map);
 
 				L.control.pan().addTo(map);
 				L.control.scale().addTo(map);
@@ -118,7 +117,7 @@ function popUp(f,l) {
 
 var yearSlider = document.getElementById('slider-year');
 noUiSlider.create(yearSlider, {
-    start: [1500, 1800],
+    start: [1500, 1900],
     connect: true,
 		step:5,
 		pips: {
@@ -129,7 +128,7 @@ noUiSlider.create(yearSlider, {
     },
     range: {
         'min': 1500,
-        'max': 1800
+        'max': 1900
     },
 		format: wNumb({
         decimals: 0})
@@ -139,7 +138,7 @@ var yearValues = [
 	document.getElementById('event-end')
 ];
 yearValues[0].innerHTML=1500;
-yearValues[1].innerHTML=1800;
+yearValues[1].innerHTML=1900;
 
 yearSlider.noUiSlider.on('change', function (values, handle) {
 	yearValues[handle].innerHTML = values[handle];
@@ -148,6 +147,8 @@ yearSlider.noUiSlider.on('change', function (values, handle) {
 	console.log(rangeMin);
 	console.log(rangeMax);
 	cluster_places.clearLayers();
+	map.removeLayer(imagesMap);
+	controlBox.removeLayer(imagesMap);
 	places = new L.geoJson(data,{
 		onEachFeature: popUp,
 		filter:
@@ -155,5 +156,21 @@ yearSlider.noUiSlider.on('change', function (values, handle) {
 				return (feature.properties.YearOfTravel <= rangeMax) && (feature.properties.YearOfTravel >= rangeMin);
 			}
 	});
+
+	imagesMap = new L.geoJson(images, {
+		pointToLayer: function (feature, latlng) {
+	        return L.circleMarker(latlng, geojsonMarkerOptions);
+	    },
+		onEachFeature: popUpImages,
+		filter:
+			function (feature,layer) {
+				return (feature.properties.Year <= rangeMax) && (feature.properties.Year >= rangeMin);
+		}
+	}).addTo(map);
+
+
+
 	cluster_places.addLayer(places);
+	controlBox.addOverlay(imagesMap , "Images");
+
 });
