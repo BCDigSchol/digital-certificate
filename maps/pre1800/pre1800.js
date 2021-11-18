@@ -27,6 +27,20 @@ var places = L.geoJson(data, {
 }
 );
 
+var images =L.geoJson(images, {
+	onEachFeature: popUpImages
+}
+).addTo(map);
+
+function popUpImages(f,l) {
+	var photoImg = '<img src="'+f.properties.ImageURL+'" width="300px" />';
+	var out = [];
+	if (f.properties) {
+		out.push(f.properties.PlaceName + '<br>');
+		out.push(photoImg);
+		l.bindPopup(out.join("<br />"));
+	}};
+
 function popUp(f,l) {
 	var out = [];
 
