@@ -176,7 +176,7 @@ yearSlider.noUiSlider.on('change', function (values, handle) {
 });
 
 const legend = L.control.Legend({
-				position: "bottomleft",
+				position: "bottomright",
 				collapsed: false,
 				symbolWidth: 24,
 				opacity: 1,
