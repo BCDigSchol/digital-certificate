@@ -133,7 +133,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 39.025877,41.010318 ]
+       "coordinates":  [ 29.025877,41.010318 ]
     },
     "properties": {
     "PlaceName":"Calcedonia ",
@@ -149,7 +149,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 36.83333,39.7 ]
+       "coordinates":  [ 26.255,40.098 ]
     },
     "properties": {
     "PlaceName":"Cape Janizary, promontory of Sigaeum, about a league past the burial place of Hecuba",
@@ -773,7 +773,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 14.3559,7.9467 ]
+       "coordinates":  [ -14.3559,-7.9467 ]
     },
     "properties": {
     "PlaceName":"Ilande of Ascention.",
@@ -789,7 +789,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 25.6756,37.7412 ]
+       "coordinates":  [ -25.6756,37.7412 ]
     },
     "properties": {
     "PlaceName":"Ilandes of Astures",
@@ -813,7 +813,7 @@
     "NameOfTraveler":"Olaudah Equiano",
     "YearOfTravel":1756,
     "Description":"In our buildings we study convenience rather than ornament. Each master of a family has a large square piece of ground, surrounded with a moat or fence, or enclosed with a wall made of red earth tempered; which, when dry, is as hard as brick. Within this are his houses to accommodate his family and slaves; which, if numerous, frequently present the appearance of a village. In the middle stands the principal building, appropriated to the sole use of the master, and consisting of two apartments; in one of which he sits in the day with his family, the other is left apart for the reception of his friends. ",
-    "Citation":"Equiano, Olaudah. The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African. London, 1789, Ch. I.",
+    "Citation":"Olaudah Equiano, The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African (London, 1789), Ch. I.",
     "Hyperlink":"https://www.gutenberg.org/files/15399/15399-h/15399-h.htm"
     }
   },
@@ -829,7 +829,7 @@
     "NameOfTraveler":"Olaudah Equiano",
     "YearOfTravel":1756,
     "Description":"At last we came in sight of the island of Barbadoes, at which the whites on board gave a great shout, and made many signs of joy to us. We did not know what to think of this; but as the vessel drew nearer we plainly saw the harbour, and other ships of different kinds and sizes; and we soon anchored amongst them off Bridge Town... We were conducted immediately to the merchant's yard, where we were all pent up together like so many sheep in a fold, without regard to sex or age. As every object was new to me every thing I saw filled me with surprise. What struck me first was that the houses were built with stories, and in every other respect different from those in Africa: but I was still more astonished on seeing people on horseback. ",
-    "Citation":"Equiano, Olaudah. The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African. London, 1789, Ch. II.",
+    "Citation":"Olaudah Equiano, The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African (London, 1789), Ch. II.",
     "Hyperlink":"https://www.gutenberg.org/files/15399/15399-h/15399-h.htm"
     }
   },
@@ -845,7 +845,7 @@
     "NameOfTraveler":"Olaudah Equiano",
     "YearOfTravel":1757,
     "Description":"It was about the beginning of the spring 1757 when I arrived in England, and I was near twelve years of age at that time. I was very much struck with the buildings and the pavement of the streets in Falmouth; and, indeed, any object I saw filled me with new surprise. One morning, when I got upon deck, I saw it covered all over with the snow that fell over-night: as I had never seen any thing of the kind before, I thought it was salt; so I immediately ran down to the mate and desired him, as well as I could, to come and see how somebody in the night had thrown salt all over the deck.",
-    "Citation":"Equiano, Olaudah. The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African. London, 1789, Ch. III.",
+    "Citation":"Olaudah Equiano, The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African (London, 1789), Ch. III.",
     "Hyperlink":"https://www.gutenberg.org/files/15399/15399-h/15399-h.htm"
     }
   },
@@ -861,7 +861,7 @@
     "NameOfTraveler":"Olaudah Equiano",
     "YearOfTravel":1758,
     "Description":"We then steered for America; but, by contrary winds, we were driven to Teneriffe, where I was struck with its noted peak. Its prodigious height, and its form, resembling a sugar-loaf, filled me with wonder.",
-    "Citation":"Equiano, Olaudah. The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African. London, 1789, Ch. III.",
+    "Citation":"Olaudah Equiano, The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African (London, 1789), Ch. III.",
     "Hyperlink":"https://www.gutenberg.org/files/15399/15399-h/15399-h.htm"
     }
   },
@@ -877,7 +877,7 @@
     "NameOfTraveler":"Olaudah Equiano",
     "YearOfTravel":1758,
     "Description":"We remained in sight of this island some days, and then proceeded for America, which we soon made, and got into a very commodious harbour called St. George, in Halifax, where we had fish in great plenty, and all other fresh provisions.",
-    "Citation":"Equiano, Olaudah. The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African. London, 1789, Ch. III.",
+    "Citation":"Olaudah Equiano, The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African (London, 1789), Ch. III.",
     "Hyperlink":"https://www.gutenberg.org/files/15399/15399-h/15399-h.htm"
     }
   },
@@ -893,7 +893,7 @@
     "NameOfTraveler":"Olaudah Equiano",
     "YearOfTravel":1758,
     "Description":"Our land forces laid siege to the town of Louisbourgh, while the French men of war were blocked up in the harbour by the fleet, the batteries at the same time playing upon them from the land. This they did with such effect, that one day I saw some of the ships set on fire by the shells from the batteries, and I believe two or three of them were quite burnt... At last Louisbourgh was taken, and the English men of war came into the harbour before it, to my very great joy; for I had now more liberty of indulging myself, and I went often on shore. When the ships were in the harbour we had the most beautiful procession on the water I ever saw. All the admirals and captains of the men of war, full dressed, and in their barges, well ornamented with pendants, came alongside of the Namur. The vice-admiral then went on shore in his barge, followed by the other officers in order of seniority, to take possession, as I suppose, of the town and fort. Some time after this the French governor and his lady, and other persons of note, came on board our ship to dine. On this occasion our ships were dressed with colours of all kinds, from the topgallant-mast head to the deck; and this, with the firing of guns, formed a most grand and magnificent spectacle.",
-    "Citation":"Equiano, Olaudah. The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African. London, 1789, Ch. III.",
+    "Citation":"Olaudah Equiano, The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African (London, 1789), Ch. III.",
     "Hyperlink":"https://www.gutenberg.org/files/15399/15399-h/15399-h.htm"
     }
   },
@@ -909,7 +909,7 @@
     "NameOfTraveler":"Olaudah Equiano",
     "YearOfTravel":1759,
     "Description":"We only waited for the arrival of the admiral, who soon came on board; and about the beginning of the spring 1759, having weighed anchor, and got under way, Sailed for the Mediterranean; and in eleven days, from the Land's End, we got to Gibraltar. While we were here I used to be often on shore, and got various fruits in great plenty, and very cheap.",
-    "Citation":"Equiano, Olaudah. The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African. London, 1789, Ch. IV.",
+    "Citation":"Olaudah Equiano, The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African (London, 1789), Ch. IV.",
     "Hyperlink":"https://www.gutenberg.org/files/15399/15399-h/15399-h.htm"
     }
   },
@@ -925,7 +925,7 @@
     "NameOfTraveler":"Olaudah Equiano",
     "YearOfTravel":1759,
     "Description":"After we had cruised here for a short time, we came to Barcelona, a Spanish sea-port, remarkable for its silk manufactures. Here the ships were all to be watered; and my master, who spoke different languages, and used often to interpret for the admiral, superintended the watering of ours. For that purpose he and the officers of the other ships, who were on the same service, had tents pitched in the bay; and the Spanish soldiers were stationed along the shore, I suppose to see that no depredations were committed by our men.",
-    "Citation":"Equiano, Olaudah. The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African. London, 1789, Ch. IV.",
+    "Citation":"Olaudah Equiano, The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African (London, 1789), Ch. IV.",
     "Hyperlink":"https://www.gutenberg.org/files/15399/15399-h/15399-h.htm"
     }
   },
@@ -941,7 +941,7 @@
     "NameOfTraveler":"Olaudah Equiano",
     "YearOfTravel":1759,
     "Description":"When we arrived at Spithead the Ætna went into Portsmouth harbour to refit, which being done, we returned to Spithead and joined a large fleet that was thought to be intended against the Havannah; but about that time the king died: whether that prevented the expedition I know not; but it caused our ship to be stationed at Cowes, in the isle of Wight, till the beginning of the year sixty-one. Here I spent my time very pleasantly; I was much on shore all about this delightful island, and found the inhabitants very civil.",
-    "Citation":"Equiano, Olaudah. The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African. London, 1789, Ch. IV.",
+    "Citation":"Olaudah Equiano, The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African (London, 1789), Ch. IV.",
     "Hyperlink":"https://www.gutenberg.org/files/15399/15399-h/15399-h.htm"
     }
   },
@@ -957,7 +957,7 @@
     "NameOfTraveler":"Olaudah Equiano",
     "YearOfTravel":1763,
     "Description":"In the variety of departments in which I was employed by my master, I had an opportunity of seeing many curious scenes in different islands; but, above all, I was struck with a celebrated curiosity called Brimstone-Hill, which is a high and steep mountain, some few miles from the town of Plymouth in Montserrat. I had often heard of some wonders that were to be seen on this hill, and I went once with some white and black people to visit it. When we arrived at the top, I saw under different cliffs great flakes of brimstone, occasioned by the steams of various little ponds, which were then boiling naturally in the earth. Some of these ponds were as white as milk, some quite blue, and many others of different colours. I had taken some potatoes with me, and I put them into different ponds, and in a few minutes they were well boiled. I tasted some of them, but they were very sulphurous; and the silver shoe buckles, and all the other things of that metal we had among us, were, in a little time, turned as black as lead.",
-    "Citation":"Equiano, Olaudah. The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African. London, 1789, Ch. VI.",
+    "Citation":"Olaudah Equiano, The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African (London, 1789), Ch. VI.",
     "Hyperlink":"https://www.gutenberg.org/files/15399/15399-h/15399-h.htm"
     }
   },
@@ -973,7 +973,7 @@
     "NameOfTraveler":"Olaudah Equiano",
     "YearOfTravel":1766,
     "Description":"While I was on this island I went about a good deal, and found it very pleasant: in particular I admired the town of St. Pierre, which is the principal one in the island, and built more like an European town than any I had seen in the West Indies. ",
-    "Citation":"Equiano, Olaudah. The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African. London, 1789, Ch. IX.",
+    "Citation":"Olaudah Equiano, The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African (London, 1789), Ch. IX.",
     "Hyperlink":"https://www.gutenberg.org/files/15399/15399-h/15399-h.htm"
     }
   },
@@ -989,7 +989,7 @@
     "NameOfTraveler":"Olaudah Equiano",
     "YearOfTravel":1768,
     "Description":"When we left Italy we had delightful sailing among the Archipelago islands, and from thence to Smyrna in Turkey. This is a very ancient city; the houses are built of stone, and most of them have graves adjoining to them; so that they sometimes present the appearance of church-yards. Provisions are very plentiful in this city, and good wine less than a penny a pint. The grapes, pomegranates, and many other fruits, were also the richest and largest I ever tasted. The natives are well looking and strong made, and treated me always with great civility.",
-    "Citation":"Equiano, Olaudah. The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African. London, 1789, Ch. IX.",
+    "Citation":"Olaudah Equiano, The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African (London, 1789), Ch. IX.",
     "Hyperlink":"https://www.gutenberg.org/files/15399/15399-h/15399-h.htm"
     }
   },
@@ -1005,7 +1005,7 @@
     "NameOfTraveler":"Olaudah Equiano",
     "YearOfTravel":1769,
     "Description":"I saw here many very magnificent sights, particularly the garden of Eden, where many of the clergy and laity went in procession in their several orders with the host, and sung Te Deum. I had a great curiosity to go into some of their churches, but could not gain admittance without using the necessary sprinkling of holy water at my entrance. From curiosity, and a wish to be holy, I therefore complied with this ceremony, but its virtues were lost on me, for I found myself nothing the better for it. This place abounds with plenty of all kinds of provisions. The town is well built and pretty, and commands a fine prospect.",
-    "Citation":"Equiano, Olaudah. The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African. London, 1789, Ch. IX.",
+    "Citation":"Olaudah Equiano, The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African (London, 1789), Ch. IX.",
     "Hyperlink":"https://www.gutenberg.org/files/15399/15399-h/15399-h.htm"
     }
   },
@@ -1021,7 +1021,7 @@
     "NameOfTraveler":"Olaudah Equiano",
     "YearOfTravel":1769,
     "Description":"This is one of the finest cities I ever saw; some of the edifices were of beautiful marble, and made a most noble appearance; and many had very curious fountains before them. The churches were rich and magnificent, and curiously adorned both in the inside and out. But all this grandeur was in my eyes disgraced by the galley slaves, whose condition both there and in other parts of Italy is truly piteous and wretched. ",
-    "Citation":"Equiano, Olaudah. The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African. London, 1789, Ch. IX.",
+    "Citation":"Olaudah Equiano, The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African (London, 1789), Ch. IX.",
     "Hyperlink":"https://www.gutenberg.org/files/15399/15399-h/15399-h.htm"
     }
   },
@@ -1037,7 +1037,7 @@
     "NameOfTraveler":"Olaudah Equiano",
     "YearOfTravel":1769,
     "Description":"After we had stayed there some weeks, during which we bought many different things which we wanted, and got them very cheap, we sailed to Naples, a charming city, and remarkably clean. The bay is the most beautiful I ever saw; the moles for shipping are excellent. I thought it extraordinary to see grand operas acted here on Sunday nights, and even attended by their majesties. I too, like these great ones, went to those sights, and vainly served God in the day while I thus served mammon effectually at night. While we remained here there happened an eruption of mount Vesuvius, of which I had a perfect view. It was extremely awful; and we were so near that the ashes from it used to be thick on our deck.",
-    "Citation":"Equiano, Olaudah. The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African. London, 1789, Ch. IX.",
+    "Citation":"Olaudah Equiano, The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African (London, 1789), Ch. IX.",
     "Hyperlink":"https://www.gutenberg.org/files/15399/15399-h/15399-h.htm"
     }
   },
@@ -1053,7 +1053,7 @@
     "NameOfTraveler":"Olaudah Equiano",
     "YearOfTravel":1772,
     "Description":"I found Jamaica to be a very fine large island, well peopled, and the most considerable of the West India islands. There was a vast number of negroes here, whom I found as usual exceedingly imposed upon by the white people, and the slaves punished as in the other islands.",
-    "Citation":"Equiano, Olaudah. The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African. London, 1789, Ch. IX.",
+    "Citation":"Olaudah Equiano, The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African (London, 1789), Ch. IX.",
     "Hyperlink":"https://www.gutenberg.org/files/15399/15399-h/15399-h.htm"
     }
   },
@@ -1069,7 +1069,7 @@
     "NameOfTraveler":"Olaudah Equiano",
     "YearOfTravel":1775,
     "Description":" When we had dispatched our business at Cadiz, we went to Gibraltar, and from thence to Malaga, a very pleasant and rich city, where there is one of the finest cathedrals I had ever seen. It had been above fifty years in building, as I heard, though it was not then quite finished; great part of the inside, however, was completed and highly decorated with the richest marble columns and many superb paintings; it was lighted occasionally by an amazing number of wax tapers of different sizes, some of which were as thick as a man's thigh; these, however, were only used on some of their grand festivals.",
-    "Citation":"Equiano, Olaudah. The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African. London, 1789, Ch. IX.",
+    "Citation":"Olaudah Equiano, The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African (London, 1789), Ch. IX.",
     "Hyperlink":"https://www.gutenberg.org/files/15399/15399-h/15399-h.htm"
     }
   },
@@ -1085,7 +1085,7 @@
     "NameOfTraveler":"Janet Schaw",
     "YearOfTravel":1774,
     "Description":"I left you yesterday to view the Scotch Islands, which I accordingly did. We were almost opposite to Shetland, when we came on deck, but it afforded nothing to please my eye, or atone for the cold, that I suffered in looking at its barren heaths, frozen mountains and wild tracts of frightful rocks...",
-    "Citation":"Schaw, Janet. Journal of a Lady of Quality: Being the Narrative of a Journey from Scotland to the West Indies, North Carolina, and Portugal, in the Years 1774 to 1776. Yale Historical Publications. Manuscripts and Edited Texts ; VI. New Haven: Yale University Press, 1921, pg. 32-33.",
+    "Citation":"Janet Schaw, Journal of a Lady of Quality; Being the Narrative of a Journey from Scotland to the West Indies,  North Carolina, and Portugal, in the Years 1774 to 1776, ed. Evangeline Walker Andrews and Charles McLean Andrews (New Haven, CT: Yale University Press, 1921), 32-33.",
     "Hyperlink":"https://archive.org/details/journalofladyofq00schaiala"
     }
   },
@@ -1101,7 +1101,7 @@
     "NameOfTraveler":"Janet Schaw",
     "YearOfTravel":1774,
     "Description":"The Fair Isle, which we passed yesterday, is the last land which belongs to Scotland, and has indeed as little beauty as I expected. The side that lay next us, is one continued chain of perpendicular rugged Rocks, and in many places the upper parts hang over, so that a ship that was to be driven against them, would have very little chance of Salvation. I observed almost in the centre of the Island however, a very safe Bason, which would admit tolerable large Vessels, and very convenient for boats to land from, and I should think it a snug place to carry on a contraband trade... Within our view was one very well-looking house, which, we were told, belongs to the proprietor of the Island ; and at a little distance, a town composed of hutts with a church. I observed several stack-yards, but neither a tree nor a shrub. ",
-    "Citation":"Schaw, Janet. Journal of a Lady of Quality: Being the Narrative of a Journey from Scotland to the West Indies, North Carolina, and Portugal, in the Years 1774 to 1776. Yale Historical Publications. Manuscripts and Edited Texts ; VI. New Haven: Yale University Press, 1921, pg. 38-39.",
+    "Citation":"Janet Schaw, Journal of a Lady of Quality; Being the Narrative of a Journey from Scotland to the West Indies,  North Carolina, and Portugal, in the Years 1774 to 1776, ed. Evangeline Walker Andrews and Charles McLean Andrews (New Haven, CT: Yale University Press, 1921), 38-39.",
     "Hyperlink":"https://archive.org/details/journalofladyofq00schaiala"
     }
   },
@@ -1117,7 +1117,7 @@
     "NameOfTraveler":"Janet Schaw",
     "YearOfTravel":1774,
     "Description":"We now saw the Island most distinctly, and must own that it deserves its name, for never did my eyes behold so beautiful a spot. It does not seem in length above five or at most six Miles ; its breadth I could not see. In the centre is a large extensive plane, surrounded with hills in form of an Amphitheatre; the ground rises by an easy ascent all the way from the shore, and in the bosom of the hills stands a very noble house, round which is a great deal of fine laid out policy. It fronts the shore, and is entirely open to the Sea, and tho' the Island is evidently under the power of winter, the beauty of the Verdure is inconceivable ; and when the Vines, which are now leafless and cut down, are in foliage and fruit, it is certainly a garden that, had our first parents been sent to repent in, they would soon have forgot their native Eden. The hills behind the plane were covered with pasture or Vineyard, and we observed forts on two of them, but no other house of any note, tho' some hamlets were scattered here and there, and \nwhat we took to be Orange groves by the figure of the tree. ",
-    "Citation":"Schaw, Janet. Journal of a Lady of Quality: Being the Narrative of a Journey from Scotland to the West Indies, North Carolina, and Portugal, in the Years 1774 to 1776. Yale Historical Publications. Manuscripts and Edited Texts ; VI. New Haven: Yale University Press, 1921, pg. 61-62.",
+    "Citation":"Janet Schaw, Journal of a Lady of Quality; Being the Narrative of a Journey from Scotland to the West Indies,  North Carolina, and Portugal, in the Years 1774 to 1776, ed. Evangeline Walker Andrews and Charles McLean Andrews (New Haven, CT: Yale University Press, 1921), 61-62.",
     "Hyperlink":"https://archive.org/details/journalofladyofq00schaiala"
     }
   },
@@ -1133,7 +1133,7 @@
     "NameOfTraveler":"Janet Schaw",
     "YearOfTravel":1774,
     "Description":"The beauty of the Island rises every moment as we advance towards the bay; the first plantations we ob-served were very high and rocky, but as we came farther on, they appeared more improved, and when we got into the bay, which runs many miles up the Island, it is out of my power to paint the beauty and the Novelty of the scene. We had the Island on both sides of us, yet its beauties were different, the one was hills, dales and groves, and not a tree, plant or shrub I had ever seen before; the ground is vastly uneven, \nbut not very high ; the sugar canes cover the hills almost to the top, and bear a resemblance in colour at least to a rich field of green wheat ; the hills are skirted by the Palmetto or Cabbage tree, which even from this distance makes a noble appearance. The houses are generally placed in the Valleys between the hills, and all front to the sea. We saw many fine ones. There were also some fine walks along the Shore shaded by different trees, of which I am yet ignorant.",
-    "Citation":"Schaw, Janet. Journal of a Lady of Quality: Being the Narrative of a Journey from Scotland to the West Indies, North Carolina, and Portugal, in the Years 1774 to 1776. Yale Historical Publications. Manuscripts and Edited Texts ; VI. New Haven: Yale University Press, 1921, pg. 74.",
+    "Citation":"Janet Schaw, Journal of a Lady of Quality; Being the Narrative of a Journey from Scotland to the West Indies,  North Carolina, and Portugal, in the Years 1774 to 1776, ed. Evangeline Walker Andrews and Charles McLean Andrews (New Haven, CT: Yale University Press, 1921), 74.",
     "Hyperlink":"https://archive.org/details/journalofladyofq00schaiala"
     }
   },
@@ -1165,7 +1165,7 @@
     "NameOfTraveler":"Janet Schaw",
     "YearOfTravel":1775,
     "Description":"I have fancied to myself a West India Island as large as a world, I was vastly pleased to behold the noble buildings as we sailed along the coast, till I was informed by our pilot, that they were, in general, bastiles oh sound of horror and fear to a British ear. \nAt last we reached the bay, where we anchored within less than a mile of the Town of St Tubes.The scene altogether was very lively and animating, particularly when joined to the idea of being once more in Europe. The evening was fine, the sun gilding the horizon and giving additional beauty to the green hills. The sky was placid and serene above fifty ships were lying at Anchor, and above a hundred boats en-gaged in the sardine fishing and chanting Vespers. The town was full in prospect and many windmills going above it, which I think a very cheerful object. The coast is extremely bold and the hills and high grounds, covered with wheat or pasture, looked so fresh that they perfectly cheered the senses. ",
-    "Citation":"Schaw, Janet. Journal of a Lady of Quality: Being the Narrative of a Journey from Scotland to the West Indies, North Carolina, and Portugal, in the Years 1774 to 1776. Yale Historical Publications. Manuscripts and Edited Texts ; VI. New Haven: Yale University Press, 1921, pg. 219-220.",
+    "Citation":"Janet Schaw, Journal of a Lady of Quality; Being the Narrative of a Journey from Scotland to the West Indies,  North Carolina, and Portugal, in the Years 1774 to 1776, ed. Evangeline Walker Andrews and Charles McLean Andrews (New Haven, CT: Yale University Press, 1921), 219-220.",
     "Hyperlink":"https://archive.org/details/journalofladyofq00schaiala"
     }
   },
@@ -1181,8 +1181,600 @@
     "NameOfTraveler":"Janet Schaw",
     "YearOfTravel":1775,
     "Description":"As we advanced nearer the summit, we left behind St Tubes, the sea, the shipping, the large salt-works, the fine ruins, and a country beautifully green with corn and rich pasture-ground. Before us we had the river, Tagus, with the \ntown of Lisbon and all the adjacent country on the opposite shore. On our left hand we had a scene nobly wild and beau-tifully romantick. The mountains presented us with rocks and woods, thro' which flowed many a rapid stream, which fell down in noisy cascades thro' the valleys below. But tho' these valleys boasted their cultivation and invited us to admire vine-yards, orange-groves and olive orchards, yet that where Nature alone held dominion entirely engaged our attention, and we traced the wildness of the mountains, as far as our eyes could penetrate thro' the trees or over the rocks.",
-    "Citation":"Schaw, Janet. Journal of a Lady of Quality: Being the Narrative of a Journey from Scotland to the West Indies, North Carolina, and Portugal, in the Years 1774 to 1776. Yale Historical Publications. Manuscripts and Edited Texts ; VI. New Haven: Yale University Press, 1921, pg. 232-233.",
+    "Citation":"Janet Schaw, Journal of a Lady of Quality; Being the Narrative of a Journey from Scotland to the West Indies,  North Carolina, and Portugal, in the Years 1774 to 1776, ed. Evangeline Walker Andrews and Charles McLean Andrews (New Haven, CT: Yale University Press, 1921), 232-233.",
     "Hyperlink":"https://archive.org/details/journalofladyofq00schaiala"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.96357,34.1869 ]
+    },
+    "properties": {
+    "PlaceName":"Cape Fear River, North Carolina",
+    "PlaceNameModern":"Cape Fear River, North Carolina",
+    "NameOfTraveler":"Alexander Schaw",
+    "YearOfTravel":1775,
+    "Description":"IN the province of North Carolina there are several rivers, which run a considerable way into the country. Upon the south is Cape Fear river, which is navigable for ships of large burden as far as a shoal which they call the Flats, about seven miles above Brunswick town, which is situated twelve miles within the bar. In consequence of this impediment, vessels which have a draught of above nine and a half feet of water cannot go up to Wilmington, which is the next port above and the most considerable town on the river, even at spring tides, till they are lightened to that draught. Above, or rather at Wil- mington, the Northeast and Northwest branches of the river join. The Northwest is the least considerable, and upon the whole extent there is no town, tho' its banks are very well settled. The first town is Cross Creek, about 100 miles above Wilmington. Here the whole trade with the back settlers is carried on for a great way round.\n",
+    "Citation":"Janet Schaw, Journal of a Lady of Quality; Being the Narrative of a Journey from Scotland to the West Indies,  North Carolina, and Portugal, in the Years 1774 to 1776, ed. Evangeline Walker Andrews and Charles McLean Andrews (New Haven, CT: Yale University Press, 1921), 279.",
+    "Hyperlink":"https://archive.org/details/journalofladyofq00schaiala"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.96357,34.1869 ]
+    },
+    "properties": {
+    "PlaceName":"Cape Fear River, North Carolina",
+    "PlaceNameModern":"Cape Fear River, North Carolina",
+    "NameOfTraveler":"Alexander Schaw",
+    "YearOfTravel":1775,
+    "Description":"From Fort Johnston at the mouth of the river to Brunswick is twelve miles. From Brunswick to Wilmington there are two roads: one goes up the right side of the river upon which Brunswick stands and crosses two ferries opposite to Wilmington, occasioned by the river being there divided by a large swampy island, through which there is a very bad road of a mile and a half. The length of this road is reckoned sixteen miles. To go by the other road, one must cross a ferry at Brunswick of a mile over, from whence to Wilming-ton it is about ten miles. Every part of these roads is more or less sandy. Some of them for miles together is very deep, as the surface often is a pure white sand, without a particle of soil to bind it together. This is the case with almost every part of the province near the sea.",
+    "Citation":"Janet Schaw, Journal of a Lady of Quality; Being the Narrative of a Journey from Scotland to the West Indies,  North Carolina, and Portugal, in the Years 1774 to 1776, ed. Evangeline Walker Andrews and Charles McLean Andrews (New Haven, CT: Yale University Press, 1921), 232-233.",
+    "Hyperlink":"https://archive.org/details/journalofladyofq00schaiala"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.96357,34.1869 ]
+    },
+    "properties": {
+    "PlaceName":"Cape Fear River, North Carolina",
+    "PlaceNameModern":"Cape Fear River, North Carolina",
+    "NameOfTraveler":"Alexander Schaw",
+    "YearOfTravel":1775,
+    "Description":"Over all these creeks are wooden bridges. Wherever the land is dry, there is little or no brush. The woods in general are in the style of open groves in England, except in such places as have once been cleared and afterwards abandoned. These are always covered with brush. The roads upon the Northwest branch of the river grow more solid every mile above Wilmington, and long before they reach Cross Creek are very hard. The only making they bestow upon the roads in the flat part of the country is cutting out the trees to the necessary breadth, in as even a line as they can, and where the ground is wet, they make a small ditch on either side. The roads through swamp land are made by first laying logs in the direction of the road and covering them cross ways with small pine trees, layd regularly together over sod, with which the logs are previously covered. ",
+    "Citation":"Janet Schaw, Journal of a Lady of Quality; Being the Narrative of a Journey from Scotland to the West Indies,  North Carolina, and Portugal, in the Years 1774 to 1776, ed. Evangeline Walker Andrews and Charles McLean Andrews (New Haven, CT: Yale University Press, 1921), 279-280.",
+    "Hyperlink":"https://archive.org/details/journalofladyofq00schaiala"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.94618,34.03979 ]
+    },
+    "properties": {
+    "PlaceName":"Brunswick, North Carolina",
+    "PlaceNameModern":"Brunswick Town/Fort Anderson State Historic Site",
+    "NameOfTraveler":"Alexander Schaw",
+    "YearOfTravel":1775,
+    "Description":"The town of Brunswick, which is indeed but a straggling village, is twelve miles within the bar. At low water there is ten feet of water upon the bar; at spring tides there is from 19 to 20 feet, so that in fine weather ships of deeper draught can easily go in. The water, both below and above the flats is deep enough for any vessel. Vessels can run from the bar to Brunswick in three or four hours with the tide, with almost any wind.",
+    "Citation":"Janet Schaw, Journal of a Lady of Quality; Being the Narrative of a Journey from Scotland to the West Indies,  North Carolina, and Portugal, in the Years 1774 to 1776, ed. Evangeline Walker Andrews and Charles McLean Andrews (New Haven, CT: Yale University Press, 1921), 281.",
+    "Hyperlink":"https://archive.org/details/journalofladyofq00schaiala"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.94618,34.03979 ]
+    },
+    "properties": {
+    "PlaceName":"Brunswick, North Carolina",
+    "PlaceNameModern":"Brunswick Town/Fort Anderson State Historic Site",
+    "NameOfTraveler":"Alexander Schaw",
+    "YearOfTravel":1775,
+    "Description":"There is good anchorage within half a musket shot of the town. The bank is pretty high for this country and the woods are cut down a good way round the town. This is the only town on the west side of the river. Brunswick county is thinly settled, consequently cattle and horses are few.",
+    "Citation":"Janet Schaw, Journal of a Lady of Quality; Being the Narrative of a Journey from Scotland to the West Indies,  North Carolina, and Portugal, in the Years 1774 to 1776, ed. Evangeline Walker Andrews and Charles McLean Andrews (New Haven, CT: Yale University Press, 1921), 282.",
+    "Hyperlink":"https://archive.org/details/journalofladyofq00schaiala"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123.4315,41.8057 ]
+    },
+    "properties": {
+    "PlaceName":"Shin yang, or Mugden, China",
+    "PlaceNameModern":"Shenyang, China",
+    "NameOfTraveler":"Jean-Baptiste Du Halde, ed.",
+    "YearOfTravel":null,
+    "Description":"The first is that of Shin yang , called by the Manchews, Mugden ; it contains all the ancient Lyau tong , and is bounded on the South by the Great Wall, which begins Eastward of Pe-king, by a great Bulwark built in the Ocean; on the East, Northland Welt, it is inclosed only by a wooden Palisade, seven or eight Foot high, and more fit to mark its Bounds, and keep out petty Rob-bers, than to oppose an Army : The Gates are no better, and guarded only by a few Soldiers. The Chinese Geographers have given the Name of Wall to this Palisade , which has occasion’d the Province of Lyau tong to be erroneously placed in some of our Maps, within the Great Wall.",
+    "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 244.",
+    "Hyperlink":"https://archive.org/details/descriptionofemp00duha"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.4074,39.9042 ]
+    },
+    "properties": {
+    "PlaceName":"Pe-king, China",
+    "PlaceNameModern":"Beijing, China",
+    "NameOfTraveler":"Jean-Baptiste Du Halde, ed.",
+    "YearOfTravel":null,
+    "Description":"Not far from the Gates of this City are two magnificent Burying-Places of the first Princes of the reigning Family, who took the Title of Emperor from their beginning to reign in Lyau tong. One is of the Emperor’s Grandfather, and the other of his Great Grandfather: They are built according to the Chinese Architecture; but, what is singular, are inclosed by a thick Wall with Battlements, and are somewhat lower than that of the City: Several Manchew Mandarins of all Ranks are appointed to take care of them, and at set Times to perform certain Ceremonies, in which they observe the same Marks of Respect as if the Princes were still living.",
+    "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 244.",
+    "Hyperlink":"https://archive.org/details/descriptionofemp00duha"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.73027,40.89743 ]
+    },
+    "properties": {
+    "PlaceName":"Point of San cha ho",
+    "PlaceNameModern":"Border between China and North Korea",
+    "NameOfTraveler":"Jean-Baptiste Du Halde, ed.",
+    "YearOfTravel":null,
+    "Description":"Pursuant to this Rule, we shall say nothing of the Point of San cha ho , so much taken Notice of by Chinese Authors ; it is no more than a Concourse of three ordinary Rivers, which unite in this Place, and under that common Name discharge themselves into the Sea, but is far from being a Novelty. The Lands of this Province are in general very good, producing Plenty of Wheat, Millet, Roots, and Cotton; they also feed Numbers of Sheep and Oxen, which are rarely seen in any of the Provinces of China. They have little Rice, but plenty of Apples, Pears, Nuts, Filberds, and Chesnuts, even in their Forests. The Eastern Part, which borders on the ancient Country of the Manchews and the Kingdom of Korea , is full of Desarts and Boggs...",
+    "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 245.",
+    "Hyperlink":"https://archive.org/details/descriptionofemp00duha"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.57407,45.79099 ]
+    },
+    "properties": {
+    "PlaceName":"Cities around the River Songari",
+    "PlaceNameModern":"Near Harbin, China",
+    "NameOfTraveler":"Jean-Baptiste Du Halde, ed.",
+    "YearOfTravel":null,
+    "Description":"This Country is but thinly peopled, and has only three Cities, very ill built, and encompassed with Mud-Walls. The Chief of them is situated on the River Songari , there called Kirin ula , whence it takes it Name ; for Kirin ula botun signifies, the City of the River Kirin. Here resides the Manchew General, who has all the Privileges of a Viceroy, and commands all the Mandarins as well as the Troops.\nThe next much inferior, called Pedne or Petune , stands on the same River, 45 Leagues almost N. W. from Kirin ula hotun ; it is inhabited mostly by Tartarian Soldiers, under a Lieut. General, and by Exiles.\nThe other City, which the reigning Family considers as its ancient Patrimony, is situated on the Hurka pira , which runs North into the Songari ula: It is commonly call’d Ninguta , tho its proper Name be Ningunta ; for these two Tartarian Words, signifying seven Chiefs , are expressive of the Rife of their Kingdom, which was first established by the seven Brothers of the present Emperor’s Great Grandfather’s Father ; who, having found means to settle them with all their Families in this Place, soon made himfelf obey’d, thro’ Fear or Love, by the rest of his Nation, which was at that Time disperfed in the Desarts that extend to the Eastern Ocean, and divided into little Hamlets, each of one Family.",
+    "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 245.",
+    "Hyperlink":"https://archive.org/details/descriptionofemp00duha"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 129.87918,42.99121 ]
+    },
+    "properties": {
+    "PlaceName":"Along the Riven Tumen",
+    "PlaceNameModern":"Tumen River, Border between China and North Korea",
+    "NameOfTraveler":"Jean-Baptiste Du Halde, ed.",
+    "YearOfTravel":null,
+    "Description":"Extent of the Territories of these Quel ka Ta tse , whose Country is in other Respects agreeable enough, and, what is very uncommon among Tartars, well cultivated, whether it be owing to Necessity, on ac-count of their Distance from the Monchews, (the nearest of whom are 40 Leagues off, and the Road very bad) or the Example of the Koreans , whose very Hills are cut into Stories, and cultivated to the Top.\nIt was a new Sight to us, after we had crossed fo many Forests, and coasted so many frightful Moun-tains, to find ourselves on the Banks of the River Tu men ula, with nothing but Woods and wild Beast on one Side, while the other presented to our view of all that Art and Labour could produce in the best cultivated Kingdoms. We there saw wall’d Cities, and placing our Instruments on the neighbouring Heights geometrically determined the Situation of four of them, which bounded Korea on the North.",
+    "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 246.",
+    "Hyperlink":"https://archive.org/details/descriptionofemp00duha"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 131.9405,43.8015 ]
+    },
+    "properties": {
+    "PlaceName":"Furdan Hotun",
+    "PlaceNameModern":"Ussuriysk, Russia",
+    "NameOfTraveler":"Jean-Baptiste Du Halde, ed.",
+    "YearOfTravel":null,
+    "Description":"The Koreans had built a strong Wall on the Bank opposite to the Tartars , almost like that on the North of China ; but the Part towards Hon chun was quite ruin’d when the Manchews ravaged Korea, which they made their first Conquest ; in Parts more remote it continues almost entire. Beyond the Tu men ula, in our Progress into the ancient Country of the Manchews, we came to a River called Suifond pira the Latitude of which we took at its Fall into the Eastern Ocean ; it is very famous among these Tartars tho’ it scarce deserves Notice. Here we saw the Ruins of a City called Fûrdan botun , accounted once perhaps a fine Place, being situated in an open Plain fit for Tillage: It has only a slight Mud Wall defended by a shallow Ditch. The other Rivers of this Country are much less considerable than Suifond pira, whence doubtless proceeds the Esteem which the ancient Manchews still retain for it.\n",
+    "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 246.",
+    "Hyperlink":"https://archive.org/details/descriptionofemp00duha"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123.9182,47.3543 ]
+    },
+    "properties": {
+    "PlaceName":"City of Tsitsikar",
+    "PlaceNameModern":"Quiqihar, China",
+    "NameOfTraveler":"Jean-Baptiste Du Halde, ed.",
+    "YearOfTravel":null,
+    "Description":"The City of Tsitsikar is inclosed with a strong Palisade, not very high, but lin’d with a pretty good Rampart. The Garrison consists chiefly of Tartars , but the Inhabitants are moftly Chinese, drawn thither by Traffic, or banished for Crimes. The Houses of both are without the wooden Wall, which incloses little besides the Courts of Justice, and Palace of the Tartar General ; they are built of Earth, ranged into pretty wide Streets, and inclosed with a Mud Wall.",
+    "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 248.",
+    "Hyperlink":"https://archive.org/details/descriptionofemp00duha"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.2212,49.1858 ]
+    },
+    "properties": {
+    "PlaceName":"Merghen City",
+    "PlaceNameModern":"Nenjiang, China",
+    "NameOfTraveler":"Jean-Baptiste Du Halde, ed.",
+    "YearOfTravel":null,
+    "Description":"Merghen is above 40 Leagues from Tsitsikar, much thinner of People, and inclosed with a single Wall. The Lands belonging to the last Cities are but indifferent, being a sandy Soil. But those of Saghalian ula hotun yield good Crops of Wheat, being a Plain extending along that fine River [Saghalian] and containing several Villages: The City itself, which stands on the South Side, is built like Tsitsikar, is equally populous, and richer in Commodities.\nAbout 13 Chinese Li higher, on the North Side, are the Ruins of an ancient City called Aykom, built by the first Emperors of the preceding Family, Tay Ming...",
+    "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 248.",
+    "Hyperlink":"https://archive.org/details/descriptionofemp00duha"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.81598,47.93871 ]
+    },
+    "properties": {
+    "PlaceName":"Puir Lake",
+    "PlaceNameModern":"Buir Lake, Mongolia",
+    "NameOfTraveler":"Jean-Baptiste Du Halde, ed.",
+    "YearOfTravel":null,
+    "Description":"But of all the Mongu Nations, depending on the Emperor, the most numerous and celebrated are the Kalkas, who possess above 200 Leagues of the Country from East to West, and the Banks of the finest Rivers in this Part of Tartary. The Kalka pira , whence they take their Name, is not much frequented by them: It flows from a famous Mountain, call’d Suelki, or Siolki, 84 Leagues from Parin, and 64 from Tstitsikar: They pretend it gives Rise to several other Rivers, but no way considerable. After passing thro' a Lake called it Puir, changes its Name to Urjon , and runs directly North into a larger, named Kûlon nor. ..The Kerlon, which is not deep, being almost every where fordable, of a sandy Bottom, good Water, and about 60 common Feet in Breadth, washes the richest Pastures in all Tartary. On the Northern Ruins of Banks are the Ruins of a large City, inserted in the Emperor’s Map, where we distinguish Cities of that kind by little uncolour’d Squares.",
+    "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 250.",
+    "Hyperlink":"https://archive.org/details/descriptionofemp00duha"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 68.25173,58.2 ]
+    },
+    "properties": {
+    "PlaceName":"Tobolskoy, Siberia",
+    "PlaceNameModern":"Tobolsk, Russia",
+    "NameOfTraveler":"Jean-Baptiste Du Halde, ed.",
+    "YearOfTravel":null,
+    "Description":"In travelling from hence to Tobolskoy (M), the Capital of Siberia and Northern Tartary, you meet fre-quent Villages, where are commodious Lodgings ; but in travelling from Selingha Southwards, till you come almost to the Great Wall, you are obliged to lodge and diet after the Tartarian Manner.\nThe Waters of the Twi pira are clear and healthful, like those of the Kerlon ; it also waters as fertile; Plains as those in the Neighbourhood of the Pula, and after a pretty long Course loses itself in the Ground near a little Lake, without rising or appearing any more.",
+    "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 251.",
+    "Hyperlink":"https://archive.org/details/descriptionofemp00duha"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 93.45101,42.95293 ]
+    },
+    "properties": {
+    "PlaceName":"Hami",
+    "PlaceNameModern":"Hami, Xinjiang, China",
+    "NameOfTraveler":"Jean-Baptiste Du Halde, ed.",
+    "YearOfTravel":null,
+    "Description":"The Country of Hami, called in our Maps the Kingdom of Hami , contains only one small City of the same Name ; but is full or Houses, and a few Villages, as described in the Map. It is 90 Leagues from the Gate of the Great Wall call’d Kya yu kew, and has Lands enough round it, yet extends no farther, because that whole Space is nothing but a dry Sand, and the most barren of all Tartary. The Chinese commonly call this Desart Sha mo, and fometimes Kan hay , i. e. a Sea of Sand , and the Tartars call it Kobi : It has neither Grass nor Water ; Travellers frequently lose their Horses in crossing it...",
+    "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 253.",
+    "Hyperlink":"https://archive.org/details/descriptionofemp00duha"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.2212,49.1858 ]
+    },
+    "properties": {
+    "PlaceName":"Merghen, or Merghin",
+    "PlaceNameModern":"Nenjiang City, China",
+    "NameOfTraveler":"Jean-François Gerbillon, S.J.",
+    "YearOfTravel":1688,
+    "Description":"These Tartars live in Huts on the Banks of Rivers, and subsist by Hunting and Fishing, especially the more Eastern Inhabitants, who are somewhat rude and barbarous. The Country is divided into Provinces the most Western is Solon, by the Ruffians call’d Dawra , which is rather the Name of a Nation than a Country. It begins at the Confluence of the Ergonê and Saghalian ula, along which latter it extends above 150 Leagues towards Ningûta. The Governor told me there were not above 10,000 Families in the Pro-vince. They are great Hunters, dextrous Archers, and pay their Tribute in Sable-skins, each Family two, three, or more a Year, according to the Number of able Persons.\nIn the whole Country there is but one Town, called Merghen, or Merghin, built and garrison'd by the Emperor ; every where else are nothing but Huts. The Ruffians indeed had a Fortress here, which they called Albazin, and the Tartars Takfa, from a little River on which it stood where it runs into the Saghalian ula. This Fortress occafion’d the War between the Emperor and the Ruffians, the Garrison disturbing the Chinese Sable-Hunters ; but at length the Fort was demolish’d, and the Country yielded to the Emperor by the Treaty of Nipchu.",
+    "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 256.",
+    "Hyperlink":"https://archive.org/details/descriptionofemp00duha"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.4074,29.6555 ]
+    },
+    "properties": {
+    "PlaceName":"Putala Mountain",
+    "PlaceNameModern":"Potala Palace, Tibet, China",
+    "NameOfTraveler":"Jean-François Gerbillon, S.J.",
+    "YearOfTravel":1688,
+    "Description":"Putala is the Mountain on which stands the Palace, or, if you will, the Pagod, where the Grand Lama resides. At the Bottom runs a pretty large River, called Kaltju mûren ; mûren, in the Mongol Language, signifying a River. At the Middle of the Mountain is the Pagod erected to seven Stories, in the highest of which the Lama lodges. By the Side are the Ruins of Tsanpa 's royal City, destroy’d by Kushi han King of the Eluths. The People dwell in small Towns and Villages, and live by Agriculture.",
+    "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 258.",
+    "Hyperlink":"https://archive.org/details/descriptionofemp00duha"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.85775,47.89488 ]
+    },
+    "properties": {
+    "PlaceName":"Kalkas",
+    "PlaceNameModern":"Eastern Mongolia",
+    "NameOfTraveler":"Jean-François Gerbillon, S.J.",
+    "YearOfTravel":1688,
+    "Description":"The second Sort of Mongols are the Kalkas, who lie contiguous to the Eluths on the East. Their Country, from East to West, extends from Mount Altay to the Province of Solon ; and, from North to South, from 50° and 51° to the Southern Extremity of the great Desart Sha mo, which is reckon’d to belong to them, they encamping there, during Winter, when they stand in less Need of Water, which is rarely to be met With, and is generally bad. This Desart bends about China and is larger and more frightful towards the West ... From East to the Mountains beyond the Great Wall it is about 100 Leagues, not comprehending the Mountains to the North of the Great Wall ; for tho they are in a manner uninhabited the Soil is good, there are fine Pastures, Woods, Sprint, and Rivulets of good Water in abundance. Nor do I take in the Country beyond the Kerlon, abounding with Water and Pasturage, tho thinly inhabited, especially the Western Part. The Desart is much larger from North to South, and above 100 Leagues over, in some Parts quite bare, without Trees, Grass, or Water except some Ponds and Marshes made by the Rains, and here and there a Well of Water bad enough.",
+    "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 259.",
+    "Hyperlink":"https://archive.org/details/descriptionofemp00duha"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 68.25173,58.2 ]
+    },
+    "properties": {
+    "PlaceName":"Tolbok, or Tobolsky, Siberia",
+    "PlaceNameModern":"Tobolsk, Russia",
+    "NameOfTraveler":"Ferdinand Verbiest",
+    "YearOfTravel":null,
+    "Description":"Tolbok, or, as the Ruffians call it, Tobolsky, is a large city, or great Trade, the Capital of Siberia, and main Staple of Furrs. The Lands adjacent abounf with all sorts of Grain, Herbs, and Fruits…It is about the Bigness of Orleans, situate on a high Mountain, at the Foot of which runs the great RIver Irtis, and the little River Tobolk, which names the Place, and here runs into the Irtis.",
+    "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 262.",
+    "Hyperlink":"https://archive.org/details/descriptionofemp00duha"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.48658,53 ]
+    },
+    "properties": {
+    "PlaceName":"",
+    "PlaceNameModern":"Lake Baikal, Russia",
+    "NameOfTraveler":"Ferdinand Verbiest",
+    "YearOfTravel":null,
+    "Description":"The Lake Paykal is near 100 Leagues in Length from Outhwest to Northwest, but scarce more than ten in Breadth, It is very deep, well stock'd with Fish, and almost surrounded with Hills: The Lands on the South of these Hills are of a good Soil, and cultivated in several places by the Ruffians, the People of the Country understanding no Tillage: Wheat and Oats grow very well there.",
+    "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 262.",
+    "Hyperlink":"https://archive.org/details/descriptionofemp00duha"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.12622,40.25288 ]
+    },
+    "properties": {
+    "PlaceName":"Nan kew ching",
+    "PlaceNameModern":"Nankoucun, Beijing, China",
+    "NameOfTraveler":"Jean-François Gerbillon, S.J.",
+    "YearOfTravel":1688,
+    "Description":"We began with passing the Fortress which shuts up the Entrance of the Mountains. The Walls of this Fortess are bult with Free-stone to the Height of four Feet, and afterwards with large Flints and Rock Stones up to the Battlements, which are of Brick : They are about 35 Foot high, and six or seven thick at the narrow Pass of the Mountains ; but where they stretch on both Sides upon the Rocks (which are so steep that the Goats can scarce climb them) they are neither high nor thick, and indeed are altogether useless there...",
+    "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 274.",
+    "Hyperlink":"https://archive.org/details/descriptionofemp00duha"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.00949,40.35817 ]
+    },
+    "properties": {
+    "PlaceName":"Near Nan kew ching",
+    "PlaceNameModern":"Beijing Badaling National Forest Park, China",
+    "NameOfTraveler":"Jean-François Gerbillon, S.J.",
+    "YearOfTravel":1688,
+    "Description":"Having march’d about 45 Li between these Mountains, we descended into a barren and sandy Plain, and encamp’d 30 Li from the Pasage out of the Hills, by a Rivulet in the midst of a Valley, which in that Place was about three or four Leagues wide. At the Foot of the Mountains, to the right and left, we saw several little Forts and Towers, some of Brick, others of Earth, about 7 or 800 geometrical Paces asunder, besides two or three larger ones, built probably to prevent the Tartars from penetrating to Pe-king, in case they should surprise the first inclosure of the Great Wall.",
+    "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 274.",
+    "Hyperlink":"https://archive.org/details/descriptionofemp00duha"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.87534,40.7665 ]
+    },
+    "properties": {
+    "PlaceName":"Swen wha fu",
+    "PlaceNameModern":"Zhangjiakou, China",
+    "NameOfTraveler":"Jean-François Gerbillon, S.J.",
+    "YearOfTravel":1688,
+    "Description":"At the End of this Plain stands the City of Swen wha fu, which is pretty large and very populous ; it is not far from the Yang ho, and hath a double Suburb, inclos’d by Brick Walls, strengthened with Towers pretty near each other ; we crossed one Street as large as most of the great Streets of Pe-king, running the whole Length of the City and full of wooden Triumphal Arches, not above ifor 20 Paces asunder ; there are three Gates at each End of the City, with Places of Arms between. The Walls are more than 30 foot high, and the Folding-doors of the Gates are cover’d with thin Plates of Iron, strengthened by Nails with Heads as big as Eggs. The North Suburb hath one very long and wide Street, with Trees planted in Rows on both sides, which have a very agreeable Effect. The whole Country round is tilled, and the Soil good.",
+    "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 275.",
+    "Hyperlink":"https://archive.org/details/descriptionofemp00duha"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.50957,40.92478 ]
+    },
+    "properties": {
+    "PlaceName":"River Imatu",
+    "PlaceNameModern":"Likely Dahei River",
+    "NameOfTraveler":"Jean-François Gerbillon, S.J.",
+    "YearOfTravel":1688,
+    "Description":"The Rivulet upon which we had encamped runs also along this Road, and winds continually in the Valleys between these Mountains, at least I suppose it the same, but am not certain. We crossed it more than ten or twelve times, for it cuts the great Road, and encamped again on its Banks : It is called Imatu. The Mountains between which we passed, great part whereof are steep Rocks, were pretty full of Shrubs : We found some also in the Valleys, but none of any tolerable Bigness, neither did we see any tilled Land, tho’ there were many small Meadows on the Bank-side, abounding with excellent Pasture. The Air was very mild all the Morning ; but as soon as we enter’d among the last Mountains, we found a pretty strong North-west Wind, and towards Noon, when we began to encamp, we had some Drops of Rain, after which it became very hot, till there rose a high Wind at West North-west, which allayed the Heat.",
+    "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 278.",
+    "Hyperlink":"https://archive.org/details/descriptionofemp00duha"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.71931,40.83746 ]
+    },
+    "properties": {
+    "PlaceName":"Octogon Tower, Hokhokol (or Korkokol) Plain",
+    "PlaceNameModern":"near Hohhot, Mongolia",
+    "NameOfTraveler":"Jean-François Gerbillon, S.J.",
+    "YearOfTravel":1688,
+    "Description":"This Plain is cultivated in many Places, and here and there are Hamlets of seven or eight little Houses of Earth. After we had travelled in it about 40 Li, we passed near a Tower, built, as they assured me, 400 Years ago : It is still pretty entire, except the Roof, which is ruinous, and the Foundation begins also to decay. It is a regular Octogon with eight Stories, each ol eleven Foot at least, besides the first, which exceeds fifteen without the Coping, so that the whole Height is 100 Foot. This Tower is all of Brick as white as Stone, and well built ; it is embellish’d with several Ornaments of Brick-Work, and a fort of Plaister laid thereon. Its Architecture is quite different from ours, and tho' a little rude, has its Beauty, and pleases the Eye : The first Story is round, and shaped like a Cup, adorn-ed with Foliages ; the rest have eight Fronts, in each of which are two Statues in Demi -Relief, near as big as the Life, but ill done. You go up to the first Story by a Ladder, and there the Staircafe begins. Here probably stood a City, or large Town, for there still remains a wide Compass of Mud Walls, which, tho’ more than half demolish’d, are entire enough to shew that the Tower was built by the Western Tartars , whilst they reign’d in China , under the Family of the Ywen.",
+    "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 278.",
+    "Hyperlink":"https://archive.org/details/descriptionofemp00duha"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.90992,41.48197 ]
+    },
+    "properties": {
+    "PlaceName":"Kalkas",
+    "PlaceNameModern":"Inner Mongolia, China",
+    "NameOfTraveler":"Jean-François Gerbillon, S.J.",
+    "YearOfTravel":1688,
+    "Description":"The 30th we advanced 75 Li, the first 20 due North, and the rest North North-west, along continued Plains, separated only by small Eminences. The Soil consists of a firm Sand, mixed in some Places with a little Earth : The Country grew more and more desart and barren, affording no good Pasture for the Cat-tle and we saw but one Tree. About 40 Li from whence we fet out we found some Wells with a little Water, and some Grass about them: We saw several Herds of Deer, and Flocks of Partridges on the Plains, especially near the Place where we encamp’d, which was at the Foot of some Hillocks that bound the Plain.",
+    "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 282.",
+    "Hyperlink":"https://archive.org/details/descriptionofemp00duha"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.3314,41.85292 ]
+    },
+    "properties": {
+    "PlaceName":"Kalkas",
+    "PlaceNameModern":"Inner Mongolia, China",
+    "NameOfTraveler":"Jean-François Gerbillon, S.J.",
+    "YearOfTravel":1688,
+    "Description":"we marched 65 Li to the North-west, all through great Plains interspersed here and there with little Eminences, and the Country more and more desart and barren, consisting almoft wholly of burning Sands sometimes firm and sometimes loose, without Tree, Water or Pastures. Just as we had decamp’d we found abundance of those Stones of Rock and Sand condensed, full of yellow Spangles, and glittering like Gold. We saw great Numbers of Deer in these Plains, three of which our People kill’d, and could have killed more if they had not been afraid of fatiguing their Horses. Partridges likewise are here in Plenty : We saw great Coveys between the Heights. Having passed the Hills we encamp’d in a small Plain, which being nothing but Sand, the Heat was intolerable. We had no Water but what we drew out of Pits ; and tho’ it was very good, yet as there was no Pasture, the Cattle suffer’d much. It was very hot all Day, only a little Wind stirred now and then : In the Evening, we had a great Storm, and another towards Midnight, with Rain and Thunder.",
+    "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 282.",
+    "Hyperlink":"https://archive.org/details/descriptionofemp00duha"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.65587,41.94085 ]
+    },
+    "properties": {
+    "PlaceName":"River Kurkir",
+    "PlaceNameModern":"Luan River, China",
+    "NameOfTraveler":"Jean-François Gerbillon, S.J.",
+    "YearOfTravel":1689,
+    "Description":"The 20th we travelled 50 Li to the North, all the way among Mountains like the former, only these and those we met with Yesterday were cover’d with Pines, whereas the others bore several other forts of Trees, as Oaks, etc. besides Pines. The Valleys which we crossed are full of good Forage, and watered, by Rivu-lets and the Lan ho, or the Kurkir : This last River rises in Mount Pe cha, and after running a confiderable Way S. W. and S. at the Rounding of these Mountains, falls into the Lan ho. We encamped by the Kurkir, in a Valley of good Forage, about three Quarters of a League wide. This River is every where fordable, like the Lan ho, and we crossed it several times in our way.",
+    "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 302.",
+    "Hyperlink":"https://archive.org/details/descriptionofemp00duha"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.472,42.33219 ]
+    },
+    "properties": {
+    "PlaceName":"Turghen iskar",
+    "PlaceNameModern":"Luan River, China",
+    "NameOfTraveler":"Jean-François Gerbillon, S.J.",
+    "YearOfTravel":1689,
+    "Description":"The 22d we marched 60 Li, N.N W. in a Country quite open, and pretty level ; to our Right and Left were little Hills, very open also, and naked, with only here and there a Tree. The Plain was for the most part stored with good Forage, and yet thin of Inhabitants. We encamped in a Place called Turghen iskar, on the Banks of a little River called Iskiar, which rises in Mount Pe cha, and having run for some time to the S.W. falls into the Lan ho. This latter rises in the same Mountain, and after it has run first W. next S.W. and then S. returns at length to the E. and S.E. and being enlarged with several other Streams, empties it-self into the Eastern Sea. We found in the Meadows near the River [ Iskiar ] a Spring of excellent fresh Wa-ter.",
+    "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 302.",
+    "Hyperlink":"https://archive.org/details/descriptionofemp00duha"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.55075,43.27541 ]
+    },
+    "properties": {
+    "PlaceName":"Tahan nor",
+    "PlaceNameModern":"Dalinur, China",
+    "NameOfTraveler":"Jean-François Gerbillon, S.J.",
+    "YearOfTravel":1689,
+    "Description":"The 27th we marched 60 Li to the N. in a more open Country than hitherto, passing many Hills of moving bands, particularly 12 or 15 Li before we came to the Place where we encamped, which was in a Plain near a Pool of fresh Water, three good Leagues in Circumference, called in the Mongol Language, Tahan nor ; to the West of it appears a little rocky Hill, and before this a ruined Pagod, whereof there remains no more than three shatter’d Walls. South of the Pagod are the Ruins of a little House, and to the North you meet with a Grotto, in which you see the Remains of a Chapel, on whose Walls several Images are still standing ; in it were two old broken Coffers, full of Writings in the Mongol Language, and in two others, which I am unacquainted with.",
+    "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 302-303.",
+    "Hyperlink":"https://archive.org/details/descriptionofemp00duha"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.46097,48.45301 ]
+    },
+    "properties": {
+    "PlaceName":"Holostay pulak",
+    "PlaceNameModern":"Khoyor Melkhiit Lake, Mongolia",
+    "NameOfTraveler":"Jean-François Gerbillon, S.J.",
+    "YearOfTravel":1689,
+    "Description":"The 12th we advanced 78 Li due N. in a quite open Country, partly smooth and partly rugged ; the Soil a firm Sand, easy for travelling, but affording little Forage. After we had gone about 40 Li, we passed between two Pools, whose Water was so bad that the Ambassadors resolved to go on to the Place where we pitched, called Holostay pulak, on little Hills, where is a Spring of a very good Taste, which waters a Valley that afforded the best Forage we had yet met with. The Weather was very hot, till about 2 in the Afternoon, when a small Breeze arose from the S. in the Evening, and the Sky was covered with Clouds.",
+    "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 305.",
+    "Hyperlink":"https://archive.org/details/descriptionofemp00duha"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.5209,50.58629 ]
+    },
+    "properties": {
+    "PlaceName":"Turghe pira",
+    "PlaceNameModern":"Around Ononskiy Rayon, Russia",
+    "NameOfTraveler":"Jean-François Gerbillon, S.J.",
+    "YearOfTravel":1689,
+    "Description":"After we had passed a little Height, or Hillock, a little to the N. of the Place where we encamped, we crossed another Rivulet called Turgbe pira, which directed its Course like the former ; but as it was fomewhat larger, and the Banks lined with stiff Mud, the Passage was more difficult. Not far from the Place where we crossed it the Plain grows narrower, and we entered among the Mountains, which at first are covered with nothing but Grass, but about 30 Li beyond the Ri-ver they are full of Woods. Toward the top we observed a few Pines, but almost all the other Trees were of a Kind which I had not met with in Europe : It is called Wha shu by the Chinese , and does not grow to any great Height ; it resembles the Aspin Tree, and has, like it, a white Bark, of which the Chinese make Sheaths for Knives, and such like things.",
+    "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 306.",
+    "Hyperlink":"https://archive.org/details/descriptionofemp00duha"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.48474,51.77325 ]
+    },
+    "properties": {
+    "PlaceName":"Fortress of Nipchu",
+    "PlaceNameModern":"Razmakhnino, Russia",
+    "NameOfTraveler":"Jean-François Gerbillon, S.J.",
+    "YearOfTravel":1689,
+    "Description":"He had posted himself in a very agreeable Place, over against the Fortress of Nipchû, which is admirably well situated at the Bottom of a great Bay, formed by the meeting of two Rivers, the Saghalian and Nipchû, which gives Name to the Place. To the East of the Fortress, but beyond Cannon-shot, are Mountains of a moderate Height ; to the West very pleasant little Hills diversify’d with Woods and arable Lands ; to the North a large open Country bounds the Sight ; and to the South lies the great Bay, near three Quarters of a Mile wide. We dined under a green Pavillion, which the Mandarin had erected on the Bank, and joined with his Bark.",
+    "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 308.",
+    "Hyperlink":"https://archive.org/details/descriptionofemp00duha"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.81101,48.02338 ]
+    },
+    "properties": {
+    "PlaceName":"Urson pira ulan pulak",
+    "PlaceNameModern":"Along Wu'erxun River, China and Mongolia Border",
+    "NameOfTraveler":"Jean-François Gerbillon, S.J.",
+    "YearOfTravel":1698,
+    "Description":"The 3d, we travelled 30 Li, following the Course of the Urfon , and encamped on its Bank, to the S. of a Pool made by a Spring, called ulan pulak, whence the Place takes the Name of Urson pira ulan pûlak. The Country was not so level as the former, and as there are no Trees, nor Bushes, they use for Fuel the Dung of Cattle.",
+    "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 371.",
+    "Hyperlink":"https://archive.org/details/descriptionofemp00duha"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.77063,47.94 ]
+    },
+    "properties": {
+    "PlaceName":"River Tula",
+    "PlaceNameModern":"Along Yalu River, Inner Mongolia, China",
+    "NameOfTraveler":"Jean-François Gerbillon, S.J.",
+    "YearOfTravel":1698,
+    "Description":"The 3d, we advanced 56 Li N. W. through Valleys in Sight of Mountains covered with handsome Firrs, and encamped on the River Tula, which rises in the Mountain Ken-tey, about 120 Li from the Kerlon, and runs at first S. E. till having passed the Point of the Mountain, (which was near our Camp, and lies due West from the Confluence of the little River Tirelki and the Tula) it turns directly West. It is considerably larger than the Kerlon , and its Stream exceeding clear, running over a Bottom of Flints and Pebbles. Its Banks are very agreeable, being covered with various Sorts of beautiful and bushy Trees. In its Course it forms several little Istes, full of most de-lightful GroveS, and we found a Coolness in the Air that was very refreshing in this hot Season. The River is very rapid, and on both Sides without the Trees is a Meadow abounding with excellent Fo-rage. This is certainly the most agreeable Place I had seen in all my Travels into Tartary.",
+    "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 373.",
+    "Hyperlink":"https://archive.org/details/descriptionofemp00duha"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "PlaceName":"",
+    "PlaceNameModern":"",
+    "NameOfTraveler":"",
+    "YearOfTravel":null,
+    "Description":"",
+    "Citation":"",
+    "Hyperlink":"https://www.gutenberg.org/cache/epub/54255/pg54255-images.html"
     }
   }
 ]
