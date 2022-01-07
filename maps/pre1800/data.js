@@ -1760,22 +1760,7 @@ var data = {
     "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 373.",
     "Hyperlink":"https://archive.org/details/descriptionofemp00duha"
     }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "PlaceName":"",
-    "PlaceNameModern":"",
-    "NameOfTraveler":"",
-    "YearOfTravel":null,
-    "Description":"",
-    "Citation":"",
-    "Hyperlink":"https://www.gutenberg.org/cache/epub/54255/pg54255-images.html"
-    }
   }
+
 ]
 }
