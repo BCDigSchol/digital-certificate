@@ -65,8 +65,8 @@ function popUp(f,l) {
 		out.push('<b>Date: </b>' + f.properties.YearOfTravel);
 		out.push('<b>Description: </b>' + f.properties.Description);
 		out.push('<br>');
-		out.push('<b>Citation: </b>' + f.properties.Citation);
 		out.push('<a href="'+ f.properties.Hyperlink + '" target="_blank">Link</a>');  //allows for link to external URL via attribute in .geoJson table
+		out.push('<b>Citation: </b>' + f.properties.Citation);
 		l.bindPopup(out.join("<br />"));
 	}
 }
