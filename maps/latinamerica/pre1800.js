@@ -2,8 +2,8 @@
 
 //Define map start up options, here defined to center on Italy
 		var mapOptions = {
-			center: [41.8875, 0], //set center
-			zoom: 2 , //set initial zoom
+			center: [19.5,-99], //set center
+			zoom: 5 , //set initial zoom
 			maxZoom : 7,  //set max zoom
 			minZoom : 1,
 			maxBounds: [ [-90, -180] , [90,180] ],
@@ -23,8 +23,12 @@ var piriReis1554 = L.tileLayer('WorldMap2/{z}/{x}/{y}.png', {tms: true, attribut
 
 
 var places = L.geoJson(data, {
-	onEachFeature: popUp
-}
+	onEachFeature: popUp,
+	filter:
+		function (feature, layer) {
+				return (feature.properties.NameOfTraveler=='Thomas Gage');
+			}
+		}
 );
 
 var geojsonMarkerOptions = {
@@ -184,11 +188,11 @@ const legend = L.control.Legend({
 				legends: [{
 						label: "Description",
 						type: "image",
-						url: "marker/blue.png",
+						url: "../plugins/marker/blue.png",
 				}, {
 						label: "Image",
 						type: "image",
-						url: "marker/orange.png"
+						url: "../plugins/marker/orange.png"
 				}]
 		})
 		.addTo(map);

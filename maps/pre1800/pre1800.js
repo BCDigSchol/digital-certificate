@@ -184,11 +184,11 @@ const legend = L.control.Legend({
 				legends: [{
 						label: "Description",
 						type: "image",
-						url: "marker/blue.png",
+						url: "../plugins/marker/blue.png",
 				}, {
 						label: "Image",
 						type: "image",
-						url: "marker/orange.png"
+						url: "../plugins/marker/orange.png"
 				}]
 		})
 		.addTo(map);
