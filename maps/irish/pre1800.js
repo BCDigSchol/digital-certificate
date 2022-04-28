@@ -2,8 +2,8 @@
 
 //Define map start up options, here defined to center on Italy
 		var mapOptions = {
-			center: [41.8875, 0], //set center
-			zoom: 2 , //set initial zoom
+			center: [53,-8.5], //set center
+			zoom: 6 , //set initial zoom
 			maxZoom : 7,  //set max zoom
 			minZoom : 1,
 			maxBounds: [ [-90, -180] , [90,180] ],
@@ -23,8 +23,12 @@ var piriReis1554 = L.tileLayer('WorldMap2/{z}/{x}/{y}.png', {tms: true, attribut
 
 
 var places = L.geoJson(data, {
-	onEachFeature: popUp
-}
+	onEachFeature: popUp,
+	filter:
+		function (feature, layer) {
+				return (feature.properties.Country=='Ireland');
+			}
+		}
 );
 
 var geojsonMarkerOptions = {
@@ -65,8 +69,8 @@ function popUp(f,l) {
 		out.push('<b>Date: </b>' + f.properties.YearOfTravel);
 		out.push('<b>Description: </b>' + f.properties.Description);
 		out.push('<br>');
-		out.push('<b>Citation: </b>' + f.properties.Citation);
 		out.push('<a href="'+ f.properties.Hyperlink + '" target="_blank">Link</a>');  //allows for link to external URL via attribute in .geoJson table
+		out.push('<b>Citation: </b>' + f.properties.Citation);
 		l.bindPopup(out.join("<br />"));
 	}
 }
@@ -127,8 +131,8 @@ noUiSlider.create(yearSlider, {
         stepped: true
     },
     range: {
-        'min': 1500,
-        'max': 1900
+        'min': 1800,
+        'max': 1920
     },
 		format: wNumb({
         decimals: 0})
@@ -184,11 +188,11 @@ const legend = L.control.Legend({
 				legends: [{
 						label: "Description",
 						type: "image",
-						url: "marker/blue.png",
+						url: "../plugins/marker/blue.png",
 				}, {
 						label: "Image",
 						type: "image",
-						url: "marker/orange.png"
+						url: "../plugins/marker/orange.png"
 				}]
 		})
 		.addTo(map);
