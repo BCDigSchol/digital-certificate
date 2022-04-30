@@ -1,4 +1,4 @@
-var data = 
+var data =
 {
    "type": "FeatureCollection",
    "features": [
@@ -17,9 +17,7 @@ var data =
     "Citation":"Lady Mary Wortley Montagu, Letters of the Right Honourable Lady M——Y W——Y M——E; Written During Her Travels in Europe, Asia, and Africa, New (London: Printed for Thomas Martin, 1890), Let. XXV.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/17520/pg17520.html",
     "Country":"Bulgaria",
-    "Country":"",
     "Region":"Eastern Europe",
-    "Region":"",
     "Continent":"Europe"
     }
   },
@@ -38,9 +36,7 @@ var data =
     "Citation":"Lady Mary Wortley Montagu, Letters of the Right Honourable Lady M——Y W——Y M——E; Written During Her Travels in Europe, Asia, and Africa, New (London: Printed for Thomas Martin, 1890), Let. XXV.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/17520/pg17520.html",
     "Country":"Bulgaria",
-    "Country":"",
     "Region":"Eastern Europe",
-    "Region":"",
     "Continent":"Europe"
     }
   },
@@ -59,9 +55,7 @@ var data =
     "Citation":"Lady Mary Wortley Montagu, Letters of the Right Honourable Lady M——Y W——Y M——E; Written During Her Travels in Europe, Asia, and Africa, New (London: Printed for Thomas Martin, 1890), Let. XXV.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/17520/pg17520.html",
     "Country":"Bulgaria",
-    "Country":"",
     "Region":"Eastern Europe",
-    "Region":"",
     "Continent":"Europe"
     }
   },
@@ -80,9 +74,7 @@ var data =
     "Citation":"Lady Mary Wortley Montagu, Letters of the Right Honourable Lady M——Y W——Y M——E; Written During Her Travels in Europe, Asia, and Africa, New (London: Printed for Thomas Martin, 1890), Let. XXX.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/17520/pg17520.html",
     "Country":"Turkey",
-    "Country":"",
     "Region":"Eastern Europe",
-    "Region":"",
     "Continent":"Europe"
     }
   },
@@ -101,9 +93,7 @@ var data =
     "Citation":"Lady Mary Wortley Montagu, Letters of the Right Honourable Lady M——Y W——Y M——E; Written During Her Travels in Europe, Asia, and Africa, New (London: Printed for Thomas Martin, 1890), Let. XXXIV.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/17520/pg17520.html",
     "Country":"Turkey",
-    "Country":"",
     "Region":"Eastern Europe",
-    "Region":"",
     "Continent":"Europe"
     }
   },
@@ -122,9 +112,7 @@ var data =
     "Citation":"Lady Mary Wortley Montagu, Letters of the Right Honourable Lady M——Y W——Y M——E; Written During Her Travels in Europe, Asia, and Africa, New (London: Printed for Thomas Martin, 1890), Let. XXXV.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/17520/pg17520.html",
     "Country":"Turkey",
-    "Country":"",
     "Region":"Eastern Europe",
-    "Region":"",
     "Continent":"Europe"
     }
   },
@@ -143,9 +131,7 @@ var data =
     "Citation":"Lady Mary Wortley Montagu, Letters of the Right Honourable Lady M——Y W——Y M——E; Written During Her Travels in Europe, Asia, and Africa, New (London: Printed for Thomas Martin, 1890), Let. XXXVI.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/17520/pg17520.html",
     "Country":"Turkey",
-    "Country":"",
     "Region":"Eastern Europe",
-    "Region":"",
     "Continent":"Europe"
     }
   },
@@ -164,10 +150,8 @@ var data =
     "Citation":"Lady Mary Wortley Montagu, Letters of the Right Honourable Lady M——Y W——Y M——E; Written During Her Travels in Europe, Asia, and Africa, New (London: Printed for Thomas Martin, 1890), Let. XLI.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/17520/pg17520.html",
     "Country":"Turkey",
-    "Country":"",
     "Region":"Eastern Europe",
-    "Region":" Western Asia",
-    "Continent":"Europe; Asia"
+    "Continent":"Europe"
     }
   },
   {
@@ -185,10 +169,8 @@ var data =
     "Citation":"Lady Mary Wortley Montagu, Letters of the Right Honourable Lady M——Y W——Y M——E; Written During Her Travels in Europe, Asia, and Africa, New (London: Printed for Thomas Martin, 1890), Let. XLIII.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/17520/pg17520.html",
     "Country":"Turkey",
-    "Country":"",
     "Region":"Western Asia",
-    "Region":"",
-    "Continent":"Europe; Asia"
+    "Continent":"Europe"
     }
   },
   {
@@ -206,10 +188,8 @@ var data =
     "Citation":"Lady Mary Wortley Montagu, Letters of the Right Honourable Lady M——Y W——Y M——E; Written During Her Travels in Europe, Asia, and Africa, New (London: Printed for Thomas Martin, 1890), Let. XLIV.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/17520/pg17520.html",
     "Country":"Turkey",
-    "Country":"",
     "Region":"Eastern Europe",
-    "Region":" Western Asia",
-    "Continent":"Europe; Asia"
+    "Continent":"Europe"
     }
   },
   {
@@ -227,9 +207,7 @@ var data =
     "Citation":"Lady Mary Wortley Montagu, Letters of the Right Honourable Lady M——Y W——Y M——E; Written During Her Travels in Europe, Asia, and Africa, New (London: Printed for Thomas Martin, 1890), Let. XLIV.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/17520/pg17520.html",
     "Country":"Tunisia",
-    "Country":"",
-    "Region":"Nothern Africa",
-    "Region":"",
+    "Region":"Northern Africa",
     "Continent":"Africa"
     }
   },
@@ -248,8 +226,6 @@ var data =
     "Citation":"Lewes Vertomannus, “The Nauigation and Vyages of Lewes Vertomannus... to Regions of Arabia, Egypte, Persia, Syria, Ethiopia, and East India,” in The History of Trauayle in the Vvest and East Indies: And Other Countreys Lying Eyther Way Towardes the Fruitfull and Ryche Moluccaes: As Moscouia, Persia, Arabia, Syria, Aegypte, Ethiopia, Guinea, China in Cathayo, and Giapan: Vvith a Discourse of the Northwest Passage, ed. Pietro Martire d’Anghiera, trans. Richard Eden (London: Richarde Lugge, 1577), Cap. 2.\n Fol. 355.",
     "Hyperlink":"https://archive.org/details/historyoftrauayl00angh",
     "Country":"Egypt",
-    "Country":"",
-    "Region":"Nothern Africa",
     "Region":"",
     "Continent":"Africa"
     }
@@ -269,9 +245,7 @@ var data =
     "Citation":"Lewes Vertomannus, “The Nauigation and Vyages of Lewes Vertomannus... to Regions of Arabia, Egypte, Persia, Syria, Ethiopia, and East India,” in The History of Trauayle in the Vvest and East Indies: And Other Countreys Lying Eyther Way Towardes the Fruitfull and Ryche Moluccaes: As Moscouia, Persia, Arabia, Syria, Aegypte, Ethiopia, Guinea, China in Cathayo, and Giapan: Vvith a Discourse of the Northwest Passage, ed. Pietro Martire d’Anghiera, trans. Richard Eden (London: Richarde Lugge, 1577), Cap. 3. Fol. 356.",
     "Hyperlink":"https://archive.org/details/historyoftrauayl00angh",
     "Country":"Lebanon",
-    "Country":"",
     "Region":"Western Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -290,9 +264,7 @@ var data =
     "Citation":"Lewes Vertomannus, “The Nauigation and Vyages of Lewes Vertomannus... to Regions of Arabia, Egypte, Persia, Syria, Ethiopia, and East India,” in The History of Trauayle in the Vvest and East Indies: And Other Countreys Lying Eyther Way Towardes the Fruitfull and Ryche Moluccaes: As Moscouia, Persia, Arabia, Syria, Aegypte, Ethiopia, Guinea, China in Cathayo, and Giapan: Vvith a Discourse of the Northwest Passage, ed. Pietro Martire d’Anghiera, trans. Richard Eden (London: Richarde Lugge, 1577), Cap. 3. Fol. 356.",
     "Hyperlink":"https://archive.org/details/historyoftrauayl00angh",
     "Country":"Lebanon",
-    "Country":"",
     "Region":"Western Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -311,9 +283,7 @@ var data =
     "Citation":"Lewes Vertomannus, “The Nauigation and Vyages of Lewes Vertomannus... to Regions of Arabia, Egypte, Persia, Syria, Ethiopia, and East India,” in The History of Trauayle in the Vvest and East Indies: And Other Countreys Lying Eyther Way Towardes the Fruitfull and Ryche Moluccaes: As Moscouia, Persia, Arabia, Syria, Aegypte, Ethiopia, Guinea, China in Cathayo, and Giapan: Vvith a Discourse of the Northwest Passage, ed. Pietro Martire d’Anghiera, trans. Richard Eden (London: Richarde Lugge, 1577), Cap. 5. Fol. 357.",
     "Hyperlink":"https://archive.org/details/historyoftrauayl00angh",
     "Country":"Syria",
-    "Country":"",
     "Region":"Levant",
-    "Region":" Western Asia",
     "Continent":"Asia"
     }
   },
@@ -332,9 +302,7 @@ var data =
     "Citation":"Lewes Vertomannus, “The Nauigation and Vyages of Lewes Vertomannus... to Regions of Arabia, Egypte, Persia, Syria, Ethiopia, and East India,” in The History of Trauayle in the Vvest and East Indies: And Other Countreys Lying Eyther Way Towardes the Fruitfull and Ryche Moluccaes: As Moscouia, Persia, Arabia, Syria, Aegypte, Ethiopia, Guinea, China in Cathayo, and Giapan: Vvith a Discourse of the Northwest Passage, ed. Pietro Martire d’Anghiera, trans. Richard Eden (London: Richarde Lugge, 1577), Cap.15. Fol. 365.",
     "Hyperlink":"https://archive.org/details/historyoftrauayl00angh",
     "Country":"Saudi Arabia",
-    "Country":"",
     "Region":"Arabian Peninsula",
-    "Region":" Western Asia",
     "Continent":"Asia"
     }
   },
@@ -353,9 +321,7 @@ var data =
     "Citation":"Lewes Vertomannus, “The Nauigation and Vyages of Lewes Vertomannus... to Regions of Arabia, Egypte, Persia, Syria, Ethiopia, and East India,” in The History of Trauayle in the Vvest and East Indies: And Other Countreys Lying Eyther Way Towardes the Fruitfull and Ryche Moluccaes: As Moscouia, Persia, Arabia, Syria, Aegypte, Ethiopia, Guinea, China in Cathayo, and Giapan: Vvith a Discourse of the Northwest Passage, ed. Pietro Martire d’Anghiera, trans. Richard Eden (London: Richarde Lugge, 1577), Cap.15.  Fol. 365.",
     "Hyperlink":"https://archive.org/details/historyoftrauayl00angh",
     "Country":"Saudi Arabia",
-    "Country":"",
     "Region":"Arabian Peninsula",
-    "Region":" Western Asia",
     "Continent":"Asia"
     }
   },
@@ -374,9 +340,7 @@ var data =
     "Citation":"Lewes Vertomannus, “The Nauigation and Vyages of Lewes Vertomannus... to Regions of Arabia, Egypte, Persia, Syria, Ethiopia, and East India,” in The History of Trauayle in the Vvest and East Indies: And Other Countreys Lying Eyther Way Towardes the Fruitfull and Ryche Moluccaes: As Moscouia, Persia, Arabia, Syria, Aegypte, Ethiopia, Guinea, China in Cathayo, and Giapan: Vvith a Discourse of the Northwest Passage, ed. Pietro Martire d’Anghiera, trans. Richard Eden (London: Richarde Lugge, 1577), Cap.15.  Fol. 366.",
     "Hyperlink":"https://archive.org/details/historyoftrauayl00angh",
     "Country":"Saudi Arabia",
-    "Country":"",
     "Region":"Arabian Peninsula",
-    "Region":" Western Asia",
     "Continent":"Asia"
     }
   },
@@ -395,9 +359,7 @@ var data =
     "Citation":"Lewes Vertomannus, “The Nauigation and Vyages of Lewes Vertomannus... to Regions of Arabia, Egypte, Persia, Syria, Ethiopia, and East India,” in The History of Trauayle in the Vvest and East Indies: And Other Countreys Lying Eyther Way Towardes the Fruitfull and Ryche Moluccaes: As Moscouia, Persia, Arabia, Syria, Aegypte, Ethiopia, Guinea, China in Cathayo, and Giapan: Vvith a Discourse of the Northwest Passage, ed. Pietro Martire d’Anghiera, trans. Richard Eden (London: Richarde Lugge, 1577), Cap. 1. Fol. 371.",
     "Hyperlink":"https://archive.org/details/historyoftrauayl00angh",
     "Country":"Saudi Arabia",
-    "Country":"",
     "Region":"Arabian Peninsula",
-    "Region":" Western Asia",
     "Continent":"Asia"
     }
   },
@@ -416,9 +378,7 @@ var data =
     "Citation":"Lewes Vertomannus, “The Nauigation and Vyages of Lewes Vertomannus... to Regions of Arabia, Egypte, Persia, Syria, Ethiopia, and East India,” in The History of Trauayle in the Vvest and East Indies: And Other Countreys Lying Eyther Way Towardes the Fruitfull and Ryche Moluccaes: As Moscouia, Persia, Arabia, Syria, Aegypte, Ethiopia, Guinea, China in Cathayo, and Giapan: Vvith a Discourse of the Northwest Passage, ed. Pietro Martire d’Anghiera, trans. Richard Eden (London: Richarde Lugge, 1577), Cap. 3. Fol. 371.",
     "Hyperlink":"https://archive.org/details/historyoftrauayl00angh",
     "Country":"Yemen",
-    "Country":"",
     "Region":"Arabian Peninsula",
-    "Region":" Western Asia",
     "Continent":"Asia"
     }
   },
@@ -437,9 +397,7 @@ var data =
     "Citation":"Lewes Vertomannus, “The Nauigation and Vyages of Lewes Vertomannus... to Regions of Arabia, Egypte, Persia, Syria, Ethiopia, and East India,” in The History of Trauayle in the Vvest and East Indies: And Other Countreys Lying Eyther Way Towardes the Fruitfull and Ryche Moluccaes: As Moscouia, Persia, Arabia, Syria, Aegypte, Ethiopia, Guinea, China in Cathayo, and Giapan: Vvith a Discourse of the Northwest Passage, ed. Pietro Martire d’Anghiera, trans. Richard Eden (London: Richarde Lugge, 1577), Cap. 7. Fol. 375.",
     "Hyperlink":"https://archive.org/details/historyoftrauayl00angh",
     "Country":"Yemen",
-    "Country":"",
     "Region":"Arabian Peninsula",
-    "Region":" Western Asia",
     "Continent":"Asia"
     }
   },
@@ -458,9 +416,7 @@ var data =
     "Citation":"Lewes Vertomannus, “The Nauigation and Vyages of Lewes Vertomannus... to Regions of Arabia, Egypte, Persia, Syria, Ethiopia, and East India,” in The History of Trauayle in the Vvest and East Indies: And Other Countreys Lying Eyther Way Towardes the Fruitfull and Ryche Moluccaes: As Moscouia, Persia, Arabia, Syria, Aegypte, Ethiopia, Guinea, China in Cathayo, and Giapan: Vvith a Discourse of the Northwest Passage, ed. Pietro Martire d’Anghiera, trans. Richard Eden (London: Richarde Lugge, 1577), Cap. 7. Fol. 375.",
     "Hyperlink":"https://archive.org/details/historyoftrauayl00angh",
     "Country":"Yemen",
-    "Country":"",
     "Region":"Arabian Peninsula",
-    "Region":" Western Asia",
     "Continent":"Asia"
     }
   },
@@ -479,9 +435,7 @@ var data =
     "Citation":"Lewes Vertomannus, “The Nauigation and Vyages of Lewes Vertomannus... to Regions of Arabia, Egypte, Persia, Syria, Ethiopia, and East India,” in The History of Trauayle in the Vvest and East Indies: And Other Countreys Lying Eyther Way Towardes the Fruitfull and Ryche Moluccaes: As Moscouia, Persia, Arabia, Syria, Aegypte, Ethiopia, Guinea, China in Cathayo, and Giapan: Vvith a Discourse of the Northwest Passage, ed. Pietro Martire d’Anghiera, trans. Richard Eden (London: Richarde Lugge, 1577), Cap. 9. Fol. 376.",
     "Hyperlink":"https://archive.org/details/historyoftrauayl00angh",
     "Country":"Yemen",
-    "Country":"",
     "Region":"Arabian Peninsula",
-    "Region":" Western Asia",
     "Continent":"Asia"
     }
   },
@@ -500,9 +454,7 @@ var data =
     "Citation":"Lewes Vertomannus, “The Nauigation and Vyages of Lewes Vertomannus... to Regions of Arabia, Egypte, Persia, Syria, Ethiopia, and East India,” in The History of Trauayle in the Vvest and East Indies: And Other Countreys Lying Eyther Way Towardes the Fruitfull and Ryche Moluccaes: As Moscouia, Persia, Arabia, Syria, Aegypte, Ethiopia, Guinea, China in Cathayo, and Giapan: Vvith a Discourse of the Northwest Passage, ed. Pietro Martire d’Anghiera, trans. Richard Eden (London: Richarde Lugge, 1577), Cap. 10. Fol. 376.",
     "Hyperlink":"https://archive.org/details/historyoftrauayl00angh",
     "Country":"Yemen",
-    "Country":"",
     "Region":"Arabian Peninsula",
-    "Region":" Western Asia",
     "Continent":"Asia"
     }
   },
@@ -521,9 +473,7 @@ var data =
     "Citation":"Lewes Vertomannus, “The Nauigation and Vyages of Lewes Vertomannus... to Regions of Arabia, Egypte, Persia, Syria, Ethiopia, and East India,” in The History of Trauayle in the Vvest and East Indies: And Other Countreys Lying Eyther Way Towardes the Fruitfull and Ryche Moluccaes: As Moscouia, Persia, Arabia, Syria, Aegypte, Ethiopia, Guinea, China in Cathayo, and Giapan: Vvith a Discourse of the Northwest Passage, ed. Pietro Martire d’Anghiera, trans. Richard Eden (London: Richarde Lugge, 1577), Cap. 11. Fol. 376.",
     "Hyperlink":"https://archive.org/details/historyoftrauayl00angh",
     "Country":"Yemen",
-    "Country":"",
     "Region":"Arabian Peninsula",
-    "Region":" Western Asia",
     "Continent":"Asia"
     }
   },
@@ -542,9 +492,7 @@ var data =
     "Citation":"Lewes Vertomannus, “The Nauigation and Vyages of Lewes Vertomannus... to Regions of Arabia, Egypte, Persia, Syria, Ethiopia, and East India,” in The History of Trauayle in the Vvest and East Indies: And Other Countreys Lying Eyther Way Towardes the Fruitfull and Ryche Moluccaes: As Moscouia, Persia, Arabia, Syria, Aegypte, Ethiopia, Guinea, China in Cathayo, and Giapan: Vvith a Discourse of the Northwest Passage, ed. Pietro Martire d’Anghiera, trans. Richard Eden (London: Richarde Lugge, 1577), Cap. 11. Fol. 376.",
     "Hyperlink":"https://archive.org/details/historyoftrauayl00angh",
     "Country":"Yemen",
-    "Country":"",
     "Region":"Arabian Peninsula",
-    "Region":" Western Asia",
     "Continent":"Asia"
     }
   },
@@ -563,9 +511,7 @@ var data =
     "Citation":"Lewes Vertomannus, “The Nauigation and Vyages of Lewes Vertomannus... to Regions of Arabia, Egypte, Persia, Syria, Ethiopia, and East India,” in The History of Trauayle in the Vvest and East Indies: And Other Countreys Lying Eyther Way Towardes the Fruitfull and Ryche Moluccaes: As Moscouia, Persia, Arabia, Syria, Aegypte, Ethiopia, Guinea, China in Cathayo, and Giapan: Vvith a Discourse of the Northwest Passage, ed. Pietro Martire d’Anghiera, trans. Richard Eden (London: Richarde Lugge, 1577), Cap. 11. Fol. 377.",
     "Hyperlink":"https://archive.org/details/historyoftrauayl00angh",
     "Country":"Yemen",
-    "Country":"",
     "Region":"Arabian Peninsula",
-    "Region":" Western Asia",
     "Continent":"Asia"
     }
   },
@@ -584,9 +530,7 @@ var data =
     "Citation":"Lewes Vertomannus, “The Nauigation and Vyages of Lewes Vertomannus... to Regions of Arabia, Egypte, Persia, Syria, Ethiopia, and East India,” in The History of Trauayle in the Vvest and East Indies: And Other Countreys Lying Eyther Way Towardes the Fruitfull and Ryche Moluccaes: As Moscouia, Persia, Arabia, Syria, Aegypte, Ethiopia, Guinea, China in Cathayo, and Giapan: Vvith a Discourse of the Northwest Passage, ed. Pietro Martire d’Anghiera, trans. Richard Eden (London: Richarde Lugge, 1577), Cap. 16. Fol. 378.",
     "Hyperlink":"https://archive.org/details/historyoftrauayl00angh",
     "Country":"Kingdom of Bahrain",
-    "Country":"",
     "Region":"Western Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -605,9 +549,7 @@ var data =
     "Citation":"Lewes Vertomannus, “The Nauigation and Vyages of Lewes Vertomannus... to Regions of Arabia, Egypte, Persia, Syria, Ethiopia, and East India,” in The History of Trauayle in the Vvest and East Indies: And Other Countreys Lying Eyther Way Towardes the Fruitfull and Ryche Moluccaes: As Moscouia, Persia, Arabia, Syria, Aegypte, Ethiopia, Guinea, China in Cathayo, and Giapan: Vvith a Discourse of the Northwest Passage, ed. Pietro Martire d’Anghiera, trans. Richard Eden (London: Richarde Lugge, 1577), Cap. 2. Fol. 378.",
     "Hyperlink":"https://archive.org/details/historyoftrauayl00angh",
     "Country":"Iran",
-    "Country":"",
     "Region":"Western Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -626,9 +568,7 @@ var data =
     "Citation":"Lewes Vertomannus, “The Nauigation and Vyages of Lewes Vertomannus... to Regions of Arabia, Egypte, Persia, Syria, Ethiopia, and East India,” in The History of Trauayle in the Vvest and East Indies: And Other Countreys Lying Eyther Way Towardes the Fruitfull and Ryche Moluccaes: As Moscouia, Persia, Arabia, Syria, Aegypte, Ethiopia, Guinea, China in Cathayo, and Giapan: Vvith a Discourse of the Northwest Passage, ed. Pietro Martire d’Anghiera, trans. Richard Eden (London: Richarde Lugge, 1577), Cap. 1. ",
     "Hyperlink":"https://archive.org/details/historyoftrauayl00angh",
     "Country":"India",
-    "Country":"",
     "Region":"Southern Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -647,9 +587,7 @@ var data =
     "Citation":"Lewes Vertomannus, “The Nauigation and Vyages of Lewes Vertomannus... to Regions of Arabia, Egypte, Persia, Syria, Ethiopia, and East India,” in The History of Trauayle in the Vvest and East Indies: And Other Countreys Lying Eyther Way Towardes the Fruitfull and Ryche Moluccaes: As Moscouia, Persia, Arabia, Syria, Aegypte, Ethiopia, Guinea, China in Cathayo, and Giapan: Vvith a Discourse of the Northwest Passage, ed. Pietro Martire d’Anghiera, trans. Richard Eden (London: Richarde Lugge, 1577), Cap. 3. Pg. 382. ",
     "Hyperlink":"https://archive.org/details/historyoftrauayl00angh",
     "Country":"India",
-    "Country":"",
     "Region":"Southern Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -668,9 +606,7 @@ var data =
     "Citation":"Lewes Vertomannus, “The Nauigation and Vyages of Lewes Vertomannus... to Regions of Arabia, Egypte, Persia, Syria, Ethiopia, and East India,” in The History of Trauayle in the Vvest and East Indies: And Other Countreys Lying Eyther Way Towardes the Fruitfull and Ryche Moluccaes: As Moscouia, Persia, Arabia, Syria, Aegypte, Ethiopia, Guinea, China in Cathayo, and Giapan: Vvith a Discourse of the Northwest Passage, ed. Pietro Martire d’Anghiera, trans. Richard Eden (London: Richarde Lugge, 1577), Cap. 3. Pg. 383. ",
     "Hyperlink":"https://archive.org/details/historyoftrauayl00angh",
     "Country":"India",
-    "Country":"",
     "Region":"Southern Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -689,9 +625,7 @@ var data =
     "Citation":"Lewes Vertomannus, “The Nauigation and Vyages of Lewes Vertomannus... to Regions of Arabia, Egypte, Persia, Syria, Ethiopia, and East India,” in The History of Trauayle in the Vvest and East Indies: And Other Countreys Lying Eyther Way Towardes the Fruitfull and Ryche Moluccaes: As Moscouia, Persia, Arabia, Syria, Aegypte, Ethiopia, Guinea, China in Cathayo, and Giapan: Vvith a Discourse of the Northwest Passage, ed. Pietro Martire d’Anghiera, trans. Richard Eden (London: Richarde Lugge, 1577), Cap. 5. Pg. 383. ",
     "Hyperlink":"https://archive.org/details/historyoftrauayl00angh",
     "Country":"India",
-    "Country":"",
     "Region":"Southern Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -710,9 +644,7 @@ var data =
     "Citation":"Lewes Vertomannus, “The Nauigation and Vyages of Lewes Vertomannus... to Regions of Arabia, Egypte, Persia, Syria, Ethiopia, and East India,” in The History of Trauayle in the Vvest and East Indies: And Other Countreys Lying Eyther Way Towardes the Fruitfull and Ryche Moluccaes: As Moscouia, Persia, Arabia, Syria, Aegypte, Ethiopia, Guinea, China in Cathayo, and Giapan: Vvith a Discourse of the Northwest Passage, ed. Pietro Martire d’Anghiera, trans. Richard Eden (London: Richarde Lugge, 1577), Cap. 8. ",
     "Hyperlink":"https://archive.org/details/historyoftrauayl00angh",
     "Country":"India",
-    "Country":"",
     "Region":"Southern Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -731,9 +663,7 @@ var data =
     "Citation":"Lewes Vertomannus, “The Nauigation and Vyages of Lewes Vertomannus... to Regions of Arabia, Egypte, Persia, Syria, Ethiopia, and East India,” in The History of Trauayle in the Vvest and East Indies: And Other Countreys Lying Eyther Way Towardes the Fruitfull and Ryche Moluccaes: As Moscouia, Persia, Arabia, Syria, Aegypte, Ethiopia, Guinea, China in Cathayo, and Giapan: Vvith a Discourse of the Northwest Passage, ed. Pietro Martire d’Anghiera, trans. Richard Eden (London: Richarde Lugge, 1577), Cap. 1. ",
     "Hyperlink":"https://archive.org/details/historyoftrauayl00angh",
     "Country":"India",
-    "Country":"",
     "Region":"Southern Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -752,9 +682,7 @@ var data =
     "Citation":"Lewes Vertomannus, “The Nauigation and Vyages of Lewes Vertomannus... to Regions of Arabia, Egypte, Persia, Syria, Ethiopia, and East India,” in The History of Trauayle in the Vvest and East Indies: And Other Countreys Lying Eyther Way Towardes the Fruitfull and Ryche Moluccaes: As Moscouia, Persia, Arabia, Syria, Aegypte, Ethiopia, Guinea, China in Cathayo, and Giapan: Vvith a Discourse of the Northwest Passage, ed. Pietro Martire d’Anghiera, trans. Richard Eden (London: Richarde Lugge, 1577), Cap. 12. Pg. 392. ",
     "Hyperlink":"https://archive.org/details/historyoftrauayl00angh",
     "Country":"India",
-    "Country":"",
     "Region":"Southern Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -773,9 +701,7 @@ var data =
     "Citation":"Lewes Vertomannus, “The Nauigation and Vyages of Lewes Vertomannus... to Regions of Arabia, Egypte, Persia, Syria, Ethiopia, and East India,” in The History of Trauayle in the Vvest and East Indies: And Other Countreys Lying Eyther Way Towardes the Fruitfull and Ryche Moluccaes: As Moscouia, Persia, Arabia, Syria, Aegypte, Ethiopia, Guinea, China in Cathayo, and Giapan: Vvith a Discourse of the Northwest Passage, ed. Pietro Martire d’Anghiera, trans. Richard Eden (London: Richarde Lugge, 1577), Cap. 1. Pg. 397. ",
     "Hyperlink":"https://archive.org/details/historyoftrauayl00angh",
     "Country":"India",
-    "Country":"",
     "Region":"Southern Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -794,9 +720,7 @@ var data =
     "Citation":"Lewes Vertomannus, “The Nauigation and Vyages of Lewes Vertomannus... to Regions of Arabia, Egypte, Persia, Syria, Ethiopia, and East India,” in The History of Trauayle in the Vvest and East Indies: And Other Countreys Lying Eyther Way Towardes the Fruitfull and Ryche Moluccaes: As Moscouia, Persia, Arabia, Syria, Aegypte, Ethiopia, Guinea, China in Cathayo, and Giapan: Vvith a Discourse of the Northwest Passage, ed. Pietro Martire d’Anghiera, trans. Richard Eden (London: Richarde Lugge, 1577), Cap. 1. Pg. 397. ",
     "Hyperlink":"https://archive.org/details/historyoftrauayl00angh",
     "Country":"India",
-    "Country":"",
     "Region":"Southern Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -815,9 +739,7 @@ var data =
     "Citation":"Lewes Vertomannus, “The Nauigation and Vyages of Lewes Vertomannus... to Regions of Arabia, Egypte, Persia, Syria, Ethiopia, and East India,” in The History of Trauayle in the Vvest and East Indies: And Other Countreys Lying Eyther Way Towardes the Fruitfull and Ryche Moluccaes: As Moscouia, Persia, Arabia, Syria, Aegypte, Ethiopia, Guinea, China in Cathayo, and Giapan: Vvith a Discourse of the Northwest Passage, ed. Pietro Martire d’Anghiera, trans. Richard Eden (London: Richarde Lugge, 1577), Cap. 2. Pg. 396. ",
     "Hyperlink":"https://archive.org/details/historyoftrauayl00angh",
     "Country":"India",
-    "Country":"",
     "Region":"Southern Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -836,9 +758,7 @@ var data =
     "Citation":"Lewes Vertomannus, “The Nauigation and Vyages of Lewes Vertomannus... to Regions of Arabia, Egypte, Persia, Syria, Ethiopia, and East India,” in The History of Trauayle in the Vvest and East Indies: And Other Countreys Lying Eyther Way Towardes the Fruitfull and Ryche Moluccaes: As Moscouia, Persia, Arabia, Syria, Aegypte, Ethiopia, Guinea, China in Cathayo, and Giapan: Vvith a Discourse of the Northwest Passage, ed. Pietro Martire d’Anghiera, trans. Richard Eden (London: Richarde Lugge, 1577), Cap. 3. Pg. 397. ",
     "Hyperlink":"https://archive.org/details/historyoftrauayl00angh",
     "Country":"Sri Lanka",
-    "Country":"",
     "Region":"Southern Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -857,9 +777,7 @@ var data =
     "Citation":"Lewes Vertomannus, “The Nauigation and Vyages of Lewes Vertomannus... to Regions of Arabia, Egypte, Persia, Syria, Ethiopia, and East India,” in The History of Trauayle in the Vvest and East Indies: And Other Countreys Lying Eyther Way Towardes the Fruitfull and Ryche Moluccaes: As Moscouia, Persia, Arabia, Syria, Aegypte, Ethiopia, Guinea, China in Cathayo, and Giapan: Vvith a Discourse of the Northwest Passage, ed. Pietro Martire d’Anghiera, trans. Richard Eden (London: Richarde Lugge, 1577), Cap. 6. Pg. 398. ",
     "Hyperlink":"https://archive.org/details/historyoftrauayl00angh",
     "Country":"Myanmar",
-    "Country":"",
     "Region":"Southeastern Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -878,9 +796,7 @@ var data =
     "Citation":"Lewes Vertomannus, “The Nauigation and Vyages of Lewes Vertomannus... to Regions of Arabia, Egypte, Persia, Syria, Ethiopia, and East India,” in The History of Trauayle in the Vvest and East Indies: And Other Countreys Lying Eyther Way Towardes the Fruitfull and Ryche Moluccaes: As Moscouia, Persia, Arabia, Syria, Aegypte, Ethiopia, Guinea, China in Cathayo, and Giapan: Vvith a Discourse of the Northwest Passage, ed. Pietro Martire d’Anghiera, trans. Richard Eden (London: Richarde Lugge, 1577), Cap. 15. Pg. 401. ",
     "Hyperlink":"https://archive.org/details/historyoftrauayl00angh",
     "Country":"Myanmar",
-    "Country":"",
     "Region":"Southeastern Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -899,9 +815,7 @@ var data =
     "Citation":"Lewes Vertomannus, “The Nauigation and Vyages of Lewes Vertomannus... to Regions of Arabia, Egypte, Persia, Syria, Ethiopia, and East India,” in The History of Trauayle in the Vvest and East Indies: And Other Countreys Lying Eyther Way Towardes the Fruitfull and Ryche Moluccaes: As Moscouia, Persia, Arabia, Syria, Aegypte, Ethiopia, Guinea, China in Cathayo, and Giapan: Vvith a Discourse of the Northwest Passage, ed. Pietro Martire d’Anghiera, trans. Richard Eden (London: Richarde Lugge, 1577), Cap. 17. Pg. 403. ",
     "Hyperlink":"https://archive.org/details/historyoftrauayl00angh",
     "Country":"Malaysia",
-    "Country":"",
     "Region":"Southeastern Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -920,9 +834,7 @@ var data =
     "Citation":"Lewes Vertomannus, “The Nauigation and Vyages of Lewes Vertomannus... to Regions of Arabia, Egypte, Persia, Syria, Ethiopia, and East India,” in The History of Trauayle in the Vvest and East Indies: And Other Countreys Lying Eyther Way Towardes the Fruitfull and Ryche Moluccaes: As Moscouia, Persia, Arabia, Syria, Aegypte, Ethiopia, Guinea, China in Cathayo, and Giapan: Vvith a Discourse of the Northwest Passage, ed. Pietro Martire d’Anghiera, trans. Richard Eden (London: Richarde Lugge, 1577), Cap. 18. Pg. 404. ",
     "Hyperlink":"https://archive.org/details/historyoftrauayl00angh",
     "Country":"Indonesia",
-    "Country":"",
     "Region":"Southeastern Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -941,9 +853,7 @@ var data =
     "Citation":"Lewes Vertomannus, “The Nauigation and Vyages of Lewes Vertomannus... to Regions of Arabia, Egypte, Persia, Syria, Ethiopia, and East India,” in The History of Trauayle in the Vvest and East Indies: And Other Countreys Lying Eyther Way Towardes the Fruitfull and Ryche Moluccaes: As Moscouia, Persia, Arabia, Syria, Aegypte, Ethiopia, Guinea, China in Cathayo, and Giapan: Vvith a Discourse of the Northwest Passage, ed. Pietro Martire d’Anghiera, trans. Richard Eden (London: Richarde Lugge, 1577), Cap. 23. Pg. 414. ",
     "Hyperlink":"https://archive.org/details/historyoftrauayl00angh",
     "Country":"Indonesia",
-    "Country":"",
     "Region":"Southeastern Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -962,9 +872,7 @@ var data =
     "Citation":"Lewes Vertomannus, “The Nauigation and Vyages of Lewes Vertomannus... to Regions of Arabia, Egypte, Persia, Syria, Ethiopia, and East India,” in The History of Trauayle in the Vvest and East Indies: And Other Countreys Lying Eyther Way Towardes the Fruitfull and Ryche Moluccaes: As Moscouia, Persia, Arabia, Syria, Aegypte, Ethiopia, Guinea, China in Cathayo, and Giapan: Vvith a Discourse of the Northwest Passage, ed. Pietro Martire d’Anghiera, trans. Richard Eden (London: Richarde Lugge, 1577), Cap. 24. Pg. 414. ",
     "Hyperlink":"https://archive.org/details/historyoftrauayl00angh",
     "Country":"Indonesia",
-    "Country":"",
     "Region":"Southeastern Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -983,9 +891,7 @@ var data =
     "Citation":"Lewes Vertomannus, “The Nauigation and Vyages of Lewes Vertomannus... to Regions of Arabia, Egypte, Persia, Syria, Ethiopia, and East India,” in The History of Trauayle in the Vvest and East Indies: And Other Countreys Lying Eyther Way Towardes the Fruitfull and Ryche Moluccaes: As Moscouia, Persia, Arabia, Syria, Aegypte, Ethiopia, Guinea, China in Cathayo, and Giapan: Vvith a Discourse of the Northwest Passage, ed. Pietro Martire d’Anghiera, trans. Richard Eden (London: Richarde Lugge, 1577), Cap. 27. Pg. 408. ",
     "Hyperlink":"https://archive.org/details/historyoftrauayl00angh",
     "Country":"Indonesia",
-    "Country":"",
     "Region":"Southeastern Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -1004,9 +910,7 @@ var data =
     "Citation":"Lewes Vertomannus, “The Nauigation and Vyages of Lewes Vertomannus... to Regions of Arabia, Egypte, Persia, Syria, Ethiopia, and East India,” in The History of Trauayle in the Vvest and East Indies: And Other Countreys Lying Eyther Way Towardes the Fruitfull and Ryche Moluccaes: As Moscouia, Persia, Arabia, Syria, Aegypte, Ethiopia, Guinea, China in Cathayo, and Giapan: Vvith a Discourse of the Northwest Passage, ed. Pietro Martire d’Anghiera, trans. Richard Eden (London: Richarde Lugge, 1577), Cap. 3. Pg. 419. ",
     "Hyperlink":"https://archive.org/details/historyoftrauayl00angh",
     "Country":"Mozambique",
-    "Country":"",
     "Region":"Southeastern Africa",
-    "Region":"",
     "Continent":"Africa"
     }
   },
@@ -1025,9 +929,7 @@ var data =
     "Citation":"Lewes Vertomannus, “The Nauigation and Vyages of Lewes Vertomannus... to Regions of Arabia, Egypte, Persia, Syria, Ethiopia, and East India,” in The History of Trauayle in the Vvest and East Indies: And Other Countreys Lying Eyther Way Towardes the Fruitfull and Ryche Moluccaes: As Moscouia, Persia, Arabia, Syria, Aegypte, Ethiopia, Guinea, China in Cathayo, and Giapan: Vvith a Discourse of the Northwest Passage, ed. Pietro Martire d’Anghiera, trans. Richard Eden (London: Richarde Lugge, 1577), Cap. 4. Pg. 421.",
     "Hyperlink":"https://archive.org/details/historyoftrauayl00angh",
     "Country":"United Kingdom",
-    "Country":"",
     "Region":"Atlantic",
-    "Region":"",
     "Continent":"Atlantic"
     }
   },
@@ -1046,9 +948,7 @@ var data =
     "Citation":"Lewes Vertomannus, “The Nauigation and Vyages of Lewes Vertomannus... to Regions of Arabia, Egypte, Persia, Syria, Ethiopia, and East India,” in The History of Trauayle in the Vvest and East Indies: And Other Countreys Lying Eyther Way Towardes the Fruitfull and Ryche Moluccaes: As Moscouia, Persia, Arabia, Syria, Aegypte, Ethiopia, Guinea, China in Cathayo, and Giapan: Vvith a Discourse of the Northwest Passage, ed. Pietro Martire d’Anghiera, trans. Richard Eden (London: Richarde Lugge, 1577), Cap. 4. Pg. 421.",
     "Hyperlink":"https://archive.org/details/historyoftrauayl00angh",
     "Country":"Portugal",
-    "Country":"",
     "Region":"Atlantic",
-    "Region":"",
     "Continent":"Atlantic"
     }
   },
@@ -1067,9 +967,7 @@ var data =
     "Citation":"Olaudah Equiano, The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African (London, 1789), Ch. I.",
     "Hyperlink":"https://www.gutenberg.org/files/15399/15399-h/15399-h.htm",
     "Country":"Nigeria",
-    "Country":"",
     "Region":"Western Africa",
-    "Region":"",
     "Continent":"Africa"
     }
   },
@@ -1088,9 +986,7 @@ var data =
     "Citation":"Olaudah Equiano, The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African (London, 1789), Ch. II.",
     "Hyperlink":"https://www.gutenberg.org/files/15399/15399-h/15399-h.htm",
     "Country":"Barbados",
-    "Country":"",
     "Region":"Caribbean",
-    "Region":"",
     "Continent":"North America"
     }
   },
@@ -1109,9 +1005,7 @@ var data =
     "Citation":"Olaudah Equiano, The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African (London, 1789), Ch. III.",
     "Hyperlink":"https://www.gutenberg.org/files/15399/15399-h/15399-h.htm",
     "Country":"England",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":"",
     "Continent":"Europe"
     }
   },
@@ -1130,9 +1024,7 @@ var data =
     "Citation":"Olaudah Equiano, The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African (London, 1789), Ch. III.",
     "Hyperlink":"https://www.gutenberg.org/files/15399/15399-h/15399-h.htm",
     "Country":"Spain",
-    "Country":"",
     "Region":"Southern Europe",
-    "Region":"",
     "Continent":"Europe"
     }
   },
@@ -1151,9 +1043,7 @@ var data =
     "Citation":"Olaudah Equiano, The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African (London, 1789), Ch. III.",
     "Hyperlink":"https://www.gutenberg.org/files/15399/15399-h/15399-h.htm",
     "Country":"Nova Scotia",
-    "Country":"",
     "Region":"Northern America",
-    "Region":"",
     "Continent":"North America"
     }
   },
@@ -1172,9 +1062,7 @@ var data =
     "Citation":"Olaudah Equiano, The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African (London, 1789), Ch. III.",
     "Hyperlink":"https://www.gutenberg.org/files/15399/15399-h/15399-h.htm",
     "Country":"Nova Scotia",
-    "Country":"",
     "Region":"Northern America",
-    "Region":"",
     "Continent":"North America"
     }
   },
@@ -1193,9 +1081,7 @@ var data =
     "Citation":"Olaudah Equiano, The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African (London, 1789), Ch. IV.",
     "Hyperlink":"https://www.gutenberg.org/files/15399/15399-h/15399-h.htm",
     "Country":"England",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":"",
     "Continent":"Europe"
     }
   },
@@ -1214,9 +1100,7 @@ var data =
     "Citation":"Olaudah Equiano, The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African (London, 1789), Ch. IV.",
     "Hyperlink":"https://www.gutenberg.org/files/15399/15399-h/15399-h.htm",
     "Country":"Spain",
-    "Country":"",
     "Region":"Southern Europe",
-    "Region":"",
     "Continent":"Europe"
     }
   },
@@ -1235,9 +1119,7 @@ var data =
     "Citation":"Olaudah Equiano, The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African (London, 1789), Ch. IV.",
     "Hyperlink":"https://www.gutenberg.org/files/15399/15399-h/15399-h.htm",
     "Country":"England",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":"",
     "Continent":"Europe"
     }
   },
@@ -1256,9 +1138,7 @@ var data =
     "Citation":"Olaudah Equiano, The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African (London, 1789), Ch. VI.",
     "Hyperlink":"https://www.gutenberg.org/files/15399/15399-h/15399-h.htm",
     "Country":"St. Kitts & Nevis",
-    "Country":"",
     "Region":"Caribbean",
-    "Region":"",
     "Continent":"North America"
     }
   },
@@ -1277,9 +1157,7 @@ var data =
     "Citation":"Olaudah Equiano, The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African (London, 1789), Ch. IX.",
     "Hyperlink":"https://www.gutenberg.org/files/15399/15399-h/15399-h.htm",
     "Country":"Martinique",
-    "Country":"",
     "Region":"Caribbean",
-    "Region":"",
     "Continent":"North America"
     }
   },
@@ -1298,9 +1176,7 @@ var data =
     "Citation":"Olaudah Equiano, The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African (London, 1789), Ch. IX.",
     "Hyperlink":"https://www.gutenberg.org/files/15399/15399-h/15399-h.htm",
     "Country":"Turkey",
-    "Country":"",
     "Region":"Eastern Europe",
-    "Region":"",
     "Continent":"Europe"
     }
   },
@@ -1319,9 +1195,7 @@ var data =
     "Citation":"Olaudah Equiano, The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African (London, 1789), Ch. IX.",
     "Hyperlink":"https://www.gutenberg.org/files/15399/15399-h/15399-h.htm",
     "Country":"Portugal",
-    "Country":"",
     "Region":"Southern Europe",
-    "Region":"",
     "Continent":"Europe"
     }
   },
@@ -1340,9 +1214,7 @@ var data =
     "Citation":"Olaudah Equiano, The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African (London, 1789), Ch. IX.",
     "Hyperlink":"https://www.gutenberg.org/files/15399/15399-h/15399-h.htm",
     "Country":"Italy",
-    "Country":"",
     "Region":"Southern Europe",
-    "Region":"",
     "Continent":"Europe"
     }
   },
@@ -1361,9 +1233,7 @@ var data =
     "Citation":"Olaudah Equiano, The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African (London, 1789), Ch. IX.",
     "Hyperlink":"https://www.gutenberg.org/files/15399/15399-h/15399-h.htm",
     "Country":"Italy",
-    "Country":"",
     "Region":"Southern Europe",
-    "Region":"",
     "Continent":"Europe"
     }
   },
@@ -1382,9 +1252,7 @@ var data =
     "Citation":"Olaudah Equiano, The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African (London, 1789), Ch. IX.",
     "Hyperlink":"https://www.gutenberg.org/files/15399/15399-h/15399-h.htm",
     "Country":"Jamaica",
-    "Country":"",
     "Region":"Caribbean",
-    "Region":"",
     "Continent":"North America"
     }
   },
@@ -1403,9 +1271,7 @@ var data =
     "Citation":"Olaudah Equiano, The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African (London, 1789), Ch. IX.",
     "Hyperlink":"https://www.gutenberg.org/files/15399/15399-h/15399-h.htm",
     "Country":"Spain",
-    "Country":"",
     "Region":"Southern Europe",
-    "Region":"",
     "Continent":"Europe"
     }
   },
@@ -1424,9 +1290,7 @@ var data =
     "Citation":"Janet Schaw, Journal of a Lady of Quality; Being the Narrative of a Journey from Scotland to the West Indies,  North Carolina, and Portugal, in the Years 1774 to 1776, ed. Evangeline Walker Andrews and Charles McLean Andrews (New Haven, CT: Yale University Press, 1921), 32-33.",
     "Hyperlink":"https://archive.org/details/journalofladyofq00schaiala",
     "Country":"United Kingdom",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":"",
     "Continent":"Europe"
     }
   },
@@ -1445,9 +1309,7 @@ var data =
     "Citation":"Janet Schaw, Journal of a Lady of Quality; Being the Narrative of a Journey from Scotland to the West Indies,  North Carolina, and Portugal, in the Years 1774 to 1776, ed. Evangeline Walker Andrews and Charles McLean Andrews (New Haven, CT: Yale University Press, 1921), 38-39.",
     "Hyperlink":"https://archive.org/details/journalofladyofq00schaiala",
     "Country":"United Kingdom",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":"",
     "Continent":"Europe"
     }
   },
@@ -1466,9 +1328,7 @@ var data =
     "Citation":"Janet Schaw, Journal of a Lady of Quality; Being the Narrative of a Journey from Scotland to the West Indies,  North Carolina, and Portugal, in the Years 1774 to 1776, ed. Evangeline Walker Andrews and Charles McLean Andrews (New Haven, CT: Yale University Press, 1921), 61-62.",
     "Hyperlink":"https://archive.org/details/journalofladyofq00schaiala",
     "Country":"Portugal",
-    "Country":"",
     "Region":"Southern Europe",
-    "Region":"",
     "Continent":"Europe"
     }
   },
@@ -1487,9 +1347,7 @@ var data =
     "Citation":"Janet Schaw, Journal of a Lady of Quality; Being the Narrative of a Journey from Scotland to the West Indies,  North Carolina, and Portugal, in the Years 1774 to 1776, ed. Evangeline Walker Andrews and Charles McLean Andrews (New Haven, CT: Yale University Press, 1921), 74.",
     "Hyperlink":"https://archive.org/details/journalofladyofq00schaiala",
     "Country":"Antigua and Barbuda",
-    "Country":"",
     "Region":"Caribbean",
-    "Region":"",
     "Continent":"North America"
     }
   },
@@ -1508,9 +1366,7 @@ var data =
     "Citation":"Schaw, Janet. Journal of a Lady of Quality: Being the Narrative of a Journey from Scotland to the West Indies, North Carolina, and Portugal, in the Years 1774 to 1776. Yale Historical Publications. Manuscripts and Edited Texts ; VI. New Haven: Yale University Press, 1921, pg.120.",
     "Hyperlink":"https://archive.org/details/journalofladyofq00schaiala",
     "Country":"Island in Saint Kitts and Nevis",
-    "Country":"",
     "Region":"Caribbean",
-    "Region":"",
     "Continent":"North America"
     }
   },
@@ -1529,9 +1385,7 @@ var data =
     "Citation":"Janet Schaw, Journal of a Lady of Quality; Being the Narrative of a Journey from Scotland to the West Indies,  North Carolina, and Portugal, in the Years 1774 to 1776, ed. Evangeline Walker Andrews and Charles McLean Andrews (New Haven, CT: Yale University Press, 1921), 219-220.",
     "Hyperlink":"https://archive.org/details/journalofladyofq00schaiala",
     "Country":"Portugal",
-    "Country":"",
     "Region":"Southern Europe",
-    "Region":"",
     "Continent":"Europe"
     }
   },
@@ -1550,9 +1404,7 @@ var data =
     "Citation":"Janet Schaw, Journal of a Lady of Quality; Being the Narrative of a Journey from Scotland to the West Indies,  North Carolina, and Portugal, in the Years 1774 to 1776, ed. Evangeline Walker Andrews and Charles McLean Andrews (New Haven, CT: Yale University Press, 1921), 232-233.",
     "Hyperlink":"https://archive.org/details/journalofladyofq00schaiala",
     "Country":"Portugal",
-    "Country":"",
     "Region":"Southern Europe",
-    "Region":"",
     "Continent":"Europe"
     }
   },
@@ -1571,9 +1423,7 @@ var data =
     "Citation":"Janet Schaw, Journal of a Lady of Quality; Being the Narrative of a Journey from Scotland to the West Indies,  North Carolina, and Portugal, in the Years 1774 to 1776, ed. Evangeline Walker Andrews and Charles McLean Andrews (New Haven, CT: Yale University Press, 1921), 279.",
     "Hyperlink":"https://archive.org/details/journalofladyofq00schaiala",
     "Country":"United States",
-    "Country":"",
     "Region":"Northern America",
-    "Region":"",
     "Continent":"North America"
     }
   },
@@ -1592,9 +1442,7 @@ var data =
     "Citation":"Janet Schaw, Journal of a Lady of Quality; Being the Narrative of a Journey from Scotland to the West Indies,  North Carolina, and Portugal, in the Years 1774 to 1776, ed. Evangeline Walker Andrews and Charles McLean Andrews (New Haven, CT: Yale University Press, 1921), 232-233.",
     "Hyperlink":"https://archive.org/details/journalofladyofq00schaiala",
     "Country":"United States",
-    "Country":"",
     "Region":"Northern America",
-    "Region":"",
     "Continent":"North America"
     }
   },
@@ -1613,9 +1461,7 @@ var data =
     "Citation":"Janet Schaw, Journal of a Lady of Quality; Being the Narrative of a Journey from Scotland to the West Indies,  North Carolina, and Portugal, in the Years 1774 to 1776, ed. Evangeline Walker Andrews and Charles McLean Andrews (New Haven, CT: Yale University Press, 1921), 279-280.",
     "Hyperlink":"https://archive.org/details/journalofladyofq00schaiala",
     "Country":"United States",
-    "Country":"",
     "Region":"Northern America",
-    "Region":"",
     "Continent":"North America"
     }
   },
@@ -1634,9 +1480,7 @@ var data =
     "Citation":"Janet Schaw, Journal of a Lady of Quality; Being the Narrative of a Journey from Scotland to the West Indies,  North Carolina, and Portugal, in the Years 1774 to 1776, ed. Evangeline Walker Andrews and Charles McLean Andrews (New Haven, CT: Yale University Press, 1921), 281.",
     "Hyperlink":"https://archive.org/details/journalofladyofq00schaiala",
     "Country":"United States",
-    "Country":"",
     "Region":"Northern America",
-    "Region":"",
     "Continent":"North America"
     }
   },
@@ -1655,9 +1499,7 @@ var data =
     "Citation":"Janet Schaw, Journal of a Lady of Quality; Being the Narrative of a Journey from Scotland to the West Indies,  North Carolina, and Portugal, in the Years 1774 to 1776, ed. Evangeline Walker Andrews and Charles McLean Andrews (New Haven, CT: Yale University Press, 1921), 282.",
     "Hyperlink":"https://archive.org/details/journalofladyofq00schaiala",
     "Country":"United States",
-    "Country":"",
     "Region":"Northern America",
-    "Region":"",
     "Continent":"North America"
     }
   },
@@ -1676,9 +1518,7 @@ var data =
     "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 244.",
     "Hyperlink":"https://archive.org/details/descriptionofemp00duha",
     "Country":"China",
-    "Country":"",
     "Region":"Eastern Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -1697,9 +1537,7 @@ var data =
     "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 244.",
     "Hyperlink":"https://archive.org/details/descriptionofemp00duha",
     "Country":"China",
-    "Country":"",
     "Region":"Eastern Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -1718,9 +1556,7 @@ var data =
     "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 245.",
     "Hyperlink":"https://archive.org/details/descriptionofemp00duha",
     "Country":"China",
-    "Country":" North Korea",
     "Region":"Eastern Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -1739,9 +1575,7 @@ var data =
     "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 245.",
     "Hyperlink":"https://archive.org/details/descriptionofemp00duha",
     "Country":"China",
-    "Country":"",
     "Region":"Eastern Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -1760,9 +1594,7 @@ var data =
     "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 246.",
     "Hyperlink":"https://archive.org/details/descriptionofemp00duha",
     "Country":"China",
-    "Country":" North Korea",
     "Region":"Eastern Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -1781,9 +1613,7 @@ var data =
     "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 246.",
     "Hyperlink":"https://archive.org/details/descriptionofemp00duha",
     "Country":"Russia",
-    "Country":"",
     "Region":"Eastern Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -1802,9 +1632,7 @@ var data =
     "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 248.",
     "Hyperlink":"https://archive.org/details/descriptionofemp00duha",
     "Country":"China",
-    "Country":"",
     "Region":"Eastern Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -1823,9 +1651,7 @@ var data =
     "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 248.",
     "Hyperlink":"https://archive.org/details/descriptionofemp00duha",
     "Country":"China",
-    "Country":"",
     "Region":"Eastern Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -1844,9 +1670,7 @@ var data =
     "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 250.",
     "Hyperlink":"https://archive.org/details/descriptionofemp00duha",
     "Country":"Mongolia",
-    "Country":"",
     "Region":"Eastern Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -1865,9 +1689,7 @@ var data =
     "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 251.",
     "Hyperlink":"https://archive.org/details/descriptionofemp00duha",
     "Country":"Russia",
-    "Country":"",
     "Region":"Eastern Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -1886,9 +1708,7 @@ var data =
     "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 253.",
     "Hyperlink":"https://archive.org/details/descriptionofemp00duha",
     "Country":"China",
-    "Country":"",
     "Region":"Central Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -1907,9 +1727,7 @@ var data =
     "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 256.",
     "Hyperlink":"https://archive.org/details/descriptionofemp00duha",
     "Country":"China",
-    "Country":"",
     "Region":"Central Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -1928,9 +1746,7 @@ var data =
     "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 258.",
     "Hyperlink":"https://archive.org/details/descriptionofemp00duha",
     "Country":"China",
-    "Country":"",
     "Region":"Central Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -1949,9 +1765,7 @@ var data =
     "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 259.",
     "Hyperlink":"https://archive.org/details/descriptionofemp00duha",
     "Country":"Mongolia",
-    "Country":"",
     "Region":"Central Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -1970,9 +1784,7 @@ var data =
     "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 262.",
     "Hyperlink":"https://archive.org/details/descriptionofemp00duha",
     "Country":"Russia",
-    "Country":"",
     "Region":"Central Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -1991,9 +1803,7 @@ var data =
     "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 262.",
     "Hyperlink":"https://archive.org/details/descriptionofemp00duha",
     "Country":"Russia",
-    "Country":"",
     "Region":"Eastern Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -2012,9 +1822,7 @@ var data =
     "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 274.",
     "Hyperlink":"https://archive.org/details/descriptionofemp00duha",
     "Country":"China",
-    "Country":"",
     "Region":"Eastern Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -2033,9 +1841,7 @@ var data =
     "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 274.",
     "Hyperlink":"https://archive.org/details/descriptionofemp00duha",
     "Country":"China",
-    "Country":"",
     "Region":"Eastern Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -2054,9 +1860,7 @@ var data =
     "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 275.",
     "Hyperlink":"https://archive.org/details/descriptionofemp00duha",
     "Country":"China",
-    "Country":"",
     "Region":"Eastern Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -2075,9 +1879,7 @@ var data =
     "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 278.",
     "Hyperlink":"https://archive.org/details/descriptionofemp00duha",
     "Country":"",
-    "Country":"",
     "Region":"Eastern Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -2096,9 +1898,7 @@ var data =
     "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 278.",
     "Hyperlink":"https://archive.org/details/descriptionofemp00duha",
     "Country":"Mongolia",
-    "Country":"",
     "Region":"Eastern Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -2117,9 +1917,7 @@ var data =
     "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 282.",
     "Hyperlink":"https://archive.org/details/descriptionofemp00duha",
     "Country":"China",
-    "Country":"",
     "Region":"Eastern Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -2138,9 +1936,7 @@ var data =
     "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 282.",
     "Hyperlink":"https://archive.org/details/descriptionofemp00duha",
     "Country":"China",
-    "Country":"",
     "Region":"Eastern Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -2159,9 +1955,7 @@ var data =
     "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 302.",
     "Hyperlink":"https://archive.org/details/descriptionofemp00duha",
     "Country":"China",
-    "Country":"",
     "Region":"Eastern Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -2180,9 +1974,7 @@ var data =
     "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 302.",
     "Hyperlink":"https://archive.org/details/descriptionofemp00duha",
     "Country":"China",
-    "Country":"",
     "Region":"Eastern Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -2201,9 +1993,7 @@ var data =
     "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 302-303.",
     "Hyperlink":"https://archive.org/details/descriptionofemp00duha",
     "Country":"China",
-    "Country":"",
     "Region":"Eastern Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -2222,9 +2012,7 @@ var data =
     "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 305.",
     "Hyperlink":"https://archive.org/details/descriptionofemp00duha",
     "Country":"Mongolia",
-    "Country":"",
     "Region":"Eastern Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -2243,9 +2031,7 @@ var data =
     "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 306.",
     "Hyperlink":"https://archive.org/details/descriptionofemp00duha",
     "Country":"Russia",
-    "Country":"",
     "Region":"Eastern Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -2264,9 +2050,7 @@ var data =
     "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 308.",
     "Hyperlink":"https://archive.org/details/descriptionofemp00duha",
     "Country":"Russia",
-    "Country":"",
     "Region":"Eastern Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -2285,9 +2069,7 @@ var data =
     "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 371.",
     "Hyperlink":"https://archive.org/details/descriptionofemp00duha",
     "Country":"China",
-    "Country":" Mongolia",
     "Region":"Eastern Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -2306,9 +2088,7 @@ var data =
     "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 373.",
     "Hyperlink":"https://archive.org/details/descriptionofemp00duha",
     "Country":"China",
-    "Country":"",
     "Region":"Eastern Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -2327,9 +2107,7 @@ var data =
     "Citation":"Evliya Çelebi, Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century, trans. Joseph Hammer-Purgstall, vol. 2, 2 vols, (London: Printed by William Nicol, 60, Pall Mall, 1850), 3.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/54255/pg54255-images.html",
     "Country":"Turkey",
-    "Country":"",
     "Region":"West Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -2348,9 +2126,7 @@ var data =
     "Citation":"Evliya Çelebi, Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century, trans. Joseph Hammer-Purgstall, vol. 2, 2 vols.,(London: Printed by William Nicol, 60, Pall Mall, 1850), 4.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/54255/pg54255-images.html",
     "Country":"Turkey",
-    "Country":"",
     "Region":"West Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -2369,9 +2145,7 @@ var data =
     "Citation":"Evliya Çelebi, Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century, trans. Joseph Hammer-Purgstall, vol. 2, 2 vols.,(London: Printed by William Nicol, 60, Pall Mall, 1850), 13.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/54255/pg54255-images.html",
     "Country":"Turkey",
-    "Country":"",
     "Region":"West Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -2390,9 +2164,7 @@ var data =
     "Citation":"Evliya Çelebi, Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century, trans. Joseph Hammer-Purgstall, vol. 2, 2 vols.,(London: Printed by William Nicol, 60, Pall Mall, 1850), 13.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/54255/pg54255-images.html",
     "Country":"Turkey",
-    "Country":"",
     "Region":"West Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -2411,9 +2183,7 @@ var data =
     "Citation":"Evliya Çelebi, Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century, trans. Joseph Hammer-Purgstall, vol. 2, 2 vols.,(London: Printed by William Nicol, 60, Pall Mall, 1850), 15.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/54255/pg54255-images.html",
     "Country":"Turkey",
-    "Country":"",
     "Region":"West Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -2432,9 +2202,7 @@ var data =
     "Citation":"Evliya Çelebi, Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century, trans. Joseph Hammer-Purgstall, vol. 2, 2 vols.,(London: Printed by William Nicol, 60, Pall Mall, 1850), 15.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/54255/pg54255-images.html",
     "Country":"Turkey",
-    "Country":"",
     "Region":"West Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -2453,9 +2221,7 @@ var data =
     "Citation":"Evliya Çelebi, Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century, trans. Joseph Hammer-Purgstall, vol. 2, 2 vols.,(London: Printed by William Nicol, 60, Pall Mall, 1850), 15-16.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/54255/pg54255-images.html",
     "Country":"Turkey",
-    "Country":"",
     "Region":"West Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -2474,9 +2240,7 @@ var data =
     "Citation":"Evliya Çelebi, Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century, trans. Joseph Hammer-Purgstall, vol. 2, 2 vols.,(London: Printed by William Nicol, 60, Pall Mall, 1850), 30.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/54255/pg54255-images.html",
     "Country":"Turkey",
-    "Country":"",
     "Region":"West Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -2495,9 +2259,7 @@ var data =
     "Citation":"Evliya Çelebi, Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century, trans. Joseph Hammer-Purgstall, vol. 2, 2 vols.,(London: Printed by William Nicol, 60, Pall Mall, 1850), 31.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/54255/pg54255-images.html",
     "Country":"Turkey",
-    "Country":"",
     "Region":"West Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -2516,9 +2278,7 @@ var data =
     "Citation":"Evliya Çelebi, Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century, trans. Joseph Hammer-Purgstall, vol. 2, 2 vols.,(London: Printed by William Nicol, 60, Pall Mall, 1850), 35.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/54255/pg54255-images.html",
     "Country":"Turkey",
-    "Country":"",
     "Region":"West Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -2537,9 +2297,7 @@ var data =
     "Citation":"Evliya Çelebi, Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century, trans. Joseph Hammer-Purgstall, vol. 2, 2 vols.,(London: Printed by William Nicol, 60, Pall Mall, 1850), 35.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/54255/pg54255-images.html",
     "Country":"Turkey",
-    "Country":"",
     "Region":"West Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -2558,9 +2316,7 @@ var data =
     "Citation":"Evliya Çelebi, Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century, trans. Joseph Hammer-Purgstall, vol. 2, 2 vols.,(London: Printed by William Nicol, 60, Pall Mall, 1850), 35.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/54255/pg54255-images.html",
     "Country":"Turkey",
-    "Country":"",
     "Region":"West Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -2579,9 +2335,7 @@ var data =
     "Citation":"Evliya Çelebi, Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century, trans. Joseph Hammer-Purgstall, vol. 2, 2 vols.,(London: Printed by William Nicol, 60, Pall Mall, 1850), 36.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/54255/pg54255-images.html",
     "Country":"Turkey",
-    "Country":"",
     "Region":"West Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -2600,9 +2354,7 @@ var data =
     "Citation":"Evliya Çelebi, Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century, trans. Joseph Hammer-Purgstall, vol. 2, 2 vols.,(London: Printed by William Nicol, 60, Pall Mall, 1850), 36.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/54255/pg54255-images.html",
     "Country":"Turkey",
-    "Country":"",
     "Region":"West Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -2621,9 +2373,7 @@ var data =
     "Citation":"Evliya Çelebi, Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century, trans. Joseph Hammer-Purgstall, vol. 2, 2 vols.,(London: Printed by William Nicol, 60, Pall Mall, 1850), 37.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/54255/pg54255-images.html",
     "Country":"Turkey",
-    "Country":"",
     "Region":"West Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -2642,9 +2392,7 @@ var data =
     "Citation":"Evliya Çelebi, Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century, trans. Joseph Hammer-Purgstall, vol. 2, 2 vols.,(London: Printed by William Nicol, 60, Pall Mall, 1850), 51.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/54255/pg54255-images.html",
     "Country":"Turkey",
-    "Country":"",
     "Region":"West Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -2663,9 +2411,7 @@ var data =
     "Citation":"Evliya Çelebi, Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century, trans. Joseph Hammer-Purgstall, vol. 2, 2 vols.,(London: Printed by William Nicol, 60, Pall Mall, 1850), 52.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/54255/pg54255-images.html",
     "Country":"Georgia",
-    "Country":"",
     "Region":"West Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -2684,9 +2430,7 @@ var data =
     "Citation":"Evliya Çelebi, Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century, trans. Joseph Hammer-Purgstall, vol. 2, 2 vols.,(London: Printed by William Nicol, 60, Pall Mall, 1850), 55.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/54255/pg54255-images.html",
     "Country":"Russia",
-    "Country":"",
     "Region":"West Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -2705,9 +2449,7 @@ var data =
     "Citation":"Evliya Çelebi, Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century, trans. Joseph Hammer-Purgstall, vol. 2, 2 vols.,(London: Printed by William Nicol, 60, Pall Mall, 1850), 57.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/54255/pg54255-images.html",
     "Country":"Russia",
-    "Country":"",
     "Region":"West Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -2726,9 +2468,7 @@ var data =
     "Citation":"Evliya Çelebi, Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century, trans. Joseph Hammer-Purgstall, vol. 2, 2 vols.,(London: Printed by William Nicol, 60, Pall Mall, 1850), 58-59.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/54255/pg54255-images.html",
     "Country":"Russia",
-    "Country":"",
     "Region":"West Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -2747,9 +2487,7 @@ var data =
     "Citation":"Evliya Çelebi, Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century, trans. Joseph Hammer-Purgstall, vol. 2, 2 vols.,(London: Printed by William Nicol, 60, Pall Mall, 1850), 65.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/54255/pg54255-images.html",
     "Country":"Russia",
-    "Country":"",
     "Region":"West Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -2768,9 +2506,7 @@ var data =
     "Citation":"Evliya Çelebi, Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century, trans. Joseph Hammer-Purgstall, vol. 2, 2 vols.,(London: Printed by William Nicol, 60, Pall Mall, 1850), 72-73.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/54255/pg54255-images.html",
     "Country":"Russia",
-    "Country":"",
     "Region":"West Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -2789,9 +2525,7 @@ var data =
     "Citation":"Evliya Çelebi, Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century, trans. Joseph Hammer-Purgstall, vol. 2, 2 vols.,(London: Printed by William Nicol, 60, Pall Mall, 1850), 90-91.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/54255/pg54255-images.html",
     "Country":"Turkey",
-    "Country":"",
     "Region":"West Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -2810,9 +2544,7 @@ var data =
     "Citation":"Evliya Çelebi, Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century, trans. Joseph Hammer-Purgstall, vol. 2, 2 vols.,(London: Printed by William Nicol, 60, Pall Mall, 1850), 91-92.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/54255/pg54255-images.html",
     "Country":"Turkey",
-    "Country":"",
     "Region":"West Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -2831,9 +2563,7 @@ var data =
     "Citation":"Evliya Çelebi, Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century, trans. Joseph Hammer-Purgstall, vol. 2, 2 vols.,(London: Printed by William Nicol, 60, Pall Mall, 1850), 92.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/54255/pg54255-images.html",
     "Country":"Turkey",
-    "Country":"",
     "Region":"West Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -2852,9 +2582,7 @@ var data =
     "Citation":"Evliya Çelebi, Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century, trans. Joseph Hammer-Purgstall, vol. 2, 2 vols.,(London: Printed by William Nicol, 60, Pall Mall, 1850), 93-94.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/54255/pg54255-images.html",
     "Country":"Turkey",
-    "Country":"",
     "Region":"West Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -2873,9 +2601,7 @@ var data =
     "Citation":"Evliya Çelebi, Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century, trans. Joseph Hammer-Purgstall, vol. 2, 2 vols.,(London: Printed by William Nicol, 60, Pall Mall, 1850), 94.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/54255/pg54255-images.html",
     "Country":"Turkey",
-    "Country":"",
     "Region":"West Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -2894,9 +2620,7 @@ var data =
     "Citation":"Evliya Çelebi, Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century, trans. Joseph Hammer-Purgstall, vol. 2, 2 vols.,(London: Printed by William Nicol, 60, Pall Mall, 1850), 95.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/54255/pg54255-images.html",
     "Country":"Turkey",
-    "Country":"",
     "Region":"West Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -2915,9 +2639,7 @@ var data =
     "Citation":"Evliya Çelebi, Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century, trans. Joseph Hammer-Purgstall, vol. 2, 2 vols.,(London: Printed by William Nicol, 60, Pall Mall, 1850), 98.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/54255/pg54255-images.html",
     "Country":"Turkey",
-    "Country":"",
     "Region":"West Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -2936,9 +2658,7 @@ var data =
     "Citation":"Evliya Çelebi, Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century, trans. Joseph Hammer-Purgstall, vol. 2, 2 vols.,(London: Printed by William Nicol, 60, Pall Mall, 1850), 102-103.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/54255/pg54255-images.html",
     "Country":"Turkey",
-    "Country":"",
     "Region":"West Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -2957,9 +2677,7 @@ var data =
     "Citation":"Evliya Çelebi, Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century, trans. Joseph Hammer-Purgstall, vol. 2, 2 vols.,(London: Printed by William Nicol, 60, Pall Mall, 1850), 110.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/54255/pg54255-images.html",
     "Country":"Turkey",
-    "Country":"",
     "Region":"West Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -2978,9 +2696,7 @@ var data =
     "Citation":"Evliya Çelebi, Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century, trans. Joseph Hammer-Purgstall, vol. 2, 2 vols.,(London: Printed by William Nicol, 60, Pall Mall, 1850), 111.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/54255/pg54255-images.html",
     "Country":"Turkey",
-    "Country":"",
     "Region":"West Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -2999,9 +2715,7 @@ var data =
     "Citation":"Evliya Çelebi, Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century, trans. Joseph Hammer-Purgstall, vol. 2, 2 vols.,(London: Printed by William Nicol, 60, Pall Mall, 1850), 120.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/54255/pg54255-images.html",
     "Country":"Turkey",
-    "Country":"",
     "Region":"West Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -3020,9 +2734,7 @@ var data =
     "Citation":"Evliya Çelebi, Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century, trans. Joseph Hammer-Purgstall, vol. 2, 2 vols.,(London: Printed by William Nicol, 60, Pall Mall, 1850), 122.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/54255/pg54255-images.html",
     "Country":"Iran",
-    "Country":"",
     "Region":"West Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -3041,9 +2753,7 @@ var data =
     "Citation":"Evliya Çelebi, Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century, trans. Joseph Hammer-Purgstall, vol. 2, 2 vols.,(London: Printed by William Nicol, 60, Pall Mall, 1850), 127-128.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/54255/pg54255-images.html",
     "Country":"Azerbaijan",
-    "Country":"",
     "Region":"West Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -3062,9 +2772,7 @@ var data =
     "Citation":"Evliya Çelebi, Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century, trans. Joseph Hammer-Purgstall, vol. 2, 2 vols.,(London: Printed by William Nicol, 60, Pall Mall, 1850), 130.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/54255/pg54255-images.html",
     "Country":"Iran",
-    "Country":"",
     "Region":"West Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -3083,9 +2791,7 @@ var data =
     "Citation":"Evliya Çelebi, Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century, trans. Joseph Hammer-Purgstall, vol. 2, 2 vols.,(London: Printed by William Nicol, 60, Pall Mall, 1850), 131.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/54255/pg54255-images.html",
     "Country":"Iran",
-    "Country":"",
     "Region":"West Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -3104,9 +2810,7 @@ var data =
     "Citation":"Evliya Çelebi, Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century, trans. Joseph Hammer-Purgstall, vol. 2, 2 vols.,(London: Printed by William Nicol, 60, Pall Mall, 1850), 131-132.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/54255/pg54255-images.html",
     "Country":"Iran",
-    "Country":"",
     "Region":"West Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -3125,9 +2829,7 @@ var data =
     "Citation":"Evliya Çelebi, Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century, trans. Joseph Hammer-Purgstall, vol. 2, 2 vols.,(London: Printed by William Nicol, 60, Pall Mall, 1850), 133.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/54255/pg54255-images.html",
     "Country":"Iran",
-    "Country":"",
     "Region":"West Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -3146,9 +2848,7 @@ var data =
     "Citation":"Evliya Çelebi, Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century, trans. Joseph Hammer-Purgstall, vol. 2, 2 vols.,(London: Printed by William Nicol, 60, Pall Mall, 1850), 144-145.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/54255/pg54255-images.html",
     "Country":"Iran",
-    "Country":"",
     "Region":"West Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -3167,9 +2867,7 @@ var data =
     "Citation":"Evliya Çelebi, Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century, trans. Joseph Hammer-Purgstall, vol. 2, 2 vols.,(London: Printed by William Nicol, 60, Pall Mall, 1850), 146-147.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/54255/pg54255-images.html",
     "Country":"Iran",
-    "Country":"",
     "Region":"West Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -3188,9 +2886,7 @@ var data =
     "Citation":"Evliya Çelebi, Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century, trans. Joseph Hammer-Purgstall, vol. 2, 2 vols.,(London: Printed by William Nicol, 60, Pall Mall, 1850), 146.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/54255/pg54255-images.html",
     "Country":"Iran",
-    "Country":"",
     "Region":"West Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -3209,9 +2905,7 @@ var data =
     "Citation":"Evliya Çelebi, Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century, trans. Joseph Hammer-Purgstall, vol. 2, 2 vols.,(London: Printed by William Nicol, 60, Pall Mall, 1850), 148.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/54255/pg54255-images.html",
     "Country":"Iran",
-    "Country":"",
     "Region":"West Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -3230,9 +2924,7 @@ var data =
     "Citation":"Evliya Çelebi, Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century, trans. Joseph Hammer-Purgstall, vol. 2, 2 vols.,(London: Printed by William Nicol, 60, Pall Mall, 1850), 153-154.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/54255/pg54255-images.html",
     "Country":"Armenia",
-    "Country":"",
     "Region":"West Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -3251,9 +2943,7 @@ var data =
     "Citation":"Evliya Çelebi, Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century, trans. Joseph Hammer-Purgstall, vol. 2, 2 vols.,(London: Printed by William Nicol, 60, Pall Mall, 1850), 154.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/54255/pg54255-images.html",
     "Country":"Azerbaijan",
-    "Country":"",
     "Region":"West Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -3272,9 +2962,7 @@ var data =
     "Citation":"Evliya Çelebi, Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century, trans. Joseph Hammer-Purgstall, vol. 2, 2 vols.,(London: Printed by William Nicol, 60, Pall Mall, 1850), 155.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/54255/pg54255-images.html",
     "Country":"Azerbaijan",
-    "Country":"",
     "Region":"West Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -3293,9 +2981,7 @@ var data =
     "Citation":"Evliya Çelebi, Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century, trans. Joseph Hammer-Purgstall, vol. 2, 2 vols.,(London: Printed by William Nicol, 60, Pall Mall, 1850), 160.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/54255/pg54255-images.html",
     "Country":"Azerbaijan",
-    "Country":"",
     "Region":"West Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -3314,9 +3000,7 @@ var data =
     "Citation":"Evliya Çelebi, Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century, trans. Joseph Hammer-Purgstall, vol. 2, 2 vols.,(London: Printed by William Nicol, 60, Pall Mall, 1850), 162.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/54255/pg54255-images.html",
     "Country":"Azerbaijan",
-    "Country":"",
     "Region":"West Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -3335,9 +3019,7 @@ var data =
     "Citation":"Evliya Çelebi, Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century, trans. Joseph Hammer-Purgstall, vol. 2, 2 vols.,(London: Printed by William Nicol, 60, Pall Mall, 1850), 165.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/54255/pg54255-images.html",
     "Country":"Azerbaijan",
-    "Country":"",
     "Region":"West Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -3356,9 +3038,7 @@ var data =
     "Citation":"Evliya Çelebi, Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century, trans. Joseph Hammer-Purgstall, vol. 2, 2 vols.,(London: Printed by William Nicol, 60, Pall Mall, 1850), 166-167.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/54255/pg54255-images.html",
     "Country":"Russia",
-    "Country":"",
     "Region":"West Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -3377,9 +3057,7 @@ var data =
     "Citation":"Evliya Çelebi, Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century, trans. Joseph Hammer-Purgstall, vol. 2, 2 vols.,(London: Printed by William Nicol, 60, Pall Mall, 1850), 167.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/54255/pg54255-images.html",
     "Country":"Russia",
-    "Country":"",
     "Region":"West Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -3398,9 +3076,7 @@ var data =
     "Citation":"Evliya Çelebi, Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century, trans. Joseph Hammer-Purgstall, vol. 2, 2 vols.,(London: Printed by William Nicol, 60, Pall Mall, 1850), 172.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/54255/pg54255-images.html",
     "Country":"Georgia",
-    "Country":"",
     "Region":"West Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -3419,9 +3095,7 @@ var data =
     "Citation":"Evliya Çelebi, Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century, trans. Joseph Hammer-Purgstall, vol. 2, 2 vols.,(London: Printed by William Nicol, 60, Pall Mall, 1850), 174, 176-177.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/54255/pg54255-images.html",
     "Country":"Armenia",
-    "Country":"",
     "Region":"West Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -3440,9 +3114,7 @@ var data =
     "Citation":"Evliya Çelebi, Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century, trans. Joseph Hammer-Purgstall, vol. 2, 2 vols.,(London: Printed by William Nicol, 60, Pall Mall, 1850), 182.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/54255/pg54255-images.html",
     "Country":"Turkey",
-    "Country":"",
     "Region":"West Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -3461,9 +3133,7 @@ var data =
     "Citation":"Evliya Çelebi, Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century, trans. Joseph Hammer-Purgstall, vol. 2, 2 vols.,(London: Printed by William Nicol, 60, Pall Mall, 1850), 191.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/54255/pg54255-images.html",
     "Country":"Turkey",
-    "Country":"",
     "Region":"West Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -3482,9 +3152,7 @@ var data =
     "Citation":"Evliya Çelebi, Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century, trans. Joseph Hammer-Purgstall, vol. 2, 2 vols.,(London: Printed by William Nicol, 60, Pall Mall, 1850), 210.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/54255/pg54255-images.html",
     "Country":"Turkey",
-    "Country":"",
     "Region":"West Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -3503,9 +3171,7 @@ var data =
     "Citation":"Evliya Çelebi, Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century, trans. Joseph Hammer-Purgstall, vol. 2, 2 vols.,(London: Printed by William Nicol, 60, Pall Mall, 1850), 211.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/54255/pg54255-images.html",
     "Country":"Turkey",
-    "Country":"",
     "Region":"West Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -3524,9 +3190,7 @@ var data =
     "Citation":"Evliya Çelebi, Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century, trans. Joseph Hammer-Purgstall, vol. 2, 2 vols.,(London: Printed by William Nicol, 60, Pall Mall, 1850), 212-213.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/54255/pg54255-images.html",
     "Country":"Turkey",
-    "Country":"",
     "Region":"West Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -3545,9 +3209,7 @@ var data =
     "Citation":"Evliya Çelebi, Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century, trans. Joseph Hammer-Purgstall, vol. 2, 2 vols.,(London: Printed by William Nicol, 60, Pall Mall, 1850), 230-231.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/54255/pg54255-images.html",
     "Country":"Turkey",
-    "Country":"",
     "Region":"West Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -3566,9 +3228,7 @@ var data =
     "Citation":"Evliya Çelebi, Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century, trans. Joseph Hammer-Purgstall, vol. 2, 2 vols.,(London: Printed by William Nicol, 60, Pall Mall, 1850), 239-240.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/54255/pg54255-images.html",
     "Country":"Turkey",
-    "Country":"",
     "Region":"West Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -3587,9 +3247,7 @@ var data =
     "Citation":"Evliya Çelebi, Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century, trans. Joseph Hammer-Purgstall, vol. 2, 2 vols.,(London: Printed by William Nicol, 60, Pall Mall, 1850), 241.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/54255/pg54255-images.html",
     "Country":"Turkey",
-    "Country":"",
     "Region":"West Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -3608,9 +3266,7 @@ var data =
     "Citation":"Evliya Çelebi, Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century, trans. Joseph Hammer-Purgstall, vol. 2, 2 vols.,(London: Printed by William Nicol, 60, Pall Mall, 1850), 242.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/54255/pg54255-images.html",
     "Country":"Turkey",
-    "Country":"",
     "Region":"West Asia",
-    "Region":"",
     "Continent":"Asia"
     }
   },
@@ -3629,9 +3285,7 @@ var data =
     "Citation":"Burton E. Stevenson, The Charm of Ireland (New York: Dodd, Mead and Company, 1914), 9.",
     "Hyperlink":"https://www.gutenberg.org/ebooks/35529",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -3650,9 +3304,7 @@ var data =
     "Citation":"Burton E. Stevenson, The Charm of Ireland (New York: Dodd, Mead and Company, 1914), 62.",
     "Hyperlink":"https://www.gutenberg.org/ebooks/35530",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -3671,9 +3323,7 @@ var data =
     "Citation":"Burton E. Stevenson, The Charm of Ireland (New York: Dodd, Mead and Company, 1914), 85.",
     "Hyperlink":"https://www.gutenberg.org/ebooks/35531",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -3692,9 +3342,7 @@ var data =
     "Citation":"Burton E. Stevenson, The Charm of Ireland (New York: Dodd, Mead and Company, 1914), 99.",
     "Hyperlink":"https://www.gutenberg.org/ebooks/35532",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -3713,9 +3361,7 @@ var data =
     "Citation":"Burton E. Stevenson, The Charm of Ireland (New York: Dodd, Mead and Company, 1914), 116-7.",
     "Hyperlink":"https://www.gutenberg.org/ebooks/35533",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -3734,9 +3380,7 @@ var data =
     "Citation":"Burton E. Stevenson, The Charm of Ireland (New York: Dodd, Mead and Company, 1914), 148-9.",
     "Hyperlink":"https://www.gutenberg.org/ebooks/35534",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -3755,9 +3399,7 @@ var data =
     "Citation":"Burton E. Stevenson, The Charm of Ireland (New York: Dodd, Mead and Company, 1914), 193-4.",
     "Hyperlink":"https://www.gutenberg.org/ebooks/35535",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -3776,9 +3418,7 @@ var data =
     "Citation":"Burton E. Stevenson, The Charm of Ireland (New York: Dodd, Mead and Company, 1914), 231-2.",
     "Hyperlink":"https://www.gutenberg.org/ebooks/35536",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -3797,9 +3437,7 @@ var data =
     "Citation":"Burton E. Stevenson, The Charm of Ireland (New York: Dodd, Mead and Company, 1914), 247.",
     "Hyperlink":"https://www.gutenberg.org/ebooks/35537",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -3818,9 +3456,7 @@ var data =
     "Citation":"Burton E. Stevenson, The Charm of Ireland (New York: Dodd, Mead and Company, 1914), 267-8.",
     "Hyperlink":"https://www.gutenberg.org/ebooks/35538",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -3839,9 +3475,7 @@ var data =
     "Citation":"Burton E. Stevenson, The Charm of Ireland (New York: Dodd, Mead and Company, 1914), 285-6.",
     "Hyperlink":"https://www.gutenberg.org/ebooks/35539",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -3860,9 +3494,7 @@ var data =
     "Citation":"Burton E. Stevenson, The Charm of Ireland (New York: Dodd, Mead and Company, 1914), 295-6.",
     "Hyperlink":"https://www.gutenberg.org/ebooks/35540",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -3881,9 +3513,7 @@ var data =
     "Citation":"Burton E. Stevenson, The Charm of Ireland (New York: Dodd, Mead and Company, 1914), 343.",
     "Hyperlink":"https://www.gutenberg.org/ebooks/35541",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -3902,9 +3532,7 @@ var data =
     "Citation":"Burton E. Stevenson, The Charm of Ireland (New York: Dodd, Mead and Company, 1914), 347.",
     "Hyperlink":"https://www.gutenberg.org/ebooks/35542",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -3923,9 +3551,7 @@ var data =
     "Citation":"Burton E. Stevenson, The Charm of Ireland (New York: Dodd, Mead and Company, 1914), 391.",
     "Hyperlink":"https://www.gutenberg.org/ebooks/35543",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -3944,9 +3570,7 @@ var data =
     "Citation":"Burton E. Stevenson, The Charm of Ireland (New York: Dodd, Mead and Company, 1914), 400-401.",
     "Hyperlink":"https://www.gutenberg.org/ebooks/35544",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -3965,9 +3589,7 @@ var data =
     "Citation":"Burton E. Stevenson, The Charm of Ireland (New York: Dodd, Mead and Company, 1914), 415-416.",
     "Hyperlink":"https://www.gutenberg.org/ebooks/35545",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -3986,9 +3608,7 @@ var data =
     "Citation":"Burton E. Stevenson, The Charm of Ireland (New York: Dodd, Mead and Company, 1914), 420.",
     "Hyperlink":"https://www.gutenberg.org/ebooks/35546",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -4007,9 +3627,7 @@ var data =
     "Citation":"Burton E. Stevenson, The Charm of Ireland (New York: Dodd, Mead and Company, 1914), 464-5.",
     "Hyperlink":"https://www.gutenberg.org/ebooks/35547",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -4028,9 +3646,7 @@ var data =
     "Citation":"Burton E. Stevenson, The Charm of Ireland (New York: Dodd, Mead and Company, 1914), 482-3.",
     "Hyperlink":"https://www.gutenberg.org/ebooks/35548",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -4049,9 +3665,7 @@ var data =
     "Citation":"Burton E. Stevenson, The Charm of Ireland (New York: Dodd, Mead and Company, 1914), 494.",
     "Hyperlink":"https://www.gutenberg.org/ebooks/35549",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -4070,9 +3684,7 @@ var data =
     "Citation":"Burton E. Stevenson, The Charm of Ireland (New York: Dodd, Mead and Company, 1914), 514-5.",
     "Hyperlink":"https://www.gutenberg.org/ebooks/35550",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -4091,9 +3703,7 @@ var data =
     "Citation":"Burton E. Stevenson, The Charm of Ireland (New York: Dodd, Mead and Company, 1914), 522-523.",
     "Hyperlink":"https://www.gutenberg.org/ebooks/35551",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -4112,9 +3722,7 @@ var data =
     "Citation":"Burton E. Stevenson, The Charm of Ireland (New York: Dodd, Mead and Company, 1914), 527-528.",
     "Hyperlink":"https://www.gutenberg.org/ebooks/35552",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -4133,9 +3741,7 @@ var data =
     "Citation":"Burton E. Stevenson, The Charm of Ireland (New York: Dodd, Mead and Company, 1914), 538-9.",
     "Hyperlink":"https://www.gutenberg.org/ebooks/35553",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -4154,9 +3760,7 @@ var data =
     "Citation":"Burton E. Stevenson, The Charm of Ireland (New York: Dodd, Mead and Company, 1914), 546.",
     "Hyperlink":"https://www.gutenberg.org/ebooks/35554",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -4175,9 +3779,7 @@ var data =
     "Citation":"Burton E. Stevenson, The Charm of Ireland (New York: Dodd, Mead and Company, 1914), 553-4.",
     "Hyperlink":"https://www.gutenberg.org/ebooks/35555",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -4196,9 +3798,7 @@ var data =
     "Citation":"Burton E. Stevenson, The Charm of Ireland (New York: Dodd, Mead and Company, 1914), 555-6.",
     "Hyperlink":"https://www.gutenberg.org/ebooks/35556",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -4217,9 +3817,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909), 9-10.",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43921",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -4238,9 +3836,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909), 15-6.",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43922",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -4259,9 +3855,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909), 32-3.",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43923",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -4280,9 +3874,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909), 48-9.",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43924",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -4301,9 +3893,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909), 53-5.",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43925",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -4322,9 +3912,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909), 78-9.",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43926",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -4343,9 +3931,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909), 91-3.",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43927",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -4364,9 +3950,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909), 97-8.",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43928",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -4385,9 +3969,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909), 99-102.",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43929",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -4406,9 +3988,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909), 102-111.",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43930",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -4427,9 +4007,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909), 115.",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43931",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -4448,9 +4026,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909).",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43932",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -4469,9 +4045,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909).",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43933",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -4490,9 +4064,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909).",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43934",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -4511,9 +4083,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909).",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43935",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -4532,9 +4102,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909).",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43936",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -4553,9 +4121,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909).",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43937",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -4574,9 +4140,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909).",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43938",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -4595,9 +4159,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909).",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43939",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -4616,9 +4178,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909).",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43940",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -4637,9 +4197,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909).",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43941",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -4658,9 +4216,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909).",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43942",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -4679,9 +4235,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909).",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43943",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -4700,9 +4254,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909).",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43944",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -4721,9 +4273,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909).",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43945",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -4742,9 +4292,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909).",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43946",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -4763,9 +4311,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909).",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43947",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -4784,9 +4330,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909).",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43948",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -4805,9 +4349,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909).",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43949",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -4826,9 +4368,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909).",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43950",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -4847,9 +4387,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909).",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43951",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -4868,9 +4406,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909).",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43952",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -4889,9 +4425,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909).",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43953",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -4910,9 +4444,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909).",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43954",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -4931,9 +4463,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909).",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43955",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -4952,9 +4482,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909).",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43956",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -4973,9 +4501,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909).",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43957",
     "Country":"Ireland",
-    "Country":"",
     "Region":"Western Europe",
-    "Region":" British Isles",
     "Continent":"Europe"
     }
   },
@@ -4994,9 +4520,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 23-24.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Mexico",
-    "Country":"",
     "Region":"Central America",
-    "Region":" Latin America",
     "Continent":"North America"
     }
   },
@@ -5015,9 +4539,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 26.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Mexico",
-    "Country":"",
     "Region":"Central America",
-    "Region":" Latin America",
     "Continent":"North America"
     }
   },
@@ -5036,9 +4558,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), ",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Mexico",
-    "Country":"",
     "Region":"Central America",
-    "Region":" Latin America",
     "Continent":"North America"
     }
   },
@@ -5057,9 +4577,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), ",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Mexico",
-    "Country":"",
     "Region":"Central America",
-    "Region":" Latin America",
     "Continent":"North America"
     }
   },
@@ -5078,9 +4596,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 43.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Mexico",
-    "Country":"",
     "Region":"Central America",
-    "Region":" Latin America",
     "Continent":"North America"
     }
   },
@@ -5099,9 +4615,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 43.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Mexico",
-    "Country":"",
     "Region":"Central America",
-    "Region":" Latin America",
     "Continent":"North America"
     }
   },
@@ -5120,9 +4634,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 56.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Mexico",
-    "Country":"",
     "Region":"Central America",
-    "Region":" Latin America",
     "Continent":"North America"
     }
   },
@@ -5141,9 +4653,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 59.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Mexico",
-    "Country":"",
     "Region":"Central America",
-    "Region":" Latin America",
     "Continent":"North America"
     }
   },
@@ -5162,9 +4672,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 70.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Mexico",
-    "Country":"",
     "Region":"Central America",
-    "Region":" Latin America",
     "Continent":"North America"
     }
   },
@@ -5183,9 +4691,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 70.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Mexico",
-    "Country":"",
     "Region":"Central America",
-    "Region":" Latin America",
     "Continent":"North America"
     }
   },
@@ -5204,9 +4710,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 70-71.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Mexico",
-    "Country":"",
     "Region":"Central America",
-    "Region":" Latin America",
     "Continent":"North America"
     }
   },
@@ -5225,9 +4729,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 71.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Mexico",
-    "Country":"",
     "Region":"Central America",
-    "Region":" Latin America",
     "Continent":"North America"
     }
   },
@@ -5246,9 +4748,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 72-73.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Mexico",
-    "Country":"",
     "Region":"Central America",
-    "Region":" Latin America",
     "Continent":"North America"
     }
   },
@@ -5267,9 +4767,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 78.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Venezuela",
-    "Country":"",
     "Region":"South America",
-    "Region":" Latin America",
     "Continent":"South America"
     }
   },
@@ -5288,9 +4786,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 79.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Jamaica",
-    "Country":"",
     "Region":"Caribbean",
-    "Region":"",
     "Continent":"North America"
     }
   },
@@ -5309,9 +4805,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 79.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Cuba",
-    "Country":"",
     "Region":"Caribbean",
-    "Region":" Latin America",
     "Continent":"North America"
     }
   },
@@ -5330,9 +4824,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 80.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Haiti and the Dominican Republic",
-    "Country":"",
     "Region":"Caribbean",
-    "Region":"",
     "Continent":"North America"
     }
   },
@@ -5351,9 +4843,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 84-85.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Mexico",
-    "Country":"",
     "Region":"Central America",
-    "Region":" Latin America",
     "Continent":"North America"
     }
   },
@@ -5372,9 +4862,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 85.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Mexico",
-    "Country":"",
     "Region":"Central America",
-    "Region":" Latin America",
     "Continent":"North America"
     }
   },
@@ -5393,9 +4881,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 85-86.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Mexico",
-    "Country":"",
     "Region":"Central America",
-    "Region":" Latin America",
     "Continent":"North America"
     }
   },
@@ -5414,9 +4900,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 87.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Mexico",
-    "Country":"",
     "Region":"Central America",
-    "Region":" Latin America",
     "Continent":"North America"
     }
   },
@@ -5435,9 +4919,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 87.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Mexico",
-    "Country":"",
     "Region":"Central America",
-    "Region":" Latin America",
     "Continent":"North America"
     }
   },
@@ -5456,9 +4938,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 89.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Mexico",
-    "Country":"",
     "Region":"Central America",
-    "Region":" Latin America",
     "Continent":"North America"
     }
   },
@@ -5477,9 +4957,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 91.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Mexico",
-    "Country":"",
     "Region":"Central America",
-    "Region":" Latin America",
     "Continent":"North America"
     }
   },
@@ -5498,9 +4976,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 99.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Mexico",
-    "Country":"",
     "Region":"Central America",
-    "Region":" Latin America",
     "Continent":"North America"
     }
   },
@@ -5519,9 +4995,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 111.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Guatemala",
-    "Country":"",
     "Region":"Central America",
-    "Region":" Latin America",
     "Continent":"North America"
     }
   },
@@ -5540,9 +5014,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 113.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Guatemala",
-    "Country":"",
     "Region":"Central America",
-    "Region":" Latin America",
     "Continent":"North America"
     }
   },
@@ -5561,9 +5033,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 113.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Guatemala",
-    "Country":"",
     "Region":"Central America",
-    "Region":" Latin America",
     "Continent":"North America"
     }
   },
@@ -5582,9 +5052,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 113-114.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Guatemala",
-    "Country":"",
     "Region":"Central America",
-    "Region":" Latin America",
     "Continent":"North America"
     }
   },
@@ -5603,9 +5071,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 114.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Guatemala",
-    "Country":"",
     "Region":"Central America",
-    "Region":" Latin America",
     "Continent":"North America"
     }
   },
@@ -5624,9 +5090,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 116.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Guatemala",
-    "Country":"",
     "Region":"Central America",
-    "Region":" Latin America",
     "Continent":"North America"
     }
   },
@@ -5645,9 +5109,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 116.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Guatemala",
-    "Country":"",
     "Region":"Central America",
-    "Region":" Latin America",
     "Continent":"North America"
     }
   },
@@ -5666,9 +5128,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 116-117.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Guatemala",
-    "Country":"",
     "Region":"Central America",
-    "Region":" Latin America",
     "Continent":"North America"
     }
   },
@@ -5687,9 +5147,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 117-118.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Guatemala",
-    "Country":"",
     "Region":"Central America",
-    "Region":" Latin America",
     "Continent":"North America"
     }
   },
@@ -5708,9 +5166,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 118.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Guatemala",
-    "Country":"",
     "Region":"Central America",
-    "Region":" Latin America",
     "Continent":"North America"
     }
   },
@@ -5729,9 +5185,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 123.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Guatemala",
-    "Country":"",
     "Region":"Central America",
-    "Region":" Latin America",
     "Continent":"North America"
     }
   },
@@ -5750,9 +5204,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 132.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Guatemala",
-    "Country":"",
     "Region":"Central America",
-    "Region":" Latin America",
     "Continent":"North America"
     }
   },
@@ -5771,9 +5223,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 133.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Guatemala",
-    "Country":"",
     "Region":"Central America",
-    "Region":" Latin America",
     "Continent":"North America"
     }
   },
@@ -5792,9 +5242,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 137.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Guatemala",
-    "Country":"",
     "Region":"Central America",
-    "Region":" Latin America",
     "Continent":"North America"
     }
   },
@@ -5813,9 +5261,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 183.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Guatemala",
-    "Country":"",
     "Region":"Central America",
-    "Region":" Latin America",
     "Continent":"North America"
     }
   },
@@ -5834,9 +5280,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 183.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"El Salvador",
-    "Country":"",
     "Region":"Central America",
-    "Region":" Latin America",
     "Continent":"North America"
     }
   },
@@ -5855,9 +5299,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 185.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Nicaragua",
-    "Country":"",
     "Region":"Central America",
-    "Region":" Latin America",
     "Continent":"North America"
     }
   }

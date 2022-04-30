@@ -2,8 +2,8 @@
 
 //Define map start up options, here defined to center on Italy
 		var mapOptions = {
-			center: [53,-7.9], //set center
-			zoom: 6.25 , //set initial zoom
+			center: [53,-7.6], //set center
+			zoom: 6 , //set initial zoom
 			maxZoom : 7,  //set max zoom
 			minZoom : 1,
 			maxBounds: [ [-90, -180] , [90,180] ],
@@ -26,7 +26,7 @@ var places = L.geoJson(data, {
 	onEachFeature: popUp,
 	filter:
 		function (feature, layer) {
-				return (feature.properties.Region=='Western Europe');
+				return (feature.properties.Country=='Ireland');
 			}
 		}
 );
@@ -131,8 +131,8 @@ noUiSlider.create(yearSlider, {
         stepped: true
     },
     range: {
-        'min': 1500,
-        'max': 1920
+        'min': 1900,
+        'max': 1925
     },
 		format: wNumb({
         decimals: 0})
@@ -142,7 +142,7 @@ var yearValues = [
 	document.getElementById('event-end')
 ];
 yearValues[0].innerHTML=1500;
-yearValues[1].innerHTML=1920;
+yearValues[1].innerHTML=1900;
 
 yearSlider.noUiSlider.on('change', function (values, handle) {
 	yearValues[handle].innerHTML = values[handle];
