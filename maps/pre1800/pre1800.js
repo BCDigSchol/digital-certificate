@@ -61,11 +61,10 @@ function popUp(f,l) {
 	//adds spaces in between entries
 	if (f.properties) {
 		out.push(f.properties.PlaceName + ' (' + f.properties.PlaceNameModern + ') <br>');
+		out.push('<a href="'+ f.properties.Hyperlink + '" target="_blank">Read the Text</a>');  //allows for link to external URL via attribute in .geoJson table
 		out.push('<b>Traveller: </b>' + f.properties.NameOfTraveler);
 		out.push('<b>Date: </b>' + f.properties.YearOfTravel);
 		out.push('<b>Description: </b>' + f.properties.Description);
-		out.push('<br>');
-		out.push('<a href="'+ f.properties.Hyperlink + '" target="_blank">Link</a>');  //allows for link to external URL via attribute in .geoJson table
 		out.push('<b>Citation: </b>' + f.properties.Citation);
 		l.bindPopup(out.join("<br />"));
 	}
