@@ -2,7 +2,7 @@
 
 //Define map start up options, here defined to center on Italy
 		var mapOptions = {
-			center: [53,-8.5], //set center
+			center: [53,-7.6], //set center
 			zoom: 6 , //set initial zoom
 			maxZoom : 7,  //set max zoom
 			minZoom : 1,
@@ -121,7 +121,7 @@ function popUp(f,l) {
 
 var yearSlider = document.getElementById('slider-year');
 noUiSlider.create(yearSlider, {
-    start: [1500, 1900],
+    start: [1900, 1920],
     connect: true,
 		step:5,
 		pips: {
@@ -131,8 +131,8 @@ noUiSlider.create(yearSlider, {
         stepped: true
     },
     range: {
-        'min': 1800,
-        'max': 1920
+        'min': 1900,
+        'max': 1925
     },
 		format: wNumb({
         decimals: 0})
