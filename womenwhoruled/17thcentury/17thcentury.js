@@ -2,8 +2,8 @@
 
 //Define map start up options, here defined to center on Italy
 		var mapOptions = {
-			center: [53,-8.5], //set center
-			zoom: 6 , //set initial zoom
+			center: [18,-89], //set center
+			zoom: 5 , //set initial zoom
 			maxZoom : 7,  //set max zoom
 			minZoom : 1,
 			maxBounds: [ [-90, -180] , [90,180] ],
@@ -26,7 +26,7 @@ var places = L.geoJson(data, {
 	onEachFeature: popUp,
 	filter:
 		function (feature, layer) {
-				return (feature.properties.Country=='Ireland');
+				return (feature.properties.NameOfTraveler=='Thomas Gage');
 			}
 		}
 );
@@ -131,8 +131,8 @@ noUiSlider.create(yearSlider, {
         stepped: true
     },
     range: {
-        'min': 1800,
-        'max': 1920
+        'min': 1500,
+        'max': 1900
     },
 		format: wNumb({
         decimals: 0})
