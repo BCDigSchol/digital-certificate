@@ -42,10 +42,8 @@ function popUp(f,l) {
 	var photoImg = '<img src="'+f.properties.ImageURL+'" width="300px" />';
 	var out = [];
 	if (f.properties) {
-		out.push('<h3>' + f.properties.Artist + ' (b. ' + f.properties.Birth +' , '+ 'd. '+ f.properties.Death+ ')' + ' </h3> ');
-		out.push ('<strong>' + 'State: ' + '</strong>' + f.properties.StateRuled + ', now ' + f.properties.StateContemporary + '.');
-		out.push ('<strong>' + 'Ruled: ' + '</strong>' + f.properties.Reign_Begin + ' until ' + f.properties.Reign_End);
-		out.push('<strong>' + 'Title: ' + '</strong>' + f.properties.Title );
+		out.push('<strong>' + f.properties.Artist + ' </strong> (' + 'b.' + f.properties.Birth +' - '+ 'd.'+f.properties.Death+ ')');
+		out.push('Ruled in ' + f.properties.StateRuled + ' from ' + f.properties.Reign_Begin +' to '+f.properties.Reign_End+ '');
 		out.push('<a href="' +f.properties.ImageURL + '" target="_blank">' + photoImg +'</a>');
 		out.push(f.properties.HostInstitution);
 		l.bindPopup(out.join("<br />"));
