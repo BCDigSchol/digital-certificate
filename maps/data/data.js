@@ -1,4 +1,5 @@
 var data =
+
 {
    "type": "FeatureCollection",
    "features": [
@@ -5680,6 +5681,557 @@ var data =
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Nicaragua",
     "Region":"Central America; Latin America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.51335,41.29293 ]
+    },
+    "properties": {
+    "PlaceName":"Silver Creek",
+    "PlaceNameModern":"Silver Creek",
+    "NameOfTraveler":"Kate Dunlap",
+    "YearOfTravel":1864,
+    "Description":"This morning the boys were not ready to start having some repairing to do. We drove on to Silver creek for dinner. This is a narrow stream, winding its way like a silver thread among the green hills. The water is as  clear as a crystal. Most of these prairie streams are deep and narrow. Drove out to Musketo Creek one mile and a half from Council Bliffs and struck our night camp. ",
+    "Citation":"Dunlap, Kate, and Joni Poppitz Stimpson. \"Dunlap, Kate, 1837-1901.\" BYU Library Digital Collections, 2002. Computer Text Data, available in PDF, https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/.",
+    "Hyperlink":"https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/",
+    "Country":"United States of America",
+    "Region":"Nothern America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.86083,41.26194 ]
+    },
+    "properties": {
+    "PlaceName":"Council Bluffs, IA",
+    "PlaceNameModern":"Council Bluffs, IA",
+    "NameOfTraveler":"Kate Dunlap",
+    "YearOfTravel":1864,
+    "Description":"We arrived at Council Bluffs about 9 o'clock and the boys about 12 o'clock. We cant get  across the river for several days. Hundreds of teams are waiting their turn, and frequently fights and confusion ensue. A sad accident happened to day. A little girl was josteled out of the wagon as it drove on to the ferry boat. was run over and killed They had started from  this place; They returned to bury their child. We are camped under some alder trees on the north street of the city Mr. D. is getting an entire new set of wheels put up, insured to stand the trip -- cost about 35$ he is also trying to buy another span of horses, for it is perfect folly for us to start with only two, but it does seem as if he could not just suit him self, if he cannot than we will in all probability return home ward. -- While here I have been baking, washing  ironing, &c. Sunday evening we took a walk to the top of a bluff north of the city. The old Indian paths are yet to be seem. We had a full view of the City and surronding country. There is a range of bluffs on each side of the City which is situated about 3 miles from the river. As I gazed on the busy throng below, my thougths were carried back to the dusky race, which, a short time ago, in this very spot, erected their \"wigwams,\"  whose council fires have died out  and they are being driven to the remotest corner of the continent. Here a fine city has sprung up like magic, which bids fair to be one of the greatest of the west.",
+    "Citation":"Dunlap, Kate, and Joni Poppitz Stimpson. \"Dunlap, Kate, 1837-1901.\" BYU Library Digital Collections, 2002. Computer Text Data, available in PDF, https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/.",
+    "Hyperlink":"https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/",
+    "Country":"United States of America",
+    "Region":"Nothern America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.9345,41.25653 ]
+    },
+    "properties": {
+    "PlaceName":"Omaha, NE",
+    "PlaceNameModern":"Omaha, NE",
+    "NameOfTraveler":"Kate Dunlap",
+    "YearOfTravel":1864,
+    "Description":"As we are about to strike out upon the plains on our long and tedious journey, it is expedient to secure evry needful article, before leaving Omaha. Groceries of evry kind are very dear; also hardware, and such goods as are in demand for emigrants. Omaha is a great outfitting place, and is fast becoming a wealthy place. It is not over ten years  since the first houses were built here and now large business houses, handsome and costly dwellings, hotels, and churches adorn evry street. The State House is a magnificent building situated on the top of  a bluff commanding a full view of the city and surrounding country.",
+    "Citation":"Dunlap, Kate, and Joni Poppitz Stimpson. \"Dunlap, Kate, 1837-1901.\" BYU Library Digital Collections, 2002. Computer Text Data, available in PDF, https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/.",
+    "Hyperlink":"https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/",
+    "Country":"United States of America",
+    "Region":"Nothern America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.28267,41.29371 ]
+    },
+    "properties": {
+    "PlaceName":"Elk Horn River, NE",
+    "PlaceNameModern":"Elkhorn River, NE",
+    "NameOfTraveler":"Kate Dunlap",
+    "YearOfTravel":1864,
+    "Description":"Passed Elk Horn City and camped for the night at Bridgeport on the Elk Horn river. making 33 miles. The roads are somewhat hilly but hard and smooth. Our new horses \"Bill\" & \"Dick\" prove to be noble work animals, and we think if there is a team on the road, that will make the trip, it is ours. The Elk Horn is a beautiful stream, winding its way southward through a fertile valley, and emptying into the Platte. We tried to catch some fish but were unsuccessful.",
+    "Citation":"Dunlap, Kate, and Joni Poppitz Stimpson. \"Dunlap, Kate, 1837-1901.\" BYU Library Digital Collections, 2002. Computer Text Data, available in PDF, https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/.",
+    "Hyperlink":"https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/",
+    "Country":"United States of America",
+    "Region":"Nothern America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.19914,41.39111 ]
+    },
+    "properties": {
+    "PlaceName":"Platte River, NE",
+    "PlaceNameModern":"Platte River, NE",
+    "NameOfTraveler":"Kate Dunlap",
+    "YearOfTravel":1864,
+    "Description":"Kept along the Platte, some times on the bank, but generally, from a mile to a half mile distant. The Platte is a wide and shallow stream, shifting about among numerous Islands and at certain seasons of the year, almost loosing itsself. The prairie comes directly up to the river, there seldom being any high banks with only here and there narrow skirts of cotton wood [...] Indians are becoming quite numerous but are friendly. The country  is now thicker settled than  any since we left Omaha Crops and gardens are looking  well. Made 27 miles and Camped  near a store on the Platte.",
+    "Citation":"Dunlap, Kate, and Joni Poppitz Stimpson. \"Dunlap, Kate, 1837-1901.\" BYU Library Digital Collections, 2002. Computer Text Data, available in PDF, https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/.",
+    "Hyperlink":"https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/",
+    "Country":"United States of America",
+    "Region":"Nothern America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.35939,41.43029 ]
+    },
+    "properties": {
+    "PlaceName":"Columbus, NE",
+    "PlaceNameModern":"Columbus, NE",
+    "NameOfTraveler":"Kate Dunlap",
+    "YearOfTravel":1864,
+    "Description":"Started at six o'clock this morning & reached Columbus, situated on the Loupe Fork of the Platte, about 9 o'clock. This is the last town we will pass through on our route The Pawnees are very numerous  here, are peacable, but outlandish beggars. There are about 150 teams waiting for their turns to ferry, some few are fording. The ferry is coining money at one dollar a team. Your go over at a time. The distance to ferry is only about two rods, and the rest of the distance has to be forded. We got over about 2 o'clock, all safe. Here we passed quite a number of large Companies, one of which was managed by Mr. Wm Ellis of Montrose. They pled with us to join them, but as it  was mostly an ox train we  could not join with them.",
+    "Citation":"Dunlap, Kate, and Joni Poppitz Stimpson. \"Dunlap, Kate, 1837-1901.\" BYU Library Digital Collections, 2002. Computer Text Data, available in PDF, https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/.",
+    "Hyperlink":"https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/",
+    "Country":"United States of America",
+    "Region":"Nothern America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.34201,40.92639 ]
+    },
+    "properties": {
+    "PlaceName":"Grand Island City",
+    "PlaceNameModern":"Grand Island, NE",
+    "NameOfTraveler":"Kate Dunlap",
+    "YearOfTravel":1864,
+    "Description":"This morning we passed Grand Island City, which consists of two or three houses, but situated as it is, in the heart of a fine farming County, it bids fair some day, to be a flourishing town. Passed a wind mill in opperation. Travelled along Wood river nearly all day. Saw two mills on this stream. Passed a newly made grave, -- an emigrant who had fallen by the way. This afternoon the wind blew very hard, and the sky was over cast with dark and threatening clouds. Drove our wagons under the shelter of some trees on the bank of Wood river and camped for the night  along with a company of freighters from Ohio, with whom we have made arrangements to travel.",
+    "Citation":"Dunlap, Kate, and Joni Poppitz Stimpson. \"Dunlap, Kate, 1837-1901.\" BYU Library Digital Collections, 2002. Computer Text Data, available in PDF, https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/.",
+    "Hyperlink":"https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/",
+    "Country":"United States of America",
+    "Region":"Nothern America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.17816,40.69388 ]
+    },
+    "properties": {
+    "PlaceName":"Outside Kearney City",
+    "PlaceNameModern":"Kearney, NE",
+    "NameOfTraveler":"Kate Dunlap",
+    "YearOfTravel":1864,
+    "Description":"Just as we crossed Deep ravine creek we passed through a village of prairie dogs, our boys shot three of them. Some of the emigrants eat them. I fried a young \"purp \", but the idea of eating dog meat rather set our stomaches against it. We are camped for the night at a clear  slough of water, but I must  give you a discription of these funny little animals, and their cities or communities They are a species of the \"mar-  mot\", about as large as a guinea pig, of a brown or sandy color  with heads like a terrier pup, which, I supose, has given them  the name of dogs. They have a short stumpy tail, which is kept in a perpetual jerk when they are excited. They select for their city a  level sandy plain, where they can easily dig their burrows. Their towns often rival in population the largest cities in Europe. There is frequently considerable regularity in ther  streets. Their houses consist of little mounds, often two or three feet high, with a hole in the center, two or three feet deep vertically. Then extending to their apartments. As soon as they see such a monster as man, each one scampers off to his own house, and squats down in his hole, peeping out and barking  lustily at the intruder, till he approaches too close, when they suddenly turn a sumer sault in to their burrows. If you are still, in a short time, they will look out again to reconnoiter. What is very strange, the owl and rattle snake are their constant companions, but we surmise for no good purpose, no doubt only to devour young pups.",
+    "Citation":"Dunlap, Kate, and Joni Poppitz Stimpson. \"Dunlap, Kate, 1837-1901.\" BYU Library Digital Collections, 2002. Computer Text Data, available in PDF, https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/.",
+    "Hyperlink":"https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/",
+    "Country":"United States of America",
+    "Region":"Nothern America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.4891,40.72169 ]
+    },
+    "properties": {
+    "PlaceName":"Buffalo Creek",
+    "PlaceNameModern":"Overton, NE",
+    "NameOfTraveler":"Kate Dunlap",
+    "YearOfTravel":1864,
+    "Description":"June 3 - We drove on to buffalo creek making 27 miles. Here we found a great many emigrants camped, and heards of cattle, and mules in evry direction. we found plenty of water, but had to take our horses a long distance toward the bluffs for grass.\n\nJune 4 - This morning the line of emigrants stretches over a mile in length, all having camped on Buffalo creek This is a great resort for Buffalo, hence the name of the stream. The plain is lined with their heads having been slaugherd by hunters and Indians. Good roads the most of the time, being level and hard Passed over a low range of sandy bluffs. The plains are now assuming a different appearance, and vegetation of other kinds are appearing, prickley pears, & various kinds of wild flowers are blooming by the way. We again reach the Platteandat noon and all are busy wat- ering their horses. We are resting on a nice grassy spot while our noble horses are grazing.",
+    "Citation":"Dunlap, Kate, and Joni Poppitz Stimpson. \"Dunlap, Kate, 1837-1901.\" BYU Library Digital Collections, 2002. Computer Text Data, available in PDF, https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/.",
+    "Hyperlink":"https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/",
+    "Country":"United States of America",
+    "Region":"Nothern America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.8066,40.76173 ]
+    },
+    "properties": {
+    "PlaceName":"Lake Utah",
+    "PlaceNameModern":"Lexington, NE",
+    "NameOfTraveler":"Kate Dunlap",
+    "YearOfTravel":1864,
+    "Description":"The surrounding scenery is one an artist would like to paint. It is a broad smooth meadow land, dotted over with tented camps of emigrant trains, and herds of cattle and horses feeding at liberty in all di- rections North of us, like a far distant cloud, in the horizen, lie the bluffs of the  Platte, while south of us a few rods, rolls the turbulent waters  of the same. Yesterday we passed a newly  made grave on a little elevation of ground near the bank of the  Platte, and a pine board at the head bearing the following  inscription, * \"S.C. Park, who fell a victem from a shot discharged accidently, from his own rifle\". We have seen several other graves by the way, but when we consider the vast number of emigrants on the road, it is no wonder that some fall by the way.\n\n* We have since heard this man was not shot accidently, but was killed by some of his party.",
+    "Citation":"Dunlap, Kate, and Joni Poppitz Stimpson. \"Dunlap, Kate, 1837-1901.\" BYU Library Digital Collections, 2002. Computer Text Data, available in PDF, https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/.",
+    "Hyperlink":"https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/",
+    "Country":"United States of America",
+    "Region":"Nothern America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -101.21735,41.19643 ]
+    },
+    "properties": {
+    "PlaceName":"West Sandy Bluffs",
+    "PlaceNameModern":"Sutherland, NE",
+    "NameOfTraveler":"Kate Dunlap",
+    "YearOfTravel":1864,
+    "Description":"This morning we crossed West sandy bluffs. I again walked. Doubled teams, very heavy pulling. These bluffs are huge sand banks with scarcely any veget-ation. A species of lizard or cameleon are hopping about at evry step [...] After passing another range of bluffs worse than  the first, we came to an Indian village of about 40  \"wigwams\". This village is situated on one of the finest grazing plains we have seen since we have been on the road. A half a dozen or so of naked children followed after us crying for  bread. I felt sorry for them but had none to give them, as I had given the last morsel I had to some squaws and their papooses, whom we met among the Sandy  bluffs -- We stopped one and a half miles from their village to camp, as some the Ohio freighter had not yet got over the sand bluffs, but an old chief came to us and  forbid us camping on their pasture, claiming that all this land belonged to the Soux, that God had given it to them, and we must move. After a long debate with him and among ourselves we concluded to go on. Drove till we again came to the Platte, & camped undisturbed.",
+    "Citation":"Dunlap, Kate, and Joni Poppitz Stimpson. \"Dunlap, Kate, 1837-1901.\" BYU Library Digital Collections, 2002. Computer Text Data, available in PDF, https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/.",
+    "Hyperlink":"https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/",
+    "Country":"United States of America",
+    "Region":"Nothern America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.51911,42.20656 ]
+    },
+    "properties": {
+    "PlaceName":"Near Fort Laramie",
+    "PlaceNameModern":"Fort Laramie, WY",
+    "NameOfTraveler":"Kate Dunlap",
+    "YearOfTravel":1864,
+    "Description":"About six o'clock this evening a black cloud began to rise in the South. Very soon it becom apparent that we would have an old fasioned Platte storm. All my bedding was out suning A gentleman helped me to put the things in the wagon. Suddenly the wind increased, just as the Ohio Company sat down to supper, and the sand darkend the sky, their table was upset & their rich luxuries and dishes were strewn over the plains. Mr D-- was now in sight, putting noble \"Dick\" through on double quick, but was to late. we could not get on the enameled cover. Now the rain began to fall in torrents, the lightning played over the sky in fitful glare, and the Thunder reverbrated through the air peal on peal, and it wound up with a tremendous hail storm. The poor horses sffered very much, the hail striking them with stinging effect. Well, it is said that such storms are common on the Platte, and if such are common I would not like to live in Platte Valley although we have seen some of the prettiest plains it has ever been my lot to look upon.",
+    "Citation":"Dunlap, Kate, and Joni Poppitz Stimpson. \"Dunlap, Kate, 1837-1901.\" BYU Library Digital Collections, 2002. Computer Text Data, available in PDF, https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/.",
+    "Hyperlink":"https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/",
+    "Country":"United States of America",
+    "Region":"Nothern America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.557,42.20332 ]
+    },
+    "properties": {
+    "PlaceName":"Fort Laramie",
+    "PlaceNameModern":"Fort Laramie National Historic Site, Fort Laramie, WY",
+    "NameOfTraveler":"Kate Dunlap",
+    "YearOfTravel":1864,
+    "Description":"Drove up to Ft Larimie, stopped a few hours. This is a military post like Ft Kearney situated on th south side of the Platte. The Ohio 7th is here. The soldiers are often very insolent to emigrants, stripping them of old soldier clothes belts, pistols, &c. They are no protection to emigrants at all. They all have their squaws, and white men  have been imprisoned, -- are now, for insulting Indians, while the latter have been loaded with provisions and sent off. These are facts, which the soldiers themselvs related to us. All we spoke to, made the same statement.",
+    "Citation":"Dunlap, Kate, and Joni Poppitz Stimpson. \"Dunlap, Kate, 1837-1901.\" BYU Library Digital Collections, 2002. Computer Text Data, available in PDF, https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/.",
+    "Hyperlink":"https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/",
+    "Country":"United States of America",
+    "Region":"Nothern America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.11605,42.20332 ]
+    },
+    "properties": {
+    "PlaceName":"Opposite Courthouse Rock",
+    "PlaceNameModern":"Bayard, NE",
+    "NameOfTraveler":"Kate Dunlap",
+    "YearOfTravel":1864,
+    "Description":"We have been travelling in sight  of \"Chimney Rock\" nearly all day which can be seen at the distance of 40 miles. It now looks like the chimney of a steam mill; and is situated on the South side of the Platte. This evening we are camped opposite \"Court House Rock,\" also on the south bank of the Platte. It resembles an old court house, hence its name. It is six or eight miles to the south of us. We examined it through a spyglass, and it appears to have doorways, windows, columns, porticoes, several stories and domes. The surrounding country is very picturesque; its variety of expansive valley, bluffs lying in the distant horizin, Chimney Rock looming up in the distance like the monument of some departed hero, and the turbid Platte rushing along at our feet fill the mind with wonder at the vastness and magnificence of God's creation. Who would not worship such an infinte being! The sky is cloudy, but the evening, pleasant.",
+    "Citation":"Dunlap, Kate, and Joni Poppitz Stimpson. \"Dunlap, Kate, 1837-1901.\" BYU Library Digital Collections, 2002. Computer Text Data, available in PDF, https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/.",
+    "Hyperlink":"https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/",
+    "Country":"United States of America",
+    "Region":"Nothern America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.33105,41.74096 ]
+    },
+    "properties": {
+    "PlaceName":"Platte Valley",
+    "PlaceNameModern":"Bayard, NE",
+    "NameOfTraveler":"Kate Dunlap",
+    "YearOfTravel":1864,
+    "Description":"Now, the roads are very bad being marshy, and the valley is dotted here and there with sloughs and minature lakes. Prickly pears and sage brush are growing all along the road to-day. The Platte valley produces some very fine flowers, among which, are several varieties of the prickly pear, or cactus, which are now in bloom. The one, which is common in the states covers acres upon acres, and bears a rich yellow flower about the size of the palm of the hand. Some few are of a dark buff color, others some are tinted with various colors. The finest is a green prickly bulb, half imbeded in the sand bearing a bright red, many-leaved, rose-like flower, which is very handsome indeed. This cactus is known by the common name, as the \"melon thistle.\" In warm climates the prickly pear bears an excellent fruit, but I've heard no one say that the fruit comes to perfection so far north, yet I know of no reason to the contrary, unless, it is the shortness of the season. The roads being very bad we camped early, making only 15 miles. Those who went back to the bluffs have been winding their way over  hills and ravines, sometimes in full  view, sometimes out of sight. They can't come down to the river, and we hear that they are suffering for water. This evening the opposite side of the river presents to our view many grand old bluffs, resembling magnificent, ancient castles, fortifications, &c",
+    "Citation":"Dunlap, Kate, and Joni Poppitz Stimpson. \"Dunlap, Kate, 1837-1901.\" BYU Library Digital Collections, 2002. Computer Text Data, available in PDF, https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/.",
+    "Hyperlink":"https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/",
+    "Country":"United States of America",
+    "Region":"Nothern America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.55639,41.81656 ]
+    },
+    "properties": {
+    "PlaceName":"Spring Creek",
+    "PlaceNameModern":"Minatare, NE",
+    "NameOfTraveler":"Kate Dunlap",
+    "YearOfTravel":1864,
+    "Description":"To-day we passed through two Indian villages, at one of these, a white man kept a trading post. He bought the lame and worn out stock of the \"pilgrims\" at his own price. I noticed several half breed children, better clad than the rest At one of the villages, Mr Codington, one of the proprietors of the drove of mules from Ills., before mentioned, sold a dog  to the Indians, who, at once, butchered him for a grand feast. We, also, met a large company moving. The poles of their wigwams were tied to each side of the ponies, in the manner of shafts, one end dragging on the ground, upon which, were their camp equipage, pappooses, and squaws, the  latter driving. Some are on horseback, some on foot, the whole being a motley looking crew. They have some fine ponies, but their prices are so extravagantly high,  that you can not buy with profit. [...] The plains now begin to assume more of a sandy and barren appearance, and it is difficult to get good grazing for our horses.  We are camped to-night on Spring creek, a beautiful running stream of pure, cool water. The day has been warm and the gnats \"pitched into\" us like scavengers, but, as usual, the night is cool giving us respite from their attacks.",
+    "Citation":"Dunlap, Kate, and Joni Poppitz Stimpson. \"Dunlap, Kate, 1837-1901.\" BYU Library Digital Collections, 2002. Computer Text Data, available in PDF, https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/.",
+    "Hyperlink":"https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/",
+    "Country":"United States of America",
+    "Region":"Nothern America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.97988,42.58483 ]
+    },
+    "properties": {
+    "PlaceName":"Black Hills",
+    "PlaceNameModern":"Glendo, WY",
+    "NameOfTraveler":"Kate Dunlap",
+    "YearOfTravel":1864,
+    "Description":"Broke Camp early this morning & pursued our journey along the Black Hills, winding our way for some time at the base of the mountains, but soon we came to  descents and steep hills. Had to double teams at one. Seven miles from the river there is a cool spring, but not enough to water our horses for such an immense number of people now line the route that it is bearly siffcient to suply drinking water. The surrounding country has a wild and picturesque appearance. These hills, or mountains, are often covered with a stunted growth of pine and cedar, often appearing in squars, triangles, and rows, assuming a dark color, heenc, the name \"Black Hills.\"  After a long drive we again arrived at the river, but the grass was eaten into the earth Fed our horses and went on to Alder springs. Here we found about 300 wagons camped. Had to  take our horses two miles distant to graze. sent out double guards.",
+    "Citation":"Dunlap, Kate, and Joni Poppitz Stimpson. \"Dunlap, Kate, 1837-1901.\" BYU Library Digital Collections, 2002. Computer Text Data, available in PDF, https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/.",
+    "Hyperlink":"https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/",
+    "Country":"United States of America",
+    "Region":"Nothern America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.31098,42.66125 ]
+    },
+    "properties": {
+    "PlaceName":"Alder Springs",
+    "PlaceNameModern":"Douglas, WY",
+    "NameOfTraveler":"Kate Dunlap",
+    "YearOfTravel":1864,
+    "Description":"To day we apparently came opposite Larimie Peak. We have been in sight of it for the last four or five days. Before we reached Ft. Larimie we supposed it was just by the Ft., but it is forty, to seventy-five miles west. Before we left the springs this morning we filled our kegs. Found good grass at noon, & watered our horses out of our kegs, for this is an alkali region. Hitched up and drove on, passed a creek, had a good road, and camped again on the bank of the never ending Platte. Tolerable good grass. We feel better when our horses have good grazing. It rained this evening, as it has for the last four evenings, about the same hour. These showers make the sandy roads better & cools the air. Have travelled 22 miles and Larimie Peak still appears to be opposite us.",
+    "Citation":"Dunlap, Kate, and Joni Poppitz Stimpson. \"Dunlap, Kate, 1837-1901.\" BYU Library Digital Collections, 2002. Computer Text Data, available in PDF, https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/.",
+    "Hyperlink":"https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/",
+    "Country":"United States of America",
+    "Region":"Nothern America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.14516,42.86971 ]
+    },
+    "properties": {
+    "PlaceName":"Black Hills",
+    "PlaceNameModern":"Evansville, WY",
+    "NameOfTraveler":"Kate Dunlap",
+    "YearOfTravel":1864,
+    "Description":"June 25 - Took an early start; Roads  sandy. Prickly pears and sage brush are the only vegetation growing on these sandy wastes We passed a very dangerous spot, the narrow wagon track on the side of a hill overhaning the river. One mistep of the horse would precipitate all into the deep water below. -- Afterwards  we heard that a four mule team went over this bank the same day.\n\nJune 26 - We laid over to day having good pasture. Baked bread and pies in the fournoon. In the afternooon I mended our enameled cloth, which had got badly torn a few days ago in a gust of wind. The boys gathered some wild currants. I cooked them, but we did not relish them. This is the only kind of fruit we find on the way, except one day I saw some huckel berries growing on the mountain side. I often think of the fine fruit at home and the garden vegetables which I could relish more than any thing else Had a pleasant day. Could see hundreds of wagons passing on the South side of the river many were also passing on this side.",
+    "Citation":"Dunlap, Kate, and Joni Poppitz Stimpson. \"Dunlap, Kate, 1837-1901.\" BYU Library Digital Collections, 2002. Computer Text Data, available in PDF, https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/.",
+    "Hyperlink":"https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/",
+    "Country":"United States of America",
+    "Region":"Nothern America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.61103,42.71768 ]
+    },
+    "properties": {
+    "PlaceName":"Platte River",
+    "PlaceNameModern":"Casper, WY",
+    "NameOfTraveler":"Kate Dunlap",
+    "YearOfTravel":1864,
+    "Description":"It was very windy this afternoon  blowing the sand in our eyes till  we were obliged to cover them. There was quite quite an excitement among the several camps, as a lost woman was wandering about seeking her train, but could not find it The surrounding country presents a handsome appearenc. The Red Buttes on the south side of the Platte are grand and lofty bluffs composed of red granate appearing like ancient works of masonery hedged about with pine and cedar.",
+    "Citation":"Dunlap, Kate, and Joni Poppitz Stimpson. \"Dunlap, Kate, 1837-1901.\" BYU Library Digital Collections, 2002. Computer Text Data, available in PDF, https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/.",
+    "Hyperlink":"https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/",
+    "Country":"United States of America",
+    "Region":"Nothern America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.79365,42.67468 ]
+    },
+    "properties": {
+    "PlaceName":"Willow Spring",
+    "PlaceNameModern":"Willow Spring, WY",
+    "NameOfTraveler":"Kate Dunlap",
+    "YearOfTravel":1864,
+    "Description":"This morning we leave and bid adieu to the Platte, on whose bank we have travelld for about 700 miles. It is a peculiar stream, ever shifting among numerous Islands, and in the dry part of the sea son it is almost lost in its deep sand bed. Although it bears no vesels upon its wide and rippling surface, yet it is of vast use to the emigrants and settlers on its banks. Rushing down from its snowy mountain sources, it bears its cooling waters through sandy plains and fertile meadows furnishing water and grass for the weary emigrants winding their way along its banks towards the far sundown of Uncle Sam's dominions. Good roads this morning but no water, travelled on till 2 o'clock p.m. to reach willow springs. Some  of the teams were were about fagged out. Here we found about (500) hundred wagons camped, and had to wait our turn for hours to get our stock watered. There is no grass here, but some of the boys went back on the bluffs and found plenty so we concluded to lay over. We had a hard gust of wind which blew the sand into our faces till we were nearly suffocated.",
+    "Citation":"Dunlap, Kate, and Joni Poppitz Stimpson. \"Dunlap, Kate, 1837-1901.\" BYU Library Digital Collections, 2002. Computer Text Data, available in PDF, https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/.",
+    "Hyperlink":"https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/",
+    "Country":"United States of America",
+    "Region":"Nothern America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.1315,42.49515 ]
+    },
+    "properties": {
+    "PlaceName":"Independence Rock",
+    "PlaceNameModern":"Independence Rock, WY",
+    "NameOfTraveler":"Kate Dunlap",
+    "YearOfTravel":1864,
+    "Description":"One mile further on we passed \"Independence Rock.\" Upon all available portions of which are recorded hundreds of names. It is about a mile around its base, and perhaps about  75 or a 100 ft high composed of solid granite. One mile beyond we camped on the bank of the Sweet Water. This is a beautiful stream about 8 rods wide, and 2 ft deep. Plenty of grass, but no wood except sage brush. Turned  cold, -- hard wind, -- had a hard time to get supper. ",
+    "Citation":"Dunlap, Kate, and Joni Poppitz Stimpson. \"Dunlap, Kate, 1837-1901.\" BYU Library Digital Collections, 2002. Computer Text Data, available in PDF, https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/.",
+    "Hyperlink":"https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/",
+    "Country":"United States of America",
+    "Region":"Nothern America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.21033,42.44884 ]
+    },
+    "properties": {
+    "PlaceName":"Devil's Gate",
+    "PlaceNameModern":"Devil's Gate, WY",
+    "NameOfTraveler":"Kate Dunlap",
+    "YearOfTravel":1864,
+    "Description":"Crossed the Sweet Water Mountain Pass by the Devil's Gate, a deep and awful chasm through which the Sweet Water passes. The solid granate rocks lift themselvs perpendicularly on either side several hundred feet. From the top of the chasm the river appears like a little brook lashing the base of the passage. It is very difficult of ascent to the top of this gate owing to the numerous deep fissures among the craggy rocks Mr Dunlap and two others of our party made the difficult ascent and described the scene as grand and awful. It is said that it will make the head of the most daring real to look down the deep chasm, and that cold chills insensibly crawl over one's back at the thought of being precipitated to the bottom.",
+    "Citation":"Dunlap, Kate, and Joni Poppitz Stimpson. \"Dunlap, Kate, 1837-1901.\" BYU Library Digital Collections, 2002. Computer Text Data, available in PDF, https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/.",
+    "Hyperlink":"https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/",
+    "Country":"United States of America",
+    "Region":"Nothern America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.30102,42.56905 ]
+    },
+    "properties": {
+    "PlaceName":"Big Sandy Stream",
+    "PlaceNameModern":"Boulder, WY",
+    "NameOfTraveler":"Kate Dunlap",
+    "YearOfTravel":1864,
+    "Description":"During the last three days we have laid by having good grazing for our stock It is a beautiful spot; on the north of us stretch out the Bear River mountains whose summits are white with snow, while on the South lies a range called the Table Mountains, covered with pine and quaken asp, at the base of which the Big Sandy winds its pure and rippling waters. [...] This is also a famous place for game. One men brought in an antelope, others sage hens, &c. Two of our boys said that they saw two large grizzlies, but that they ran at the sight of them. But they didn't say which ran the bears or them selves. We had some fun about it.  When we first camped here none had made it a camping place, for the grass was across the river among the willows and but few had found it out,  but now it is like a village so many trains have stopped to recruit [...] There is now considerable sickness among the emigrants. The mountain fever is quite common, and often the sufferer becoms crazy and wanders off among the mountains and gets lost.",
+    "Citation":"Dunlap, Kate, and Joni Poppitz Stimpson. \"Dunlap, Kate, 1837-1901.\" BYU Library Digital Collections, 2002. Computer Text Data, available in PDF, https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/.",
+    "Hyperlink":"https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/",
+    "Country":"United States of America",
+    "Region":"Nothern America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.63889,42.48484 ]
+    },
+    "properties": {
+    "PlaceName":"Bear River Mountains",
+    "PlaceNameModern":"Emigrant Trail, Kemmerer, WY",
+    "NameOfTraveler":"Kate Dunlap",
+    "YearOfTravel":1864,
+    "Description":"Wound our way along, between two ranges of the Bear River Mountains forming a deep and narrow cañon (kanyan) through which runs a stream of pure spring water. The scenery is beautiful, grand, often sublime. On either side, snow-capped mountains rear their tops to the clouds, their sides being robed in evergreens of pine and cedars while at their base nestles a rich herbage of vegetation, and varigated flowers, filling the air with rich odors, and here and there beautiful springs of pure crystal water, gush forth inviting the weary \"pilgrims\" to satisfy their thirst. [...] Passing out of this cañon, the road winds through heavy forests of pine and tamaracks, going down steep after steep, among rocks and loose stones till it again reaches another cañon, through, which, dashes another mountain stream. It was dark when we arrived in this cañon, and here, in a narrow place, with scarsely a mouthful of grass, we, with many others, are compelled to camp.",
+    "Citation":"Dunlap, Kate, and Joni Poppitz Stimpson. \"Dunlap, Kate, 1837-1901.\" BYU Library Digital Collections, 2002. Computer Text Data, available in PDF, https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/.",
+    "Hyperlink":"https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/",
+    "Country":"United States of America",
+    "Region":"Nothern America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.34497,43.19047 ]
+    },
+    "properties": {
+    "PlaceName":"Blackfoot",
+    "PlaceNameModern":"Blackfoot, ID",
+    "NameOfTraveler":"Kate Dunlap",
+    "YearOfTravel":1864,
+    "Description":"Left our forest camp this  morning and after we reached the valley  we had fine level roads all day.  Passed the grave of a mother and in-  fant laid side by side in the same  grave which bore the following simple  inscription \"Nancy Jane Townsend,  aged 21 years\". Took dinner near a  large pond or lake which was litterly  alive with ducks and minks Trav-  eled till about 8 o'clock reaching  \"Black Foot,\" making 28 or 30 miles  Here the two streams of em-  igrants meet, that by the way of  Salt Lake & Soda Springs, the other by the way of Lander's Cut off.  The creek is lined with tents and  wagons, and the valley with heards  of stock. We find now most of  the emigration is bound for  Virginia City. At this point those  who are going to West Bannack or  Idaho City, as it is now called,  and on to Oregon, take the left  hand road after crossing the  creek at the Soldier's station.  Some are talking of returning  back.",
+    "Citation":"Dunlap, Kate, and Joni Poppitz Stimpson. \"Dunlap, Kate, 1837-1901.\" BYU Library Digital Collections, 2002. Computer Text Data, available in PDF, https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/.",
+    "Hyperlink":"https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/",
+    "Country":"United States of America",
+    "Region":"Nothern America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.071,43.50464 ]
+    },
+    "properties": {
+    "PlaceName":"Two miles north of Snake River Ferry",
+    "PlaceNameModern":"Idaho Falls, ID",
+    "NameOfTraveler":"Kate Dunlap",
+    "YearOfTravel":1864,
+    "Description":"Made a long and hard drive  Dusty and hot. Roads sandy  Crossed Snake River Ferry and  drove up the river two miles and  camped. The country is now less  mountainous, sandy and some  what barren. Poor grass. Snake  River is a narrow, swift and deep  river, emptying into the Columbia It abounds in speckled trout  and mountain suckers",
+    "Citation":"Dunlap, Kate, and Joni Poppitz Stimpson. \"Dunlap, Kate, 1837-1901.\" BYU Library Digital Collections, 2002. Computer Text Data, available in PDF, https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/.",
+    "Hyperlink":"https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/",
+    "Country":"United States of America",
+    "Region":"Nothern America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.10281,45.01992 ]
+    },
+    "properties": {
+    "PlaceName":"Horse Prairie",
+    "PlaceNameModern":"Horse Prairie, MT",
+    "NameOfTraveler":"Kate Dunlap",
+    "YearOfTravel":1864,
+    "Description":"Left Red Rock Station, and after  a drive of 25 miles over good roads  reached Horse Prairie, ten miles  from Bannack City. A nice valley  and stream of water and good  grass -- these things make the weary  emigrant's heart glad. Wild clover  grows here in abundance. There  are two ranches here; and a great  many hay cutters are camped  ^up and down the valley. ",
+    "Citation":"Dunlap, Kate, and Joni Poppitz Stimpson. \"Dunlap, Kate, 1837-1901.\" BYU Library Digital Collections, 2002. Computer Text Data, available in PDF, https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/.",
+    "Hyperlink":"https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/",
+    "Country":"United States of America",
+    "Region":"Nothern America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.99559,45.16103 ]
+    },
+    "properties": {
+    "PlaceName":"Bannack City",
+    "PlaceNameModern":"Bannack City, MT",
+    "NameOfTraveler":"Kate Dunlap",
+    "YearOfTravel":1864,
+    "Description":"Bannack City is in latitude  45°. North situated in Grasshopper  creek -- so called by the miners on  account of the immense swarms  of that insect here the first year  of the gold discovery, [... ] \"Bannack\" is from from a tribe of Indians which  inhabit this section of the coun-  try. [...] The nar-  row vallies of the mountain streams  are all we have, form farming has  to be carried on by irrigation as it  seldom rains enough to benefit  a crop. Indeed, no one has  attempted to cultivate this valley,  except to raise a few vegetables [...] All the mountains which  skirt and surround these val-  lies are clad with pine of vari-  ous kinds, and the streams  are here and there skirted  with the aspen tree, which  frequently grows tall, & of consid-  erable size.  The climate in any local-  ity depends on the altitude and  surrounding mountains. [...] We have had some very cold  wather; the thermometer showing  a degree of Cold to which we  were strangers, standing for  three or four days at 44  degrees below zero. But we  have no winds, a light and  dry atmosphere, and generally,  do not feel the cold as one  does in Iowa. [...] This mining camp is  about six miles in extent.  Large amounts of gold dust have been taken out of bar claims which are now in  a manner unproductive, the  yield being too small for the pri-  -ce of wages and provisions. [...] Twelve miles N.W. is Bald  mountain said to be exceedingly rich  in Quartz bearing gold. Fifteen miles  north are the Rattle Snake leads  the ore of which is silver,",
+    "Citation":"Dunlap, Kate, and Joni Poppitz Stimpson. \"Dunlap, Kate, 1837-1901.\" BYU Library Digital Collections, 2002. Computer Text Data, available in PDF, https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/.",
+    "Hyperlink":"https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/",
+    "Country":"United States of America",
+    "Region":"Nothern America",
     "Continent":"North America"
     }
   }
