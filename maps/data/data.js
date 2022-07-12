@@ -1,7 +1,388 @@
 var data =
+
 {
    "type": "FeatureCollection",
    "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.4777,51.9244 ]
+    },
+    "properties": {
+    "PlaceName":"Rotterdam",
+    "PlaceNameModern":"Rotterdam, Netherlands",
+    "NameOfTraveler":"Lady Mary Wortley Montagu",
+    "YearOfTravel":1716,
+    "Description":"All the streets are paved with broad stones, and before many of the meanest artificers doors are placed seats of various coloured marbles, so neatly kept, that, I assure you, I walked almost all over the town yesterday, _incognito_, in my slippers without receiving one spot of dirt; and you may see the Dutch maids washing the pavement of the street, with more application than ours do our bed-chambers. The town seems so full of people, with such busy faces, all in motion, that I can hardly fancy it is not some celebrated fair; but I see it is every day the same. 'Tis certain no town can be more advantageously situated for commerce. Here are seven large canals, on which the merchants ships come up to the very doors of their houses. The shops and warehouses are of a surprising neatness and magnificence, filled with an incredible quantity of fine merchandise, and so much cheaper than what we see in England, that I have much ado to persuade myself I am still so near it. Here is neither dirt nor beggary to be seen. One is not shocked with those loathsome cripples, so common in London, nor teased with the importunity of idle fellows and wenches, that chuse (sic) to be nasty and lazy. The common servants, and little shop-women, here, are more nicely clean than most of our ladies; and the great variety of neat dresses (every woman dressing her head after her own fashion) is an additional pleasure in seeing the town. ",
+    "Citation":"Lady Mary Wortley Montagu, Letters of the Right Honourable Lady M——Y W——Y M——E; Written During Her Travels in Europe, Asia, and Africa, New (London: Printed for Thomas Martin, 1890), Let. I.",
+    "Hyperlink":"https://www.gutenberg.org/cache/epub/17520/pg17520.html",
+    "Country":"Netherlands",
+    "Region":"Western Europe",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3007,52.0705 ]
+    },
+    "properties": {
+    "PlaceName":"Hague",
+    "PlaceNameModern":"The Hague, Netherlands",
+    "NameOfTraveler":"Lady Mary Wortley Montagu",
+    "YearOfTravel":1716,
+    "Description":"We take care to make such short stages every day, that I rather fancy myself upon parties of pleasure, than upon the road; and sure nothing can be more agreeable than travelling in Holland.  The whole country appears a large garden; the roads are well paved, shaded on each side with rows of trees, and bordered with large canals, full of boats, passing and repassing.  Every twenty paces gives you the prospect of some villa, and every four hours that of a large town, so surprisingly neat, I am sure you would be charmed with them.  The place I am now at is certainly one of the finest villages in the world.  Here are several squares finely built, and (what I think a particular beauty) the whole set with thick large trees.  The _Vour-hout_ is, at the same time, the Hyde-Park and Mall of the people of quality; for they take the air in it both on foot and in coaches.  There are shops for wafers, cool liquors, &c.--I have been to see several of the most celebrated gardens, but I will not teaze (sic) you with their descriptions.",
+    "Citation":"Lady Mary Wortley Montagu, Letters of the Right Honourable Lady M——Y W——Y M——E; Written During Her Travels in Europe, Asia, and Africa, New (London: Printed for Thomas Martin, 1890), Let. II.",
+    "Hyperlink":"https://www.gutenberg.org/cache/epub/17520/pg17520.html",
+    "Country":"Netherlands",
+    "Region":"Western Europe",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.8428,51.8449 ]
+    },
+    "properties": {
+    "PlaceName":"Nimeguen",
+    "PlaceNameModern":"Nijmegen, Netherlands",
+    "NameOfTraveler":"Lady Mary Wortley Montagu",
+    "YearOfTravel":1716,
+    "Description":"If you were with me in this town, you would be ready to expect to receive visits from your Nottingham friends.  No two places were ever more resembling; one has but to give the Maese the name of the Trent, and there is no distinguishing the prospect.  The houses, like those of Nottingham, are built one above another, and are intermixed in the same manner with trees and gardens.  The tower they call Julius Caesar's, has the same situation with Nottingham castle; and I cannot help fancying, I see from it the Trentfield, Adboulton, places so well known to us.  'Tis true, the fortifications make a considerable difference.  All the learned in the art of war bestow great commendations on them; for my part, that know nothing of the matter, I shall content myself with telling you, 'tis a very pretty walk on the ramparts, on  which there is a tower, very deservedly called the Belvidera; where people go to drink coffee, tea, &c. and enjoy one of the finest prospects in the world.  The public walks have no great beauty but the thick shade of the trees, which is solemnly delightful.  But I must not forget to take notice of the bridge, which appeared very surprising to me.  It is large enough to hold hundreds of men, with horses and carriages.  They give the value of an English two-pence to get upon it, and then away they go, bridge and all, to the other side of the river, with so slow a motion, one is hardly sensible of any at all.  I was yesterday at the French church, and stared very much at their manner of service.  The parson clapped on a broad-brimmed hat in the first place, which gave him entirely the air of _what d'ye call him_, in Bartholomew fair, which he kept up by extraordinary antic gestures, and preaching much such stuff as the other talked to the puppets.  However, the congregation seemed to receive it with great devotion; and I was informed by some of his flock, that he is a person of particular fame amongst them. ",
+    "Citation":"Lady Mary Wortley Montagu, Letters of the Right Honourable Lady M——Y W——Y M——E; Written During Her Travels in Europe, Asia, and Africa, New (London: Printed for Thomas Martin, 1890), Let. III.",
+    "Hyperlink":"https://www.gutenberg.org/cache/epub/17520/pg17520.html",
+    "Country":"Netherlands",
+    "Region":"Western Europe",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.9603,50.9375 ]
+    },
+    "properties": {
+    "PlaceName":"Cologn",
+    "PlaceNameModern":"Cologne, Germany",
+    "NameOfTraveler":"Lady Mary Wortley Montagu",
+    "YearOfTravel":1716,
+    "Description":"I slept so well for three hours, that I found myself perfectly recovered, and have had spirits enough to go and see all that is curious in the town, that is to say, the churches, for here is nothing else worth seeing.  This is a very large town, but the most part of it is old built.  The Jesuits church, which is the neatest, was shewed (sic) me, in a very complaisant manner, by a handsome young Jesuit; who, not knowing who I was, took a liberty in his compliments and railleries, which very much diverted me.  Having never before seen any thing of that nature, I could not enough admire the magnificence of the altars, the rich images of the saints (all massy silver) and the _enchassures_ of the relicks (sic); though I could not help murmuring, in my heart, at the profusion of pearls, diamonds, and rubies, bestowed on the adornment of rotten teeth, and dirty rags.  I own that I had wickedness enough to covet St Ursula's pearl necklaces; though perhaps this was no wickedness at all, an image not being certainly one's neighbour's; but I went yet farther, and wished the wench herself converted into dressing-plate.  I should also gladly see converted into silver, a great St Christopher, which I imagine would look very well in a cistern.   ",
+    "Citation":"Lady Mary Wortley Montagu, Letters of the Right Honourable Lady M——Y W——Y M——E; Written During Her Travels in Europe, Asia, and Africa, New (London: Printed for Thomas Martin, 1890), Let. IV.",
+    "Hyperlink":"https://www.gutenberg.org/cache/epub/17520/pg17520.html",
+    "Country":"Germany",
+    "Region":"Western Europe; Central Europe",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.0767,49.4521 ]
+    },
+    "properties": {
+    "PlaceName":"Nuremberg",
+    "PlaceNameModern":"Nuremberg, Germany",
+    "NameOfTraveler":"Lady Mary Wortley Montagu",
+    "YearOfTravel":1716,
+    "Description":"I have already passed a large part of Germany, have seen all that is remarkable in Cologn, Frankfort, Wurtsburg, and this place.  'Tis impossible not to observe the difference between the free towns and those under the government of absolute princes, as all the little sovereigns of Germany are.  In the first, there appears an air of commerce and plenty.  The streets are well-built, and full of people, neatly and plainly dressed.  The shops are loaded with merchandise, and the commonalty are clean and cheerful.  In the other you see a sort of shabby finery, a number of dirty people of quality tawdered (sic) out; narrow nasty streets out of repair, wretchedly thin of inhabitants, and above half of the common sort asking alms.",
+    "Citation":"Lady Mary Wortley Montagu, Letters of the Right Honourable Lady M——Y W——Y M——E; Written During Her Travels in Europe, Asia, and Africa, New (London: Printed for Thomas Martin, 1890), Let. V.",
+    "Hyperlink":"https://www.gutenberg.org/cache/epub/17520/pg17520.html",
+    "Country":"Germany",
+    "Region":"Western Europe; Central Europe",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.3738,48.2082 ]
+    },
+    "properties": {
+    "PlaceName":"Vienna",
+    "PlaceNameModern":"Vienna, Austria",
+    "NameOfTraveler":"Lady Mary Wortley Montagu",
+    "YearOfTravel":1716,
+    "Description":"This town, which has the honour of being the emperor's residence, did not at all answer my expectation, nor ideas of it, being much less than I expected to find it; the streets are very close, and so narrow, one cannot observe the fine fronts of the palaces, though many of them very well deserve observation, being truly magnificent.  They are built of fine white stone, and are excessive high.  For as the town is too little for the number of the people that desire to live in it, the builders seem to have projected to repair that misfortune, by clapping one town on the top of another, most of the houses being of five, and some of them six stories.  You may easily imagine, that the streets being so narrow, the rooms are extremely dark; and, what is an inconveniency much more intolerable, in my opinion, there is no house has so few as five or six families in it.  The apartments of the greatest ladies, and even of the ministers of state, are divided, but by a partition, from that of a taylor (sic) or shoemaker; and I know no body that has above two floors in any house, one for their own use, and one higher for their servants.  Those that have houses of their own, let Out the rest of them to whoever will take them; and thus the great stairs, (which are all of stone) are as common and as dirty as the street.  'Tis true, when you have once travelled through them, nothing can be more surprisingly magnificent than the apartments.  They are commonly a _suite_ of eight or ten large rooms, all inlaid, the doors and windows richly carved and gilt, and the furniture, such as is seldom seen in the palaces of sovereign princes in other countries.  Their apartments are adorned with hangings of the finest tapestry of Brussels, prodigious large looking glasses in silver frames, fine japan tables, beds, chairs, canopies, and window curtains of the richest Genoa damask or velvet, almost covered with gold lace or embroidery.  All this is made gay by pictures, and vast jars of japan china, and large lustres of rock crystal. ",
+    "Citation":"Lady Mary Wortley Montagu, Letters of the Right Honourable Lady M——Y W——Y M——E; Written During Her Travels in Europe, Asia, and Africa, New (London: Printed for Thomas Martin, 1890), Let. VI.",
+    "Hyperlink":"https://www.gutenberg.org/cache/epub/17520/pg17520.html",
+    "Country":"Austria",
+    "Region":"Western Europe; Central Europe",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.3738,48.2082 ]
+    },
+    "properties": {
+    "PlaceName":"Fauxburg (sic) of\nVienna",
+    "PlaceNameModern":"Suburbs of Vienna, Austria",
+    "NameOfTraveler":"Lady Mary Wortley Montagu",
+    "YearOfTravel":1716,
+    "Description":"It is very large, and almost wholly composed of delicious palaces.  If the emperor found it proper to permit the gates of the town to be laid open, that the Fauxburg might be joined to it, he would have one of the largest and best built cities in Europe.  Count Schoonbourn's villa is one of the most magnificent; the furniture all rich brocades, so well fancied and fitted up, nothing can look more gay and splendid; not to speak of a gallery, full of rarities of coral, mother of pearl, and, throughout the whole house, a profusion of gilding, carving, fine paintings, the most beautiful porcelain, statues of alabaster and ivory, and vast orange and lemon trees in gilt pots.",
+    "Citation":"Lady Mary Wortley Montagu, Letters of the Right Honourable Lady M——Y W——Y M——E; Written During Her Travels in Europe, Asia, and Africa, New (London: Printed for Thomas Martin, 1890), Let. VII.",
+    "Hyperlink":"https://www.gutenberg.org/cache/epub/17520/pg17520.html",
+    "Country":"Austria",
+    "Region":"Western Europe; Central Europe",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4378,50.0755 ]
+    },
+    "properties": {
+    "PlaceName":"Prague",
+    "PlaceNameModern":"Prague, Czechia",
+    "NameOfTraveler":"Lady Mary Wortley Montagu",
+    "YearOfTravel":1716,
+    "Description":"The kingdom of Bohemia is the most desert of any I have seen in Germany.  The villages are so poor, and the post-houses so miserable, that clean straw and fair water are blessings not always to be met with, and better accommodation not to be hoped for. … THIS town was once the royal seat of the Bohemian king, and is still the capital of the kingdom.  There are yet some remains of its former splendour, being one of the largest towns in Germany, but, for the most part, old built, and thinly inhabited, which makes the houses very cheap.  Those people of quality, who cannot easily bear the expence of Vienna, chuse to reside here, where they have assemblies, music, and all other diversions, (those of a court excepted) at very moderate rates, all things being here in great abundance, especially the best wild-fowl I ever tasted.   ",
+    "Citation":"Lady Mary Wortley Montagu, Letters of the Right Honourable Lady M——Y W——Y M——E; Written During Her Travels in Europe, Asia, and Africa, New (London: Printed for Thomas Martin, 1890), Let. XIV.",
+    "Hyperlink":"https://www.gutenberg.org/cache/epub/17520/pg17520.html",
+    "Country":"Czechia",
+    "Region":"Central Europe; Eastern Europe",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.7373,51.0504 ]
+    },
+    "properties": {
+    "PlaceName":"Dresden",
+    "PlaceNameModern":"Dresden, Germany",
+    "NameOfTraveler":"Lady Mary Wortley Montagu",
+    "YearOfTravel":1716,
+    "Description":"I have been told since, that 'tis common to find the bodies of travellers in the Elbe; but, thank God, that was not our destiny; and we came safe to Dresden, so much tired with fear and fatigue, it was not possible for me to compose myself to write.  After passing these dreadful rocks, Dresden appeared to me a wonderfully agreeable situation, in a fine large plain on the banks of the Elbe.  I was very glad to stay there a day to rest myself.  The town is the neatest I have seen in Germany; most of the houses are new built; the elector's palace is very handsome, and his repository full of curiosities of different kinds, with a collection of medals very much esteemed.   ",
+    "Citation":"Lady Mary Wortley Montagu, Letters of the Right Honourable Lady M——Y W——Y M——E; Written During Her Travels in Europe, Asia, and Africa, New (London: Printed for Thomas Martin, 1890), Let. XV.",
+    "Hyperlink":"https://www.gutenberg.org/cache/epub/17520/pg17520.html",
+    "Country":"Germany",
+    "Region":"Central Europe; Eastern Europe",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.3731,51.3397 ]
+    },
+    "properties": {
+    "PlaceName":"Leipzig",
+    "PlaceNameModern":"Leipzig, Germany",
+    "NameOfTraveler":"Lady Mary Wortley Montagu",
+    "YearOfTravel":1716,
+    "Description":"PERHAPS I am partial to a town where they profess the protestant religion; but every thing seemed to me with quite another air of politeness than I have found in other places.  Leipzig, where I am at present, is a town very considerable for its trade, and I take this opportunity of buying pages liveries, gold stuffs for myself, &c. all things of that kind being at least double the price at Vienna; partly because of the excessive customs, and partly through want of genius and industry in the people, who make no one sort of thing there; so that the ladies are obliged to send, even for their shoes, out of Saxony.  The fair here is one of the most considerable in Germany, and the resort of all the people of quality, as well as of the merchants.  This is also a fortified town, but I avoid ever mentioning fortifications, being sensible that I know not how to speak of them.    ",
+    "Citation":"Lady Mary Wortley Montagu, Letters of the Right Honourable Lady M——Y W——Y M——E; Written During Her Travels in Europe, Asia, and Africa, New (London: Printed for Thomas Martin, 1890), Let. XV.",
+    "Hyperlink":"https://www.gutenberg.org/cache/epub/17520/pg17520.html",
+    "Country":"Germany",
+    "Region":"Central Europe; Eastern Europe",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.5268,52.2689 ]
+    },
+    "properties": {
+    "PlaceName":"Brunswick",
+    "PlaceNameModern":"Braunschweig, Germany",
+    "NameOfTraveler":"Lady Mary Wortley Montagu",
+    "YearOfTravel":1716,
+    "Description":"I AM just come to Brunswick, a very old town, but which has the advantage of being the capital of the duke of Wolsenbuttle's dominions, a family (not to speak of its ancient honours) illustrious, by having its younger branch on the throne of England, and having given two empresses to Germany.   ",
+    "Citation":"Lady Mary Wortley Montagu, Letters of the Right Honourable Lady M——Y W——Y M——E; Written During Her Travels in Europe, Asia, and Africa, New (London: Printed for Thomas Martin, 1890), Let. XVI.",
+    "Hyperlink":"https://www.gutenberg.org/cache/epub/17520/pg17520.html",
+    "Country":"Germany",
+    "Region":"Central Europe; Eastern Europe",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.732,52.3759 ]
+    },
+    "properties": {
+    "PlaceName":"Hanover",
+    "PlaceNameModern":"\nHanover, Germany",
+    "NameOfTraveler":"Lady Mary Wortley Montagu",
+    "YearOfTravel":1716,
+    "Description":"THIS town is neither large nor handsome; but the palace is capable of holding a much greater court than that of St James's.  The king has had the goodness to appoint us a lodging in one part of it, without which we should have been very ill accommodated; for the vast number of English, crowds the town so much, 'tis very good luck to get one sorry room in a miserable tavern. ",
+    "Citation":"Lady Mary Wortley Montagu, Letters of the Right Honourable Lady M——Y W——Y M——E; Written During Her Travels in Europe, Asia, and Africa, New (London: Printed for Thomas Martin, 1890), Let. XVII.",
+    "Hyperlink":"https://www.gutenberg.org/cache/epub/17520/pg17520.html",
+    "Country":"Germany",
+    "Region":"Central Europe; Eastern Europe",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.732,52.3759 ]
+    },
+    "properties": {
+    "PlaceName":"Hanover",
+    "PlaceNameModern":"\nHanover, Germany",
+    "NameOfTraveler":"Lady Mary Wortley Montagu",
+    "YearOfTravel":1716,
+    "Description":"You will not forgive me, if I do not say something of Hanover; I cannot tell you that the town is either large or magnificent.  The opera house, which was built by the late elector, is much finer than that of Vienna.  I was very sorry that the ill weather did not permit me to see Hernhausen in all its beauty; but in spite of the snow, I thought the gardens very fine.  I was particularly surprised at the vast number of orange trees, much larger than any I have ever seen in England, though this climate is certainly colder.  But I had more reason to wonder that night at the king's table, to see a present from a gentleman of this country, of two large baskets full of ripe oranges and lemons of different sorts, many of which were quite new to me; and what I thought worth all the rest, two ripe ananasses (sic), which, to my taste, are a fruit perfectly delicious.  You know they are naturally the growth of Brazil, and I could not imagine how they came here, but by enchantment.  Upon inquiry, I learnt that they have brought their stoves to such perfection, they lengthen their summer as long as they please, giving to every plant the degree of heat it would receive from the sun in its native soil.  The effect is very near the same; I am surprised we do not practise (sic) in England so useful an invention.  This reflection leads me to consider our obstinacy in shaking with cold, five months in the year rather than make use of stoves, which are certainly one of the greatest conveniencies (sic) of life.  Besides, they are so far from spoiling the form of a room, that they add very much to the magnificence of it, when they are painted and gilt, as they are at Vienna, or at Dresden, where they are often in the shapes of china jars, statues, or fine cabinets, so naturally represented, that they are not to be distinguished.     ",
+    "Citation":"Lady Mary Wortley Montagu, Letters of the Right Honourable Lady M——Y W——Y M——E; Written During Her Travels in Europe, Asia, and Africa, New (London: Printed for Thomas Martin, 1890), Let. XIX.",
+    "Hyperlink":"https://www.gutenberg.org/cache/epub/17520/pg17520.html",
+    "Country":"Germany",
+    "Region":"Central Europe; Eastern Europe",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.6344,47.6842 ]
+    },
+    "properties": {
+    "PlaceName":"Raab",
+    "PlaceNameModern":"Győr, Hungary",
+    "NameOfTraveler":"Lady Mary Wortley Montagu",
+    "YearOfTravel":1717,
+    "Description":"Raab is a strong town, well garrisoned and fortified, and was a long time the frontier town between the Turkish and German empires.  It has its name from the River Rab, on which it is situated, just on its meeting with the Danube, in an open champaign (sic) country.  It was first taken by the Turks, under the command of bassa Sinan, in the reign of sultan Amurath III. in the year fifteen hundred and ninety-four.  The governor, being supposed to have betrayed it, was afterwards beheaded by the emperor's command.  The counts of Swartzenburg; and Palsi retook it by surprise, 1598; since which time it has remained in the hands of the Germans, though the Turks once more attempted to gain it by stratagem in 1642.  The cathedral is large and well built, which is all I saw remarkable in the town.    ",
+    "Citation":"Lady Mary Wortley Montagu, Letters of the Right Honourable Lady M——Y W——Y M——E; Written During Her Travels in Europe, Asia, and Africa, New (London: Printed for Thomas Martin, 1890), Let. XXIII.",
+    "Hyperlink":"https://www.gutenberg.org/cache/epub/17520/pg17520.html",
+    "Country":"Hungary",
+    "Region":"Central Europe; Eastern Europe",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.0402,47.4979 ]
+    },
+    "properties": {
+    "PlaceName":"Buda",
+    "PlaceNameModern":"Budapest, Hungary",
+    "NameOfTraveler":"Lady Mary Wortley Montagu",
+    "YearOfTravel":1717,
+    "Description":"We continued two days travelling between this place and Buda, through the finest plains in the world, as even as if they were paved, and extremely fruitful; but for the most part desert and uncultivated, laid waste by the long wars between the Turk and the Emperor; and the more cruel civil war, occasioned by the barbarous persecution of the protestant religion by the emperor Leopold.  That prince has left behind him the character of an extraordinary piety, and was naturally of a mild merciful temper; but, putting his conscience into the hands of a Jesuit, he was more cruel and treacherous to his poor Hungarian subjects, than ever the Turk has been to the Christians; breaking, without scruple his coronation oath, and his faith, solemnly given in many public treaties.  Indeed, nothing can be more melancholy than in travelling through Hungary, to reflect on the former flourishing state of that kingdom, and to see such a noble spot of earth almost uninhabited. Such are also the present circumstances of Buda (where we arrived very early the twenty-second) once the royal seat of the Hungarian kings, whose palace was reckoned one of the most beautiful buildings of the age, now wholly destroyed, no part of the town having been repaired since the last siege, but the fortifications and the castle, which is the present residence of the governor general Ragule, an officer of great merit.  He came immediately to see us, and carried us in his coach to his house, where I was received by his lady with all possible civility, and magnificently entertained.  This city is situated upon a little hill on the south side of the Danube.  The castle is much higher than the town, and from it the prospect is very noble.  Without the walls ly (sic) a vast number of little houses, or rather huts, that they call the Rascian town, being altogether inhabited by that people.  The governor assured me, it would furnish twelve thousand fighting men.  These towns look very odd; their houses stand in rows, many thousands of them so close together, that they appear, at a little distance, like old-fashioned thatched tents. They consist, every one of them, of one hovel above, and another under ground; these are their summer and winter apartments.  Buda was first taken by Solyman the Magnificent, in 1526, and lost the following year to Ferdinand I, king of Bohemia.  Solyman regained it by the treachery of the garrison, and voluntarily gave it into the hands of king John of Hungary; after whose death, his son being an infant, Ferdinand laid siege to it, and the queen mother was forced to call Solyman to her aid.  He indeed raised the siege, but left a Turkish garrison in the town, and commanded her to remove her court from thence, which she was forced to submit to, in 1541.  It resisted afterwards the sieges laid to it by the marquis of Brandenburg, in the year 1542; count Schwartzenburg, in 1598; General Rosworm, in 1602; and the duke of Lorrain, commander of the emperor's forces, in 1684, to whom it yielded, in 1686, after an obstinate defence, Apti Bassa, the governor, being killed, fighting in the breach with a Roman bravery.  The loss of this town was so important, and so much resented by the Turks, that it occasioned the deposing of their emperor Mahomet IV. the year following.   ",
+    "Citation":"Lady Mary Wortley Montagu, Letters of the Right Honourable Lady M——Y W——Y M——E; Written During Her Travels in Europe, Asia, and Africa, New (London: Printed for Thomas Martin, 1890), Let. XXIII.",
+    "Hyperlink":"https://www.gutenberg.org/cache/epub/17520/pg17520.html",
+    "Country":"Hungary",
+    "Region":"Central Europe; Eastern Europe",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.6794,46.0046 ]
+    },
+    "properties": {
+    "PlaceName":"Mohatch",
+    "PlaceNameModern":"Mohács, Hungary",
+    "NameOfTraveler":"Lady Mary Wortley Montagu",
+    "YearOfTravel":1717,
+    "Description":"We came the five and twentieth, to Mohatch, and were shewed the field near it, where Lewis, the young king of Hungary lost his army and his life, being drowned in a ditch, trying to fly from Balybeus, general of Solyman the Magnificent.  This battle opened the first passage for the Turks into the heart of Hungary.--I don't name to you the little villages, of which I can say nothing remarkable; but I'll assure you, I have always found a warm stove, and great plenty, particularly of wild boar, venison, and all kinds of _gibier_.  The few people that inhabit Hungary, live easily enough; they have no money, but the woods and plains afford them provision in great abundance; they were ordered to give us all things necessary, even what horses we pleased to demand, _gratis_; but Mr W----y would not oppress the poor country people, by making use of this order, and always paid them to the full worth of what we had. They were so surprised at this unexpected generosity, which they are very little used to, that they always pressed upon us, at parting, a dozen of fat pheasants, or something of that sort, for a present.  ",
+    "Citation":"Lady Mary Wortley Montagu, Letters of the Right Honourable Lady M——Y W——Y M——E; Written During Her Travels in Europe, Asia, and Africa, New (London: Printed for Thomas Martin, 1890), Let. XXIII.",
+    "Hyperlink":"https://www.gutenberg.org/cache/epub/17520/pg17520.html",
+    "Country":"Hungary",
+    "Region":"Central Europe; Eastern Europe",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.6955,45.555 ]
+    },
+    "properties": {
+    "PlaceName":"Essek",
+    "PlaceNameModern":"Osijek, Croatia",
+    "NameOfTraveler":"Lady Mary Wortley Montagu",
+    "YearOfTravel":1717,
+    "Description":"We met on the other side general Veterani, who invited us, with great civility, to pass the night at a little castle of his, a few miles off, assuring us we should have a very hard day's journey to reach Essek.  This we found but too true, the woods being very dangerous, and scarce passable, from the vast quantity of wolves that hoard in them.  We came, however, safe, though late to Essek, where we stayed a day, to dispatch a courier with letters to the bassa of Belgrade; and I took that opportunity of seeing the town, which is not very large, but fair built, and well fortified.  This was a town of great trade, very rich and populous, when in the hands of the Turks.  It is situated on the Drave, which runs into the Danube.  The bridge was esteemed one of the most extraordinary in the world, being eight thousand paces long, and all built of oak.  It was burnt, and the city laid in ashes by count Lesly, 1685, but was again repaired and fortified by the Turks, who, however, abandoned it in 1687.  General Dunnewalt then took possession of it for the emperor, in whose hands it has remained ever since, and is esteemed one of the bulwarks of Hungary.    ",
+    "Citation":"Lady Mary Wortley Montagu, Letters of the Right Honourable Lady M——Y W——Y M——E; Written During Her Travels in Europe, Asia, and Africa, New (London: Printed for Thomas Martin, 1890), Let. XXIII.",
+    "Hyperlink":"https://www.gutenberg.org/cache/epub/17520/pg17520.html",
+    "Country":"Croatia",
+    "Region":"Southeast",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.4612,44.8125 ]
+    },
+    "properties": {
+    "PlaceName":"Belgrade",
+    "PlaceNameModern":"Belgrade, Serbia",
+    "NameOfTraveler":"Lady Mary Wortley Montagu",
+    "YearOfTravel":1717,
+    "Description":"We came late to Belgrade, the deep snows making the ascent to it very difficult.  It seems a strong city, fortified on the east side by the Danube; and on the south by the river Save, and was formerly the barrier of Hungary.  It was first taken by Solyman the Magnificent, and since by the emperor's forces, led by the elector of Bavaria.  The emperor held it only two Years, it being retaken by the grand vizier.  It is now fortified with the utmost care and skill the Turks are capable of, and strengthened by a very numerous garrison of their bravest janizaries, commanded by a bassa seraskier (i.e. general) though this last expression is not very just; for, to say truth, the seraskier is commanded by the janizaries.  These troops have an absolute authority here, and their conduct carries much more the aspect of rebellion, than the appearance of subordination. ",
+    "Citation":"Lady Mary Wortley Montagu, Letters of the Right Honourable Lady M——Y W——Y M——E; Written During Her Travels in Europe, Asia, and Africa, New (London: Printed for Thomas Martin, 1890), Let. XIV.",
+    "Hyperlink":"https://www.gutenberg.org/cache/epub/17520/pg17520.html",
+    "Country":"Serbia",
+    "Region":"Southeast",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.1142,44.8939 ]
+    },
+    "properties": {
+    "PlaceName":"Deserts of Servia",
+    "PlaceNameModern":"Deliblatska Peščara, Serbia",
+    "NameOfTraveler":"Lady Mary Wortley Montagu",
+    "YearOfTravel":1717,
+    "Description":"We crossed the deserts of Servia (sic), almost quite over-grown with wood, through a country naturally fertile.  The inhabitants are industrious; but the oppression of the peasants is so great, they are forced to abandon their houses, and neglect their tillage, all they have being a prey to the janizaries, whenever they please to seize upon it.    ",
+    "Citation":"Lady Mary Wortley Montagu, Letters of the Right Honourable Lady M——Y W——Y M——E; Written During Her Travels in Europe, Asia, and Africa, New (London: Printed for Thomas Martin, 1890), Let. XXV.",
+    "Hyperlink":"https://www.gutenberg.org/cache/epub/17520/pg17520.html",
+    "Country":"Serbia",
+    "Region":"Southeast",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.8954,43.3209 ]
+    },
+    "properties": {
+    "PlaceName":"Nissa",
+    "PlaceNameModern":"Niš, Serbia",
+    "NameOfTraveler":"Lady Mary Wortley Montagu",
+    "YearOfTravel":1717,
+    "Description":"After seven days travelling through thick woods, we came to Nissa, once the capital of Servia, situated in a fine plain on the river Nissava, in a very good air, and so fruitful a soil, that the great plenty is hardly credible.  I was certainly assured, that the quantity of wine last vintage was so prodigious, that they were forced to dig holes in the earth to put it in, not having vessels enough in the town to hold it.  The happiness of this plenty is scarce perceived by the oppressed people.  I saw here a new occasion for my compassion.  ",
+    "Citation":"Lady Mary Wortley Montagu, Letters of the Right Honourable Lady M——Y W——Y M——E; Written During Her Travels in Europe, Asia, and Africa, New (London: Printed for Thomas Martin, 1890), Let. XXV.",
+    "Hyperlink":"https://www.gutenberg.org/cache/epub/17520/pg17520.html",
+    "Country":"Serbia",
+    "Region":"Southeast",
+    "Continent":"Europe"
+    }
+  },
   {
     "type": "Feature",
     "geometry": {
@@ -150,8 +531,8 @@ var data =
     "Citation":"Lady Mary Wortley Montagu, Letters of the Right Honourable Lady M——Y W——Y M——E; Written During Her Travels in Europe, Asia, and Africa, New (London: Printed for Thomas Martin, 1890), Let. XLI.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/17520/pg17520.html",
     "Country":"Turkey",
-    "Region":"Eastern Europe",
-    "Continent":"Europe"
+    "Region":"Eastern Europe; Western Asia",
+    "Continent":"Europe; Asia"
     }
   },
   {
@@ -170,7 +551,7 @@ var data =
     "Hyperlink":"https://www.gutenberg.org/cache/epub/17520/pg17520.html",
     "Country":"Turkey",
     "Region":"Western Asia",
-    "Continent":"Europe"
+    "Continent":"Europe; Asia"
     }
   },
   {
@@ -188,8 +569,8 @@ var data =
     "Citation":"Lady Mary Wortley Montagu, Letters of the Right Honourable Lady M——Y W——Y M——E; Written During Her Travels in Europe, Asia, and Africa, New (London: Printed for Thomas Martin, 1890), Let. XLIV.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/17520/pg17520.html",
     "Country":"Turkey",
-    "Region":"Eastern Europe",
-    "Continent":"Europe"
+    "Region":"Eastern Europe; Western Asia",
+    "Continent":"Europe; Asia"
     }
   },
   {
@@ -207,7 +588,7 @@ var data =
     "Citation":"Lady Mary Wortley Montagu, Letters of the Right Honourable Lady M——Y W——Y M——E; Written During Her Travels in Europe, Asia, and Africa, New (London: Printed for Thomas Martin, 1890), Let. XLIV.",
     "Hyperlink":"https://www.gutenberg.org/cache/epub/17520/pg17520.html",
     "Country":"Tunisia",
-    "Region":"Northern Africa",
+    "Region":"Nothern Africa",
     "Continent":"Africa"
     }
   },
@@ -226,7 +607,7 @@ var data =
     "Citation":"Lewes Vertomannus, “The Nauigation and Vyages of Lewes Vertomannus... to Regions of Arabia, Egypte, Persia, Syria, Ethiopia, and East India,” in The History of Trauayle in the Vvest and East Indies: And Other Countreys Lying Eyther Way Towardes the Fruitfull and Ryche Moluccaes: As Moscouia, Persia, Arabia, Syria, Aegypte, Ethiopia, Guinea, China in Cathayo, and Giapan: Vvith a Discourse of the Northwest Passage, ed. Pietro Martire d’Anghiera, trans. Richard Eden (London: Richarde Lugge, 1577), Cap. 2.\n Fol. 355.",
     "Hyperlink":"https://archive.org/details/historyoftrauayl00angh",
     "Country":"Egypt",
-    "Region":"",
+    "Region":"Nothern Africa",
     "Continent":"Africa"
     }
   },
@@ -283,7 +664,7 @@ var data =
     "Citation":"Lewes Vertomannus, “The Nauigation and Vyages of Lewes Vertomannus... to Regions of Arabia, Egypte, Persia, Syria, Ethiopia, and East India,” in The History of Trauayle in the Vvest and East Indies: And Other Countreys Lying Eyther Way Towardes the Fruitfull and Ryche Moluccaes: As Moscouia, Persia, Arabia, Syria, Aegypte, Ethiopia, Guinea, China in Cathayo, and Giapan: Vvith a Discourse of the Northwest Passage, ed. Pietro Martire d’Anghiera, trans. Richard Eden (London: Richarde Lugge, 1577), Cap. 5. Fol. 357.",
     "Hyperlink":"https://archive.org/details/historyoftrauayl00angh",
     "Country":"Syria",
-    "Region":"Levant",
+    "Region":"Levant; Western Asia",
     "Continent":"Asia"
     }
   },
@@ -302,7 +683,7 @@ var data =
     "Citation":"Lewes Vertomannus, “The Nauigation and Vyages of Lewes Vertomannus... to Regions of Arabia, Egypte, Persia, Syria, Ethiopia, and East India,” in The History of Trauayle in the Vvest and East Indies: And Other Countreys Lying Eyther Way Towardes the Fruitfull and Ryche Moluccaes: As Moscouia, Persia, Arabia, Syria, Aegypte, Ethiopia, Guinea, China in Cathayo, and Giapan: Vvith a Discourse of the Northwest Passage, ed. Pietro Martire d’Anghiera, trans. Richard Eden (London: Richarde Lugge, 1577), Cap.15. Fol. 365.",
     "Hyperlink":"https://archive.org/details/historyoftrauayl00angh",
     "Country":"Saudi Arabia",
-    "Region":"Arabian Peninsula",
+    "Region":"Arabian Peninsula; Western Asia",
     "Continent":"Asia"
     }
   },
@@ -321,7 +702,7 @@ var data =
     "Citation":"Lewes Vertomannus, “The Nauigation and Vyages of Lewes Vertomannus... to Regions of Arabia, Egypte, Persia, Syria, Ethiopia, and East India,” in The History of Trauayle in the Vvest and East Indies: And Other Countreys Lying Eyther Way Towardes the Fruitfull and Ryche Moluccaes: As Moscouia, Persia, Arabia, Syria, Aegypte, Ethiopia, Guinea, China in Cathayo, and Giapan: Vvith a Discourse of the Northwest Passage, ed. Pietro Martire d’Anghiera, trans. Richard Eden (London: Richarde Lugge, 1577), Cap.15.  Fol. 365.",
     "Hyperlink":"https://archive.org/details/historyoftrauayl00angh",
     "Country":"Saudi Arabia",
-    "Region":"Arabian Peninsula",
+    "Region":"Arabian Peninsula; Western Asia",
     "Continent":"Asia"
     }
   },
@@ -340,7 +721,7 @@ var data =
     "Citation":"Lewes Vertomannus, “The Nauigation and Vyages of Lewes Vertomannus... to Regions of Arabia, Egypte, Persia, Syria, Ethiopia, and East India,” in The History of Trauayle in the Vvest and East Indies: And Other Countreys Lying Eyther Way Towardes the Fruitfull and Ryche Moluccaes: As Moscouia, Persia, Arabia, Syria, Aegypte, Ethiopia, Guinea, China in Cathayo, and Giapan: Vvith a Discourse of the Northwest Passage, ed. Pietro Martire d’Anghiera, trans. Richard Eden (London: Richarde Lugge, 1577), Cap.15.  Fol. 366.",
     "Hyperlink":"https://archive.org/details/historyoftrauayl00angh",
     "Country":"Saudi Arabia",
-    "Region":"Arabian Peninsula",
+    "Region":"Arabian Peninsula; Western Asia",
     "Continent":"Asia"
     }
   },
@@ -359,7 +740,7 @@ var data =
     "Citation":"Lewes Vertomannus, “The Nauigation and Vyages of Lewes Vertomannus... to Regions of Arabia, Egypte, Persia, Syria, Ethiopia, and East India,” in The History of Trauayle in the Vvest and East Indies: And Other Countreys Lying Eyther Way Towardes the Fruitfull and Ryche Moluccaes: As Moscouia, Persia, Arabia, Syria, Aegypte, Ethiopia, Guinea, China in Cathayo, and Giapan: Vvith a Discourse of the Northwest Passage, ed. Pietro Martire d’Anghiera, trans. Richard Eden (London: Richarde Lugge, 1577), Cap. 1. Fol. 371.",
     "Hyperlink":"https://archive.org/details/historyoftrauayl00angh",
     "Country":"Saudi Arabia",
-    "Region":"Arabian Peninsula",
+    "Region":"Arabian Peninsula; Western Asia",
     "Continent":"Asia"
     }
   },
@@ -378,7 +759,7 @@ var data =
     "Citation":"Lewes Vertomannus, “The Nauigation and Vyages of Lewes Vertomannus... to Regions of Arabia, Egypte, Persia, Syria, Ethiopia, and East India,” in The History of Trauayle in the Vvest and East Indies: And Other Countreys Lying Eyther Way Towardes the Fruitfull and Ryche Moluccaes: As Moscouia, Persia, Arabia, Syria, Aegypte, Ethiopia, Guinea, China in Cathayo, and Giapan: Vvith a Discourse of the Northwest Passage, ed. Pietro Martire d’Anghiera, trans. Richard Eden (London: Richarde Lugge, 1577), Cap. 3. Fol. 371.",
     "Hyperlink":"https://archive.org/details/historyoftrauayl00angh",
     "Country":"Yemen",
-    "Region":"Arabian Peninsula",
+    "Region":"Arabian Peninsula; Western Asia",
     "Continent":"Asia"
     }
   },
@@ -397,7 +778,7 @@ var data =
     "Citation":"Lewes Vertomannus, “The Nauigation and Vyages of Lewes Vertomannus... to Regions of Arabia, Egypte, Persia, Syria, Ethiopia, and East India,” in The History of Trauayle in the Vvest and East Indies: And Other Countreys Lying Eyther Way Towardes the Fruitfull and Ryche Moluccaes: As Moscouia, Persia, Arabia, Syria, Aegypte, Ethiopia, Guinea, China in Cathayo, and Giapan: Vvith a Discourse of the Northwest Passage, ed. Pietro Martire d’Anghiera, trans. Richard Eden (London: Richarde Lugge, 1577), Cap. 7. Fol. 375.",
     "Hyperlink":"https://archive.org/details/historyoftrauayl00angh",
     "Country":"Yemen",
-    "Region":"Arabian Peninsula",
+    "Region":"Arabian Peninsula; Western Asia",
     "Continent":"Asia"
     }
   },
@@ -416,7 +797,7 @@ var data =
     "Citation":"Lewes Vertomannus, “The Nauigation and Vyages of Lewes Vertomannus... to Regions of Arabia, Egypte, Persia, Syria, Ethiopia, and East India,” in The History of Trauayle in the Vvest and East Indies: And Other Countreys Lying Eyther Way Towardes the Fruitfull and Ryche Moluccaes: As Moscouia, Persia, Arabia, Syria, Aegypte, Ethiopia, Guinea, China in Cathayo, and Giapan: Vvith a Discourse of the Northwest Passage, ed. Pietro Martire d’Anghiera, trans. Richard Eden (London: Richarde Lugge, 1577), Cap. 7. Fol. 375.",
     "Hyperlink":"https://archive.org/details/historyoftrauayl00angh",
     "Country":"Yemen",
-    "Region":"Arabian Peninsula",
+    "Region":"Arabian Peninsula; Western Asia",
     "Continent":"Asia"
     }
   },
@@ -435,7 +816,7 @@ var data =
     "Citation":"Lewes Vertomannus, “The Nauigation and Vyages of Lewes Vertomannus... to Regions of Arabia, Egypte, Persia, Syria, Ethiopia, and East India,” in The History of Trauayle in the Vvest and East Indies: And Other Countreys Lying Eyther Way Towardes the Fruitfull and Ryche Moluccaes: As Moscouia, Persia, Arabia, Syria, Aegypte, Ethiopia, Guinea, China in Cathayo, and Giapan: Vvith a Discourse of the Northwest Passage, ed. Pietro Martire d’Anghiera, trans. Richard Eden (London: Richarde Lugge, 1577), Cap. 9. Fol. 376.",
     "Hyperlink":"https://archive.org/details/historyoftrauayl00angh",
     "Country":"Yemen",
-    "Region":"Arabian Peninsula",
+    "Region":"Arabian Peninsula; Western Asia",
     "Continent":"Asia"
     }
   },
@@ -454,7 +835,7 @@ var data =
     "Citation":"Lewes Vertomannus, “The Nauigation and Vyages of Lewes Vertomannus... to Regions of Arabia, Egypte, Persia, Syria, Ethiopia, and East India,” in The History of Trauayle in the Vvest and East Indies: And Other Countreys Lying Eyther Way Towardes the Fruitfull and Ryche Moluccaes: As Moscouia, Persia, Arabia, Syria, Aegypte, Ethiopia, Guinea, China in Cathayo, and Giapan: Vvith a Discourse of the Northwest Passage, ed. Pietro Martire d’Anghiera, trans. Richard Eden (London: Richarde Lugge, 1577), Cap. 10. Fol. 376.",
     "Hyperlink":"https://archive.org/details/historyoftrauayl00angh",
     "Country":"Yemen",
-    "Region":"Arabian Peninsula",
+    "Region":"Arabian Peninsula; Western Asia",
     "Continent":"Asia"
     }
   },
@@ -473,7 +854,7 @@ var data =
     "Citation":"Lewes Vertomannus, “The Nauigation and Vyages of Lewes Vertomannus... to Regions of Arabia, Egypte, Persia, Syria, Ethiopia, and East India,” in The History of Trauayle in the Vvest and East Indies: And Other Countreys Lying Eyther Way Towardes the Fruitfull and Ryche Moluccaes: As Moscouia, Persia, Arabia, Syria, Aegypte, Ethiopia, Guinea, China in Cathayo, and Giapan: Vvith a Discourse of the Northwest Passage, ed. Pietro Martire d’Anghiera, trans. Richard Eden (London: Richarde Lugge, 1577), Cap. 11. Fol. 376.",
     "Hyperlink":"https://archive.org/details/historyoftrauayl00angh",
     "Country":"Yemen",
-    "Region":"Arabian Peninsula",
+    "Region":"Arabian Peninsula; Western Asia",
     "Continent":"Asia"
     }
   },
@@ -492,7 +873,7 @@ var data =
     "Citation":"Lewes Vertomannus, “The Nauigation and Vyages of Lewes Vertomannus... to Regions of Arabia, Egypte, Persia, Syria, Ethiopia, and East India,” in The History of Trauayle in the Vvest and East Indies: And Other Countreys Lying Eyther Way Towardes the Fruitfull and Ryche Moluccaes: As Moscouia, Persia, Arabia, Syria, Aegypte, Ethiopia, Guinea, China in Cathayo, and Giapan: Vvith a Discourse of the Northwest Passage, ed. Pietro Martire d’Anghiera, trans. Richard Eden (London: Richarde Lugge, 1577), Cap. 11. Fol. 376.",
     "Hyperlink":"https://archive.org/details/historyoftrauayl00angh",
     "Country":"Yemen",
-    "Region":"Arabian Peninsula",
+    "Region":"Arabian Peninsula; Western Asia",
     "Continent":"Asia"
     }
   },
@@ -511,7 +892,7 @@ var data =
     "Citation":"Lewes Vertomannus, “The Nauigation and Vyages of Lewes Vertomannus... to Regions of Arabia, Egypte, Persia, Syria, Ethiopia, and East India,” in The History of Trauayle in the Vvest and East Indies: And Other Countreys Lying Eyther Way Towardes the Fruitfull and Ryche Moluccaes: As Moscouia, Persia, Arabia, Syria, Aegypte, Ethiopia, Guinea, China in Cathayo, and Giapan: Vvith a Discourse of the Northwest Passage, ed. Pietro Martire d’Anghiera, trans. Richard Eden (London: Richarde Lugge, 1577), Cap. 11. Fol. 377.",
     "Hyperlink":"https://archive.org/details/historyoftrauayl00angh",
     "Country":"Yemen",
-    "Region":"Arabian Peninsula",
+    "Region":"Arabian Peninsula; Western Asia",
     "Continent":"Asia"
     }
   },
@@ -1555,7 +1936,7 @@ var data =
     "Description":"Pursuant to this Rule, we shall say nothing of the Point of San cha ho , so much taken Notice of by Chinese Authors ; it is no more than a Concourse of three ordinary Rivers, which unite in this Place, and under that common Name discharge themselves into the Sea, but is far from being a Novelty. The Lands of this Province are in general very good, producing Plenty of Wheat, Millet, Roots, and Cotton; they also feed Numbers of Sheep and Oxen, which are rarely seen in any of the Provinces of China. They have little Rice, but plenty of Apples, Pears, Nuts, Filberds, and Chesnuts, even in their Forests. The Eastern Part, which borders on the ancient Country of the Manchews and the Kingdom of Korea , is full of Desarts and Boggs...",
     "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 245.",
     "Hyperlink":"https://archive.org/details/descriptionofemp00duha",
-    "Country":"China",
+    "Country":"China; North Korea",
     "Region":"Eastern Asia",
     "Continent":"Asia"
     }
@@ -1593,7 +1974,7 @@ var data =
     "Description":"Extent of the Territories of these Quel ka Ta tse , whose Country is in other Respects agreeable enough, and, what is very uncommon among Tartars, well cultivated, whether it be owing to Necessity, on ac-count of their Distance from the Monchews, (the nearest of whom are 40 Leagues off, and the Road very bad) or the Example of the Koreans , whose very Hills are cut into Stories, and cultivated to the Top.\nIt was a new Sight to us, after we had crossed fo many Forests, and coasted so many frightful Moun-tains, to find ourselves on the Banks of the River Tu men ula, with nothing but Woods and wild Beast on one Side, while the other presented to our view of all that Art and Labour could produce in the best cultivated Kingdoms. We there saw wall’d Cities, and placing our Instruments on the neighbouring Heights geometrically determined the Situation of four of them, which bounded Korea on the North.",
     "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 246.",
     "Hyperlink":"https://archive.org/details/descriptionofemp00duha",
-    "Country":"China",
+    "Country":"China; North Korea",
     "Region":"Eastern Asia",
     "Continent":"Asia"
     }
@@ -2068,7 +2449,7 @@ var data =
     "Description":"The 3d, we travelled 30 Li, following the Course of the Urfon , and encamped on its Bank, to the S. of a Pool made by a Spring, called ulan pulak, whence the Place takes the Name of Urson pira ulan pûlak. The Country was not so level as the former, and as there are no Trees, nor Bushes, they use for Fuel the Dung of Cattle.",
     "Citation":"J.-B. Du Halde, A Description of the Empire of China and Chinese-Tartary: Together with the Kingdoms of Korea, and Tibet : Containing the Geography and History (Natural as Well as Civil) of Those Countries. Enrich’d with General and Particular Maps, and Adorned with a Great Number of Cuts. (London: Printed by TGardner in Bartholomew Close for Edward Cave, 1738), 371.",
     "Hyperlink":"https://archive.org/details/descriptionofemp00duha",
-    "Country":"China",
+    "Country":"China; Mongolia",
     "Region":"Eastern Asia",
     "Continent":"Asia"
     }
@@ -3283,9 +3664,9 @@ var data =
     "YearOfTravel":1910,
     "Description":"I no longer think of it as a gay town—rather as a supremely tragic one. Turn the corner from any of the main thoroughfares, and you will soon find yourself in a foul alley of crowded tenements, in the midst of a misery and squalor that wring the heart. You will wonder to see women laughing together and children playing on the damp pavements. It is thin laughter and half-hearted play; and yet, even here, there is a certain air of carelessness and good-humour. It may be that these miserable people do not realise their misery. Cleanliness is perhaps as painful to a person reared in dirt as dirt is to a person reared in cleanliness; slum dwellers, I suppose, do not notice the slum odour; a few decades of slum life must inevitably destroy or, at least, deaden those niceties of smell and taste and feeling which play so large a part in the lives of the well-to-do. And it is fortunate that this is so. But one threads one's way along these squalid streets, shuddering at thought of the vice and disease that must be bred there, and mourning, not so much for their unfortunate inhabitants, as for the blindness and inefficiency of the social order which permits them to exist.",
     "Citation":"Burton E. Stevenson, The Charm of Ireland (New York: Dodd, Mead and Company, 1914), 9.",
-    "Hyperlink":"https://www.gutenberg.org/ebooks/35529",
+    "Hyperlink":"https://archive.org/details/charmofireland00steviala",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -3302,9 +3683,9 @@ var data =
     "YearOfTravel":1910,
     "Description":"We emerged from the wood presently, and then, away to the left, our jarvey pointed out the high peaks which guard the entrance to Glendalough—and let me say here that the word \"lough,\" which occurs so frequently in Irish geography, means lake, and is pronounced almost exactly like the Scotch \"loch.\" Glendalough is one of the most beautiful and romantic spots in Ireland",
     "Citation":"Burton E. Stevenson, The Charm of Ireland (New York: Dodd, Mead and Company, 1914), 62.",
-    "Hyperlink":"https://www.gutenberg.org/ebooks/35530",
+    "Hyperlink":"https://archive.org/details/charmofireland00steviala",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -3321,9 +3702,9 @@ var data =
     "YearOfTravel":1910,
     "Description":"Drogheda is about thirty miles north of Dublin, near the mouth of the River Boyne, and the ride thither, for the most part close beside the sea, is not of special interest, as the coast is flat and the only town of any importance on the way is Balbriggan, celebrated for its hosiery. Drogheda itself is an up-and-down place, built on the side of a hill. I suppose the castle which was the nucleus of the town stood on top of the hill, and houses were gradually built from it down to the ford from which the town takes its name. Encircled with walls and dominated by its castle, it was no doubt picturesque enough, but it is singularly dingy and unattractive now, with slums almost as bad as Dublin's and evidences of biting poverty everywhere.",
     "Citation":"Burton E. Stevenson, The Charm of Ireland (New York: Dodd, Mead and Company, 1914), 85.",
-    "Hyperlink":"https://www.gutenberg.org/ebooks/35531",
+    "Hyperlink":"https://archive.org/details/charmofireland00steviala",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -3340,9 +3721,9 @@ var data =
     "YearOfTravel":1910,
     "Description":"The road was rather higher than the surrounding country, and we could see across it, north and south, for many miles; then it descended to a winding stream, the Suir, flowing gently between rushy banks, and presently we saw ahead a great pile of crumbling buildings—and then we were at Holy Cross, one of the most exquisite and interesting of the hundreds of ruins which cover Ireland.",
     "Citation":"Burton E. Stevenson, The Charm of Ireland (New York: Dodd, Mead and Company, 1914), 99.",
-    "Hyperlink":"https://www.gutenberg.org/ebooks/35532",
+    "Hyperlink":"https://archive.org/details/charmofireland00steviala",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -3359,9 +3740,9 @@ var data =
     "YearOfTravel":1910,
     "Description":"Approached thus, the massive donjon tower, set on a cliff and looming a hundred and twenty feet into the air, is most impressive. To the left is a lower and more ornamental fragment of the old castle, which, in its day, was the strongest in all Munster. Cormac McCarthy built it in the fifteenth century as a defence against the English, and it was held by the Irish until Cromwell's army besieged and captured it. Around the top of the tower is a series of machicolations, or openings between supporting corbels, through which the besieged, in the old days, could drop stones and[117] pour molten lead and red-hot ashes and such-like things down upon the assailants, and it is in the sill of one of these openings that the famous Blarney stone is fixed.",
     "Citation":"Burton E. Stevenson, The Charm of Ireland (New York: Dodd, Mead and Company, 1914), 116-7.",
-    "Hyperlink":"https://www.gutenberg.org/ebooks/35533",
+    "Hyperlink":"https://archive.org/details/charmofireland00steviala",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -3378,9 +3759,9 @@ var data =
     "YearOfTravel":1910,
     "Description":"In the middle of a scrubby grove, a little way from the enclosure, is a wishing-stone, which had evidently been much used, I hope to good purpose, for the stone itself was covered with trinkets and the bushes round about were hung thickly with rags and hairpins and[149] rosaries and other tokens. I picked up somewhere, perhaps from the jargon of the guide, that this wishing-stone is the altar of Fin Barre's old chapel, but I haven't been able to verify this, and it may not be so; but the game is to put up a prayer to the Saint, and make your wish, and leave some token to show you are in earnest, and the wish will surely come true. Of course we made a wish and added some half-pennies to the collection on the altar. In turning over the trinkets already deposited there, we were amused to find two bright Lincoln cents.",
     "Citation":"Burton E. Stevenson, The Charm of Ireland (New York: Dodd, Mead and Company, 1914), 148-9.",
-    "Hyperlink":"https://www.gutenberg.org/ebooks/35534",
+    "Hyperlink":"https://archive.org/details/charmofireland00steviala",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -3397,9 +3778,9 @@ var data =
     "YearOfTravel":1910,
     "Description":"Perhaps the most interesting show-place in the vicinity of Killarney is Muckross Abbey, and we spent that afternoon exploring it and its grounds. Muckross is far surpassed in interest by many other Irish ruins, but it is very beautiful, embowered as it is in magnificent trees and all but covered with glistening ivy. It is not very old, as Irish ruins go, for it dates only from the latter half of the fifteenth century, when it was founded for the Franciscans. The gem of the place is undoubtedly the cloister, with its arcade of graceful arches ranged around a court and lighting a finely-vaulted ambulatory. In the middle of the court is a giant yew, many centuries old, which spreads its branches from wall to wall. It is encircled with barbed wire, and I don't know whether this is to protect it from vandals, or to protect vandals from it—for the legend is that whoever plucks a spray of this tree dies within a twelvemonth.",
     "Citation":"Burton E. Stevenson, The Charm of Ireland (New York: Dodd, Mead and Company, 1914), 193-4.",
-    "Hyperlink":"https://www.gutenberg.org/ebooks/35535",
+    "Hyperlink":"https://archive.org/details/charmofireland00steviala",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -3416,9 +3797,9 @@ var data =
     "YearOfTravel":1910,
     "Description":"The interior of the church is of unusual richness and beauty, abounding in delicate detail—recessed altar-tombs, richly-carved sedilia, arched vaults, graceful mouldings, and the window traceries are very pure and lovely. Here, as at Muckross, the cloisters are especially beautiful, and are perfectly preserved. They are lighted on two sides by pointed arches arranged in groups of three, while on the side next the church the arches are grouped in pairs, and the fourth side is closed in by a lovely arcade, with double octagonal columns. Here, also as at Muckross, the friars planted a yew tree in the centre of the court, and it is now a venerable giant. Whether it is as deadly as the Muckross yew I do not know.",
     "Citation":"Burton E. Stevenson, The Charm of Ireland (New York: Dodd, Mead and Company, 1914), 231-2.",
-    "Hyperlink":"https://www.gutenberg.org/ebooks/35536",
+    "Hyperlink":"https://archive.org/details/charmofireland00steviala",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -3435,9 +3816,9 @@ var data =
     "YearOfTravel":1910,
     "Description":"The principal well is a little farther up the road, set back in a circle of trees and approached by a short avenue of lindens. It is a far more important well than the other—is one of the most famous in Ireland, indeed—and is covered with a little shrine, which you will find pictured opposite the next page. The shrine is hung with rosaries and crowded with figurines and pictures of the Virgin and of various saints, among which, I suppose, the learned in such matters might have picked out Saint Senan, who blessed this well and gave it its miraculous power. The trees which encircle the glade in which the well stands are also hung with offerings—sacred pictures, rosaries, small vessels of gilt, and the crutches of those who came lame and halting and went away cured. On either side of the entrance is a bench where one may sit while saying one's prayers, and in front of the shrine is a shallow basin, some two feet wide and a yard long, into which the water from the well trickles, and where one may sit and wash all infirmities away.",
     "Citation":"Burton E. Stevenson, The Charm of Ireland (New York: Dodd, Mead and Company, 1914), 247.",
-    "Hyperlink":"https://www.gutenberg.org/ebooks/35537",
+    "Hyperlink":"https://archive.org/details/charmofireland00steviala",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -3454,9 +3835,9 @@ var data =
     "YearOfTravel":1910,
     "Description":"We ran out of this rocky land, at last, and crossed a vast bog, scarred with long, black, water-filled ditches, from which the turf had been taken. There were a few people here and there cutting it, but a woman who had got into the compartment with us said that the continued wet weather had made the work very difficult and dangerous. All the people hereabouts, she added, lived by the turf cutting, at which they could earn, perhaps, ten-pence a day; but in bad seasons they were soon close to starvation. I remarked that, with such wages, they must be close to it all the time, and she[268] smiled sadly and said that that was true. Only, of course, in the bogs the children can work, as well as the men and women, and that helps. Indeed, we saw them many times—little boys and girls who should have been at school or running free, gaining health and strength for the hard years to come, tugging at the heavy, water-soaked blocks of peat, and laying them out in the sun to dry. It takes a month of sun to dry the peat; in wet weather it won't dry at all, and so isn't salable. Truly, the lives of the poor Irish hang on slender threads!",
     "Citation":"Burton E. Stevenson, The Charm of Ireland (New York: Dodd, Mead and Company, 1914), 267-8.",
-    "Hyperlink":"https://www.gutenberg.org/ebooks/35538",
+    "Hyperlink":"https://archive.org/details/charmofireland00steviala",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -3473,9 +3854,9 @@ var data =
     "YearOfTravel":1910,
     "Description":"It was a desolate scene; and Clonmacnoise looked desolate, too, with its gaunt grey towers, and huddle of little buildings, and cluttered graveyard. It seemed incredible that this obscure corner of the world was once a centre of learning toward which scholars turned their faces from the far ends of Europe, to which Charlemagne sent gifts, and within whose walls princes and nobles were reared in wisdom and piety. Yet such it was—the nearest to being a national university among all the abbeys, for it was not identified with any class or province, but chose its abbots from all Ireland, and welcomed its students from all the world.",
     "Citation":"Burton E. Stevenson, The Charm of Ireland (New York: Dodd, Mead and Company, 1914), 285-6.",
-    "Hyperlink":"https://www.gutenberg.org/ebooks/35539",
+    "Hyperlink":"https://archive.org/details/charmofireland00steviala",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -3492,9 +3873,9 @@ var data =
     "YearOfTravel":1910,
     "Description":"Galway, as well as most other Irish towns, boasts a number of millinery stores, with windows full of befeathered and beribboned hats; but one wonders where their customers come from, for hats are a luxury unknown to most Irish women, who habitually go either bareheaded, or with the head muffled in a shawl. All the women here in Galway were shawled, and beautiful shawls they were, of a delicate fawn-colour, and very soft and thick… A few had carts drawn by little grey donkeys; and the old woman in one of these was so typical that I wanted to get her picture. She was sitting there watching the crowd with her elbows on her knees, and a chicken in her hands, but when she saw me unlimbering my camera, she shook her head menacingly.",
     "Citation":"Burton E. Stevenson, The Charm of Ireland (New York: Dodd, Mead and Company, 1914), 295-6.",
-    "Hyperlink":"https://www.gutenberg.org/ebooks/35540",
+    "Hyperlink":"https://archive.org/details/charmofireland00steviala",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -3511,9 +3892,9 @@ var data =
     "YearOfTravel":1910,
     "Description":"I have never seen a steeper road than that which zig-zags down into this valley, and I was very glad indeed to get off and walk, not only because of the steepness, but also because on foot I could stop whenever I chose and look at the beautiful scene below—the long, narrow lake, crowded in on the south by steep, bare mountains, and with a white ribbon of road running along its northern edge, past a cluster of houses built close beside it, and with the furrowed fields behind them mounting steeply upwards. The whole village was out at work in the fields, and the red petticoats of the women gave the scene just that added touch of colour it needed.",
     "Citation":"Burton E. Stevenson, The Charm of Ireland (New York: Dodd, Mead and Company, 1914), 343.",
-    "Hyperlink":"https://www.gutenberg.org/ebooks/35541",
+    "Hyperlink":"https://archive.org/details/charmofireland00steviala",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -3530,9 +3911,9 @@ var data =
     "YearOfTravel":1910,
     "Description":"The abbey stands close to the bank of that wonderful white river which, coming underground from Lough Mask, bursts from the earth in a deep chasm a mile above Cong, and sweeps, deep and rapid, down into Lough Corrib. And the monks at Cong were more ingenious than most, for there, on a little island in the middle of the river, stand the ruins of their fishing-house, constructed over a narrow channel into which the nets were dropped, and they were so arranged that when a fish was captured, its struggles rang a bell back at the abbey, and some one would hasten to secure it. We made our way through an orchard of beautiful old apple trees bearded with lichen, waist-deep in grass, to the very edge of the stream, that I might get the picture of this labour-saving edifice, which you will find opposite the preceding page.",
     "Citation":"Burton E. Stevenson, The Charm of Ireland (New York: Dodd, Mead and Company, 1914), 347.",
-    "Hyperlink":"https://www.gutenberg.org/ebooks/35542",
+    "Hyperlink":"https://archive.org/details/charmofireland00steviala",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -3549,9 +3930,9 @@ var data =
     "YearOfTravel":1910,
     "Description":"There are two most impressive cromlechs at Carrowmore, quite close together, and my pictures of them are opposite the next page. The first one we came to stands near the road in a pasture, and it was merely a question of clambering over a wall to get to it; but to reach the other, it was necessary to cross a newly-cultivated field; and as there were some men working in it, I asked permission to do so.",
     "Citation":"Burton E. Stevenson, The Charm of Ireland (New York: Dodd, Mead and Company, 1914), 391.",
-    "Hyperlink":"https://www.gutenberg.org/ebooks/35543",
+    "Hyperlink":"https://archive.org/details/charmofireland00steviala",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -3568,9 +3949,9 @@ var data =
     "YearOfTravel":1910,
     "Description":"In every other way—in extent and in complexity—this enclosure far outranks Stonehenge. Great upright rocks, lichened and weatherbeaten by the rains and winds of forty centuries, form a rude oblong, about a hundred and fifty feet in length by fifty feet across. It stretches east and west, and at the western end is a square projection like a vestibule, divided into two chambers; while at the eastern end are two smaller oblongs some ten or twelve feet square, and their doorways are two trilithons—that is to say, two great rocks set on end with another rock laid across them, just as at Stonehenge. I despair of trying to picture it in words, but I took two photographs, one of which is opposite the preceding page, and gives some idea of the appearance of this remarkable monument—at least of the trilithons. But it gives no idea of its shape or its extent. There was no vantage point from which I could get a photograph that would do that.",
     "Citation":"Burton E. Stevenson, The Charm of Ireland (New York: Dodd, Mead and Company, 1914), 400-401.",
-    "Hyperlink":"https://www.gutenberg.org/ebooks/35544",
+    "Hyperlink":"https://archive.org/details/charmofireland00steviala",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -3587,9 +3968,9 @@ var data =
     "YearOfTravel":1910,
     "Description":"Some years ago, the Irish railways realised that the surest way to encourage tourist traffic in the west and south was to provide attractive hotel accommodations, and they set about doing this with the result that the traveller in Ireland is now well provided for. Such hotels as those at Bundoran, Recess and Parknasilla—and there are many others like them, handsome buildings, splendidly equipped, set in the midst of beautiful surroundings—leave nothing to be desired. Nor are their rates excessive, considering the excellent service they offer, averaging a little over three dollars a day. In the smaller towns, the tariff is considerably less than this, though the service is almost as good. In places where the railroad does not itself own or manage a hotel, it usually sees to it that at least one under private management is kept up to a satisfactory standard. So no one wishing to explore Ireland need hesitate on account of the hotels. They will be found, with a few exceptions, surprisingly good.",
     "Citation":"Burton E. Stevenson, The Charm of Ireland (New York: Dodd, Mead and Company, 1914), 415-416.",
-    "Hyperlink":"https://www.gutenberg.org/ebooks/35545",
+    "Hyperlink":"https://archive.org/details/charmofireland00steviala",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -3606,9 +3987,9 @@ var data =
     "YearOfTravel":1910,
     "Description":"Ballyshannon, after the fashion of Irish towns, is built on the side of a hill, and no horse unaccustomed to mountaineering could have got up the street which leads from the river; but our horse had been reared in the town, so he managed to scramble up; and then we turned to the left and followed along the river to the falls—a dashing mass of spray, where the whole body of water which rushes down from Lough Erne sweeps roaring over a cliff some thirty feet high. Two or three miles along country roads brought us to a gate; and here our driver, looking a little anxious, had a short conference with a woman who lived in a neat labourer's cottage near by; and finally he opened the gate and drove through.",
     "Citation":"Burton E. Stevenson, The Charm of Ireland (New York: Dodd, Mead and Company, 1914), 420.",
-    "Hyperlink":"https://www.gutenberg.org/ebooks/35546",
+    "Hyperlink":"https://archive.org/details/charmofireland00steviala",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -3625,9 +4006,9 @@ var data =
     "YearOfTravel":1910,
     "Description":"It was as though I had stepped into some old Roman amphitheatre, for the terraces which run around it from top to bottom have the appearance of tiers of seats. They mount one above the other to the narrow platform at the top, which is guarded by a low parapet. Two flights of steps run up the slope, but an active man would have no need of them. On either side of the entrance door a gallery runs away in the thickness of the wall, opening some distance away on the interior, and designed, I suppose, to enable an extra force to defend the entrance.",
     "Citation":"Burton E. Stevenson, The Charm of Ireland (New York: Dodd, Mead and Company, 1914), 464-5.",
-    "Hyperlink":"https://www.gutenberg.org/ebooks/35547",
+    "Hyperlink":"https://archive.org/details/charmofireland00steviala",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -3644,9 +4025,9 @@ var data =
     "YearOfTravel":1910,
     "Description":"The misfortune of the Causeway is that its fame is too great. The visitor, expecting to see something magnificent and grandiose, is rather dashed at first to find how small it is; but after a few minutes' wandering over the queer columns of basalt, this feeling passes, and one begins to realise that it is really one of the wonders of the world. I am not going to describe it—every one has seen photographs of it, or if any one hasn't, he will find some opposite this page; and the photographs picture it much better than I can. There are some forty thousand of the pillars, the guide-book says; five-sided or six-sided for the most part, averaging, I should say, about fifteen inches in diameter, and so close together that a lead pencil is too thick to be thrust between them. The pillars are divided into regular, worm-like segments, some six or eight inches thick, and there are quite a lot of segments lying about, broken off from the columns. The whole bed is said by geologists to be nothing but a lava-flow, which broke up into these columnar shapes when it cooled and contracted.",
     "Citation":"Burton E. Stevenson, The Charm of Ireland (New York: Dodd, Mead and Company, 1914), 482-3.",
-    "Hyperlink":"https://www.gutenberg.org/ebooks/35548",
+    "Hyperlink":"https://archive.org/details/charmofireland00steviala",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -3663,9 +4044,9 @@ var data =
     "YearOfTravel":1910,
     "Description":"It is formed of standing stones, covered with lichen and crumbling under the storms of centuries, and the vestibule, so to speak, is a semi-circle some twenty feet in diameter opening toward the east. Back of this are two chambers, one behind the other, divided by two large uprights, and I suppose it was in one of these that the body of the bard was laid—if it was laid here at all. My own guess would be that these weather-beaten stones, like those others on the hill beside Lough Gill, antedate Ossian by at least two thousand years. But that is an unimportant detail; and it may be, indeed, that when the great singer died, his comrades could think of no more fitting place to lay him than within the guardian circle of this monument of an older race, looking down across the valley and out toward the sea.",
     "Citation":"Burton E. Stevenson, The Charm of Ireland (New York: Dodd, Mead and Company, 1914), 494.",
-    "Hyperlink":"https://www.gutenberg.org/ebooks/35549",
+    "Hyperlink":"https://archive.org/details/charmofireland00steviala",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -3682,9 +4063,9 @@ var data =
     "YearOfTravel":1910,
     "Description":"The largest crowd of all was gathered before a man who held the centre of the fourth side of the esplanade, and who was talking, or rather shouting, against Home Rule. He was garbed as a clergyman, and he wore an Orange badge, and he was listened to with religious attention as he painted the iniquity of the Catholic church and the horrible dangers of Catholic domination. His references to King Billy and the Boyne and the walls of Derry were many and frequent, and he had all sorts of newspaper clippings in his pockets, from which he read freely, and though he was very hoarse and bathed in perspiration, he showed no sign of stopping. He intimated that, once Home Rule was established, the revival of the inquisition would be but a matter of a short time, that no Protestant would be allowed to own property, that no Protestant labourer could expect employment anywhere until he had abjured his religion, that their children would be taken away from them and reared in Catholic schools, and he called upon them to arm and stand firm, to offer their lives upon the altar of their country, and not retreat a step before the aggressions of the Scarlet Woman. I don't know how much of this farrago his audience believed, but their faces were intent and serious, and I fear they believed much more than was good for them.",
     "Citation":"Burton E. Stevenson, The Charm of Ireland (New York: Dodd, Mead and Company, 1914), 514-5.",
-    "Hyperlink":"https://www.gutenberg.org/ebooks/35550",
+    "Hyperlink":"https://archive.org/details/charmofireland00steviala",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -3701,9 +4082,9 @@ var data =
     "YearOfTravel":1910,
     "Description":"De Courcy enlarged the cathedral, which, before that, had been a poor affair, dedicated it to Saint Patrick, and caused effigies of the three saints to be placed above the east window with a Latin couplet over them:",
     "Citation":"Burton E. Stevenson, The Charm of Ireland (New York: Dodd, Mead and Company, 1914), 522-523.",
-    "Hyperlink":"https://www.gutenberg.org/ebooks/35551",
+    "Hyperlink":"https://archive.org/details/charmofireland00steviala",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -3720,9 +4101,9 @@ var data =
     "YearOfTravel":1910,
     "Description":"The stone building over the body well is divided into two parts by a solid wall, and one part is for men and the other for women. The disrobing is done in the outer chamber, which has a low stone bench running around three sides, and then the penitent enters a small inner chamber, descends some six or seven steps into the pool of water, and, I suppose, places himself below the stream which falls into the pool from the end of a pipe. As its name indicates, this well was supposed to have the power of washing away all disease, both physical and moral, and time was when it was very popular. The effect of the cold bath was so exhilarating, and the sudden sense of freedom from sin and disease so uplifting, that the penitents would sometimes rush forth to proclaim their blessed state without pausing to resume their garments. Naturally a lot of impious Orangemen would gather to see the fun; and finally both the secular authorities and the Catholic clergy set their faces against the practices, with the result that they gradually fell into disuse. Only single pilgrims, or small companies, at most, come now to bathe in the magic waters, and their behaviour is most circumspect. The cells, themselves, are well-nigh in ruins. A chapel to Saint Patrick, from whom these waters derive their efficacy, was begun during the day of their popularity, but was never finished, and now only a fragment of it remains.",
     "Citation":"Burton E. Stevenson, The Charm of Ireland (New York: Dodd, Mead and Company, 1914), 527-528.",
-    "Hyperlink":"https://www.gutenberg.org/ebooks/35552",
+    "Hyperlink":"https://archive.org/details/charmofireland00steviala",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -3739,9 +4120,9 @@ var data =
     "YearOfTravel":1910,
     "Description":"William, with his English and his Dutch, had marched down from Dundalk, and James, with his Irish and his French, had marched up from Dublin, and here on either side of this placid little river, where the hills slope down to the Oldbridge ford, the armies took their station; and here, a little after ten o'clock in the morning, brave old Schomberg, whose tomb, you will remember, we saw in St. Patrick's at Dublin (how long ago that seems!), led his Dutch guards and his regiment of Huguenots into the water, across the ford, and up the bank on the other side. There, for a moment, his troops fell into disorder before the fierce attack of the Irish, and as he tried to rally them, a band of Irish horse rushed upon him, circled round him and left him dead upon the ground. Almost at the same moment, the white-haired Walker, who had exhorted the defenders of Derry never to surrender, was shot dead while urging on the men of Ulster. But though the Irish were able to hold their ground at first, and even to drive their assailants back into the river, a long flanking movement which William had set on foot earlier in the day, caught them unprepared, and they gave way, at last, before superior numbers and superior discipline.",
     "Citation":"Burton E. Stevenson, The Charm of Ireland (New York: Dodd, Mead and Company, 1914), 538-9.",
-    "Hyperlink":"https://www.gutenberg.org/ebooks/35553",
+    "Hyperlink":"https://archive.org/details/charmofireland00steviala",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -3758,9 +4139,9 @@ var data =
     "YearOfTravel":1910,
     "Description":"Four mighty stones stand like sentinels before it. The largest of them is eight or nine feet high above the ground and at least twenty in girth; and they are all that are left of a ring of thirty-five similar monsters which once guarded the great cairn with a circle a quarter of a mile around. Like the tumulus of Dowth, this of Newgrange is girdled by a ring of great stone blocks, averaging eight or ten feet in length, and laid closely end to end; and on top of them is a wall of uncemented stones three or four feet high. Behind the wall rises the cairn, overgrown with grass and bushes and even trees; but below the skin of earth is the pile of stones, heaped above the chambers of the dead.",
     "Citation":"Burton E. Stevenson, The Charm of Ireland (New York: Dodd, Mead and Company, 1914), 546.",
-    "Hyperlink":"https://www.gutenberg.org/ebooks/35554",
+    "Hyperlink":"https://archive.org/details/charmofireland00steviala",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -3777,9 +4158,9 @@ var data =
     "YearOfTravel":1910,
     "Description":"Three miles away from Mellifont stand the ruins of another abbey, centuries older and incomparably greater in its day—an abbey absolutely Irish, with rude, small buildings, but with a giant round-tower and two of the loveliest sculptured crosses in existence on this earth. Monasterboice it is called—Mainister Buithe, the abbey of Boetius—and the way thither lies along a pleasant road, through a wooded valley—which, fertile as it is, is not without its traces of desolation, for we passed more than one vast empty mill, falling to decay. Then, on the slope of a hillside away ahead, we saw the round tower, or what is left of it, for the top of it is broken off, struck by lightning, perhaps. But the fragment that remains is 110 feet high! And seeing it thus, across the valley, with the low little church nestling at its base, one is inclined to think that Father Dempsey was not altogether wrong when he said he cared nothing about the theories of antiquarians concerning the round towers, for he knew what they were—the forefingers of the early church pointing us all to God.",
     "Citation":"Burton E. Stevenson, The Charm of Ireland (New York: Dodd, Mead and Company, 1914), 553-4.",
-    "Hyperlink":"https://www.gutenberg.org/ebooks/35555",
+    "Hyperlink":"https://archive.org/details/charmofireland00steviala",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -3796,9 +4177,9 @@ var data =
     "YearOfTravel":1910,
     "Description":"The high cross, as the tall one is called, stands near the tower-foot and close beside the crumbling wall of one of the old churches. It is twenty-seven feet high, and is composed of three stones, the shaft, the cross with its binding circle, and the cap. The shaft, which is about two feet square and eighteen feet high, is divided into seven compartments on either face, and in each of them is an elaborately-sculptured representation of some Bible scene, usually with three figures. Although much worn, it is still possible easily to decipher some of them, for there is Eve accepting the apple from the serpent while Adam looks mildly on, and here they are fleeing from Paradise before the angel with the flaming sword, and next Cain is hitting Abel on the head with a club while a third unidentified person watches the scene without offering to interfere. At the crossing there is a splendid crucifixion, with the usual crowded heaven and hell to left and right; the binding circle is beautifully ornamented with an interlacing design; and the cap-stone represents one of those high-pitched cells or churches, such as we saw at Killaloe and Glendalough.",
     "Citation":"Burton E. Stevenson, The Charm of Ireland (New York: Dodd, Mead and Company, 1914), 555-6.",
-    "Hyperlink":"https://www.gutenberg.org/ebooks/35556",
+    "Hyperlink":"https://archive.org/details/charmofireland00steviala",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -3817,7 +4198,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909), 9-10.",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43921",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -3836,7 +4217,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909), 15-6.",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43922",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -3855,7 +4236,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909), 32-3.",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43923",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -3874,7 +4255,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909), 48-9.",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43924",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -3893,7 +4274,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909), 53-5.",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43925",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -3912,7 +4293,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909), 78-9.",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43926",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -3931,7 +4312,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909), 91-3.",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43927",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -3950,7 +4331,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909), 97-8.",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43928",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -3969,7 +4350,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909), 99-102.",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43929",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -3988,7 +4369,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909), 102-111.",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43930",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -4007,7 +4388,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909), 115.",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43931",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -4026,7 +4407,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909).",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43932",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -4045,7 +4426,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909).",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43933",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -4064,7 +4445,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909).",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43934",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -4083,7 +4464,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909).",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43935",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -4102,7 +4483,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909).",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43936",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -4121,7 +4502,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909).",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43937",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -4140,7 +4521,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909).",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43938",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -4159,7 +4540,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909).",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43939",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -4178,7 +4559,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909).",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43940",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -4197,7 +4578,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909).",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43941",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -4216,7 +4597,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909).",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43942",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -4235,7 +4616,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909).",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43943",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -4254,7 +4635,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909).",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43944",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -4273,7 +4654,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909).",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43945",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -4292,7 +4673,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909).",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43946",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -4311,7 +4692,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909).",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43947",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -4330,7 +4711,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909).",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43948",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -4349,7 +4730,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909).",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43949",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -4368,7 +4749,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909).",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43950",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -4387,7 +4768,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909).",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43951",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -4406,7 +4787,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909).",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43952",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -4425,7 +4806,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909).",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43953",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -4444,7 +4825,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909).",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43954",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -4463,7 +4844,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909).",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43955",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -4482,7 +4863,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909).",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43956",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -4501,7 +4882,7 @@ var data =
     "Citation":"William Eleroy Curtis, One Irish Summer (New York: The University Press, Cambridge, 1909).",
     "Hyperlink":"https://www.gutenberg.org/ebooks/43957",
     "Country":"Ireland",
-    "Region":"Western Europe",
+    "Region":"Western Europe; British Isles",
     "Continent":"Europe"
     }
   },
@@ -4520,7 +4901,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 23-24.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Mexico",
-    "Region":"Central America",
+    "Region":"Central America; Latin America",
     "Continent":"North America"
     }
   },
@@ -4539,7 +4920,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 26.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Mexico",
-    "Region":"Central America",
+    "Region":"Central America; Latin America",
     "Continent":"North America"
     }
   },
@@ -4558,7 +4939,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), ",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Mexico",
-    "Region":"Central America",
+    "Region":"Central America; Latin America",
     "Continent":"North America"
     }
   },
@@ -4577,7 +4958,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), ",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Mexico",
-    "Region":"Central America",
+    "Region":"Central America; Latin America",
     "Continent":"North America"
     }
   },
@@ -4596,7 +4977,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 43.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Mexico",
-    "Region":"Central America",
+    "Region":"Central America; Latin America",
     "Continent":"North America"
     }
   },
@@ -4615,7 +4996,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 43.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Mexico",
-    "Region":"Central America",
+    "Region":"Central America; Latin America",
     "Continent":"North America"
     }
   },
@@ -4634,7 +5015,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 56.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Mexico",
-    "Region":"Central America",
+    "Region":"Central America; Latin America",
     "Continent":"North America"
     }
   },
@@ -4653,7 +5034,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 59.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Mexico",
-    "Region":"Central America",
+    "Region":"Central America; Latin America",
     "Continent":"North America"
     }
   },
@@ -4672,7 +5053,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 70.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Mexico",
-    "Region":"Central America",
+    "Region":"Central America; Latin America",
     "Continent":"North America"
     }
   },
@@ -4691,7 +5072,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 70.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Mexico",
-    "Region":"Central America",
+    "Region":"Central America; Latin America",
     "Continent":"North America"
     }
   },
@@ -4710,7 +5091,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 70-71.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Mexico",
-    "Region":"Central America",
+    "Region":"Central America; Latin America",
     "Continent":"North America"
     }
   },
@@ -4729,7 +5110,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 71.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Mexico",
-    "Region":"Central America",
+    "Region":"Central America; Latin America",
     "Continent":"North America"
     }
   },
@@ -4748,7 +5129,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 72-73.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Mexico",
-    "Region":"Central America",
+    "Region":"Central America; Latin America",
     "Continent":"North America"
     }
   },
@@ -4767,7 +5148,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 78.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Venezuela",
-    "Region":"South America",
+    "Region":"South America; Latin America",
     "Continent":"South America"
     }
   },
@@ -4805,7 +5186,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 79.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Cuba",
-    "Region":"Caribbean",
+    "Region":"Caribbean; Latin America",
     "Continent":"North America"
     }
   },
@@ -4843,7 +5224,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 84-85.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Mexico",
-    "Region":"Central America",
+    "Region":"Central America; Latin America",
     "Continent":"North America"
     }
   },
@@ -4862,7 +5243,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 85.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Mexico",
-    "Region":"Central America",
+    "Region":"Central America; Latin America",
     "Continent":"North America"
     }
   },
@@ -4881,7 +5262,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 85-86.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Mexico",
-    "Region":"Central America",
+    "Region":"Central America; Latin America",
     "Continent":"North America"
     }
   },
@@ -4900,7 +5281,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 87.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Mexico",
-    "Region":"Central America",
+    "Region":"Central America; Latin America",
     "Continent":"North America"
     }
   },
@@ -4919,7 +5300,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 87.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Mexico",
-    "Region":"Central America",
+    "Region":"Central America; Latin America",
     "Continent":"North America"
     }
   },
@@ -4938,7 +5319,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 89.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Mexico",
-    "Region":"Central America",
+    "Region":"Central America; Latin America",
     "Continent":"North America"
     }
   },
@@ -4957,7 +5338,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 91.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Mexico",
-    "Region":"Central America",
+    "Region":"Central America; Latin America",
     "Continent":"North America"
     }
   },
@@ -4976,7 +5357,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 99.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Mexico",
-    "Region":"Central America",
+    "Region":"Central America; Latin America",
     "Continent":"North America"
     }
   },
@@ -4995,7 +5376,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 111.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Guatemala",
-    "Region":"Central America",
+    "Region":"Central America; Latin America",
     "Continent":"North America"
     }
   },
@@ -5014,7 +5395,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 113.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Guatemala",
-    "Region":"Central America",
+    "Region":"Central America; Latin America",
     "Continent":"North America"
     }
   },
@@ -5033,7 +5414,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 113.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Guatemala",
-    "Region":"Central America",
+    "Region":"Central America; Latin America",
     "Continent":"North America"
     }
   },
@@ -5052,7 +5433,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 113-114.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Guatemala",
-    "Region":"Central America",
+    "Region":"Central America; Latin America",
     "Continent":"North America"
     }
   },
@@ -5071,7 +5452,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 114.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Guatemala",
-    "Region":"Central America",
+    "Region":"Central America; Latin America",
     "Continent":"North America"
     }
   },
@@ -5090,7 +5471,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 116.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Guatemala",
-    "Region":"Central America",
+    "Region":"Central America; Latin America",
     "Continent":"North America"
     }
   },
@@ -5109,7 +5490,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 116.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Guatemala",
-    "Region":"Central America",
+    "Region":"Central America; Latin America",
     "Continent":"North America"
     }
   },
@@ -5128,7 +5509,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 116-117.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Guatemala",
-    "Region":"Central America",
+    "Region":"Central America; Latin America",
     "Continent":"North America"
     }
   },
@@ -5147,7 +5528,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 117-118.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Guatemala",
-    "Region":"Central America",
+    "Region":"Central America; Latin America",
     "Continent":"North America"
     }
   },
@@ -5155,18 +5536,18 @@ var data =
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -90.51266,14.63992 ]
+       "coordinates":  [ -90.73323,14.65664 ]
     },
     "properties": {
     "PlaceName":"Guatemala",
-    "PlaceNameModern":"Guatemala, Guatemala",
+    "PlaceNameModern":"Antigua Guatemala, Guatemala",
     "NameOfTraveler":"Thomas Gage",
     "YearOfTravel":1627,
     "Description":"I had not rid on above a mile from the Church of Xocotenango, when the hils and Mountaines seemed to depart one from another, leaving a more spatious object for the eye to behold, and a wider Valley to wander in. The fame of that City from Mexico and Chiapa had raised up my thoughts to conceit of some strong walls, Towers, Forts or Bulwarks to keep out an aspiring or attempting enemy; But when I came neere and least thought of it, I found my self in it without entring through walls, or gates, or passing over any bridge, or finding any watch or guard to examine who I was; but passing by a new built Church, standing neere a place of dunghils, where were none but mean houses, some thatched, and some tyled, and asking what Town that was, answer was made me that it was the City of Guatemala, and that that, being called St. Sebastian, was the onely Parish Church of the City. With this my high conceiting thoughts stooped down to think of some second Chiapa; till having continued on a while by houses on my right hand and dunghils on my left, I came to a broader street having houses on each side, which seemed to promise a City at hand.",
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 118.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Guatemala",
-    "Region":"Central America",
+    "Region":"Central America; Latin America",
     "Continent":"North America"
     }
   },
@@ -5174,18 +5555,18 @@ var data =
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -90.51266,14.63992 ]
+       "coordinates":  [ -90.73323,14.65664 ]
     },
     "properties": {
     "PlaceName":"Guatemala",
-    "PlaceNameModern":"Guatemala, Guatemala",
+    "PlaceNameModern":"Antigua Guatemala, Guatemala",
     "NameOfTraveler":"Thomas Gage",
     "YearOfTravel":1627,
     "Description":"This City of Guatemala (called by the Spaniards Santiago, or St. James of Guatemala) is seated in a valley, which is not above two miles and a halfe broad, for the high mountaines doe keep it close in; but in length towards the South-sea it continues a wide and champaigne Countrey, opening it selfe broader a little beyond that Towne, which to this day is called la Ciudad Vieja, or the old City, standing somewhat above three miles from Guatemala. Though the mountaines on each side doe strongly environ it, and especially on the East-side seem to hang over it, yet none of them are hinderers to Travellers, who over them have opened waies easie for man and beasts though heavily laden with wares of all sorts. The way from Mexico, if taken by the coast of Soconuzco, and Suchutepeques comes into the City North-west-ward, which is a wide, open and sandy rode; if it be taken by Chiapa, it lieth North-east, and entreth into the City between the mountaines, as before hath been noted. West-ward to the South-sea the way lieth open through the valley and a champaigne Countrey. But South or South-East, the entrance is over high and steepy hils, which is the common Rode from Comayagua, Nicaragua, and the Golfo dulce or sweet Gulfe, where the ships come yeerly and unlade all the Commodities which are brought from Spaine for Guatemala. This also is the way followed by them who take a journey meer East-ward from this City. But the chiefest mountaines, which straighten in this City and valley are two, called Vulcanes, the one being a Vulcan of water, and the other a Vulcan or mountain of fire, termed so by the Spaniards, though very improperly a Vulcan may be said to containe water, it taking its name from the heathenish God Vulcan, whose profession and imployment chiefly was in fire. These two famous mountaines stand almost the one over against the other, on each side of the valley; that of water hanging on the South-side almost perpendicularly over the City, the other of fire standing lower from it, more opposite to the old City. That of water is higher then the other, and yeelds a goodly prospect to the sight, being almost all the yeer green, and full of Indian Milpa's, which are plantations of Indian wheat; and in the small and petty Townes which lie some halfe way up it, some at the foot of it, there are Roses, Lillies, and other flowers all the yeer long in the gardens, besides Plantins, Apricockes, and many sorts of sweet and delicate fruits. ",
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 123.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Guatemala",
-    "Region":"Central America",
+    "Region":"Central America; Latin America",
     "Continent":"North America"
     }
   },
@@ -5204,7 +5585,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 132.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Guatemala",
-    "Region":"Central America",
+    "Region":"Central America; Latin America",
     "Continent":"North America"
     }
   },
@@ -5223,7 +5604,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 133.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Guatemala",
-    "Region":"Central America",
+    "Region":"Central America; Latin America",
     "Continent":"North America"
     }
   },
@@ -5242,7 +5623,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 137.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Guatemala",
-    "Region":"Central America",
+    "Region":"Central America; Latin America",
     "Continent":"North America"
     }
   },
@@ -5261,7 +5642,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 183.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Guatemala",
-    "Region":"Central America",
+    "Region":"Central America; Latin America",
     "Continent":"North America"
     }
   },
@@ -5280,7 +5661,7 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 183.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"El Salvador",
-    "Region":"Central America",
+    "Region":"Central America; Latin America",
     "Continent":"North America"
     }
   },
@@ -5299,7 +5680,558 @@ var data =
     "Citation":"Thomas Gage, The English-American, His Travail by Sea and Land: or, A New Survey of the West India's, (London: Printed by R. Cotes, 1648), 185.",
     "Hyperlink":"https://www.gutenberg.org/files/54425/54425-h/54425-h.htm",
     "Country":"Nicaragua",
-    "Region":"Central America",
+    "Region":"Central America; Latin America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.51335,41.29293 ]
+    },
+    "properties": {
+    "PlaceName":"Silver Creek",
+    "PlaceNameModern":"Silver Creek",
+    "NameOfTraveler":"Kate Dunlap",
+    "YearOfTravel":1864,
+    "Description":"This morning the boys were not ready to start having some repairing to do. We drove on to Silver creek for dinner. This is a narrow stream, winding its way like a silver thread among the green hills. The water is as  clear as a crystal. Most of these prairie streams are deep and narrow. Drove out to Musketo Creek one mile and a half from Council Bliffs and struck our night camp. ",
+    "Citation":"Dunlap, Kate, and Joni Poppitz Stimpson. \"Dunlap, Kate, 1837-1901.\" BYU Library Digital Collections, 2002. Computer Text Data, available in PDF, https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/.",
+    "Hyperlink":"https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/",
+    "Country":"United States of America",
+    "Region":"Nothern America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.86083,41.26194 ]
+    },
+    "properties": {
+    "PlaceName":"Council Bluffs, IA",
+    "PlaceNameModern":"Council Bluffs, IA",
+    "NameOfTraveler":"Kate Dunlap",
+    "YearOfTravel":1864,
+    "Description":"We arrived at Council Bluffs about 9 o'clock and the boys about 12 o'clock. We cant get  across the river for several days. Hundreds of teams are waiting their turn, and frequently fights and confusion ensue. A sad accident happened to day. A little girl was josteled out of the wagon as it drove on to the ferry boat. was run over and killed They had started from  this place; They returned to bury their child. We are camped under some alder trees on the north street of the city Mr. D. is getting an entire new set of wheels put up, insured to stand the trip -- cost about 35$ he is also trying to buy another span of horses, for it is perfect folly for us to start with only two, but it does seem as if he could not just suit him self, if he cannot than we will in all probability return home ward. -- While here I have been baking, washing  ironing, &c. Sunday evening we took a walk to the top of a bluff north of the city. The old Indian paths are yet to be seem. We had a full view of the City and surronding country. There is a range of bluffs on each side of the City which is situated about 3 miles from the river. As I gazed on the busy throng below, my thougths were carried back to the dusky race, which, a short time ago, in this very spot, erected their \"wigwams,\"  whose council fires have died out  and they are being driven to the remotest corner of the continent. Here a fine city has sprung up like magic, which bids fair to be one of the greatest of the west.",
+    "Citation":"Dunlap, Kate, and Joni Poppitz Stimpson. \"Dunlap, Kate, 1837-1901.\" BYU Library Digital Collections, 2002. Computer Text Data, available in PDF, https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/.",
+    "Hyperlink":"https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/",
+    "Country":"United States of America",
+    "Region":"Nothern America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.9345,41.25653 ]
+    },
+    "properties": {
+    "PlaceName":"Omaha, NE",
+    "PlaceNameModern":"Omaha, NE",
+    "NameOfTraveler":"Kate Dunlap",
+    "YearOfTravel":1864,
+    "Description":"As we are about to strike out upon the plains on our long and tedious journey, it is expedient to secure evry needful article, before leaving Omaha. Groceries of evry kind are very dear; also hardware, and such goods as are in demand for emigrants. Omaha is a great outfitting place, and is fast becoming a wealthy place. It is not over ten years  since the first houses were built here and now large business houses, handsome and costly dwellings, hotels, and churches adorn evry street. The State House is a magnificent building situated on the top of  a bluff commanding a full view of the city and surrounding country.",
+    "Citation":"Dunlap, Kate, and Joni Poppitz Stimpson. \"Dunlap, Kate, 1837-1901.\" BYU Library Digital Collections, 2002. Computer Text Data, available in PDF, https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/.",
+    "Hyperlink":"https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/",
+    "Country":"United States of America",
+    "Region":"Nothern America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.28267,41.29371 ]
+    },
+    "properties": {
+    "PlaceName":"Elk Horn River, NE",
+    "PlaceNameModern":"Elkhorn River, NE",
+    "NameOfTraveler":"Kate Dunlap",
+    "YearOfTravel":1864,
+    "Description":"Passed Elk Horn City and camped for the night at Bridgeport on the Elk Horn river. making 33 miles. The roads are somewhat hilly but hard and smooth. Our new horses \"Bill\" & \"Dick\" prove to be noble work animals, and we think if there is a team on the road, that will make the trip, it is ours. The Elk Horn is a beautiful stream, winding its way southward through a fertile valley, and emptying into the Platte. We tried to catch some fish but were unsuccessful.",
+    "Citation":"Dunlap, Kate, and Joni Poppitz Stimpson. \"Dunlap, Kate, 1837-1901.\" BYU Library Digital Collections, 2002. Computer Text Data, available in PDF, https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/.",
+    "Hyperlink":"https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/",
+    "Country":"United States of America",
+    "Region":"Nothern America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.19914,41.39111 ]
+    },
+    "properties": {
+    "PlaceName":"Platte River, NE",
+    "PlaceNameModern":"Platte River, NE",
+    "NameOfTraveler":"Kate Dunlap",
+    "YearOfTravel":1864,
+    "Description":"Kept along the Platte, some times on the bank, but generally, from a mile to a half mile distant. The Platte is a wide and shallow stream, shifting about among numerous Islands and at certain seasons of the year, almost loosing itsself. The prairie comes directly up to the river, there seldom being any high banks with only here and there narrow skirts of cotton wood [...] Indians are becoming quite numerous but are friendly. The country  is now thicker settled than  any since we left Omaha Crops and gardens are looking  well. Made 27 miles and Camped  near a store on the Platte.",
+    "Citation":"Dunlap, Kate, and Joni Poppitz Stimpson. \"Dunlap, Kate, 1837-1901.\" BYU Library Digital Collections, 2002. Computer Text Data, available in PDF, https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/.",
+    "Hyperlink":"https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/",
+    "Country":"United States of America",
+    "Region":"Nothern America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.35939,41.43029 ]
+    },
+    "properties": {
+    "PlaceName":"Columbus, NE",
+    "PlaceNameModern":"Columbus, NE",
+    "NameOfTraveler":"Kate Dunlap",
+    "YearOfTravel":1864,
+    "Description":"Started at six o'clock this morning & reached Columbus, situated on the Loupe Fork of the Platte, about 9 o'clock. This is the last town we will pass through on our route The Pawnees are very numerous  here, are peacable, but outlandish beggars. There are about 150 teams waiting for their turns to ferry, some few are fording. The ferry is coining money at one dollar a team. Your go over at a time. The distance to ferry is only about two rods, and the rest of the distance has to be forded. We got over about 2 o'clock, all safe. Here we passed quite a number of large Companies, one of which was managed by Mr. Wm Ellis of Montrose. They pled with us to join them, but as it  was mostly an ox train we  could not join with them.",
+    "Citation":"Dunlap, Kate, and Joni Poppitz Stimpson. \"Dunlap, Kate, 1837-1901.\" BYU Library Digital Collections, 2002. Computer Text Data, available in PDF, https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/.",
+    "Hyperlink":"https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/",
+    "Country":"United States of America",
+    "Region":"Nothern America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.34201,40.92639 ]
+    },
+    "properties": {
+    "PlaceName":"Grand Island City",
+    "PlaceNameModern":"Grand Island, NE",
+    "NameOfTraveler":"Kate Dunlap",
+    "YearOfTravel":1864,
+    "Description":"This morning we passed Grand Island City, which consists of two or three houses, but situated as it is, in the heart of a fine farming County, it bids fair some day, to be a flourishing town. Passed a wind mill in opperation. Travelled along Wood river nearly all day. Saw two mills on this stream. Passed a newly made grave, -- an emigrant who had fallen by the way. This afternoon the wind blew very hard, and the sky was over cast with dark and threatening clouds. Drove our wagons under the shelter of some trees on the bank of Wood river and camped for the night  along with a company of freighters from Ohio, with whom we have made arrangements to travel.",
+    "Citation":"Dunlap, Kate, and Joni Poppitz Stimpson. \"Dunlap, Kate, 1837-1901.\" BYU Library Digital Collections, 2002. Computer Text Data, available in PDF, https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/.",
+    "Hyperlink":"https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/",
+    "Country":"United States of America",
+    "Region":"Nothern America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.17816,40.69388 ]
+    },
+    "properties": {
+    "PlaceName":"Outside Kearney City",
+    "PlaceNameModern":"Kearney, NE",
+    "NameOfTraveler":"Kate Dunlap",
+    "YearOfTravel":1864,
+    "Description":"Just as we crossed Deep ravine creek we passed through a village of prairie dogs, our boys shot three of them. Some of the emigrants eat them. I fried a young \"purp \", but the idea of eating dog meat rather set our stomaches against it. We are camped for the night at a clear  slough of water, but I must  give you a discription of these funny little animals, and their cities or communities They are a species of the \"mar-  mot\", about as large as a guinea pig, of a brown or sandy color  with heads like a terrier pup, which, I supose, has given them  the name of dogs. They have a short stumpy tail, which is kept in a perpetual jerk when they are excited. They select for their city a  level sandy plain, where they can easily dig their burrows. Their towns often rival in population the largest cities in Europe. There is frequently considerable regularity in ther  streets. Their houses consist of little mounds, often two or three feet high, with a hole in the center, two or three feet deep vertically. Then extending to their apartments. As soon as they see such a monster as man, each one scampers off to his own house, and squats down in his hole, peeping out and barking  lustily at the intruder, till he approaches too close, when they suddenly turn a sumer sault in to their burrows. If you are still, in a short time, they will look out again to reconnoiter. What is very strange, the owl and rattle snake are their constant companions, but we surmise for no good purpose, no doubt only to devour young pups.",
+    "Citation":"Dunlap, Kate, and Joni Poppitz Stimpson. \"Dunlap, Kate, 1837-1901.\" BYU Library Digital Collections, 2002. Computer Text Data, available in PDF, https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/.",
+    "Hyperlink":"https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/",
+    "Country":"United States of America",
+    "Region":"Nothern America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.4891,40.72169 ]
+    },
+    "properties": {
+    "PlaceName":"Buffalo Creek",
+    "PlaceNameModern":"Overton, NE",
+    "NameOfTraveler":"Kate Dunlap",
+    "YearOfTravel":1864,
+    "Description":"June 3 - We drove on to buffalo creek making 27 miles. Here we found a great many emigrants camped, and heards of cattle, and mules in evry direction. we found plenty of water, but had to take our horses a long distance toward the bluffs for grass.\n\nJune 4 - This morning the line of emigrants stretches over a mile in length, all having camped on Buffalo creek This is a great resort for Buffalo, hence the name of the stream. The plain is lined with their heads having been slaugherd by hunters and Indians. Good roads the most of the time, being level and hard Passed over a low range of sandy bluffs. The plains are now assuming a different appearance, and vegetation of other kinds are appearing, prickley pears, & various kinds of wild flowers are blooming by the way. We again reach the Platteandat noon and all are busy wat- ering their horses. We are resting on a nice grassy spot while our noble horses are grazing.",
+    "Citation":"Dunlap, Kate, and Joni Poppitz Stimpson. \"Dunlap, Kate, 1837-1901.\" BYU Library Digital Collections, 2002. Computer Text Data, available in PDF, https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/.",
+    "Hyperlink":"https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/",
+    "Country":"United States of America",
+    "Region":"Nothern America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.8066,40.76173 ]
+    },
+    "properties": {
+    "PlaceName":"Lake Utah",
+    "PlaceNameModern":"Lexington, NE",
+    "NameOfTraveler":"Kate Dunlap",
+    "YearOfTravel":1864,
+    "Description":"The surrounding scenery is one an artist would like to paint. It is a broad smooth meadow land, dotted over with tented camps of emigrant trains, and herds of cattle and horses feeding at liberty in all di- rections North of us, like a far distant cloud, in the horizen, lie the bluffs of the  Platte, while south of us a few rods, rolls the turbulent waters  of the same. Yesterday we passed a newly  made grave on a little elevation of ground near the bank of the  Platte, and a pine board at the head bearing the following  inscription, * \"S.C. Park, who fell a victem from a shot discharged accidently, from his own rifle\". We have seen several other graves by the way, but when we consider the vast number of emigrants on the road, it is no wonder that some fall by the way.\n\n* We have since heard this man was not shot accidently, but was killed by some of his party.",
+    "Citation":"Dunlap, Kate, and Joni Poppitz Stimpson. \"Dunlap, Kate, 1837-1901.\" BYU Library Digital Collections, 2002. Computer Text Data, available in PDF, https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/.",
+    "Hyperlink":"https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/",
+    "Country":"United States of America",
+    "Region":"Nothern America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -101.21735,41.19643 ]
+    },
+    "properties": {
+    "PlaceName":"West Sandy Bluffs",
+    "PlaceNameModern":"Sutherland, NE",
+    "NameOfTraveler":"Kate Dunlap",
+    "YearOfTravel":1864,
+    "Description":"This morning we crossed West sandy bluffs. I again walked. Doubled teams, very heavy pulling. These bluffs are huge sand banks with scarcely any veget-ation. A species of lizard or cameleon are hopping about at evry step [...] After passing another range of bluffs worse than  the first, we came to an Indian village of about 40  \"wigwams\". This village is situated on one of the finest grazing plains we have seen since we have been on the road. A half a dozen or so of naked children followed after us crying for  bread. I felt sorry for them but had none to give them, as I had given the last morsel I had to some squaws and their papooses, whom we met among the Sandy  bluffs -- We stopped one and a half miles from their village to camp, as some the Ohio freighter had not yet got over the sand bluffs, but an old chief came to us and  forbid us camping on their pasture, claiming that all this land belonged to the Soux, that God had given it to them, and we must move. After a long debate with him and among ourselves we concluded to go on. Drove till we again came to the Platte, & camped undisturbed.",
+    "Citation":"Dunlap, Kate, and Joni Poppitz Stimpson. \"Dunlap, Kate, 1837-1901.\" BYU Library Digital Collections, 2002. Computer Text Data, available in PDF, https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/.",
+    "Hyperlink":"https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/",
+    "Country":"United States of America",
+    "Region":"Nothern America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.51911,42.20656 ]
+    },
+    "properties": {
+    "PlaceName":"Near Fort Laramie",
+    "PlaceNameModern":"Fort Laramie, WY",
+    "NameOfTraveler":"Kate Dunlap",
+    "YearOfTravel":1864,
+    "Description":"About six o'clock this evening a black cloud began to rise in the South. Very soon it becom apparent that we would have an old fasioned Platte storm. All my bedding was out suning A gentleman helped me to put the things in the wagon. Suddenly the wind increased, just as the Ohio Company sat down to supper, and the sand darkend the sky, their table was upset & their rich luxuries and dishes were strewn over the plains. Mr D-- was now in sight, putting noble \"Dick\" through on double quick, but was to late. we could not get on the enameled cover. Now the rain began to fall in torrents, the lightning played over the sky in fitful glare, and the Thunder reverbrated through the air peal on peal, and it wound up with a tremendous hail storm. The poor horses sffered very much, the hail striking them with stinging effect. Well, it is said that such storms are common on the Platte, and if such are common I would not like to live in Platte Valley although we have seen some of the prettiest plains it has ever been my lot to look upon.",
+    "Citation":"Dunlap, Kate, and Joni Poppitz Stimpson. \"Dunlap, Kate, 1837-1901.\" BYU Library Digital Collections, 2002. Computer Text Data, available in PDF, https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/.",
+    "Hyperlink":"https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/",
+    "Country":"United States of America",
+    "Region":"Nothern America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.557,42.20332 ]
+    },
+    "properties": {
+    "PlaceName":"Fort Laramie",
+    "PlaceNameModern":"Fort Laramie National Historic Site, Fort Laramie, WY",
+    "NameOfTraveler":"Kate Dunlap",
+    "YearOfTravel":1864,
+    "Description":"Drove up to Ft Larimie, stopped a few hours. This is a military post like Ft Kearney situated on th south side of the Platte. The Ohio 7th is here. The soldiers are often very insolent to emigrants, stripping them of old soldier clothes belts, pistols, &c. They are no protection to emigrants at all. They all have their squaws, and white men  have been imprisoned, -- are now, for insulting Indians, while the latter have been loaded with provisions and sent off. These are facts, which the soldiers themselvs related to us. All we spoke to, made the same statement.",
+    "Citation":"Dunlap, Kate, and Joni Poppitz Stimpson. \"Dunlap, Kate, 1837-1901.\" BYU Library Digital Collections, 2002. Computer Text Data, available in PDF, https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/.",
+    "Hyperlink":"https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/",
+    "Country":"United States of America",
+    "Region":"Nothern America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.11605,42.20332 ]
+    },
+    "properties": {
+    "PlaceName":"Opposite Courthouse Rock",
+    "PlaceNameModern":"Bayard, NE",
+    "NameOfTraveler":"Kate Dunlap",
+    "YearOfTravel":1864,
+    "Description":"We have been travelling in sight  of \"Chimney Rock\" nearly all day which can be seen at the distance of 40 miles. It now looks like the chimney of a steam mill; and is situated on the South side of the Platte. This evening we are camped opposite \"Court House Rock,\" also on the south bank of the Platte. It resembles an old court house, hence its name. It is six or eight miles to the south of us. We examined it through a spyglass, and it appears to have doorways, windows, columns, porticoes, several stories and domes. The surrounding country is very picturesque; its variety of expansive valley, bluffs lying in the distant horizin, Chimney Rock looming up in the distance like the monument of some departed hero, and the turbid Platte rushing along at our feet fill the mind with wonder at the vastness and magnificence of God's creation. Who would not worship such an infinte being! The sky is cloudy, but the evening, pleasant.",
+    "Citation":"Dunlap, Kate, and Joni Poppitz Stimpson. \"Dunlap, Kate, 1837-1901.\" BYU Library Digital Collections, 2002. Computer Text Data, available in PDF, https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/.",
+    "Hyperlink":"https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/",
+    "Country":"United States of America",
+    "Region":"Nothern America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.33105,41.74096 ]
+    },
+    "properties": {
+    "PlaceName":"Platte Valley",
+    "PlaceNameModern":"Bayard, NE",
+    "NameOfTraveler":"Kate Dunlap",
+    "YearOfTravel":1864,
+    "Description":"Now, the roads are very bad being marshy, and the valley is dotted here and there with sloughs and minature lakes. Prickly pears and sage brush are growing all along the road to-day. The Platte valley produces some very fine flowers, among which, are several varieties of the prickly pear, or cactus, which are now in bloom. The one, which is common in the states covers acres upon acres, and bears a rich yellow flower about the size of the palm of the hand. Some few are of a dark buff color, others some are tinted with various colors. The finest is a green prickly bulb, half imbeded in the sand bearing a bright red, many-leaved, rose-like flower, which is very handsome indeed. This cactus is known by the common name, as the \"melon thistle.\" In warm climates the prickly pear bears an excellent fruit, but I've heard no one say that the fruit comes to perfection so far north, yet I know of no reason to the contrary, unless, it is the shortness of the season. The roads being very bad we camped early, making only 15 miles. Those who went back to the bluffs have been winding their way over  hills and ravines, sometimes in full  view, sometimes out of sight. They can't come down to the river, and we hear that they are suffering for water. This evening the opposite side of the river presents to our view many grand old bluffs, resembling magnificent, ancient castles, fortifications, &c",
+    "Citation":"Dunlap, Kate, and Joni Poppitz Stimpson. \"Dunlap, Kate, 1837-1901.\" BYU Library Digital Collections, 2002. Computer Text Data, available in PDF, https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/.",
+    "Hyperlink":"https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/",
+    "Country":"United States of America",
+    "Region":"Nothern America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.55639,41.81656 ]
+    },
+    "properties": {
+    "PlaceName":"Spring Creek",
+    "PlaceNameModern":"Minatare, NE",
+    "NameOfTraveler":"Kate Dunlap",
+    "YearOfTravel":1864,
+    "Description":"To-day we passed through two Indian villages, at one of these, a white man kept a trading post. He bought the lame and worn out stock of the \"pilgrims\" at his own price. I noticed several half breed children, better clad than the rest At one of the villages, Mr Codington, one of the proprietors of the drove of mules from Ills., before mentioned, sold a dog  to the Indians, who, at once, butchered him for a grand feast. We, also, met a large company moving. The poles of their wigwams were tied to each side of the ponies, in the manner of shafts, one end dragging on the ground, upon which, were their camp equipage, pappooses, and squaws, the  latter driving. Some are on horseback, some on foot, the whole being a motley looking crew. They have some fine ponies, but their prices are so extravagantly high,  that you can not buy with profit. [...] The plains now begin to assume more of a sandy and barren appearance, and it is difficult to get good grazing for our horses.  We are camped to-night on Spring creek, a beautiful running stream of pure, cool water. The day has been warm and the gnats \"pitched into\" us like scavengers, but, as usual, the night is cool giving us respite from their attacks.",
+    "Citation":"Dunlap, Kate, and Joni Poppitz Stimpson. \"Dunlap, Kate, 1837-1901.\" BYU Library Digital Collections, 2002. Computer Text Data, available in PDF, https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/.",
+    "Hyperlink":"https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/",
+    "Country":"United States of America",
+    "Region":"Nothern America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.97988,42.58483 ]
+    },
+    "properties": {
+    "PlaceName":"Black Hills",
+    "PlaceNameModern":"Glendo, WY",
+    "NameOfTraveler":"Kate Dunlap",
+    "YearOfTravel":1864,
+    "Description":"Broke Camp early this morning & pursued our journey along the Black Hills, winding our way for some time at the base of the mountains, but soon we came to  descents and steep hills. Had to double teams at one. Seven miles from the river there is a cool spring, but not enough to water our horses for such an immense number of people now line the route that it is bearly siffcient to suply drinking water. The surrounding country has a wild and picturesque appearance. These hills, or mountains, are often covered with a stunted growth of pine and cedar, often appearing in squars, triangles, and rows, assuming a dark color, heenc, the name \"Black Hills.\"  After a long drive we again arrived at the river, but the grass was eaten into the earth Fed our horses and went on to Alder springs. Here we found about 300 wagons camped. Had to  take our horses two miles distant to graze. sent out double guards.",
+    "Citation":"Dunlap, Kate, and Joni Poppitz Stimpson. \"Dunlap, Kate, 1837-1901.\" BYU Library Digital Collections, 2002. Computer Text Data, available in PDF, https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/.",
+    "Hyperlink":"https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/",
+    "Country":"United States of America",
+    "Region":"Nothern America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.31098,42.66125 ]
+    },
+    "properties": {
+    "PlaceName":"Alder Springs",
+    "PlaceNameModern":"Douglas, WY",
+    "NameOfTraveler":"Kate Dunlap",
+    "YearOfTravel":1864,
+    "Description":"To day we apparently came opposite Larimie Peak. We have been in sight of it for the last four or five days. Before we reached Ft. Larimie we supposed it was just by the Ft., but it is forty, to seventy-five miles west. Before we left the springs this morning we filled our kegs. Found good grass at noon, & watered our horses out of our kegs, for this is an alkali region. Hitched up and drove on, passed a creek, had a good road, and camped again on the bank of the never ending Platte. Tolerable good grass. We feel better when our horses have good grazing. It rained this evening, as it has for the last four evenings, about the same hour. These showers make the sandy roads better & cools the air. Have travelled 22 miles and Larimie Peak still appears to be opposite us.",
+    "Citation":"Dunlap, Kate, and Joni Poppitz Stimpson. \"Dunlap, Kate, 1837-1901.\" BYU Library Digital Collections, 2002. Computer Text Data, available in PDF, https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/.",
+    "Hyperlink":"https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/",
+    "Country":"United States of America",
+    "Region":"Nothern America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.14516,42.86971 ]
+    },
+    "properties": {
+    "PlaceName":"Black Hills",
+    "PlaceNameModern":"Evansville, WY",
+    "NameOfTraveler":"Kate Dunlap",
+    "YearOfTravel":1864,
+    "Description":"June 25 - Took an early start; Roads  sandy. Prickly pears and sage brush are the only vegetation growing on these sandy wastes We passed a very dangerous spot, the narrow wagon track on the side of a hill overhaning the river. One mistep of the horse would precipitate all into the deep water below. -- Afterwards  we heard that a four mule team went over this bank the same day.\n\nJune 26 - We laid over to day having good pasture. Baked bread and pies in the fournoon. In the afternooon I mended our enameled cloth, which had got badly torn a few days ago in a gust of wind. The boys gathered some wild currants. I cooked them, but we did not relish them. This is the only kind of fruit we find on the way, except one day I saw some huckel berries growing on the mountain side. I often think of the fine fruit at home and the garden vegetables which I could relish more than any thing else Had a pleasant day. Could see hundreds of wagons passing on the South side of the river many were also passing on this side.",
+    "Citation":"Dunlap, Kate, and Joni Poppitz Stimpson. \"Dunlap, Kate, 1837-1901.\" BYU Library Digital Collections, 2002. Computer Text Data, available in PDF, https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/.",
+    "Hyperlink":"https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/",
+    "Country":"United States of America",
+    "Region":"Nothern America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.61103,42.71768 ]
+    },
+    "properties": {
+    "PlaceName":"Platte River",
+    "PlaceNameModern":"Casper, WY",
+    "NameOfTraveler":"Kate Dunlap",
+    "YearOfTravel":1864,
+    "Description":"It was very windy this afternoon  blowing the sand in our eyes till  we were obliged to cover them. There was quite quite an excitement among the several camps, as a lost woman was wandering about seeking her train, but could not find it The surrounding country presents a handsome appearenc. The Red Buttes on the south side of the Platte are grand and lofty bluffs composed of red granate appearing like ancient works of masonery hedged about with pine and cedar.",
+    "Citation":"Dunlap, Kate, and Joni Poppitz Stimpson. \"Dunlap, Kate, 1837-1901.\" BYU Library Digital Collections, 2002. Computer Text Data, available in PDF, https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/.",
+    "Hyperlink":"https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/",
+    "Country":"United States of America",
+    "Region":"Nothern America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.79365,42.67468 ]
+    },
+    "properties": {
+    "PlaceName":"Willow Spring",
+    "PlaceNameModern":"Willow Spring, WY",
+    "NameOfTraveler":"Kate Dunlap",
+    "YearOfTravel":1864,
+    "Description":"This morning we leave and bid adieu to the Platte, on whose bank we have travelld for about 700 miles. It is a peculiar stream, ever shifting among numerous Islands, and in the dry part of the sea son it is almost lost in its deep sand bed. Although it bears no vesels upon its wide and rippling surface, yet it is of vast use to the emigrants and settlers on its banks. Rushing down from its snowy mountain sources, it bears its cooling waters through sandy plains and fertile meadows furnishing water and grass for the weary emigrants winding their way along its banks towards the far sundown of Uncle Sam's dominions. Good roads this morning but no water, travelled on till 2 o'clock p.m. to reach willow springs. Some  of the teams were were about fagged out. Here we found about (500) hundred wagons camped, and had to wait our turn for hours to get our stock watered. There is no grass here, but some of the boys went back on the bluffs and found plenty so we concluded to lay over. We had a hard gust of wind which blew the sand into our faces till we were nearly suffocated.",
+    "Citation":"Dunlap, Kate, and Joni Poppitz Stimpson. \"Dunlap, Kate, 1837-1901.\" BYU Library Digital Collections, 2002. Computer Text Data, available in PDF, https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/.",
+    "Hyperlink":"https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/",
+    "Country":"United States of America",
+    "Region":"Nothern America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.1315,42.49515 ]
+    },
+    "properties": {
+    "PlaceName":"Independence Rock",
+    "PlaceNameModern":"Independence Rock, WY",
+    "NameOfTraveler":"Kate Dunlap",
+    "YearOfTravel":1864,
+    "Description":"One mile further on we passed \"Independence Rock.\" Upon all available portions of which are recorded hundreds of names. It is about a mile around its base, and perhaps about  75 or a 100 ft high composed of solid granite. One mile beyond we camped on the bank of the Sweet Water. This is a beautiful stream about 8 rods wide, and 2 ft deep. Plenty of grass, but no wood except sage brush. Turned  cold, -- hard wind, -- had a hard time to get supper. ",
+    "Citation":"Dunlap, Kate, and Joni Poppitz Stimpson. \"Dunlap, Kate, 1837-1901.\" BYU Library Digital Collections, 2002. Computer Text Data, available in PDF, https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/.",
+    "Hyperlink":"https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/",
+    "Country":"United States of America",
+    "Region":"Nothern America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.21033,42.44884 ]
+    },
+    "properties": {
+    "PlaceName":"Devil's Gate",
+    "PlaceNameModern":"Devil's Gate, WY",
+    "NameOfTraveler":"Kate Dunlap",
+    "YearOfTravel":1864,
+    "Description":"Crossed the Sweet Water Mountain Pass by the Devil's Gate, a deep and awful chasm through which the Sweet Water passes. The solid granate rocks lift themselvs perpendicularly on either side several hundred feet. From the top of the chasm the river appears like a little brook lashing the base of the passage. It is very difficult of ascent to the top of this gate owing to the numerous deep fissures among the craggy rocks Mr Dunlap and two others of our party made the difficult ascent and described the scene as grand and awful. It is said that it will make the head of the most daring real to look down the deep chasm, and that cold chills insensibly crawl over one's back at the thought of being precipitated to the bottom.",
+    "Citation":"Dunlap, Kate, and Joni Poppitz Stimpson. \"Dunlap, Kate, 1837-1901.\" BYU Library Digital Collections, 2002. Computer Text Data, available in PDF, https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/.",
+    "Hyperlink":"https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/",
+    "Country":"United States of America",
+    "Region":"Nothern America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.30102,42.56905 ]
+    },
+    "properties": {
+    "PlaceName":"Big Sandy Stream",
+    "PlaceNameModern":"Boulder, WY",
+    "NameOfTraveler":"Kate Dunlap",
+    "YearOfTravel":1864,
+    "Description":"During the last three days we have laid by having good grazing for our stock It is a beautiful spot; on the north of us stretch out the Bear River mountains whose summits are white with snow, while on the South lies a range called the Table Mountains, covered with pine and quaken asp, at the base of which the Big Sandy winds its pure and rippling waters. [...] This is also a famous place for game. One men brought in an antelope, others sage hens, &c. Two of our boys said that they saw two large grizzlies, but that they ran at the sight of them. But they didn't say which ran the bears or them selves. We had some fun about it.  When we first camped here none had made it a camping place, for the grass was across the river among the willows and but few had found it out,  but now it is like a village so many trains have stopped to recruit [...] There is now considerable sickness among the emigrants. The mountain fever is quite common, and often the sufferer becoms crazy and wanders off among the mountains and gets lost.",
+    "Citation":"Dunlap, Kate, and Joni Poppitz Stimpson. \"Dunlap, Kate, 1837-1901.\" BYU Library Digital Collections, 2002. Computer Text Data, available in PDF, https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/.",
+    "Hyperlink":"https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/",
+    "Country":"United States of America",
+    "Region":"Nothern America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.63889,42.48484 ]
+    },
+    "properties": {
+    "PlaceName":"Bear River Mountains",
+    "PlaceNameModern":"Emigrant Trail, Kemmerer, WY",
+    "NameOfTraveler":"Kate Dunlap",
+    "YearOfTravel":1864,
+    "Description":"Wound our way along, between two ranges of the Bear River Mountains forming a deep and narrow cañon (kanyan) through which runs a stream of pure spring water. The scenery is beautiful, grand, often sublime. On either side, snow-capped mountains rear their tops to the clouds, their sides being robed in evergreens of pine and cedars while at their base nestles a rich herbage of vegetation, and varigated flowers, filling the air with rich odors, and here and there beautiful springs of pure crystal water, gush forth inviting the weary \"pilgrims\" to satisfy their thirst. [...] Passing out of this cañon, the road winds through heavy forests of pine and tamaracks, going down steep after steep, among rocks and loose stones till it again reaches another cañon, through, which, dashes another mountain stream. It was dark when we arrived in this cañon, and here, in a narrow place, with scarsely a mouthful of grass, we, with many others, are compelled to camp.",
+    "Citation":"Dunlap, Kate, and Joni Poppitz Stimpson. \"Dunlap, Kate, 1837-1901.\" BYU Library Digital Collections, 2002. Computer Text Data, available in PDF, https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/.",
+    "Hyperlink":"https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/",
+    "Country":"United States of America",
+    "Region":"Nothern America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.34497,43.19047 ]
+    },
+    "properties": {
+    "PlaceName":"Blackfoot",
+    "PlaceNameModern":"Blackfoot, ID",
+    "NameOfTraveler":"Kate Dunlap",
+    "YearOfTravel":1864,
+    "Description":"Left our forest camp this  morning and after we reached the valley  we had fine level roads all day.  Passed the grave of a mother and in-  fant laid side by side in the same  grave which bore the following simple  inscription \"Nancy Jane Townsend,  aged 21 years\". Took dinner near a  large pond or lake which was litterly  alive with ducks and minks Trav-  eled till about 8 o'clock reaching  \"Black Foot,\" making 28 or 30 miles  Here the two streams of em-  igrants meet, that by the way of  Salt Lake & Soda Springs, the other by the way of Lander's Cut off.  The creek is lined with tents and  wagons, and the valley with heards  of stock. We find now most of  the emigration is bound for  Virginia City. At this point those  who are going to West Bannack or  Idaho City, as it is now called,  and on to Oregon, take the left  hand road after crossing the  creek at the Soldier's station.  Some are talking of returning  back.",
+    "Citation":"Dunlap, Kate, and Joni Poppitz Stimpson. \"Dunlap, Kate, 1837-1901.\" BYU Library Digital Collections, 2002. Computer Text Data, available in PDF, https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/.",
+    "Hyperlink":"https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/",
+    "Country":"United States of America",
+    "Region":"Nothern America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.071,43.50464 ]
+    },
+    "properties": {
+    "PlaceName":"Two miles north of Snake River Ferry",
+    "PlaceNameModern":"Idaho Falls, ID",
+    "NameOfTraveler":"Kate Dunlap",
+    "YearOfTravel":1864,
+    "Description":"Made a long and hard drive  Dusty and hot. Roads sandy  Crossed Snake River Ferry and  drove up the river two miles and  camped. The country is now less  mountainous, sandy and some  what barren. Poor grass. Snake  River is a narrow, swift and deep  river, emptying into the Columbia It abounds in speckled trout  and mountain suckers",
+    "Citation":"Dunlap, Kate, and Joni Poppitz Stimpson. \"Dunlap, Kate, 1837-1901.\" BYU Library Digital Collections, 2002. Computer Text Data, available in PDF, https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/.",
+    "Hyperlink":"https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/",
+    "Country":"United States of America",
+    "Region":"Nothern America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.10281,45.01992 ]
+    },
+    "properties": {
+    "PlaceName":"Horse Prairie",
+    "PlaceNameModern":"Horse Prairie, MT",
+    "NameOfTraveler":"Kate Dunlap",
+    "YearOfTravel":1864,
+    "Description":"Left Red Rock Station, and after  a drive of 25 miles over good roads  reached Horse Prairie, ten miles  from Bannack City. A nice valley  and stream of water and good  grass -- these things make the weary  emigrant's heart glad. Wild clover  grows here in abundance. There  are two ranches here; and a great  many hay cutters are camped  ^up and down the valley. ",
+    "Citation":"Dunlap, Kate, and Joni Poppitz Stimpson. \"Dunlap, Kate, 1837-1901.\" BYU Library Digital Collections, 2002. Computer Text Data, available in PDF, https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/.",
+    "Hyperlink":"https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/",
+    "Country":"United States of America",
+    "Region":"Nothern America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.99559,45.16103 ]
+    },
+    "properties": {
+    "PlaceName":"Bannack City",
+    "PlaceNameModern":"Bannack City, MT",
+    "NameOfTraveler":"Kate Dunlap",
+    "YearOfTravel":1864,
+    "Description":"Bannack City is in latitude  45°. North situated in Grasshopper  creek -- so called by the miners on  account of the immense swarms  of that insect here the first year  of the gold discovery, [... ] \"Bannack\" is from from a tribe of Indians which  inhabit this section of the coun-  try. [...] The nar-  row vallies of the mountain streams  are all we have, form farming has  to be carried on by irrigation as it  seldom rains enough to benefit  a crop. Indeed, no one has  attempted to cultivate this valley,  except to raise a few vegetables [...] All the mountains which  skirt and surround these val-  lies are clad with pine of vari-  ous kinds, and the streams  are here and there skirted  with the aspen tree, which  frequently grows tall, & of consid-  erable size.  The climate in any local-  ity depends on the altitude and  surrounding mountains. [...] We have had some very cold  wather; the thermometer showing  a degree of Cold to which we  were strangers, standing for  three or four days at 44  degrees below zero. But we  have no winds, a light and  dry atmosphere, and generally,  do not feel the cold as one  does in Iowa. [...] This mining camp is  about six miles in extent.  Large amounts of gold dust have been taken out of bar claims which are now in  a manner unproductive, the  yield being too small for the pri-  -ce of wages and provisions. [...] Twelve miles N.W. is Bald  mountain said to be exceedingly rich  in Quartz bearing gold. Fifteen miles  north are the Rattle Snake leads  the ore of which is silver,",
+    "Citation":"Dunlap, Kate, and Joni Poppitz Stimpson. \"Dunlap, Kate, 1837-1901.\" BYU Library Digital Collections, 2002. Computer Text Data, available in PDF, https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/.",
+    "Hyperlink":"https://contentdm.lib.byu.edu/digital/collection/Diaries/id/4238/",
+    "Country":"United States of America",
+    "Region":"Nothern America",
     "Continent":"North America"
     }
   }
