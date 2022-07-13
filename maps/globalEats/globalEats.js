@@ -17,4 +17,4 @@
 			attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
 		}).addTo(map);
 
-		var map1896 = L.tileLayer('1896/{z}/{x}/{y}.png', {tms: true, attribution: "", minZoom: 5, maxZoom: 16}).addTo(map);
+		var map1896 = L.tileLayer('1896/tile/{z}/{x}/{y}.png', {tms: true, attribution: "", minZoom: 5, maxZoom: 16}).addTo(map);
