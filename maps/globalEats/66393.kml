@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>
+      <![CDATA[Boston and Surroundings]]>
+    </name>
+    <Style>
+      <ListStyle>
+        <listItemType>checkHideChildren</listItemType>
+      </ListStyle>
+    </Style>
+    <NetworkLink>
+      <Region>
+        <LatLonAltBox>
+          <north>42.4660646</north>
+          <south>42.2181614</south>
+          <east>-70.9512014</east>
+          <west>-71.217873</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>128</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <viewRefreshMode>onRequest</viewRefreshMode>
+        <href>http://mapwarper.net/maps/66393.kml?DBOX=-71.217873,42.2181614,-70.9512014,42.4660646,1</href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
