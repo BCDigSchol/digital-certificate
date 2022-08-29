@@ -2,7 +2,7 @@
 
 //Define map start up options, here defined to center on Italy
 		var mapOptions = {
-			center: [45,-95], //set center
+			center: [42,-95], //set center
 			zoom: 4 , //set initial zoom
 			maxZoom : 7,  //set max zoom
 			minZoom : 1,
@@ -26,7 +26,7 @@ var places = L.geoJson(data, {
 	onEachFeature: popUp,
 	filter:
 		function (feature, layer) {
-				return (feature.properties.NameOfTraveler=='Thomas Gage');
+				return (feature.properties.Continent=='North America');
 			}
 		}
 );
