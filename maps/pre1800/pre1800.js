@@ -116,7 +116,7 @@ function popUp(f,l) {
 
 var yearSlider = document.getElementById('slider-year');
 noUiSlider.create(yearSlider, {
-    start: [1500, 1900],
+    start: [1450, 1920],
     connect: true,
 		step:5,
 		pips: {

@@ -1,4 +1,4 @@
-var data = 
+var data =
 {
    "type": "FeatureCollection",
    "features": [
@@ -9557,6 +9557,1127 @@ var data =
     "Country":"Spain",
     "Region":"Mediterranean",
     "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.3991,-25.8132 ]
+    },
+    "properties": {
+    "PlaceName":"Shark's Bay, New Holland",
+    "PlaceNameModern":"Shark Bay, Western Australia",
+    "NameOfTraveler":"William Dampier",
+    "YearOfTravel":1699,
+    "Description":"New Holland is a very large tract of land. It is not yet determined whether it is an island or a main continent; but I am certain that it joins neither to Asia, Africa, nor America. This part of it that we saw is all low even land, with sandy banks against the sea, only the points are rocky, and so are some of the islands in this bay. The land is of a dry sandy soil, destitute of water except you make wells; yet producing divers sorts of trees; but the woods are not thick, nor the trees very big. Most of the trees that we saw are dragon-trees as we supposed; and these too are the largest trees of any there. They are about the bigness of our large apple-trees, and about the same height; and the rind is blackish and somewhat rough. The leaves are of a dark colour; the gum distils out of the knots or cracks that are in the bodies of the trees. We compared it with some gum-dragon or dragon's blood that was aboard, and it was of the same colour and taste. The other sort of trees were not known by any of us. There was pretty long grass growing under the trees; but it was very thin. We saw no trees that bore fruit or berries. We saw no sort of animal nor any track of beast but once; and that seemed to be the tread of a beast as big as a great mastiff-dog. Here are a few small land-birds but none bigger than a blackbird; and but few sea-fowls. Neither is the sea very plentifully stored with fish unless you reckon the manatee and turtle as such. Of these creatures there is plenty but they are extraordinary shy; though the inhabitants cannot trouble them much having neither boats nor iron.",
+    "Citation":"William Dampier, A New Voyage Round the World (London: James Knapton, 1786), Ch. 16.",
+    "Hyperlink":"http://gutenberg.net.au/ebooks05/0500461h.html#ch16",
+    "Country":"Australia",
+    "Region":"Australia",
+    "Continent":"Oceania"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 148.1551,-33.4332 ]
+    },
+    "properties": {
+    "PlaceName":"Lachlan River",
+    "PlaceNameModern":"Carcoar, New South Wales",
+    "NameOfTraveler":"John Oxley",
+    "YearOfTravel":1817,
+    "Description":"May 2.—Our journey this day was very fatiguing, the grass being nearly breast high, thick, and entangled. The soil is tolerably good within a mile and a half of the banks: I rode five or six miles out, in hopes of finding some eminence on which to ascend, but was disappointed, the country continuing a dead level, with extensive swamps, and barren brushes. The timber, dwarf box, and gum trees (all eucalypti), with a few cypresses and camarinas, scattered here and there: few traces of the natives were seen, and none recent. Upon the swamps were numerous swans and other wild fowl. In the evening we caught nearly a hundred weight of fine fish.",
+    "Citation":"John Oxley, Journals of Two Expeditions into the Interior of New South Wales, Undertaken by Order of the British Government in the Years 1817-18 (London: Published by John Murray, 1820), 14.",
+    "Hyperlink":"https://setis.library.usyd.edu.au/ozlit/pdf/p00066.pdf",
+    "Country":"Australia",
+    "Region":"Australia",
+    "Continent":"Oceania"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.5134,-31.4796 ]
+    },
+    "properties": {
+    "PlaceName":"Lake Torrens",
+    "PlaceNameModern":"Lake Torrens South Australia",
+    "NameOfTraveler":"Edward John Eyre",
+    "YearOfTravel":1840,
+    "Description":"I found Lake Torrens completely girded by a steep sandy ridge, exactly like the sandy ridges bounding the sea shore, no rocks or stones were visible any where, but many saline coasts peeped out in the outer ridge, and upon descending westerly to its basin, I found the dry bed of the lake coated completely over with a crust of salt, forming one unbroken sheet of pure white, and glittering brilliantly in the sun. On stepping upon this I found that it yielded to the foot, and that below the surface the bed of the lake consisted of a soft mud, and the further we advanced to the westward the more boggy it got, so that at last it became quite impossible to proceed, and I was obliged to return to the outer margin of the lake without ascertaining whether there was water on the surface of its bed further west or not. The extraordinary deception caused by mirage and refraction, arising from the state of the atmosphere in these regions, makes it almost impossible to believe the evidence of one's own eyesight; but as far as I could judge under these circumstances, it appeared to me that there was water in the bed of the lake at a distance of four or five miles from where I was, and at this point Lake Torrens was about fifteen or twenty miles across, having high land bounding it to the west, seemingly a continuation of the table land at the head of Spencer's gulf on its western side. Foiled in the hope of reaching the water, I stood gazing on the dismal prospect before me with feelings of chagrin and gloom. I can hardly say I felt disappointed, for my expectations in this quarter had never been sanguine; but I could not view unmoved, a scene which from its character and extent, I well knew must exercise a great influence over my future plans and hopes: the vast area of the lake was before me interminable as far as the eye could see to the northward, and the country upon its shore, was desolate and forbidding. It was evident, that I could never hope to take my party across the lake, and it was equally evident, that I should not be able to travel around its shores, from the total absence of all fresh water, grass, or wood, whilst the very saline nature of the soil in the surrounding country, made even the rain water salt, after lying for an hour or two upon the ground. My only chance of success now lay in the non-termination of Flinders range, and in the prospect it held out to me, that by continuing our course along it we might be able to procure grass and water in its recesses, until we were either taken beyond Lake Torrens, or led to some practicable opening to the north.",
+    "Citation":"Edward John Eyre, Journals of Expeditions of Discovery into Central Australia and Overland from Adelaide to King George's Sound in the Years 1840-1 (London: T. and W. Boone, 1845), Ch. IV.",
+    "Hyperlink":"https://www.gutenberg.org/cache/epub/5346/pg5346-images.html",
+    "Country":"Australia",
+    "Region":"Australia",
+    "Continent":"Oceania"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.0826,-20.929 ]
+    },
+    "properties": {
+    "PlaceName":"Western Australia",
+    "PlaceNameModern":"Western Australia",
+    "NameOfTraveler":"Augustus Charles Gregory",
+    "YearOfTravel":1861,
+    "Description":"10th July. For seven miles the country continued gently to ascend, the sandstone giving place to trap boulders, yielding a very rich soil, clothed with short green grass and melons, the soil being too stony for agricultural purposes, although I have seen country of a similar appearance in the island of Mauritius producing fine crops of sugar. Some of the melons weighed as much as five or six ounces, and were passably good eating, although rather bitter. At noon the country dropped suddenly to the northward, and we descended a deep rocky ravine, in which we soon found water and grass. Travelling now became difficult and sometimes dangerous to the horses; rugged and semi-columnar metamorphic sandstone cliffs hemmed in the ravines on either side, while large rounded boulders of trap-rock filled the bed of the stream, which in several places was running. We had a rather indifferent camp in latitude 21 degrees 29 minutes 10 seconds, the camp at Nickol Bay bearing west-north-west, distant seventy-five miles by account. Camp 40.",
+    "Citation":"Augustus Charles Gregory, Journals of Australian explorations (Brisbane: Printed by James C. Beal, Government Printer, Williams Street, 1884), 2.",
+    "Hyperlink":"https://www.gutenberg.org/files/10461/10461-h/10461-h.htm",
+    "Country":"Australia",
+    "Region":"Australia",
+    "Continent":"Oceania"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 128.7465,-15.9311 ]
+    },
+    "properties": {
+    "PlaceName":"Ord River",
+    "PlaceNameModern":"Kimberley Western Australia",
+    "NameOfTraveler":"W.J. O'Donnell",
+    "YearOfTravel":1883,
+    "Description":"May 15--Still following the course of river in a general northerly direction for 24 miles, we made camp. On our way to-day crossed numerous tributaries coming from both east and west. The country is much more open here, and the travelling improved. Soil, red loamy sand, and its formation principally ironstone, which is of rich quality, quartz also occuring here. At this point the hills recede from the river, and open downs and lightly-timbered plains take their place on the left bank, while the ranges of the right bank are still close to the river. To the west of our course, and about 12 miles off, we observe a tier of blue ranges I have called the Carr-Boyd Ranges, after my second in command.",
+    "Citation":"W.J. O'Donnell, Diary of the Exploring Expedition Led by Mr. W. J. O'Donnell, on Behalf of the Cambridge Downs Pastoral Association Melborne. From Port Darwin to Cambridge Gulf, North Kimberley District, Western Australia, and Back (Melbourne: Mason, Firth & M'Cutcheon Printers, 1884), 6.",
+    "Hyperlink":"https://nla.gov.au/nla.obj-52759620/view?partId=nla.obj-87672890#page/n2/mode/1up",
+    "Country":"Australia",
+    "Region":"Australia",
+    "Continent":"Oceania"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0126,40.7065 ]
+    },
+    "properties": {
+    "PlaceName":"New York City",
+    "PlaceNameModern":"New York City, New York",
+    "NameOfTraveler":"John M. Duncan",
+    "YearOfTravel":1818,
+    "Description":"I have now spent several weeks in New York, but shall postpone for the present any remarks upon the social, moral, or political characteristics of its inhabitants, in the hope that I shall hereafter have abundant opportunities of more extensive observation; the remaining pages of this letter shall rather be devoted to brief notices of the more remarkable peculiarities of their city. New York is built upon the southern point of Manhattan island, and enjoys a situation in every respect admirably suited for commercial purposes. The Hudson, or North River, passes it upon the one side; a narrow part of Long Island Sound, familiarly termed the East River, washes it upon the other; while in front is a noble bay, expanding between the shores of Long Island and New Jersey, in which the united navies of the world might spread their canvass. Below the bay are the Narrows, facilitating the defence of the harbour, and at various points above and below them are forts of such imposing strength, that it seems impossible that any naval armament can ever reach the city, unless in consequence of the co-operating exertions of a powerful land force. Ice very rarely, now, obstructs the navigation, and about twenty miles from the city the Atlantic opens to the vessels, without a rock or island thereafter to annoy them. With the eastern coast of\nAmerica, there is a convenient and safe communication through Long Island Sound; and the Hudson, having its source in the upper part of the state, affords an inland navigation, even for large vessels, of more than a hundred and fifty miles. The harbour of New York is one of the best in the country, and is capable of almostunlimited extension. The wharfs skirt both sides of the island, and piers project at rightangles into the stream, leaving intermediate slips, which have many of the advantagesof wet docks and are free from several of their inconveniences. The tides rise and fallabout six feet, but there is always water enough abreast of the piers to float the largestmerchantmen. They do not however enjoy the advantage of dry docks, for the tide doesnot ebb sufficiently to empty them and mechanical means have not yet been resorted to;but vessels which need repair are hove down in shallow water, first upon the one side and then upon the other.",
+    "Citation":"John M. Duncan, Travels Through Part of the United States and Canada in 1818 and 1819 (London: Hurst, Robinson, & Company, 1823), 24-6.",
+    "Hyperlink":"https://tile.loc.gov/storage-services/service/gdc/lhbtn/6788a/6788a.pdf",
+    "Country":"United States of America",
+    "Region":"Eastern Coast",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.0514,42.3621 ]
+    },
+    "properties": {
+    "PlaceName":"Boston",
+    "PlaceNameModern":"Boston, Massachusetts",
+    "NameOfTraveler":"John M. Duncan",
+    "YearOfTravel":1818,
+    "Description":"Boston occupies a small peninsula in Massachusetts bay, and possesses a safe and commodious harbour, strongly defended from maritime attacks. The commerce of Boston is very considerable; probably in this respect it ranks as the fourth city in the United States,\nfor New York, Philadelphia, and I believe New Orleans, are before it. The town has outgrown the limits of the position which it occupies, and Charlestown upon an opposite peninsula, and South Boston upon the main land, may be regarded as integral parts of the city. Circumscribed, however, as they are, the citizens have had the good taste to reserve a park of upwards of forty acres, upon which no buildings have been allowed to encroach. The Mall, as this is called, is surrounded with spreading elms, and is the finest that is to be found within the limits of any considerable town in the United States. It would be needless to remark how much it contributes to the beauty of the town, and the comfort of the inhabitants, were it not that so simple and so obvious an ornament is strangely overlooked in the larger American cities, notwithstanding the abundance of elbow room which all of them enjoy. Boston has much more of the appearance of a British town than New York. Many of the buildings are of a fine white granite, and most of the others are of brick; the streets are very compactly built, and although many are narrow and crooked, all exhibit a degree of order and cleanliness which will in vain be looked for in New York. On a finely rising ground at the upper part of the Mall, stands the State House, a building of humbler\npretensions as to size and materials than the New York City Hall, but in situation and architectural outline greatly superior. It is nearly square; in front is a lofty projecting colonnade of the Corinthian order, twelve columns in length, springing from a piazza of rusticated arches, but unhappily bearing only a balustrade, over which rises a small attic story with a pediment; and overtopping all is a large circular dome terminated by a small square lantern. From the lantern of the State House a most commanding view is obtained\nof the surrounding country. In front is Boston bay, studded with nearly forty islands, with fortifications and a light house; the shores which surround its ample basin, advancing and receding with most capricious irregularity, and forming numerous capes and peninsulas,\non one of the largest of which is the city. The vast amphitheatre around the bay exhibits a country richly variegated with hill and valley, immense forests and cultivated ground; and sprinkled with about twenty little towns of snowy whiteness, among which a dozen of\nspires may be counted.",
+    "Citation":"John M. Duncan, Travels Through Part of the United States and Canada in 1818 and 1819 (London: Hurst, Robinson, & Company, 1823), 37-8.",
+    "Hyperlink":"https://tile.loc.gov/storage-services/service/gdc/lhbtn/6788a/6788a.pdf",
+    "Country":"United States of America",
+    "Region":"Eastern Coast",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1674,39.9418 ]
+    },
+    "properties": {
+    "PlaceName":"Philadelphia",
+    "PlaceNameModern":"Philadelphia, Pennsylvania",
+    "NameOfTraveler":"John M. Duncan",
+    "YearOfTravel":1818,
+    "Description":"The position of Philadelphia, although not equal to that of New York, is yet well chosen in reference to the character of the surrounding country. The city stands upon an isthmus about two miles wide, between the Delaware and the Schuylkill, five miles above their confluence, and about an hundred and twenty miles from the sea. Both rivers are navigable up to the city by the largest merchantmen. The Delaware is here about a mile in width; the tide rises and falls about six feet, and vessels of 1200 tons can come up to the wharfs. In severe winters, the communication with the sea is still occasionally interrupted; but not so frequently as formerly, nor for so long at one time, and as the surrounding country becomes cleared of its forests the severity of the winters will be still\nfarther mitigated. The course of the two rivers at the city is very nearly north and south, but almost immediately above, they diverge; the Delaware to the northeast, and the Schuylkill to the north-west, thus materially facilitating the commercial communication with the interior of the State, and the adjoining one of New Jersey. The Delaware is navigable by large sloops and steam boats to Trenton, about thirty miles above, and the Schuylkill, although above the city comparatively shallow and disturbed with rapids, is navigable by small vessels and rafts to a considerable distance. A little deepening of this river in some places, and the cutting of short canals from one stream to another, would open a communication for some hundreds of miles into the interior. The ground on which the city stands, is covered with a stratum of fine clay; the banks of the Schuylkill furnish a plentiful supply of marble, and the country around is rich in timber, so that materials for building are most abundant. The appearance of the city from the river is by no means imposing; rather the opposite. The ground is generally level, and the mass of buildings present a dull heavy uniformity; most of those along the bank are by no means elegant, and only a solitary steeple rises above the dense horizon. The aspect however improves amazingly when you enter the streets, which are wide, straight, and clean, and, with only one exception, cross each other at right angles. The houses are in general of painted brick, but some of the more modern have a flight of marble steps in front, and the lintels of the doors and windows, and even the side walk in front, are of the same beautiful materials.",
+    "Citation":"John M. Duncan, Travels Through Part of the United States and Canada in 1818 and 1819 (London: Hurst, Robinson, & Company, 1823), 128-9.",
+    "Hyperlink":"https://tile.loc.gov/storage-services/service/gdc/lhbtn/6788a/6788a.pdf",
+    "Country":"United States of America",
+    "Region":"Eastern Coast",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.5998,39.2687 ]
+    },
+    "properties": {
+    "PlaceName":"Baltimore",
+    "PlaceNameModern":"Baltimore, Maryland",
+    "NameOfTraveler":"John M. Duncan",
+    "YearOfTravel":1818,
+    "Description":"Baltimore is built at the top of a small bay in the river Patapsco, near its entrance into the Chesapeake, and consists of two portions, nearly a mile asunder; the upper of which is properly speaking the town, and the lower called Fell's Point is the harbour. The water comes up to the town but it is shallow and in general none but coasters go past the Point. The bay is formed and protected by a peninsular tongue of land which stretches downwards into the river; the entrance is narrow and is completely commanded by a fort,\nwhich sustained a heavy bombardment during last war. The town is built with considerable regularity, upon portions of three hills and their intervening 220 valleys; many of the streets cross each other at right angles, and they are in general spacious and well paved. A large proportion of the buildings are of brick; the more ancient, in consequence of inattention to painting, have rather a gloomy aspect, but the modern ones resemble in every respect those of New York and Philadelphia. In public buildings Baltimore aspires to distinction, but some of the most considerable are as yet only in progress. A massy brick edifice which is intended for an Exchange has been roofed in; externally it is remarkable for dimensions rather than elegance, and of its internal appearance I can say nothing. Two new churches are going forward, the one destined to be a Romish Cathedral the other a Socinian Chapel. They stand very near each other, rather above the city, and as yet a considerable space is open around them.\nThe style of the respective buildings strikes me as somewhat appropriate to the system which it has been erected to support.",
+    "Citation":"John M. Duncan, Travels Through Part of the United States and Canada in 1818 and 1819 (London: Hurst, Robinson, & Company, 1823), 150.",
+    "Hyperlink":"https://tile.loc.gov/storage-services/service/gdc/lhbtn/6788a/6788a.pdf",
+    "Country":"United States of America",
+    "Region":"Eastern Coast",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.0333,38.8897 ]
+    },
+    "properties": {
+    "PlaceName":"Washington, D.C.",
+    "PlaceNameModern":"Washington, D.C.",
+    "NameOfTraveler":"John M. Duncan",
+    "YearOfTravel":1818,
+    "Description":"I Have now the honour of addressing you from the metropolis of the United States. It is common here to call Washington ‘the city in the woods,’ I was therefore somewhat surprised to find that there is little or no wood near it. The aspect of the city indeed would have been much improved by a few trees, to fill up the vacancies, and thus afford something for the eye to rest upon between one group of buildings and another. The soil however is poor, and the probability is that there has never been much timber on this spot;\nI have noticed none of the stumps which are usually left when the forests are felled. The position which was selected for the Federal city, is a point of land embraced by the forking of the river Potowmak, about one hundred and twenty miles from its junction with the Chesapeake, and about two hundred and fifty miles from the sea. The principal branch of the river flows down upon the west, and unites with the smaller one from the eastward in front of the city. Ships of war of the largest size can float in safety three or four\nmiles above the junction of the streams. It was expected that this situation would have been found particularly favourable to commercial enterprize, and consequently that the population would rapidly increase; hitherto however these hopes have not been realized.\nGeorgetown, about a mile above upon the principal branch of the river, monopolizes the inland trade, and Alexandria seven miles below intercepts the foreign; while the barrenness of the surrounding country is discouraging to settlers. The prosperity of Washington therefore seems to be in a great measure dependent on its advantages as the seat of government, and these in a new government, economical even to penuriousness in the salaries of its public officers, cannot as yet be very important....The original plan of the city was on a most extensive scale. A parallelogram more than four miles and a half long, and two miles broad, was regularly divided into streets, avenues, and squares, and should the anticipations of its founders be realized, this will after all be but the nucleus of the future metropolis. The streets are laid out towards the cardinal points, crossing each other at right angles; the avenues intersect these diagonally, so as to avoid the tiresome sameness which is observable in Philadelphia, and extensive squares are to be placed at the crossings of these transverse lines. The avenues are from 130 to 160 feet wide, the streets from 80 to 110.",
+    "Citation":"John M. Duncan, Travels Through Part of the United States and Canada in 1818 and 1819 (London: Hurst, Robinson, & Company, 1823), 168-70.",
+    "Hyperlink":"https://tile.loc.gov/storage-services/service/gdc/lhbtn/6788a/6788a.pdf",
+    "Country":"United States of America",
+    "Region":"Eastern Coast",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7475,42.6529 ]
+    },
+    "properties": {
+    "PlaceName":"Albany",
+    "PlaceNameModern":"Albany, New York",
+    "NameOfTraveler":"John M. Duncan",
+    "YearOfTravel":1818,
+    "Description":"Albany was, an early Dutch settlement and the streets are filled with Dutch names, of most difficult and cacophonous utterance. The town consisted originally of a single street, skirting the bank of the river, which takes a slight bend here; but it subsequently extended backwards very considerably, and some of the recent streets towards the north are spacious and well built, and as usual lined with poplars. In many places there is a singular mixture of poverty and splendour. A number of the old Dutch erections are still standing; small houses of red and yellow bricks, with the gable end to the street, having a door and window in the ground floor, a single window in the next, and above it the year of their erection embossed upon the surface in huge iron figures, and the whole surmounted with an iron weather-cock rusted upon the rod. There is an air of antiquity about these buildings, which is interesting in a country where antiquity is so rare. The modern erections exhibit the same tasteful style which prevails in New York and Philadelphia. Two or three of the public buildings are of white marble; one of them is surmounted with a very neat dome, but in another the effect of the marble wall is sadly disfigured by the untasteful addition of a red tiled roof. The Capitol, or State House has rather a neat portico, and a dome surmounted with a statue of Justice; it stands at the upper end of a very steep but wide street, running at right angles to the river. Near the Capitol is a very neat Academy with two wings, built of reddish coloured freestone.",
+    "Citation":"John M. Duncan, Travels Through Part of the United States and Canada in 1818 and 1819 (London: Hurst, Robinson, & Company, 1823), 216.",
+    "Hyperlink":"https://tile.loc.gov/storage-services/service/gdc/lhbtn/6788a/6788a.pdf",
+    "Country":"United States of America",
+    "Region":"Eastern Coast",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.3746,43.651 ]
+    },
+    "properties": {
+    "PlaceName":"Toronto",
+    "PlaceNameModern":"Toronto, Canada",
+    "NameOfTraveler":"Henry C. Todd",
+    "YearOfTravel":1833,
+    "Description":"On Jan. 27, 1833, I arrived in York—now changed to Toronto, its aborigine name—the capital of Upper Canada. A very few years since the wilderness, a swamp and unknown; the whole country, up to 1784, being one vast forest: it now contains over 10,000 inhabitants. A cedar swamp produces good water, and is of itself healthy; which is likewise the case where hemlock, spruce and fir abound. General Simcoe, the first governor of the province, chose Toronto, which he called, little York, in 1794, as the best scite [sic] for a capital, though he contemplated London, in the London District, from its central position between the large lakes, and its favorable situation on the river Thames. Toronto is a mass of shops, the leading feature of Canadian and American towns, 75 insomuch\nthat you can hardly sneeze without bespattering a store. Its winters are six weeks shorter than those of Quebec. The original settlers of Upper Canada, (discovered by John Cabot, in 1497, whose family resided in England) were American refugees, and part of the 82nd\nregiment, disbanded on termination of the revolutionary war. Each private receiving 200 acres, without restrictions, but on discovering they would sell them for a bottle of brandy, the grant was reduced to 100, with settlement duties, and a residence of three years before enabled to sell. They located on the Long Sault, and at Niagara, formerly Newark. The first vessel which entered the Bay of Toronto, was a brig commanded by capt. Richardson, whose son is an elder in the Episcopal Methodist Society of this city. Twenty–seven steamboats ply on Lake Ontario, Bay of Quinte, and river St. Lawrence: I have counted seven at a time in Toronto Bay. Cranberry marshes in the township of Wedderburn, on account of their fever–breeding properties, are called the Infernal place: a Mr. J. Cummer, farmer and miller of Yonge Street, was the first person born in the township of Toronto: in 1834 he was thirty–five years of age. The episcopal–church is a well–built stone structure, has a choir and organ, and will contain 3000 persons. There are two catholic chapels in the city, three methodist, and four other places of public worship. The establishment of Upper Canada consists of the bishop of Quebec, two archdeacons, and circa sixty clergymen",
+    "Citation":"Henry C. Todd, Notes Upon Canada and the United States from 1832 to 1840 (Toronto: Rogers and Thompson, 1840), 93-4.",
+    "Hyperlink":"https://tile.loc.gov/storage-services/service/gdc/lhbtn/27841/27841.pdf",
+    "Country":"Canada",
+    "Region":"Eastern Coast",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.7009,45.4183 ]
+    },
+    "properties": {
+    "PlaceName":"Ottawa",
+    "PlaceNameModern":"Ottawa, Ontario",
+    "NameOfTraveler":"Katherine E. Bates",
+    "YearOfTravel":1887,
+    "Description":"Another shake of the Canadian kaleidoscope lands me at Ottawa. Here, I think, we first realized the strange incongruities of Canada; the mixture of advanced civilization with provincial incompleteness, as shown by these rough unfinished Canadian roads lighted up by brilliant electric light. Streets here are reckoned by miles; but they dwindle away into what we should consider merely “tracks,” and even in the cities themselves this curious anomaly is ever present: a handsome brick or stone house, and, next door to it, a wooden\nhovel; electric light, lighting up roads covered with “rocks” or impassable from mud or pools of water. But we toiled up above all these queer contrasts and the ugly provincial rectangular town, to Barrack Hill and the beautiful Government buildings of pink and cream sandstone; and a lovely autumn picture remains in my memory: on one side of the buildings a deep ravine, clothed with trees arrayed in all their autumn bravery; on the other a far-away stretch of wood and river, the Chaudière Falls as a background, and the famous lumber yards, looking quite picturesque, thanks to the enchantment of distance and the last lingering touch of a quickly sinking sun. The bright, crisp air turns suddenly grey and chill, and we hasten home to make final preparations for our start to Toronto\nand a first night in the famous Pullman cars.",
+    "Citation":"Katherine E. Bates, A Year in the Great Republic (London: Ward & Downey, 1887), 21.",
+    "Hyperlink":"https://tile.loc.gov/storage-services/service/gdc/lhbtn/1394a/1394a.pdf",
+    "Country":"Canada",
+    "Region":"Eastern Coast",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8607,42.1813 ]
+    },
+    "properties": {
+    "PlaceName":"Hudson River Valley, Catskill Mountains",
+    "PlaceNameModern":"New York State",
+    "NameOfTraveler":"Isabella L. Bird",
+    "YearOfTravel":1854,
+    "Description":"The sun of a November morning had just risen as I left Albany, and in a short time beamed upon swelling hills, green savannahs, and waving woods fringing the margin of the Hudson. At Coxsackie the river expands into a small lake, and the majestic Catsgill Mountains rise abruptly from the western side. The scenery among these mountains is very grand and varied. Its silence and rugged sublimity recall the Old World: it has rocky pinnacles and desert passes, inaccessible eminences and yawning chasms. The world might grow populous at the feet of the Catsgills, but it would leave them untouched and unprofaned in their stern majesty. From this point for a hundred miles the eyes of the traveller are perfectly steeped in beauty, which, gathering and increasing, culminates at West Point, a lofty eminence jutting upon a lake apparently without any outlet. The spurs of mountain ranges which meet here project in precipices from five to fifteen hundred feet in height; trees find a place for their roots in every rift among the rocks; festoons of clematis and wild-vine hang in graceful drapery from base to summit, and the dark mountain shadows loom over the lake-like expanse below. The hand wearies of writing of the loveliness of this river. I saw it on a perfect day. The Indian summer lingered, as though unwilling that the chilly blasts of winter should blight the loveliness of this beauteous scene. The gloom of autumn was not there, but its glories were on every leaf and twig. The bright scarlet of the maple vied with the brilliant berries of the rowan, and from among the tendrils of the creepers, which were waving in the sighs of the west wind, peeped forth the deep crimson of the sumach. There were very few signs of cultivation; the banks of the Hudson are barren in all but beauty. The river is a succession of small wild lakes, connected by narrow reaches, bound for ever between abrupt precipices. There are lakes more beauteous than Loch Katrine, softer in their features than Loch Achray, though like both, or like the waters which glitter beneath the blue sky of Italy. Along their margins the woods hung in scarlet and gold— high above towered the purple peaks—the blue waters flashed back the rays of a sun shining from an unclouded sky—the air was warm like June—and I think the sunbeams of that day scarcely shone upon a fairer scene. At mid-day the Highlands of Hudson were left behind—the mountains melted into hills—the river expanded into a noble stream about a mile in width—the scarlet woods, the silvery lakes, and the majestic Catsgills faded away in the distance; and with a whoop, and a roar, and a clatter, the cars entered into, and proceeded at slackened speed down, a long street called Tenth Avenue, among carts, children, and pigs.",
+    "Citation":"Isabella L. Bird, The Englishwoman in America (London: John Murray, 1856), 242-3.",
+    "Hyperlink":"https://tile.loc.gov/storage-services/service/gdc/lhbtn/03822/03822.pdf",
+    "Country":"United States of America",
+    "Region":"Eastern Coast",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.6148,45.5161 ]
+    },
+    "properties": {
+    "PlaceName":"Montreal",
+    "PlaceNameModern":"Montreal, Quebec",
+    "NameOfTraveler":"Isabella L. Bird",
+    "YearOfTravel":1854,
+    "Description":"The exploit is one of the most agreeable which the traveller can perform, and the thick morning mist added to the apparent danger. We steamed for four or five miles farther down the river, when suddenly the great curtain of mist was rolled up as by an invisible hand, and the scene which it revealed was Montreal. I never saw a city which looked so magnificent from the water. It covers a very large extent of ground, which gently slopes upwards from the lake-like river, and is backed by the Mountain, a precipitous hill, 700 feet in height. It is decidedly foreign in appearance, even from a distance. When the fog cleared away it revealed this mountain, with the forest which covers it, all scarlet and purple; the blue waters of the river hurried joyously along; the Green and Belleisle mountains wore the rosy tints of dawn; the distances were bathed in a purple glow; and the tin roofs, lofty spires, and cupolas of Montreal flashed back the beams of the rising sun. A lofty Gothic edifice, something from a distance like Westminster Abbey, and handsome public buildings, with a superb wharf a mile long, of hewn stone, present a very imposing appearance from the water. We landed from the first lock of a ship-canal, and I immediately drove to the residence of the Bishop of Montreal, a house near the mountain, in a very elevated situation, and commanding a magnificent view. From the Bishop and his family I received the greatest kindness, and have very agreeable recollections of Montreal....Montreal is an extraordinary place. It is alive with business and enterprising traders, with soldiers, carters, and equipages. Through the kindness of the Bishop, I saw everything of any interest in the town. The first thing which attracted my attention was the magnificent view from the windows of the See-house, over the wide St. Lawrence and the green mountains of Vermont; the next, an immense pair of elaborately-worked bronze gates, at a villa opposite, large enough for a royal residence. The side-walks in the outskirts of the town were still of the villanous wood, but in the streets they were very substantial, and, like the massive stone houses, look as if they had lasted for two hundred years, and might last for a thousand more",
+    "Citation":"Isabella L. Bird, The Englishwoman in America (London: John Murray, 1856), 185-6.",
+    "Hyperlink":"https://tile.loc.gov/storage-services/service/gdc/lhbtn/03822/03822.pdf",
+    "Country":"Canada",
+    "Region":"Eastern Coast",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.1359,34.1529 ]
+    },
+    "properties": {
+    "PlaceName":"Pasadena",
+    "PlaceNameModern":"Pasadena, California",
+    "NameOfTraveler":"Susie C. Clark",
+    "YearOfTravel":1889,
+    "Description":"California is not all a Paradise, for we have traversed miles of dreary, barren waste within her borders, but if there is an Edenic garden on earth, one fit for the occupancy of the primeval pair, that spot is Pasadena. It is true we know not what awaits us in other portions of this Golden State, but we are constantly meeting people who having tried a residence in all other localities, return delightedly to this beautiful San Gabriel Valley. Along its northern borders stretches the Sierra Madre range of mountains, a barrier that effectually protects the city nestling at its feet from every rude, cold blast, and adds to it yet another blessing, that of pure water, the principal supply coming from Devil's Gate, though one would naturally look for fire from this source rather than cooling springs. The charm also of grandeur and sublimity, Pasadena by this proximity, does not lack. With David, we “lift our eyes unto the hills,” for we cannot help it. They entice us, they appall us, they command our reverence, they invite our ever changing admiration by their shifting phases. Severe in outline, seamed with gorges, and chasms, producing thus a strange wrinkled effect as if some Titan hand held aloft a vast drapery that thence fell naturally in seam, and crease, and fold; almost barren of vegetation, seemingly unwooded, though we are assured that impenetrable forests exist in some of their wildest depths, but in compensation for this softening charm of New England hills, the loftier Sierras veil themselves in shadowy mists and vapors, they play hide seek with fleecy clouds, that drift across their breasts and lurk in their deep valleys, while still rearing aloft their hoary heads into the clear blue ether which envelopes them with a light that was never seen before on sea or land, while grander than all, old “Baldy” smiles down on the fertile valley from his realm of snow. Cruel mothers (madres), these jagged peaks have proved to many venturesome climbers, nearly a dozen people having perished here in the last three years, in sight of home, being lured into some chasm, or death-trap, from which there was no escape.",
+    "Citation":"Susie C. Clark, The Round Trip from the Hub to the Golden Gate (Boston: Lee and Shepard Publishers, 1890), 24-5.",
+    "Hyperlink":"https://tile.loc.gov/storage-services/service/gdc/lhbtn/01404/01404.pdf",
+    "Country":"United States of America",
+    "Region":"Western Coast",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2542,34.0489 ]
+    },
+    "properties": {
+    "PlaceName":"Los Angeles",
+    "PlaceNameModern":"Los Angeles, California",
+    "NameOfTraveler":"Susie C. Clark",
+    "YearOfTravel":1889,
+    "Description":"Situated in a level plain of wide extent, with high mountain ranges at her back, and an ocean at her feet, while on either hand stretches the most extensive fruit-bearing country in the world, how could this fair city fail to thrive and flourish and grow as if indeed all good angels smiled upon her? She numbers to-day 80,000 inhabitants, and her miles of broad level avenues are filled with fine buildings and noble residences that might serve as architectural models, including a City Hall and Post Office of which she may well be proud; they abound with granite blocks, hotels and stores stocked as choicely as the emporiums of our Eastern merchants, indeed we have seldom visited a more enterprising, stirring, energetic, and wide-awake city. It seems destined to become the second metropolis of this extensive coast, and being situated 500 miles nearer the tropics than San Francisco, in a climate and amid natural surroundings that are faultless, it must remain a favorite place of residence. It uses the adjacent port of San Pedro for its already extensive commerce with Alaska, Mexico, and the islands of the sea, but a favorite beach-resort, thirteen miles distant, is Santa Monica, where an enjoyable day can be spent.",
+    "Citation":"Susie C. Clark, The Round Trip from the Hub to the Golden Gate (Boston: Lee and Shepard Publishers, 1890), 37-8.",
+    "Hyperlink":"https://tile.loc.gov/storage-services/service/gdc/lhbtn/01404/01404.pdf",
+    "Country":"United States of America",
+    "Region":"Western Coast",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.4918,34.0198 ]
+    },
+    "properties": {
+    "PlaceName":"Santa Monica",
+    "PlaceNameModern":"Santa Monica, California",
+    "NameOfTraveler":"Susie C. Clark",
+    "YearOfTravel":1889,
+    "Description":"The little town of Santa Monica close by, boasts a pleasant park, an extensive ostrich farm, and three miles away in a verdant plain, occupying three spacious red-roofed buildings, is the Soldiers' Home, whose inmates have so dearly bought the comforts they now enjoy. A farmer whom we pass is ploughing with three mules abreast, a large blue heron flies startled from a reedy swamp, strange looking creature with his long legs and bill to float in the air, other unfamiliar voices warble in our ears, mocking-birds call to us from their leaf-embowered nests, while warm, fragrance-laden breezes efface the memory of bare, leafless trees and chilling blasts which we have known at this season. In this land “where everlasting spring abides, and never-fading flowers,” we wonder if indeed it can be November anywhere.",
+    "Citation":"Susie C. Clark, The Round Trip from the Hub to the Golden Gate (Boston: Lee and Shepard Publishers, 1890), 40.",
+    "Hyperlink":"https://tile.loc.gov/storage-services/service/gdc/lhbtn/01404/01404.pdf",
+    "Country":"United States of America",
+    "Region":"Western Coast",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.6891,34.4203 ]
+    },
+    "properties": {
+    "PlaceName":"Santa Barbara",
+    "PlaceNameModern":"Santa Barbara, California",
+    "NameOfTraveler":"Susie C. Clark",
+    "YearOfTravel":1889,
+    "Description":"From earliest childhood the praises of Santa Barbara, more than of any other spot in California have been chanted in our ears; it has been pictured as the most favored haunt of Flora and Pomona, the chosen resort of poet and artist who find in its golden, dolce far niente atmosphere that inspiration sought in vain in harsher climes. It has offered health to the invalid, peace to the restless and broken in spirit, wealth to the investor, a perpetual delight to the visiting traveller, such as no other locality can, because forsooth, there is but one Santa Barbara in the world. Extravagant anticipations are rarely realized. Perhaps we had expected too much, or it was unfortunate that we did not visit this spot prior to our acquaintance with Pasadena, the contrast to that city's immaculate neatness and lavish cultivation being here so marked. Yet charms Santa Barbara undoubtedly possesses of a very high order. Its climate is perhaps without a parallel. Unlike many other southern resorts which omit winter from their calendar, it omits summer also, so that there is almost no change of seasons. Its placid resident does not spend six months of every year in preparing for the remaining semester, as in less favored New England. He knows neither torrid days nor frigid nights; the wear and tear of life is reduced to a minimum, likewise it would seem its zest and highest achievement. Mercury seldom ranges higher than our average summer days, and never drops to the freezing point. The most tender flowers bloom perpetually, unless forced to rest by being deprived of irrigation. Fruits of all kinds are always ripe. Strawberry short-cake was served in the waning days of November, also green peas, and tomatoes from a plant seven years old, that had borne continually. Oh yes, a climate that can lead the world we cheerfully concede to Santa Barbara. It is also “beautiful for situation,” covering the pleasant slope from the base of the Santa Ynez mountains, which form its picturesque background, down to the lovely Bay, not unlike the Bay of Naples in contour, whose misty horizon line is broken twenty miles away by three verdant islands, one of them being used as a ranch by the largest sheep owners in the world. There is also here a pretty curving beach, too rocky however for comfortable bathing, with a swiftly-running surf that one can stand to his heart's content to enjoy, but there is no opportunity to sit and list to the wild wave's roar, for a brief moment.",
+    "Citation":"Susie C. Clark, The Round Trip from the Hub to the Golden Gate (Boston: Lee and Shepard Publishers, 1890), 41-3.",
+    "Hyperlink":"https://tile.loc.gov/storage-services/service/gdc/lhbtn/01404/01404.pdf",
+    "Country":"United States of America",
+    "Region":"Western Coast",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.3814,33.9544 ]
+    },
+    "properties": {
+    "PlaceName":"Riverside",
+    "PlaceNameModern":"Riverside, California",
+    "NameOfTraveler":"Susie C. Clark",
+    "YearOfTravel":1889,
+    "Description":"Pasadena has a twin, and her name is Riverside. They are both “in verdure clad” right royally, and possess many attributes in common, resembling each other more closely perhaps in age, in rapid growth, and many minor characteristics than any other two cities of California. Pasadena is much the larger place; and while conceding to it a superior situation, a beauty of adornment, and a home-like charm found nowhere else, we must grant to Riverside the palm of fruit-culture. The acme of orange-fruitage is certainly attained here, both in extent and in quality. The orchards are indeed “groves,” the trees being so large and full as to completely overshadow and hide the residences, which we know exist somewhere in their green depths. Riverside is situated in San Bernardino County, seven miles from Colton. This county, by the way, is the largest in the United States. Within its borders fifteen States the size of “little Rhody” could be placed without crowding. The Santa Ana river runs through the neighborhood, hence the name—Riverside—chosen for the settlement in 1871, when the gigantic scheme for irrigation was begun. The soil of Riverside is a red clay mixed with sand—washed probably from the mountain,—a most unpromising, sterile-looking soil, but needing evidently only a little scratching and a plentiful supply of water to prove itself especially adapted to fruits of all kinds. Energetic labor was not lacking in the early settlers of this happily chosen locality, and their canal system of irrigation challenges the admiration of every visitor. The river above the town was tapped, and two cemented canals constructed, twelve and fourteen miles long, ten to twenty feet wide, from which sub-canals (100 miles of them) surround every block, with gateways through which the water can be admitted to the grounds from the main artery, at pleasure....The show-card of Riverside is of course Magnolia Avenue, the finest drive it is claimed in the world. To reach it, however, a drive of three miles from our pleasant quarters at the Glenwood is necessary. Back of Riverside as at Pasadena is an arroyo, or valley, 40 feet deep and a quarter of a mile wide. Crossing this, we, reach a portion of the town known as Brockton square, because its residents are all natives of that thriving city of Mass. Next comes a strip of Government land, a mile wide, and then the tract named by some New York investors, Arlington, through which the beautiful avenue runs. Its width of 132 feet is divided into a double drive by a magnificent continuous row of pepper-trees through its centre. On either side, and between the drives and the 20 feet wide promenades, is a varied growth of trees and palms, evergreens, the eucalyptus, which unless trimmed grows 8 to 15 feet in height every year, the beautiful gravilia, and at the four corners of each intersecting avenue, a magnolia tree. Extend this vista, flecked with its enchanting lights and shades, its sunbeams crossed by waving branches, for ten miles. Imagine on its outer borders a thick green hedge which encloses residences that here find frontage, or orange groves that are simply endless in every direction, their glossy green boughs weighed down with their wealth of ripened fruit, and one can readily believe it all seems too lovely to be true, like an illusion of some magician's wand.",
+    "Citation":"Susie C. Clark, The Round Trip from the Hub to the Golden Gate (Boston: Lee and Shepard Publishers, 1890), 48-52.",
+    "Hyperlink":"https://tile.loc.gov/storage-services/service/gdc/lhbtn/01404/01404.pdf",
+    "Country":"United States of America",
+    "Region":"Western Coast",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.2052,32.7838 ]
+    },
+    "properties": {
+    "PlaceName":"San Diego",
+    "PlaceNameModern":"San Diego, California",
+    "NameOfTraveler":"Susie C. Clark",
+    "YearOfTravel":1889,
+    "Description":"The modern city of San Diego is regularly laid out with broad avenues, suitably numbered and lettered, and very level, excepting on its northern boundary where Florence Hill rises somewhat abruptly, crowned with fine residences. Its stores have an Eastern look, and the prices of goods are very reasonable. Its people are pleasant and affable, and many are of New England birth. The chief natural charm of San Diego is undoubtably its equable climate, its uniform spring-like temperature, in summer or in winter; added to this, there is a buoyancy, a remarkable uplifting quality in the atmosphere. One does not feel that he weighs an ounce in San Diego, although the scales show a steady upward-going endency. There are sea-turns and breezes occasionally, but these are tempered by the peninsula which lies between the Bay and the Ocean—fair Coronado. And one attempts the description of this exceptionable seaside-resort most reluctantly, for it must be seen and felt to be thoroughly appreciated. With a temperature that allows fruits of tropical and temperate zones to ripen side by side, with a bay and an ocean on either hand, its beach one of the finest in the world, its surf magnificent, and with a radiant sunlit atmosphere that no pen can ever portray, or brush transmit, what wonder that this location was chosen for that Aladdin's palace—the Hotel del Coronado, the largest on the globe. It is a unique structure, with an architectural style of its own, stretching itself easily and gracefully over seven acres of ground, enclosing thus a courtyard where rare flowers bloom beneath the dashing spray of fountains, and palms shade the walks that lead thither from the drawing and music rooms, from rotunda and many private diningrooms that border this garden. When at evening electric lights shed their glamour o'er the scene, touching the verdure with such livid brilliancy, when choice music adds its charm to the soft air, when fair forms picturesquely clad, float in and out from light to shadow, we realize that childhood's dreams of fairy-land were all true and are now realized. Rumors reached our celibate ears of wonderful bridal suites in unvisited regions of this vast place that are dreams of Oriental splendor, but we gained or coveted no nearer acquaintance with their white and golden elegance. Besides this hotel, a thriving little town has sprung up on the peninsula in the last three years, with an ostrich farm, and pleasant little parks. Communication with the main land is by ferry-boat. Many delightful trips can be enjoyed from San Diego, one to Lakeside, a mountainous district in the Cajone canon, another to Ensenada, Mexico, by steamer, or, the Mexican border can also be reached by a twenty-mile ride in an open motor-car along the Bay to National City (a stirring place which still shows many evidences of a mushroom growth), through its suburbs, where olives are extensively cultivated, and from which diverges the road to Sweetwater Dam, the city's reservoir, thence across a desolate country given over to cacti of various kinds and grease-wood bushes, whose oily roots are sought for fuel, to Tia Juana where one can visit the Government building and be officially stamped, or drive to the monument marking the boundary line between California and Mexico.",
+    "Citation":"Susie C. Clark, The Round Trip from the Hub to the Golden Gate (Boston: Lee and Shepard Publishers, 1890), 56-8.",
+    "Hyperlink":"https://tile.loc.gov/storage-services/service/gdc/lhbtn/01404/01404.pdf",
+    "Country":"United States of America",
+    "Region":"Western Coast",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4424,37.7701 ]
+    },
+    "properties": {
+    "PlaceName":"San Francisco",
+    "PlaceNameModern":"San Francisco, California",
+    "NameOfTraveler":"Susie C. Clark",
+    "YearOfTravel":1889,
+    "Description":"So magnificent a harbor as San Francisco Bay, one in which the combined navies of the world might easily find commodious anchorage, demanded as a natural sequence that a populous and cosmopolitan city should be built upon its shores. The fact that the site chosen for the city was a succession of hills and ridges proved no insurmountable obstacle. We had heard that San Francisco was built upon one hundred hills. We have not counted them, but do not believe the number overestimated. And such hills! The usual comparison “steep as the roof of a house” does only partial justice to their acute incline. Nothing could climb some of them it would seem but a cat or a squirrel and yet up their successive and thickly settled terraces mount steadily and speedily the cable cars with which the city is completely honeycombed in every direction, naught but the tops of their roofs being visible to the observer at the foot of the hill. And, reaching the summit, the cars pitch almost perpendicularly downward as a fly descends the walls of a room, or as a ship dips into the trough of a heavy sea, only to mount a higher and steeper hill beyond, continuing this see-sawing, style of locomotion for miles all over the city. Exaggeration here is an impossibility, for it is all so utterly incredible, even while we gaze.",
+    "Citation":"Susie C. Clark, The Round Trip from the Hub to the Golden Gate (Boston: Lee and Shepard Publishers, 1890), 71.",
+    "Hyperlink":"https://tile.loc.gov/storage-services/service/gdc/lhbtn/01404/01404.pdf",
+    "Country":"United States of America",
+    "Region":"Western Coast",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2701,37.8064 ]
+    },
+    "properties": {
+    "PlaceName":"Oakland",
+    "PlaceNameModern":"Oakland, California",
+    "NameOfTraveler":"Susie C. Clark",
+    "YearOfTravel":1889,
+    "Description":"Six miles from San Francisco, as the sea-gull flies, across the pleasant waters of the bay, stands the beautiful city of Oakland, with Alameda and Berkeley on either side. Oakland has been called the city of residences (or in slang parlance, Frisco's bedroom), and it wears the title appropriately. It has a diurnal population of about 65,000, and while possessing a thriving little business centre of its own, its wide level streets are chiefly occupied by beautiful villas and homes. The gardens which surround them remind us at this winter season of Pasadena taking a nap, and an opossum kind of nap too, a partial rest with one eye open, for Nature never sleeps in this wondrous land. Everywhere rose bushes are bristling with buds that await only a few more (lays of sunshine to expand, magnolias promise even earlier unfoldment, and the callas are already in their prime; indeed Oakland seems pre-eminently their chosen home, for every yard displays its abundant share of these snowy, mammoth 82 flowers. And we note here such variety of trees from the native live-oak, (whose abundance christened the city), the locust and cottonwood, to the ornate, feathery-leaved acacia, in its many subdivisions, the mustard, fig, cypress, and numberless varieties of palms. We counted fifteen new specimens of trees and shrubs which we had never seen before, in one short walk, and were obliged to remain in ignorance as to their proper classification, for the resident, to the manor born, never knows, and doesn't even know that he does not know...The social atmosphere of Oakland is genial, quiet, restful and receptive to the advanced thought of the day. For this and many other reasons the traveller is induced to cast anchor in this calm haven and taste the rare pleasure of a long sojourn in this lovely place, indeed a life-sentence could be delightfully served out, here. The climate, while not so mild in winter as southern resorts, knows no sultry weather in mid-summer. Its sky is often blue and serene when a small hurricane is blowing through the streets of the larger city across the bay. There is a beautiful lake in the eastern part of Oakland surrounded by handsome villas, and in every direction there are the most enticing walks and drives, one of especial charm leading out to Piedmont, situated as its name implies, on the foot-hills of the Contra Costa range. A more magnificent view than the one obtained from this height can hardly be imagined. Oakland lies at our feet like a crescent moon; just beyond, Alameda stretches her long arm into the blue bay; on the further shore of this broad expanse of waters, San Francisco sits on her many hills, while others still higher,rise behind her. From our vantage ground we can look straight through the Golden Gate, in whose royal portals the white masts of coming and departing vessels are tipped with flame in the light of the setting sun, which makes a long lane of glory between the green islands of this inland sea. What peace rests upon it! What diverse craft here find anchorage! At present there are Her Britannic Majesty's flag-ship Swiftshire, our own Charleston, in virgin white from stem to stern, a French man-of-war, and the Chinese mail steamer, together with sloops, whalers, ferry-boats and tugs innumerable, plying busily in every direction.",
+    "Citation":"Susie C. Clark, The Round Trip from the Hub to the Golden Gate (Boston: Lee and Shepard Publishers, 1890), 81-4.",
+    "Hyperlink":"https://tile.loc.gov/storage-services/service/gdc/lhbtn/01404/01404.pdf",
+    "Country":"United States of America",
+    "Region":"Western Coast",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0092,36.9717 ]
+    },
+    "properties": {
+    "PlaceName":"Santa Cruz",
+    "PlaceNameModern":"Santa Cruz, California",
+    "NameOfTraveler":"Susie C. Clark",
+    "YearOfTravel":1889,
+    "Description":"The curving line of the Bay of Monterey is nearly duplicated by the mountain range 20 miles inland, and in this pleasant sunny strip of territory, Santa Cruz is situated. It is a quiet sea-coast town, with pretty residences and gardens, and attractive shops which display shells, delicate mosses, and other treasures of the sea. There are two miles of beautiful beach within the city limits, and in the cliffs beyond, the first sculptor, Neptune has carved grottoes and natural bridges, which richly reward a drive thither, although this natural curiosity does not equal the beauty of La Jolla on the San Diego shore. Congress has been recently petitioned to provide a breakwater for this pleasant bay, that vessels may here find safe and commodious anchorage. On certain days a little steamer crosses from Santa Cruz to Monterey, but to skirt the coast's crescent outline by rail is a three hours' journey.",
+    "Citation":"Susie C. Clark, The Round Trip from the Hub to the Golden Gate (Boston: Lee and Shepard Publishers, 1890), 113-4.",
+    "Hyperlink":"https://tile.loc.gov/storage-services/service/gdc/lhbtn/01404/01404.pdf",
+    "Country":"United States of America",
+    "Region":"Western Coast",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.914,40.7059 ]
+    },
+    "properties": {
+    "PlaceName":"Salt Lake City",
+    "PlaceNameModern":"Salt Lake City, Utah",
+    "NameOfTraveler":"Susie C. Clark",
+    "YearOfTravel":1889,
+    "Description":"At Palisade, the last place of interest passed before nightfall, some very picturesque scenery is enjoyed, the precipitous rocks on either side being sprinkled with a yellowish moss which resembles copper veining. At this point also a narrow-gauge road diverges to Eureka, where is located the richest gold mine in Nevada. We awake next morning in sight of that strange phenomenon, America's Dead Sea, skirting its borders until we approach Ogden, the terminus of four important railway systems, a city whose beautiful situation we did not have time to inspect as we turn aside here to visit the Mormon Saint's Rest—Salt Lake City. Perhaps no point in our long journey is regarded with a more curious interest than is the capital of Utah. Its strange history, its religion, built upon only nine commandments of the\nDecalogue, its long defiance of U. S. laws, with other unusual features increase one's natural desire to see this strange land. In our first drive about the city it was easy to decide that its beauty had been over-rated. We had heard of wide shaded streets with a gently purling river of pure water from the mountains, bordering every curb-stone. We found a swiftly-flowing muddy current in one gutter only of many of the streets, we found wide thoroughfares, it is true, but they were untidy, rough and ill-kept, and the sidewalks were in no cleanlier condition. The trees were almost wholly of the white locust species, which being now in full flower added a needed touch of grace and beauty to the city, which was also bathed in a clear radiant mountain atmosphere imparting a peculiar brilliancy to the\nsky. A perpetual inspiration is the Wasatch range of snowy peaks, which overlook the city and whose altitude of 13,000 feet it is difficult to realize, being ourselves now nearly 5000 feet above the level of the sea.",
+    "Citation":"Susie C. Clark, The Round Trip from the Hub to the Golden Gate (Boston: Lee and Shepard Publishers, 1890), 155-6.",
+    "Hyperlink":"https://tile.loc.gov/storage-services/service/gdc/lhbtn/01404/01404.pdf",
+    "Country":"United States of America",
+    "Region":"Centeral North America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.8741,42.8858 ]
+    },
+    "properties": {
+    "PlaceName":"Buffalo",
+    "PlaceNameModern":"Buffalo, New York",
+    "NameOfTraveler":"Gideon M. Davison",
+    "YearOfTravel":1834,
+    "Description":"It is situated at the outlet of Lake Erie. It is a beautiful and thriving town, and with the advantages of both a natural and artificial navigation, is destined to become one of the most important places in the state. Its present population is estimated at upwards of 12,-000, and the number of buildings at rising of 2000. The Erie canal commences in this village, near the outlet of the Buffalo creek, and passes through an extensive and perfectly level plot, equidistant from the shore of the lake and the high grounds called the Terrace. From the canal are cut, at very suitable distances, lateral canals and basins, rendering the whole of the lower town contiguous to water communication. Stores and warehouses are so constructed as to receive the boats along side. In its location, Biiffalo is in the midst of the enterprize and business of this new world. All the manufactures and migrating population from the north and east here find a resting place, and the agricultural products of the west, coming from the long extended lakes, here seek a new avenue to the Atlantic, The lower town is rapidly spreading over that part below the Terrace, where begins a gentle and equal rise of ground, continuing nearly and perhaps quite two miles, and then falls away to a perfect level as far as the eye can reach, bounded only by the horizon. Upon this elevated ground there is a charming view of the lake, Niagara river, the canal with all its branches, the Buffalo creek, the town itself, and the Canada shore; a prospect from which every one parts with reluctance. The streets are very broad, and passing from high grounds over the Terrace to the water, are intersected with cross streets. There are three public squares of some extent, which add much to the beauty of the town. The public buildings are a court-house, situated on the highest part of Main-street, well proportioned and handsomely ornamented. The large park in front of it, which has been recently enclosed and set round with forest trees, will in a short time add much to the beauty of this part of the town.",
+    "Citation":"Gideon M. Davison, The Traveller's Guide through the Middle and Northern States, and the Provinces of Canada (Saratoga Springs: G. M. Davison and G. & C. & H. Carvill, 1834), 255-6.",
+    "Hyperlink":"https://tile.loc.gov/storage-services/public/gdcmassbookdig/travellersguidet00davis/travellersguidet00davis_djvu.txt",
+    "Country":"United States of America",
+    "Region":"Eastern Coast",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.0933,32.0651 ]
+    },
+    "properties": {
+    "PlaceName":"Savannah",
+    "PlaceNameModern":"Savannah, Georgia",
+    "NameOfTraveler":"Gideon M. Davison",
+    "YearOfTravel":1834,
+    "Description":"Savannah, the principal city in the state of Georgia, is located on the south-west bank of the Savannah river, about 17 miles from the bar at its mouth. The city is built on elevated ground, and exhibits a beautiful appearance from the water; its tall spires and other public buildings, with the groves of trees planted along its streets, giving it an air of peculiar fascination. The streets are wide and regularly laid out, and the buildings, together with the public squares, of which there are ten, exhibit much taste and elegance. Of the public buildings, the city contains a court house, jail, hospital, theatre, exchange, a public library, 3 banks, and 10 churches. The Presbyterian church is an elegant and spacious edifice of stone. The Exchange is a large building, 5 stories high. The academy, partly of brick, \nand partly of stone, is 180 feet front, 60 feet wide, and 3 stories high. Savannah is by far the most important commercial town in Georgia, and is the great mart of the cotton planters for an extensive and well settled region of country. Steam boats ply regularly between \nSavannah and Charleston, distance 110 miles...",
+    "Citation":"Gideon M. Davison, The Traveller's Guide through the Middle and Northern States, and the Provinces of Canada (Saratoga Springs: G. M. Davison and G. & C. & H. Carvill, 1834), 19.",
+    "Hyperlink":"https://tile.loc.gov/storage-services/public/gdcmassbookdig/travellersguidet00davis/travellersguidet00davis_djvu.txt",
+    "Country":"United States of America",
+    "Region":"Eastern Coast",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.9418,32.7935 ]
+    },
+    "properties": {
+    "PlaceName":"Charleston",
+    "PlaceNameModern":"Charleston, South Carolina",
+    "NameOfTraveler":"Gideon M. Davison",
+    "YearOfTravel":1834,
+    "Description":"The metropolis of South Carolina, is alike distinguished for the opulence and hospitality of its inhabitants. On entering the city from the bay, an interesting prospect is presented. The glittering spires of its public edifices are well calculated to give animation to the scene. Some of its streets are extremely beautiful, and many of the houses are truly elegant. Orange trees, in the early part of the season, laden with fruit, and peech trees clothed with blossoms, meet the eye of the traveller, and united with the climate of the country at that time, render Charleston one of the most attractive cities in the union. The society is refined, intelligent, frank and affable. The city was founded and made the seat of government of the state in 1680. It stands on a dead level with the sea, two noble rivers, the Ashley and the Cooper, enclosing it on a wide peninsula called the Neck. Most of the houses contain a piazza, extending from the ground to the top, giving to the rooms in each story a shady open walk. Except in the commercial parts of the town, the houses, which are mostly painted white, are generally surrounded with gardens, trees and shrubbery, giving to them a pecuharly romantie [sic] and rich appearance.",
+    "Citation":"Gideon M. Davison, The Traveller's Guide through the Middle and Northern States, and the Provinces of Canada (Saratoga Springs: G. M. Davison and G. & C. & H. Carvill, 1834), 21.",
+    "Hyperlink":"https://tile.loc.gov/storage-services/public/gdcmassbookdig/travellersguidet00davis/travellersguidet00davis_djvu.txt",
+    "Country":"United States of America",
+    "Region":"Eastern Coast",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0061,40.719 ]
+    },
+    "properties": {
+    "PlaceName":"New York City",
+    "PlaceNameModern":"New York City, New York",
+    "NameOfTraveler":"James H. Booty",
+    "YearOfTravel":1859,
+    "Description":"There is comparatively little difficulty in finding your way about New York, or, indeed most American towns, except in the old parts thereof, which are as full of twists and turns as our own. The newer part of the City is divided into Avenues running nearly parallel with the\nHudson River, the streets cross them at right angles, and both are simply numbered; the masses of buildings which these sections form are very nearly uniform in area, and are termed blocks. The principal thoroughfare is “Broadway”, which may be said to bisect New York\nlongitudinally, it is nearly three miles in length, but the width is not so great as I had imagined. The great place for lounging, or “loafing”, as they term it—is Broadway and here on a fine afternoon you will see some of the neatest feet, some of the prettiest hands, and\nsome of the brightest eyes, and also some of the sweetest smiles that any one would ever wish to behold; had they but good figures, the picture would be complete; they dress with Parisian perfection, and in short they are considered the veriest little ducks in the world.\nI am sure the reader will not be surprised when I mention the fact, that “loafing” up and down Broadway is a favourite occupation with the young men who have leisure hours to spare....I must now say a few words respecting the state of the streets; the paving, except in\nBroadway, is not equal to that in the City of London, and doubtless New York is infinitely dirtier than London; I must certainly say it is not so clean as it should be, considering that the sum nominally spent in cleansing the streets, amounts to nearly £60,000 a year.",
+    "Citation":"James H. Booty, Three Months in Canada and the United States (London: James H. Booty, 1862), 8-11.",
+    "Hyperlink":"https://tile.loc.gov/storage-services/service/gdc/lhbtn/22603/22603.pdf",
+    "Country":"United States of America",
+    "Region":"Eastern Coast",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.167,39.9377 ]
+    },
+    "properties": {
+    "PlaceName":"Philadelphia",
+    "PlaceNameModern":"Philadelphia, Pennsylvania",
+    "NameOfTraveler":"James H. Booty",
+    "YearOfTravel":1859,
+    "Description":"Philadelphia is in extent and population, the second city in the Union. It was settled in 1682 by a colony of English Quakers, Under the guidance of William Penn. The soubriquet of the City of Brotherly Love, which it now bears, was given to it by Penn himself. This city lies between the Delaware and Schuylkill rivers, six miles above their junction; the site however is so low and level, that it does not make a very impressive appearance from any approach. But the elegance, symmetry, and neatness of its streets, and the picturesque character of the higher suburban land to the northward, fully compensate for this want. The streets of Philadelphia, which run north and south from the Schuylkill to the Delaware, are named after the trees, a row whereof grow on each side; but whether from a poetic spirit, or to aid the memory, some of the names are changed, that the following couplet, embracing the eight principal ones, may form a handy guide to the stranger or the resident...The United States Mint is situated in Philadelphia, and there is also a Navy Yard. Many of the bank edifices are very elegant, built of marble and other materials. Churches, Art Societies, and Literary and Scientific Institutions abound in Philadelphia. This city, like many others in America, is liberally supplied with water. Magnificient basins are built in a natural mound at Fairmount, about two miles distant; the water is forced up into these basins from the river by powerful water-wheels, worked by the said river, which is dammed up for the purpose of obtaining sufficient fall, as the stream is sometimes very low.",
+    "Citation":"James H. Booty, Three Months in Canada and the United States (London: James H. Booty, 1862), 16-7.",
+    "Hyperlink":"https://tile.loc.gov/storage-services/service/gdc/lhbtn/22603/22603.pdf",
+    "Country":"United States of America",
+    "Region":"Eastern Coast",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6151,39.292 ]
+    },
+    "properties": {
+    "PlaceName":"Baltimore",
+    "PlaceNameModern":"Baltimore, Maryland",
+    "NameOfTraveler":"James H. Booty",
+    "YearOfTravel":1859,
+    "Description":"Today I left Philadelphia for the great commercial city of Baltimore. One of the chief attractions in this city, is a very splendid Monument erected to the memory of Washington; it is built of pure white marble, is 196 feet in height inclusive of the basement, and is surmounted by a colossal statue of the “pater patriæ”; it is said to be the chief among the structures of the kind. In several respects Baltimore deserves the name of a fine city. It possesses many elegant public buildings; its streets are wide, long, and full of life and activity.",
+    "Citation":"James H. Booty, Three Months in Canada and the United States (London: James H. Booty, 1862), 16-7.",
+    "Hyperlink":"https://tile.loc.gov/storage-services/service/gdc/lhbtn/22603/22603.pdf",
+    "Country":"United States of America",
+    "Region":"Eastern Coast",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.0036,38.8903 ]
+    },
+    "properties": {
+    "PlaceName":"Washington, D.C.",
+    "PlaceNameModern":"Washington, D.C.",
+    "NameOfTraveler":"James H. Booty",
+    "YearOfTravel":1859,
+    "Description":"Today I journeyed on by rail to Washington, the political capital of the United States. The principal object of attraction is the Capitol, which stands on a rising knoll, commanding an extensive panoramic view of the surrounding country. The building is on a grand scale, and faced with marble, which glittering in the sunbeams, gives it a very imposing appearance, which will be materially enhanced when the two wings are completed, the corner stone of which was laid in 1851. The Senate Chamber, and the Hall of Representatives of the Congress of the United States, are in the wings of the Capitol, on either side of the central building. The grand rotunda contains eight large pictures, illustrating scenes in American history, painted for the Government by native artists. The corner stone of this splendid structure was laid by Washington himself, Sept: 18th. 1793. The surrounding grounds, which are beautifully cultivated, and embellished by fountains and statuary, embrace from twenty five to thirty acres. The Presidents' Mansion is situated on a high terrace at the other extremity of the city, near which are the buildings of the Navy and War Departments, and also those of the State and Treasury Departments, the latter is a new and very imposing structure....The Capitol took much of my attention to day, and I was delighted with all\nthat I had the chance of seeing. Washington is delightfully situated on the banks of the Potomac River; the site of the city was chosen by Washington himself. The principal street is Pennsylvania Avenue, it is more than a mile in length, is very broad, and well planted\nwith trees.",
+    "Citation":"James H. Booty, Three Months in Canada and the United States (London: James H. Booty, 1862), 18-9.",
+    "Hyperlink":"https://tile.loc.gov/storage-services/service/gdc/lhbtn/22603/22603.pdf",
+    "Country":"United States of America",
+    "Region":"Eastern Coast",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.5138,39.1017 ]
+    },
+    "properties": {
+    "PlaceName":"Cincinnati",
+    "PlaceNameModern":"Cincinnati, Ohio",
+    "NameOfTraveler":"James H. Booty",
+    "YearOfTravel":1859,
+    "Description":"And now reader, I must give you some account of Cincinnati, or, as it is generally called, the “Queen City of the West”. It is the largest capital of the Mississippi region, and with its population of over 200,000, is the fifth in extent and importance in all the Union. Its central position on the Ohio River has made it a receiving and distributing depot for all the wide and rich country tributary to those great waters. The streets in this great city are mostly of good width, well paved, and well lighted with gas. Main street, the great business highway, is five and a half miles long, and is intersected at right angles by fourteen leading streets, named First, Second, and so on. Amongst the principal buildings is the Observatory, which has a beautiful position upon Mount Adams, in the eastern part of the city. It commands an extensive view of the Ohio, and of the surrounding country. There are a great number of Churches, and Schools in the city, and also several Benevolent Institutions. Cincinnati is distinguished for the culture of the grape, and it is chiefly owing to the perseverance of Mr. Longworth, that they have been so far successful in producing wine. I learnt that about fifty thousand gallons is made per year. The wine is called “Catawba”, and is made both still and sparkling.",
+    "Citation":"James H. Booty, Three Months in Canada and the United States (London: James H. Booty, 1862), 22-3.",
+    "Hyperlink":"https://tile.loc.gov/storage-services/service/gdc/lhbtn/22603/22603.pdf",
+    "Country":"United States of America",
+    "Region":"Centeral North America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.1112,37.1827 ]
+    },
+    "properties": {
+    "PlaceName":"Mammoth Cave",
+    "PlaceNameModern":"Mammoth Cave National Park, Kentucky",
+    "NameOfTraveler":"James H. Booty",
+    "YearOfTravel":1859,
+    "Description":"After having passed through a lovely and romantic dell, you make a descent of about thirty feet, and then you perceive a sudden and very evident decrease in the temperature, and you find yourself all at once fairly within the precincts of this nether world. The temperature of the cave is uniformly the same, both in summer and winter, viz 59 deg. Fahrenheit, remarkably dry, and of extraordinary salubrity, and hence considered highly beneficial for invalids. A short distance from the entrance you pass the remains of numerous Saltpetre Vats, as in 1814 immense quantities of Saltpetre were manufactured in the Cave, and although the manufacture has been stopped some long time, yet the quantity of nitrous earth still remaining is enormous. The first object of interest is the “Great Vestibule”, this vast chamber has one single unsupported arch, covering an area of one and a half acres of ground. The lofty roof, a hundred feet above your head, becomes at length dimly seen; a glimpse is obtained of its enormous dome, with great groined arches and lofty buttresses formed of stalactitic rock. A little further on we come to “Audubon's Avenue”, which extends for about half a mile, but presents nothing of very special interest; we then pass through the main Cave for another half mile, when we reach the “Kentucky Cliff's”, so called from a fancied resemblance to the Cliffs on the Kentucky River: then making a descent of about forty feet, we enter the “Church”. This is a grand apartment, a hundred feet in diameter, with a roof formed of one solid seamless rock suspended seventy feet overhead. Religious services have been performed in the dim religious light of torches, under this magnificent roof. The “Gothic Avenue” is next reached, it is forty feet high and thirty wide, and is nearly two miles in length.",
+    "Citation":"James H. Booty, Three Months in Canada and the United States (London: James H. Booty, 1862), 32-4.",
+    "Hyperlink":"https://tile.loc.gov/storage-services/service/gdc/lhbtn/22603/22603.pdf",
+    "Country":"United States of America",
+    "Region":"Centeral North America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.1971,38.6289 ]
+    },
+    "properties": {
+    "PlaceName":"Saint Louis",
+    "PlaceNameModern":"Saint Louis, Missouri",
+    "NameOfTraveler":"James H. Booty",
+    "YearOfTravel":1859,
+    "Description":"St Louis lies upon the right bank af the Mississippi river; it is twelve hundred miles above the city of New Orleans. As early as 1764 St Louis was settled as a trading station for the trappers of the West; four years after it passed from the French into the hands of the Spaniards, who kept possession until it was transferred to the United States in 1804. The rapid increase of St Louis is almost as extraordinary as that of Cincinnati, and perhaps more so, when it is considered, not only that it is further west by hundreds of miles, but that it has to contend with the overflowing of the Mississippi, which has, on more than one occasion, risen to the first floor of the houses and stores built on the edge of the levee; fortunately, the greater part of the town, being built on higher ground, escapes the ruinous periodical inundations. In 1830 the population was under seven thousand, since which date the city has so rapidly increased, that in 1852 its population was bordering on 100,000. The natives of the United States form about one-half of the community, and those of Germany one-fourth; the remainder are chiefly Irish. The public edifices of St Louis, in its municipal buildings, churches, market-houses, and charitable institutions, are certainly creditable to the enterprise of the people. There are about forty churches, one fourth of which are Roman Catholic, many of them are very imposing. There are numerous manufacturing establishments in the city, amongst which flour-mills, and sugar refineries rank the foremost.",
+    "Citation":"James H. Booty, Three Months in Canada and the United States (London: James H. Booty, 1862), 43-4.",
+    "Hyperlink":"https://tile.loc.gov/storage-services/service/gdc/lhbtn/22603/22603.pdf",
+    "Country":"United States of America",
+    "Region":"Centeral North America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.6286,41.8793 ]
+    },
+    "properties": {
+    "PlaceName":"Chicago",
+    "PlaceNameModern":"Chicago, Illinois",
+    "NameOfTraveler":"James H. Booty",
+    "YearOfTravel":1859,
+    "Description":"Today I amused myself by seeing over Chicago. This is the largest and most important city in Illinois, and in its rapid growth, the most remarkable in the Union. In 1831 it was only an Indian trading post, and as late as 1840 its population did not number 5000, while in 1857 it scarcely fell short of 160,000. The city is on the southern shore of Lake Michigan; the site is an extremely level plain, stretching away for miles in beautiful and fertile prairies. It is divided into three portions by the two branches of the Chicago River, which unite within a mile of the lake. The Michigan and the Wabash Avenues—the one on the lake shore and the other next behind—are noble thoroughfares, in their extent, their architecture, and, more especially, in their fine lines of noble trees; I enjoyed a walk in the afternoon in these beautiful Avenues. The most striking of the public edifices are the Merchants' Exchange and the Court House; I ascended to the summit of the latter and was well repaid for the trouble by the beautiful view of the city and the surrounding country. While I was in Chicago great and ruinous competition was being carried on by the Railway Companies running between that city and New York, (a distance of nearly a thousand miles); tickets were to be had to convey passengers the aforesaid distance for 12 dollars, and this went on for a fortnight....Chicago boasts of numerous very fine buildings, many of the “Stores” rivalling in extent and build with those in New York. It is wonderful to think of the surprising growth of this Western City, and the next few years (by which time they will have completed the improvement in the streets) will doubtless effect still greater strides in this enterprising place.",
+    "Citation":"James H. Booty, Three Months in Canada and the United States (London: James H. Booty, 1862), 55-7.",
+    "Hyperlink":"https://tile.loc.gov/storage-services/service/gdc/lhbtn/22603/22603.pdf",
+    "Country":"United States of America",
+    "Region":"Centeral North America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.0816,43.0818 ]
+    },
+    "properties": {
+    "PlaceName":"Niagara Falls",
+    "PlaceNameModern":"Niagara Falls, Ontario",
+    "NameOfTraveler":"James H. Booty",
+    "YearOfTravel":1859,
+    "Description":"After the first feelings of mingled awe and delight were over, I began in some degree to realise the sublimity of the scene. What overcomes the visitor at first is the continual roar of the mass of mighty waters, it is perfectly deafening, but as soon as the ear becomes\naccustomed to it, they descend with a lulling and soothing sound. The noise of the Falls is sometimes heard at a very great distance, but of course it is constantly modified by the direction and strength of the wind. The great Lakes of North America—Superior, Michigan, Huron and Erie—pour the flood of their accumulated waters into Lake Ontario, through a channel of about 36 miles in length. This channel is named the Niagara River, and is part of the boundary between Canada and the State of New York. Twenty two miles below its commencement at Lake Erie occur these celebrated Falls of Niagara. These Falls are divided into two by Goat Island. The Canadian or Horse-Shoe Fall is in reality Niagara itself, it is 2000 feet wide, and 160 feet high. The American Falls are 900 feet wide, and about 160 feet high, stupendous as they are, they must be considered no more than an offshoot from the main cataract. Over this magnificent precipice it is said the irresistible tide rushes at the rate of a hundred million tons of water every hour! Niagara, according to the testimony of all who dwell near it, is never more beautiful than in the cold midwinter, when no tourists visit it, and when the sides of the chasm are corrugated and adorned with pillars and stalactites of silvery frost; and when huge blocks of ice from Lake Erie, weighing hundreds of tons, are hurled down the Rapids and over the Falls, as if they were of no greater specific gravity than feathers or human bodies, and reappear half a mile lower down the river, shivered to numberless fragments. It is a tradition of Niagara that, in 1822 or 1823, such a thick wall of ice was formed above Goat Island that no water flowed past for several hours, and that in the interval the precipice at the Horse Shoe Fall was perfectly bare and dry. A picture of the scene, painted at the time, is still in existence.",
+    "Citation":"James H. Booty, Three Months in Canada and the United States (London: James H. Booty, 1862), 61-3.",
+    "Hyperlink":"https://tile.loc.gov/storage-services/service/gdc/lhbtn/22603/22603.pdf",
+    "Country":"Canada",
+    "Region":"Eastern Coast",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.5755,45.4955 ]
+    },
+    "properties": {
+    "PlaceName":"Montreal",
+    "PlaceNameModern":"Montreal, Quebec",
+    "NameOfTraveler":"James H. Booty",
+    "YearOfTravel":1859,
+    "Description":"It is one of the most ancient cities on the North American Continent, having been founded in 1642. It contains a population of 75,000. It is not only a beautiful but a solidly-built city, and wears a general air and aspect of strength befitting the climate. By the French Roman Catholics, who form nearly one half of the population, it is called affectionately the Ville Marie, or town of the Virgin Mary; the names of its principal streets, derived from those of the Saints in the Romish Calendar, testify alike to the fervency and to the faith of its founders. The quays of Montreal are unsurpassed by those of any city in America; built of solid limestone, and uniting with the locks and cut stone wharves of the Lachine Canal, they display for several miles a mass of continuous masonry. Unlike the towns of the Ohio and the Mississippi, no unsightly warehouses disfigure the river side. A broad terrace, faced with gray limestone, the parapets of which are surmounted with a substantial iron railing, divides the city from the river throughout its whole length. Amongst the public buildings, the most remarkable is the Roman Catholic Cathedral; of the vastness of the interior of this edifice, an idea may be formed from the fact that it is capable of accommodating nearly 12,000 persons. The view from the summit of its towers, one of which I ascended embracing the city and its suburbs, the river, and the surrounding country—is exceedingly beautiful. Other elegant public edifices claim the attention of the visitor, also numerous banks, nunneries, and churches: all of these buildings are erected in a most durable manner.",
+    "Citation":"James H. Booty, Three Months in Canada and the United States (London: James H. Booty, 1862), 71-2.",
+    "Hyperlink":"https://tile.loc.gov/storage-services/service/gdc/lhbtn/22603/22603.pdf",
+    "Country":"Canada",
+    "Region":"Eastern Coast",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.2218,46.8101 ]
+    },
+    "properties": {
+    "PlaceName":"Quebec",
+    "PlaceNameModern":"Québec City, Quebec",
+    "NameOfTraveler":"James H. Booty",
+    "YearOfTravel":1859,
+    "Description":"Quebec is the capital of United Canada, and after Montreal, the most populous city in British North America; it is the quaintest and most remarkable city in the New World—picturesque as Edinburgh and strong as Gibraltar. Everybody who has seen or read of Quebec must remember the magnificent towering rock overhanging the river, on the summit of which the citadel is placed, forming at once the chief stronghold of its defence, and the grandest feature of its scenery. The city is divided into two sections, called the Upper and the Lower Towns; the Upper Town occupying the highest part of the promontory, which is surrounded by strong walls and other fortifications; and the Lower Town, being built around the base of Cape Diamond. The latter is the business quarter. I had not been many hours in Quebec before I stood at the wall of the citadel, overlooking the river from a dizzy height of 300 feet—the standard of Great Britain floating over my head; the red-coated soldiers of my native land pacing their rounds, and suggesting, by their general appearance, the dear old country, from which I was separated by so many thousand miles of ocean; and on the soil of whose noble colony I stood, and felt that I was no longer a “foreigner”, as I was sometimes reminded when in the United States. The Citadel with its numerous buildings covers about 40 acres; its impregnable position makes it perhaps the strongest fortresa on the American Continent. The view from the citadel is most lovely, taking in, as it does, the opposite banks of the great river for nearly 50 miles up and down. I heard it said, that a gentleman once remarked, that the only scene he knew more glorious than that which meets the eye from the citadel at Quebec was Rio Janeiro, which he believed to be by far the grandest in the world; but the Rio lacks the associations of Quebec. Who could forget that beneath its walls two chieftains, the bravest of the brave, fell on the same battle field.",
+    "Citation":"James H. Booty, Three Months in Canada and the United States (London: James H. Booty, 1862), 75-6.",
+    "Hyperlink":"https://tile.loc.gov/storage-services/service/gdc/lhbtn/22603/22603.pdf",
+    "Country":"Canada",
+    "Region":"Eastern Coast",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -23.0418,16.53879 ]
+    },
+    "properties": {
+    "PlaceName":"Cape Verde islands",
+    "PlaceNameModern":"Cape Verde",
+    "NameOfTraveler":"Vasco da Gama",
+    "YearOfTravel":1497,
+    "Description":"During the following night, at break of day [July 16] we made the Terra Alta, where we fished for a couple of hours, and in the evening, at dusk, we were off the Rio do Ouro. \n\nThe fog during the night grew so dense that Paulo da Gama lost sight of the captain-major, and when day broke [July 17] we saw neither him nor the other vessels. We therefore made sail for the Cape Verde islands, as we had been instructed to do in case of becoming separated.",
+    "Citation":"Vasco De Gama, A Journal of the First Voyage of Vasco Da Gama 1497-1499, trans. Ernest Georg Ravenstein, Hakluyt Society (New York: Burt Franklin, 1898),",
+    "Hyperlink":"https://www.gutenberg.org/ebooks/46441",
+    "Country":"Cape Verde",
+    "Region":"Atlantic",
+    "Continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -22.92971,16.72661 ]
+    },
+    "properties": {
+    "PlaceName":"Ilha do Sal",
+    "PlaceNameModern":"Cape Verde",
+    "NameOfTraveler":"Vasco da Gama",
+    "YearOfTravel":1497,
+    "Description":"On the following Saturday, [July 22], at break of day, we sighted the Ilha do Sal, and an hour afterwards discovered three vessels, which turned out to be the store-ship, and the vessels commanded by Nicolau Coelho and Bartholameu Diz [Dias], the last of whom sailed in our company as far as the Mine. They, too, had lost sight of the captain-major. Having joined company we pursued our route, but the wind fell, and we were becalmed until Wednesday [July 26]. At ten o’clock on that day we sighted the captain-major, about five leagues ahead of us, and having got speech with him in the evening we gave expression to our joy by many times firing off our bombards and sounding the trumpets.",
+    "Citation":"Vasco De Gama, A Journal of the First Voyage of Vasco Da Gama 1497-1499, trans. Ernest Georg Ravenstein, Hakluyt Society (New York: Burt Franklin, 1898),",
+    "Hyperlink":"https://www.gutenberg.org/ebooks/46442",
+    "Country":"Cape Verde",
+    "Region":"Atlantic",
+    "Continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.00355,-32.75054 ]
+    },
+    "properties": {
+    "PlaceName":"Santa Helena",
+    "PlaceNameModern":"South Africa",
+    "NameOfTraveler":"Vasco da Gama",
+    "YearOfTravel":1497,
+    "Description":"On Tuesday [November 7] we returned to the land, which we found to be low, with a broad bay opening into it. The captain-major sent Pero d’Alenquer in a boat to take soundings and to search for good anchoring ground. The bay was found to be very clean, and to afford shelter against all winds except those from the N.W. It extended east and west, and we named it Santa Helena.\n\nOn Wednesday [November 8] we cast anchor in this bay, and we remained there eight days, cleaning the ships, mending the sails, and taking in wood.\n\nThe river Samtiagua [S. Thiago] enters the bay four 6 leagues to the S.E. of the anchorage. It comes from the interior (sertão), is about a stone’s throw across at the mouth, and from two to three fathoms in depth at all states of the tide.\n\n[Text goes on about local inhabitants and animals.]",
+    "Citation":"Vasco De Gama, A Journal of the First Voyage of Vasco Da Gama 1497-1499, trans. Ernest Georg Ravenstein, Hakluyt Society (New York: Burt Franklin, 1898),",
+    "Hyperlink":"https://www.gutenberg.org/ebooks/46443",
+    "Country":"South Africa",
+    "Region":"Southern Africa",
+    "Continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.47398,-34.35684 ]
+    },
+    "properties": {
+    "PlaceName":"Cape of Good Hope",
+    "PlaceNameModern":"South Africa",
+    "NameOfTraveler":"Vasco da Gama",
+    "YearOfTravel":1497,
+    "Description":"At daybreak of Thursday the 16th of November, having careened our ships and taken in wood, we set sail. At that time we did not know how far we might be abaft the Cape of Good Hope. Pero d’Alenquer thought the distance about thirty leagues, but he was not certain, for on his return voyage [when with B. Dias] he had left the Cape in the morning and had gone past this bay with the wind astern, whilst on the outward voyage he had kept at sea, and was therefore unable to identify the locality where we now were. We therefore stood out towards the S.S.W. and late on Saturday [November 18] we beheld the Cape. On that same day we again stood out to sea, returning to the land in the course of the night. On Sunday morning, November 19, we once more made for the Cape, but were again unable to round it, for the wind blew from the S.S.W., whilst the Cape juts out towards the S.W. We then again stood out to sea, returning to the land on Monday night. At last, on Wednesday [November 22], at noon, having the wind astern, we succeeded in doubling the Cape, and then ran along the coast.\n\nTo the south of this Cape of Good Hope, and close to it, a vast bay, six leagues broad at its mouth, enters about six leagues into the land.",
+    "Citation":"Vasco De Gama, A Journal of the First Voyage of Vasco Da Gama 1497-1499, trans. Ernest Georg Ravenstein, Hakluyt Society (New York: Burt Franklin, 1898),",
+    "Hyperlink":"https://www.gutenberg.org/ebooks/46444",
+    "Country":"South Africa",
+    "Region":"Southern Africa",
+    "Continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.0834,-34.17473 ]
+    },
+    "properties": {
+    "PlaceName":"“Seal” Islan",
+    "PlaceNameModern":"South Africa",
+    "NameOfTraveler":"Vasco da Gama",
+    "YearOfTravel":1497,
+    "Description":"Late on Saturday, November 25, the day of St. Catherine’s, we entered the bay (angra) of Sam Brás, where we remained for thirteen days, for there we broke up our store-ship and transferred her contents to the other vessels.\n[...]\nThere is an island in this bay, three bowshots from the land, where there are many seals. Some of these are as big as bears, very formidable, with large tusks. These attack man, and no spear, whatever the force with which it is thrown, can wound them. There are others much smaller and others quite small. And whilst the big ones roar like lions, the little ones cry like goats. One day, when we approached this island for our amusement, we counted, among large and small ones, three thousand, and we fired among them with our bombards from the sea. On the same island there are birds as big as ducks, but they cannot fly, because they have no feathers on their wings. These birds, of whom we killed as many as we chose, are called Fotylicayos, and they bray like asses.\n\nOn Friday [December 1], whilst still in the bay of Sam Brás, about ninety men resembling those we had met at St. Helena Bay made their appearance. Some of them walked along the beach, whilst others remained upon the hills.",
+    "Citation":"Vasco De Gama, A Journal of the First Voyage of Vasco Da Gama 1497-1499, trans. Ernest Georg Ravenstein, Hakluyt Society (New York: Burt Franklin, 1898), 13.",
+    "Hyperlink":"https://www.gutenberg.org/ebooks/46445",
+    "Country":"South Africa",
+    "Region":"Southern Africa",
+    "Continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.38267,-23.86621 ]
+    },
+    "properties": {
+    "PlaceName":"Terra da Boa Gente",
+    "PlaceNameModern":"Mozambique",
+    "NameOfTraveler":"Vasco da Gama",
+    "YearOfTravel":1497,
+    "Description":"We stayed five days at this place, taking in water, which our visitors conveyed to our boats. Our stay was not, however, sufficiently prolonged to enable us to take in as much water as we really needed, for the wind favoured a prosecution of our voyage.\n\nWe were at anchor here, near the coast, exposed to the swell of the sea. We called the country Terra da Boa Gente (land of good people), and the river Rio do Cobre (copper river).",
+    "Citation":"Vasco De Gama, A Journal of the First Voyage of Vasco Da Gama 1497-1499, trans. Ernest Georg Ravenstein, Hakluyt Society (New York: Burt Franklin, 1898), 18.",
+    "Hyperlink":"https://www.gutenberg.org/ebooks/46446",
+    "Country":"Mozambique",
+    "Region":"Southern Africa",
+    "Continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9764,-18.03306 ]
+    },
+    "properties": {
+    "PlaceName":"Rio dos Bons Signaes",
+    "PlaceNameModern":"Mozambique",
+    "NameOfTraveler":"Vasco da Gama",
+    "YearOfTravel":1498,
+    "Description":"On Monday [January 22] we discovered a low coast thickly wooded with tall trees. Continuing our course we perceived the broad mouth of a river. As it was necessary to find out where we were, we cast anchor. On Thursday [January 25], at night, we entered. The Berrio was already there, having entered the night before—that is eight days before the end of January [i.e., January 24.]\n\nThe country is low and marshy, and covered with tall trees yielding an abundance of various fruits, which the inhabitants eat.",
+    "Citation":"Vasco De Gama, A Journal of the First Voyage of Vasco Da Gama 1497-1499, trans. Ernest Georg Ravenstein, Hakluyt Society (New York: Burt Franklin, 1898), 19-20.",
+    "Hyperlink":"https://www.gutenberg.org/ebooks/46447",
+    "Country":"Mozambique",
+    "Region":"Southern Africa",
+    "Continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.98471,-18.03371 ]
+    },
+    "properties": {
+    "PlaceName":"Quelimane River",
+    "PlaceNameModern":"Mozambique",
+    "NameOfTraveler":"Vasco da Gama",
+    "YearOfTravel":1498,
+    "Description":"On Saturday [February 24] we left this place and gained the open sea. During the night we stood N.E., so as to keep away from the land, which was very pleasing to look upon. On Sunday [February 25] we still stood N.E., and at vesper time discovered three small islands, out in the open, of which two were covered with tall trees, while the third and smallest was barren. The distance from one island to the other was four leagues.\n\nOn the following day we pursued our route, and did so during six days, lying to at night.\n\nOn Thursday, the 1st of March, we sighted islands and the mainland, but as it was late we again stood out to sea, and lay to till morning. We then approached the land, of which I shall speak in what follows.",
+    "Citation":"Vasco De Gama, A Journal of the First Voyage of Vasco Da Gama 1497-1499, trans. Ernest Georg Ravenstein, Hakluyt Society (New York: Burt Franklin, 1898), 21-22.",
+    "Hyperlink":"https://www.gutenberg.org/ebooks/46448",
+    "Country":"Mozambique",
+    "Region":"Southern Africa",
+    "Continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.6682,-4.04347 ]
+    },
+    "properties": {
+    "PlaceName":"Mombaça",
+    "PlaceNameModern":"Kenya",
+    "NameOfTraveler":"Vasco da Gama",
+    "YearOfTravel":1498,
+    "Description":"Mombaça is a large city seated upon an eminence washed by the sea. Its port is entered daily by numerous vessels. At its entrance stands a pillar, and by the sea a low-lying fortress. Those who had gone on shore told us that in the town they had seen many men in irons; and it seemed to us that these must be Christians, as the Christians in that country are at war with the Moors.\n\nThe Christian merchants in the town are only temporary residents, and are held in much subjection, they not being allowed to do anything except by the order of the Moorish King.",
+    "Citation":"Vasco De Gama, A Journal of the First Voyage of Vasco Da Gama 1497-1499, trans. Ernest Georg Ravenstein, Hakluyt Society (New York: Burt Franklin, 1898), 39-40.",
+    "Hyperlink":"https://www.gutenberg.org/ebooks/46451",
+    "Country":"Kenya",
+    "Region":"Eastern Africa",
+    "Continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.1169,-3.21918 ]
+    },
+    "properties": {
+    "PlaceName":"Malindi",
+    "PlaceNameModern":"Kenya",
+    "NameOfTraveler":"Vasco da Gama",
+    "YearOfTravel":1498,
+    "Description":"Consequently, on Tuesday [April 17] we approached nearer to the town. The king sent the captain-major six sheep, besides quantities of cloves, cumin, ginger, nutmeg and pepper, as also a message, telling him that if he desired to have an interview with him he (the king) would come out in his zavra, when the captain-major could meet him in a boat.\n\n[...]\n\nThe town of Malindi lies in a bay and extends along the shore. It may be likened to Alcouchette.134 Its houses are lofty and well white-washed, and have many windows; on the landside are palm-groves, and all around it maize and vegetables are being cultivated.",
+    "Citation":"Vasco De Gama, A Journal of the First Voyage of Vasco Da Gama 1497-1499, trans. Ernest Georg Ravenstein, Hakluyt Society (New York: Burt Franklin, 1898), 40-41 46.",
+    "Hyperlink":"https://www.gutenberg.org/ebooks/46454",
+    "Country":"Kenya",
+    "Region":"Eastern Africa",
+    "Continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 64.33717,12.25015 ]
+    },
+    "properties": {
+    "PlaceName":"Arabian Sea",
+    "PlaceNameModern":"",
+    "NameOfTraveler":"Vasco da Gama",
+    "YearOfTravel":1498,
+    "Description":"We left Malindi on Tuesday, the 24th of the month [of April] for a city called Qualecut [Calecut], with the pilot whom the king had given us. The coast there runs north and south, and the land encloses a huge bay with a strait. 47In this bay,136 we were told, were to be found many large cities of Christians and Moors, including one called Quambay [Cambay], as also six-hundred known islands, and within it the Red Sea and the “house” [Kaabah] of Mecca.\n\nOn the following Sunday [April 29] we once more saw the North Star, which we had not seen for a long time.\n\nOn Friday, the 18th of May,after having seen no land for twenty-three days, we sighted lofty mountains, and having all this time sailed before the wind we could not have made less than 600 leagues. The land, when first sighted, was at a distance of eight leagues, and our lead reached bottom at forty-five fathoms. That same night we took a course to the S.S.W., so as to get away from the coast. On the following day [May 19] we again approached the land, but owing to the heavy rain and a thunderstorm, which prevailed whilst we were sailing along the coast, our pilot was unable to identify the exact locality. On Sunday [May 20] we found ourselves close to some mountains, and when we were near enough for the pilot to recognise them he told us that they were above Calecut, and that this was the country we desired to go to.",
+    "Citation":"Vasco De Gama, A Journal of the First Voyage of Vasco Da Gama 1497-1499, trans. Ernest Georg Ravenstein, Hakluyt Society (New York: Burt Franklin, 1898), 46-48.",
+    "Hyperlink":"https://www.gutenberg.org/ebooks/46455",
+    "Country":"",
+    "Region":"",
+    "Continent":"Africa, Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.78041,11.25875 ]
+    },
+    "properties": {
+    "PlaceName":"Calecut",
+    "PlaceNameModern":"India",
+    "NameOfTraveler":"Vasco da Gama",
+    "YearOfTravel":1498,
+    "Description":"[A description of Calecut.] The city of Calecut is inhabited by Christians. They are of a tawny complexion. Some of them have big beards and long hair, whilst others clip their hair short or shave the head, merely allowing a tuft to remain on the crown as a sign that they are Christians. They also wear moustaches. They pierce the ears and wear much gold in them. They go naked down to the waist, covering their lower extremities with very fine cotton stuffs. But it is only the most respectable who do this, for the others manage as best they are able.\n\n[...]\n\n[Christian Church.] When we arrived [at Calecut] they took us to a large church, and this is what we saw:—\n\nThe body of the church is as large as a monastery, all built of hewn stone and covered with tiles. At the main entrance rises a pillar of bronze as high as a mast, on the top of which was perched a bird, apparently a cock. In addition to this, there was another pillar as high as a man, and very stout. In the centre of the body of the church rose a chapel, all built of hewn stone, with a bronze door sufficiently wide for a man to pass, and stone steps leading up to it. Within this sanctuary stood a small image which they said represented Our Lady. Along the walls, by the main entrance, hung seven small bells. In this church the captain-major said his prayers, and we with him.\n\nWe did not go within the chapel, for it is the custom that only certain servants of the church, called quafees,161 should enter. These quafees wore some threads passing over the left shoulder and under the right arm, in the same manner as our deacons wear the stole. They threw holy water over us, and gave us some white earth, which the Christians of this country are in the habit of putting on their foreheads, breasts, around the neck, and on the forearms. They threw holy water upon the captain-major and gave him some of the earth, which he gave in charge of someone, giving them to understand that he would put it on later.\n\nMany other saints were painted on the walls of the church, wearing crowns. They were painted variously, with teeth protruding an inch from the mouth, and four or five arms.\n\nBelow this church there was a large masonry tank, similar to many others which we had seen along the road.\n\n[...]\n\n[Progress through the Town.] After we had left that place, and had arrived at the entrance to the city [of Calecut] we were shown another church, where we saw things like those described above. Here the crowd grew so dense that progress along the street became next to impossible, and for this reason they put the captain into a house, and us with him.\n\nThe king sent a brother of the bale, who was a lord of this country, to accompany the captain, and he was attended by men beating drums, blowing anafils and bagpipes, and firing off matchlocks. In conducting the captain they showed us much respect, more than is shown in Spain to a king. The number of people was countless, for in addition to those who surrounded us, and among whom there were two thousand armed men, they crowded the roofs and houses.",
+    "Citation":"Vasco De Gama, A Journal of the First Voyage of Vasco Da Gama 1497-1499, trans. Ernest Georg Ravenstein, Hakluyt Society (New York: Burt Franklin, 1898), 52-55/",
+    "Hyperlink":"https://www.gutenberg.org/ebooks/46456",
+    "Country":"India",
+    "Region":"Southern Asia",
+    "Continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.78041,11.25875 ]
+    },
+    "properties": {
+    "PlaceName":"Calecut",
+    "PlaceNameModern":"India",
+    "NameOfTraveler":"Vasco da Gama",
+    "YearOfTravel":1498,
+    "Description":"[The King’s Palace.] The further we advanced in the direction of the king’s palace, the more did they increase in number. And when we arrived there, men of much distinction and great lords came out to meet the captain, and joined those who were already in attendance upon him. It was then an hour before sunset. When we reached the palace we passed through a gate into a courtyard of great size, and before we arrived at where the king was, we passed four doors, through which we had to force our way, giving many blows to the people. When, at last, we reached the door where the king was, there came forth from it a little old man, who holds a position resembling that of a bishop, and whose advice the king acts upon in all affairs of the church. This man embraced the captain when he entered the door. Several men were wounded at this door, and we only got in by the use of much force.\n\n[A Royal Audience, May 28.] The king was in a small court, reclining upon a couch covered with a cloth of green velvet, above which was a good mattress, and upon this again a sheet of cotton stuff, very white and fine, more so than any linen. The cushions were after the same fashion. In his left hand the king held a very large golden cup [spittoon], having a capacity of half an almude [8 pints]. At its mouth this cup was two palmas [16 inches] wide, and apparently it was massive. Into this cup the king threw the husks of a certain herb which is chewed by the people of this country because of its soothing effects, and which they call atambor. On the right side of the king stood a basin of gold, so large that a man might just encircle it with his arms: this contained the herbs. There were likewise many silver jugs. The canopy above the couch was all gilt.",
+    "Citation":"Vasco De Gama, A Journal of the First Voyage of Vasco Da Gama 1497-1499, trans. Ernest Georg Ravenstein, Hakluyt Society (New York: Burt Franklin, 1898), 55-56.",
+    "Hyperlink":"https://www.gutenberg.org/ebooks/46457",
+    "Country":"India",
+    "Region":"Southern Asia",
+    "Continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.31816,2.04693 ]
+    },
+    "properties": {
+    "PlaceName":"Magadoxo",
+    "PlaceNameModern":"Somalia",
+    "NameOfTraveler":"Vasco da Gama",
+    "YearOfTravel":1499,
+    "Description":"We found ourselves off a large town, with houses of several stories, big palaces in its centre, and four towers around it. This town faced the sea, belonged to the Moors, and was called Magadoxo. When we were quite close to it we fired off many bombards, and continued along the coast with a fair wind. We went on thus during the day, but lay to at night, as we did not know how far we were from Milingue [Malindi] whither we wished to go.",
+    "Citation":"Vasco De Gama, A Journal of the First Voyage of Vasco Da Gama 1497-1499, trans. Ernest Georg Ravenstein, Hakluyt Society (New York: Burt Franklin, 1898), 88.",
+    "Hyperlink":"https://www.gutenberg.org/ebooks/46458",
+    "Country":"Somalia",
+    "Region":"Eastern Africa",
+    "Continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.6682,-4.04347 ]
+    },
+    "properties": {
+    "PlaceName":"Mombaça",
+    "PlaceNameModern":"Kenya",
+    "NameOfTraveler":"Vasco da Gama",
+    "YearOfTravel":1499,
+    "Description":"We left on Friday [January 11], in the morning, and on Saturday, which was the 12th of the month, we passed close to Mombaça.",
+    "Citation":"Vasco De Gama, A Journal of the First Voyage of Vasco Da Gama 1497-1499, trans. Ernest Georg Ravenstein, Hakluyt Society (New York: Burt Franklin, 1898), 91-92.",
+    "Hyperlink":"https://www.gutenberg.org/ebooks/46459",
+    "Country":"Kenya",
+    "Region":"Eastern Africa",
+    "Continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.33333,-6.16666 ]
+    },
+    "properties": {
+    "PlaceName":"Zanzibar",
+    "PlaceNameModern":"Tanzania",
+    "NameOfTraveler":"Vasco da Gama",
+    "YearOfTravel":1499,
+    "Description":"On Sunday, the 27th, we left this place with a fair wind. During the following night we lay to, and in the morning [January 28] we came close to a large island called Jamgiber [Zanzibar], which is peopled by Moors, and is quite ten leagues from the mainland.",
+    "Citation":"Vasco De Gama, A Journal of the First Voyage of Vasco Da Gama 1497-1499, trans. Ernest Georg Ravenstein, Hakluyt Society (New York: Burt Franklin, 1898), 92.",
+    "Hyperlink":"https://www.gutenberg.org/ebooks/46460",
+    "Country":"Tanzania",
+    "Region":"Southern Africa",
+    "Continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.7841,-15.05254 ]
+    },
+    "properties": {
+    "PlaceName":"island of S. Jorge",
+    "PlaceNameModern":"Mozambique",
+    "NameOfTraveler":"Vasco da Gama",
+    "YearOfTravel":1499,
+    "Description":"Late on February 1, we anchored off the island of S. Jorge, near Moçambique and left at once. On the following day [February 2], in the morning, we set up a pillar in that island, where we had said mass on going out. The rain fell so heavily that we could not light a fire for melting the lead to fix the cross, and it therefore remained without one. We then returned to the ships.",
+    "Citation":"Vasco De Gama, A Journal of the First Voyage of Vasco Da Gama 1497-1499, trans. Ernest Georg Ravenstein, Hakluyt Society (New York: Burt Franklin, 1898), 92.",
+    "Hyperlink":"https://www.gutenberg.org/ebooks/46461",
+    "Country":"Mozambique",
+    "Region":"Southern Africa",
+    "Continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.16666,-34.13333 ]
+    },
+    "properties": {
+    "PlaceName":"Angra de São Braz",
+    "PlaceNameModern":"South Africa",
+    "NameOfTraveler":"Vasco da Gama",
+    "YearOfTravel":1499,
+    "Description":"On March 3 we reached the Angra de São Braz, where we caught many anchovies, seals and penguins, which we salted for our voyage. On the 12th we left, but when ten or twelve leagues from the watering-place the wind blew so strongly from the west, that we were compelled to return to this bay.",
+    "Citation":"Vasco De Gama, A Journal of the First Voyage of Vasco Da Gama 1497-1499, trans. Ernest Georg Ravenstein, Hakluyt Society (New York: Burt Franklin, 1898), 92.",
+    "Hyperlink":"https://www.gutenberg.org/ebooks/46462",
+    "Country":"South Africa",
+    "Region":"Southern Africa",
+    "Continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.47398,-34.35684 ]
+    },
+    "properties": {
+    "PlaceName":"Cape of Good Hope",
+    "PlaceNameModern":"South Africa",
+    "NameOfTraveler":"Vasco da Gama",
+    "YearOfTravel":1499,
+    "Description":"When the wind fell we started once more, and the Lord gave us such a good wind that on the 20th we were able to double the Cape of Good Hope. Those who had come so far were in good health and quite robust, although at times nearly dead from the cold winds which we experienced. This feeling, however, we attributed less to the cold than to the heat of the countries from which we had come.",
+    "Citation":"Vasco De Gama, A Journal of the First Voyage of Vasco Da Gama 1497-1499, trans. Ernest Georg Ravenstein, Hakluyt Society (New York: Burt Franklin, 1898), 92-93.",
+    "Hyperlink":"https://www.gutenberg.org/ebooks/46463",
+    "Country":"South Africa",
+    "Region":"Southern Africa",
+    "Continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -23.62046,15.08526 ]
+    },
+    "properties": {
+    "PlaceName":"island of São Thiago",
+    "PlaceNameModern":"Cape Verde",
+    "NameOfTraveler":"Vasco da Gama",
+    "YearOfTravel":1499,
+    "Description":"We pursued our route with a great desire of reaching home. For twenty-seven days we had the wind astern, and were carried by it to the neighbourhood of the island of São Thiago. To judge from our charts we were within a hundred leagues from it, but some supposed we were quite near. But the wind fell and we were becalmed. The little wind there was came from ahead. Thunderstorms, which came from the land, enabled us to tell our whereabouts, and we plied to windward as well as we could.",
+    "Citation":"Vasco De Gama, A Journal of the First Voyage of Vasco Da Gama 1497-1499, trans. Ernest Georg Ravenstein, Hakluyt Society (New York: Burt Franklin, 1898), 93.",
+    "Hyperlink":"https://www.gutenberg.org/ebooks/46464",
+    "Country":"Cape Verde",
+    "Region":"Atlantic",
+    "Continent":"Africa"
     }
   }
 ]
