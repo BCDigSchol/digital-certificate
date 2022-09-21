@@ -10,6 +10,8 @@ heading {
 }
 heading, title, author, publisher, edition, price {
 	display : block;
+	color: blue;
+	font-size: 16px;
 }
 title {
 	font-size : 25px;
