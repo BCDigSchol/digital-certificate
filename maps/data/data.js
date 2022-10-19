@@ -219,7 +219,7 @@ var data =
     },
     "properties": {
     "PlaceName":"Hanover",
-    "PlaceNameModern":"\nHanover, Germany",
+    "PlaceNameModern":"Hanover",
     "NameOfTraveler":"Lady Mary Wortley Montagu",
     "YearOfTravel":1716,
     "Description":"THIS town is neither large nor handsome; but the palace is capable of holding a much greater court than that of St James's. The king has had the goodness to appoint us a lodging in one part of it, without which we should have been very ill accommodated; for the vast number of English, crowds the town so much, 'tis very good luck to get one sorry room in a miserable tavern.",
@@ -238,7 +238,7 @@ var data =
     },
     "properties": {
     "PlaceName":"Hanover",
-    "PlaceNameModern":"\nHanover, Germany",
+    "PlaceNameModern":"Hanover",
     "NameOfTraveler":"Lady Mary Wortley Montagu",
     "YearOfTravel":1716,
     "Description":"You will not forgive me, if I do not say something of Hanover; I cannot tell you that the town is either large or magnificent. The opera house, which was built by the late elector, is much finer than that of Vienna. I was very sorry that the ill weather did not permit me to see Hernhausen in all its beauty; but in spite of the snow, I thought the gardens very fine. I was particularly surprised at the vast number of orange trees, much larger than any I have ever seen in England, though this climate is certainly colder. But I had more reason to wonder that night at the king's table, to see a present from a gentleman of this country, of two large baskets full of ripe oranges and lemons of different sorts, many of which were quite new to me; and what I thought worth all the rest, two ripe ananasses (sic), which, to my taste, are a fruit perfectly delicious. You know they are naturally the growth of Brazil, and I could not imagine how they came here, but by enchantment. Upon inquiry, I learnt that they have brought their stoves to such perfection, they lengthen their summer as long as they please, giving to every plant the degree of heat it would receive from the sun in its native soil. The effect is very near the same; I am surprised we do not practise (sic) in England so useful an invention. This reflection leads me to consider our obstinacy in shaking with cold, five months in the year rather than make use of stoves, which are certainly one of the greatest conveniencies (sic) of life. Besides, they are so far from spoiling the form of a room, that they add very much to the magnificence of it, when they are painted and gilt, as they are at Vienna, or at Dresden, where they are often in the shapes of china jars, statues, or fine cabinets, so naturally represented, that they are not to be distinguished.",
@@ -10678,6 +10678,4034 @@ var data =
     "Country":"Cape Verde",
     "Region":"Atlantic",
     "Continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.29311,34.30316 ]
+    },
+    "properties": {
+    "PlaceName":"Sonamurg",
+    "PlaceNameModern":"Sonamarg",
+    "NameOfTraveler":"Mir Izzet Ullah",
+    "YearOfTravel":1812,
+    "Description":"The last station in Kashmir is called Sonamurg. It is a village of some fifty or sixty houses; the road is difficult and rocky, so as to be impassable to a mounted traveller. The road is on the right bank of the Sindh, and the village is on the same : the ruins of a Serai, erected by Ibrahim Khan, are here met with.",
+    "Citation":"Mir Izzet Ullah, \"Travels beyond the Himalaya,\" The Journal of the Royal Asiatic Society 7, no. 2 (1843): 284.",
+    "Hyperlink":"https://archive.org/details/jstor-25207596",
+    "Country":"Kashmir",
+    "Region":"Western Asia",
+    "Continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.58879,34.37016 ]
+    },
+    "properties": {
+    "PlaceName":"Matayan",
+    "PlaceNameModern":"Matayan",
+    "NameOfTraveler":"Mir Izzet Ullah",
+    "YearOfTravel":1812,
+    "Description":"Matayan, ten cos east by north from the last station, is a village on the right bank of the river of Little Tibet: the inhabitants are mostly Musalmáns of the Suni sect : it depends on Tibet, and the Tibetan language here begins to be spoken.",
+    "Citation":"Mir Izzet Ullah, \"Travels beyond the Himalaya,\" The Journal of the Royal Asiatic Society 7, no. 2 (1843): 285.",
+    "Hyperlink":"https://archive.org/details/jstor-25207597",
+    "Country":"Kashmir",
+    "Region":"Western Asia",
+    "Continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.63317,34.41146 ]
+    },
+    "properties": {
+    "PlaceName":"Panderás",
+    "PlaceNameModern":"Pandras",
+    "NameOfTraveler":"Mir Izzet Ullah",
+    "YearOfTravel":1812,
+    "Description":"Panderás, two cos east, is situated on the left of the river of Little Tibet. A kind of crow with red beak and legs is found here, which is considered by the Mohammedans as lawful food, and eaten accordingly; there is also an animal which resembles a jackal, called, in the Kashmirian language, Daruwan, which is held unlawful; its skin forms a warm clothing, and its flesh is very beneficial in leprosy. The road along the river of Tibet is good.",
+    "Citation":"Mir Izzet Ullah, \"Travels beyond the Himalaya,\" The Journal of the Royal Asiatic Society 7, no. 2 (1843): 286.",
+    "Hyperlink":"https://archive.org/details/jstor-25207598",
+    "Country":"Ladakh",
+    "Region":"Western Asia",
+    "Continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.74587,34.4269 ]
+    },
+    "properties": {
+    "PlaceName":"Dirás",
+    "PlaceNameModern":"Dras",
+    "NameOfTraveler":"Mir Izzet Ullah",
+    "YearOfTravel":1812,
+    "Description":"Dirás, east, four cos, is the name of a small Pargana; the villages are as close to each other as if they were the divisions of a city, and this Pargana itself may be considered as one town. The governor is entitled the Kehrpun, and is sent from Tibet. The houses of this country, hitherward from Matayan, were all in a ruinous and deserted condition, a number of persons having been carried off the year before by a party of people called Dardi, an independent mountain tribe, three or four marches north from Diras, who speak the Pushtu as well as the Daradi language: their religion is not known. It is said to be a journey of ten stages to Badakhshan from Kashmir, through the country of the Dardis. The invaders were about 300, and they carried off 250 persons. The prisoners they make in these predatory incursions they sell as slaves. After this transaction a party of matchlock men were stationed at Diras, by order of the ruler of Kashmir, under the son of Málik Ahkárn, who holds half the revenue of the country from Matayan to Diras, in jagir from the Raja of Tibet.",
+    "Citation":"Mir Izzet Ullah, \"Travels beyond the Himalaya,\" The Journal of the Royal Asiatic Society 7, no. 2 (1843): 286.",
+    "Hyperlink":"https://archive.org/details/jstor-25207599",
+    "Country":"Ladakh",
+    "Region":"Western Asia",
+    "Continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.56194,34.22684 ]
+    },
+    "properties": {
+    "PlaceName":"Ladágh (country)",
+    "PlaceNameModern":"",
+    "NameOfTraveler":"Mir Izzet Ullah",
+    "YearOfTravel":1812,
+    "Description":"There are several villages in the intermediate space between it and the river, and along the latter in its vicinity. The people of the place call the country Ladágh. In Kashmir they called the country Buten, and the people Bot; and in Persian and Turkish the country is called Tibet, the word Tibet signifying in Turki shawl-wool, which is procured here most abundantly, and of the finest quality.",
+    "Citation":"Mir Izzet Ullah, \"Travels beyond the Himalaya,\" The Journal of the Royal Asiatic Society 7, no. 2 (1843): 288.",
+    "Hyperlink":"https://archive.org/details/jstor-25207600",
+    "Country":"Ladakh",
+    "Region":"Western Asia",
+    "Continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.63356,34.13288 ]
+    },
+    "properties": {
+    "PlaceName":"Sabu",
+    "PlaceNameModern":"Saboo",
+    "NameOfTraveler":"Mir Izzet Ullah",
+    "YearOfTravel":1812,
+    "Description":"I left Lé on the 26th of October, and set off for Yarkand. The first stage is Sabu, five cos due east. A village dependant on Lé, five cos on the other side of the mountain, was the next halting-place, but without habitations.",
+    "Citation":"Mir Izzet Ullah, \"Travels beyond the Himalaya,\" The Journal of the Royal Asiatic Society 7, no. 2 (1843): 294.",
+    "Hyperlink":"https://archive.org/details/jstor-25207601",
+    "Country":"Ladakh",
+    "Region":"Western Asia",
+    "Continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.1756,38.92955 ]
+    },
+    "properties": {
+    "PlaceName":"Yengi Hissar",
+    "PlaceNameModern":"Yengisar",
+    "NameOfTraveler":"Mir Izzet Ullah",
+    "YearOfTravel":1812,
+    "Description":"Yengi Hissar: this is a city under the Chinese government; two Chinese officers and one Mohammedan preside over it; the name of the latter was Hakim Mahmud Beg; he is a kinsman of the Hakem of Kashghar",
+    "Citation":"Mir Izzet Ullah, \"Travels beyond the Himalaya,\" The Journal of the Royal Asiatic Society 7, no. 2 (1843): 307.",
+    "Hyperlink":"https://archive.org/details/jstor-25207602",
+    "Country":"China",
+    "Region":"Western Asia",
+    "Continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.99388,39.46805 ]
+    },
+    "properties": {
+    "PlaceName":"Kashghar",
+    "PlaceNameModern":"Kashgar",
+    "NameOfTraveler":"Mir Izzet Ullah",
+    "YearOfTravel":1813,
+    "Description":"Kashghar, ninety yols. A well known city, where I arrived on the second day of the Moharram, in the year 1813. We alighted at the house of Samijon, a Tashkend merchant, to whom we brought letters. The wide of the Hakim snt me a dressed skin, and a Jama of Khatai. The hakim of Kashghar was named Yanas Beg; he had left the city to pay his respects to the Khan of Khatai on the second Shaban, and settle the rte of tibute. Khashghar pays six thousand tangas a month. \n\nMullah Nazr of Kashghar had accompanied SEkander Beg, the wang of the ruler of Kashghar, twice to Phin, and had kept a register of the stages of his route. He allowed me to take a copy of his journal, and added orally such observations as he recollected.",
+    "Citation":"Mir Izzet Ullah, \"Travels beyond the Himalaya,\" The Journal of the Royal Asiatic Society 7, no. 2 (1843): 307.",
+    "Hyperlink":"https://archive.org/details/jstor-25207603",
+    "Country":"China",
+    "Region":"Western Asia",
+    "Continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 89.18953,42.95129 ]
+    },
+    "properties": {
+    "PlaceName":"Turfan",
+    "PlaceNameModern":"Turpan",
+    "NameOfTraveler":"Mullah Nazr of Kashghar",
+    "YearOfTravel":1813,
+    "Description":"A ancient city, the present residence of the Chinese Governor with a Mohammedan Hakim; the old city of Turfan is in ruins; its site is fifty yols from the present. It is called also the city of Dakianus, the sleers of Kaf having occupied a cave about twenty yols on the souh of the old ciy.",
+    "Citation":"Mir Izzet Ullah, \"Travels beyond the Himalaya,\" The Journal of the Royal Asiatic Society 7, no. 2 (1843): 314.",
+    "Hyperlink":"https://archive.org/details/jstor-25207604",
+    "Country":"China",
+    "Region":"Western Asia",
+    "Continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.56833,42.05861 ]
+    },
+    "properties": {
+    "PlaceName":"Kara Sheher",
+    "PlaceNameModern":"Karasahr",
+    "NameOfTraveler":"Mullah Nazr of Kashghar",
+    "YearOfTravel":1813,
+    "Description":"A large city of the Kalmaks, on the left of a navigable river running from east to west. An Amban on the part of China rules over the city; and a Hakim presids over the Kalmaks, they call the latter Ji-shan.",
+    "Citation":"Mir Izzet Ullah, \"Travels beyond the Himalaya,\" The Journal of the Royal Asiatic Society 7, no. 2 (1843): 315.",
+    "Hyperlink":"https://archive.org/details/jstor-25207605",
+    "Country":"China",
+    "Region":"Western Asia",
+    "Continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.1756,38.92955 ]
+    },
+    "properties": {
+    "PlaceName":"Yangi hisar",
+    "PlaceNameModern":"Yengisar",
+    "NameOfTraveler":"Mullah Nazr of Kashghar",
+    "YearOfTravel":1813,
+    "Description":"A village. The road runs through a forest of trees, used as fuel, called Togark.",
+    "Citation":"Mir Izzet Ullah, \"Travels beyond the Himalaya,\" The Journal of the Royal Asiatic Society 7, no. 2 (1843): 316.",
+    "Hyperlink":"https://archive.org/details/jstor-25207606",
+    "Country":"China",
+    "Region":"Western Asia",
+    "Continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.30402,41.1849 ]
+    },
+    "properties": {
+    "PlaceName":"Aksu",
+    "PlaceNameModern":"Aksu",
+    "NameOfTraveler":"Mullah Nazr of Kashghar",
+    "YearOfTravel":1813,
+    "Description":"A celebrated ciy, under the usual joint administratin. On the road is te small stream of Ila, which gives its name to the city formerly the capital of Kalmaks; it is fifteen days from Aksu, west by north. Ila is now the principal military station of the Cinese, being occupied by the commander-in-chief, styled Jung-ju, with a force of 100,000 horse. Sizty days noth from Ila is Yelduz, the actual residence of the chief of the Klmaks : a range of mountains extends to the north of Yelduz beyond which the country is unpeopled. On the west of Ila is a large piece of water called Azashk kol, which is the liit of the Chinese power in that direction. The Kazzáks occupy the country between Ila and the Russian frontier, which they thus separate from the Chinese. Ila is properly th name of the river on the borders of which stood the city, thence so called, and which is now deserted. There is a grave of Tughluk Timur, the first of the Chaghaitai Sultans who adopted Mohammedaism. At present the appellation of Ila is applied to two cities, one called also Gulja, occupied chiegly by Mohammedans ; the other Kurah, where the Chinese troops are stationed, which is the residence of the Chinese Governor-General of Moghulistan and the Klmaks. These two cities are one march apart. At a place south of Ila they find a kind of stone which hey use for fuel (coals) instead of wood ;; it is of two kinds, one of which emits a fragarant, the other an offensive smoke. The sam substance is found one march from Aksu, in the mountainl but is is now burned.",
+    "Citation":"Mir Izzet Ullah, \"Travels beyond the Himalaya,\" The Journal of the Royal Asiatic Society 7, no. 2 (1843): 316.",
+    "Hyperlink":"https://archive.org/details/jstor-25207607",
+    "Country":"China",
+    "Region":"Western Asia",
+    "Continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.99388,39.46805 ]
+    },
+    "properties": {
+    "PlaceName":"Kashghar",
+    "PlaceNameModern":"Káshkár",
+    "NameOfTraveler":"Mullah Nazr of Kashghar",
+    "YearOfTravel":1813,
+    "Description":"A celebrated city, in latitude something above 40 degrees. Khoen is the name of the eighbouring country, the surface of which is chiefly sand and desert. It abounds with wild asses, camels, wild cattle, and musk deer ; the camels have two dorsal humps, and are of great speed. Khoten has six cities besides, the chief of which is called Aichi, and is governed by a Chinese and Mahammedan. one stage south from thence is Karakash : three stages north Yurungkash : and the same distance east is Tagh : three days further east is Kiriya : northeast fro Tagh, four days, is Chira, and three days, north-west, is Nia Kashlak.",
+    "Citation":"Mir Izzet Ullah, \"Travels beyond the Himalaya,\" The Journal of the Royal Asiatic Society 7, no. 2 (1843): 319.",
+    "Hyperlink":"https://archive.org/details/jstor-25207608",
+    "Country":"Uzbekistan",
+    "Region":"Western Asia",
+    "Continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.99388,39.46805 ]
+    },
+    "properties": {
+    "PlaceName":"Kashghar",
+    "PlaceNameModern":"Káshkár",
+    "NameOfTraveler":"Mir Izzet Ullah",
+    "YearOfTravel":1813,
+    "Description":"Kashghar, (Jib) ninety yols. A well known city, where I arrived on the second day of the Moharram, in the year 1813.\n\nWe alighted at the house of Samijon, a Tashkend merchant, to whom we brought letters. The wife of the Hakim sent me a dressed skin, and a Jama of Khatai. The Hakim of Kashghar was named Yunas Beg; he had left the city to pay his respects to the Khan of Khatai on the second Shaban, and settle the rate of tribute. Kashghar pays six thousand tangas a month.",
+    "Citation":"Mir Izzet Ullah, \"Travels beyond the Himalaya,\" The Journal of the Royal Asiatic Society 7, no. 2 (1843): 320.",
+    "Hyperlink":"https://archive.org/details/jstor-25207609",
+    "Country":"Uzbekistan",
+    "Region":"Western Asia",
+    "Continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.28375,40.81535 ]
+    },
+    "properties": {
+    "PlaceName":"Andejan",
+    "PlaceNameModern":"Andijan",
+    "NameOfTraveler":"Mir Izzet Ullah",
+    "YearOfTravel":1813,
+    "Description":"Andejan, the former capital of the kings of Ferghana, now deserted,\nlies three stages west by north of Osh, and is one stage west of\nNimangan. The father of Baber, the emperor of India, Omer Sheikh\nMirza, resided in Andejan.",
+    "Citation":"Mir Izzet Ullah, \"Travels beyond the Himalaya,\" The Journal of the Royal Asiatic Society 7, no. 2 (1843): 324.",
+    "Hyperlink":"https://archive.org/details/jstor-25207610",
+    "Country":"Uzbekistan",
+    "Region":"Western Asia",
+    "Continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 71.72665,40.48012 ]
+    },
+    "properties": {
+    "PlaceName":"Marghinán",
+    "PlaceNameModern":"Margilan",
+    "NameOfTraveler":"Mir Izzet Ullah",
+    "YearOfTravel":1813,
+    "Description":"Marghinán, six hours, west by north: it is also called\nMerghilan, and is one of the chief cities of Ferghana. It contains\nthe tomb of the celebrated monarch Sekander Zulkernein (Alexander\nthe Great). The place is exceedingly pleasant, and the people well disposed. The ruler is the heir of the Amir of Kokan. Silk and\nshawl-wool are abundant here, and the people manufacture shawls,\nalthough of an inferior workmanship to those of Kashmir. The\nbulwarks are of clay, and they are in a dilapidated condition : there\nis a large minareh in the town, of burnt bricks.",
+    "Citation":"Mir Izzet Ullah, \"Travels beyond the Himalaya,\" The Journal of the Royal Asiatic Society 7, no. 2 (1843): 325.",
+    "Hyperlink":"https://archive.org/details/jstor-25207611",
+    "Country":"Uzbekistan",
+    "Region":"Western Asia",
+    "Continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 69.63923,40.2735 ]
+    },
+    "properties": {
+    "PlaceName":"Khojend",
+    "PlaceNameModern":"Khujand",
+    "NameOfTraveler":"Mir Izzet Ullah",
+    "YearOfTravel":1813,
+    "Description":"Khojend, seven hours, west by south, a celebrated city,\nabout two bow-shots from the left bank of the Sir, defended by a\nfort and mud wall. Fruit is very plentiful and excellent. The\npeople are of a kindly and cheerful disposition, the people of the\ncity speak both the Tajik and Turk languages. We followed the\ncourse of the river through this stage.",
+    "Citation":"Mir Izzet Ullah, \"Travels beyond the Himalaya,\" The Journal of the Royal Asiatic Society 7, no. 2 (1843): 327.",
+    "Hyperlink":"https://archive.org/details/jstor-25207612",
+    "Country":"Tajikistan",
+    "Region":"Western Asia",
+    "Continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 71.14394,40.82492 ]
+    },
+    "properties": {
+    "PlaceName":"Kara-Kalpak",
+    "PlaceNameModern":"Kara Kalpak",
+    "NameOfTraveler":"Mir Izzet Ullah",
+    "YearOfTravel":1813,
+    "Description":"one hour, west by south, a village occupied by the people so named, who are a branch of Usbeks resembling the Kazzaks : there are other stations of them on the road.",
+    "Citation":"Mir Izzet Ullah, \"Travels beyond the Himalaya,\" The Journal of the Royal Asiatic Society 7, no. 2 (1843): 328.",
+    "Hyperlink":"https://archive.org/details/jstor-25207613",
+    "Country":"Uzbekistan",
+    "Region":"Western Asia",
+    "Continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 64.5369,39.80033 ]
+    },
+    "properties": {
+    "PlaceName":"Mizar Gumbuz",
+    "PlaceNameModern":"Şahı Nakşibendi Hazretleri Buhari",
+    "NameOfTraveler":"Mir Izzet Ullah",
+    "YearOfTravel":1813,
+    "Description":"Mizar, five hours, west by north, the tomb of Khaja Baha-ud-din of Nakshebend ; gardens and stations occur on the road. On Wednesday there is a large market for horses, asses, and all sorts of articles. The tomb is without a cupola, and on the north-west of the tomb is a mosque.",
+    "Citation":"Mir Izzet Ullah, \"Travels beyond the Himalaya,\" The Journal of the Royal Asiatic Society 7, no. 2 (1843): 331.",
+    "Hyperlink":"https://archive.org/details/jstor-25207614",
+    "Country":"Uzbekistan",
+    "Region":"Western Asia",
+    "Continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 64.41079,39.77774 ]
+    },
+    "properties": {
+    "PlaceName":"Bokhara gates and walls",
+    "PlaceNameModern":"",
+    "NameOfTraveler":"Mir Izzet Ullah",
+    "YearOfTravel":1813,
+    "Description":"The city of Bokhara has eleven gates, which, beginning on the\neast, are as follows:The gate of the tombs, on the east, through which they pass to the sepulchre of Khajeh Beha-ad-din.\n\nThe gate of Samarkand, north-east.\n\nThe Imam gate, or that leading to the tomb of Imam Abu Hafs\nKabir.\n\nThe gate of Aughelan, north.\n\nThe gate of Talbaghach or Talpach, north-west.\n\nThe Shirgeran gate, north-west.\n\nThe Karakul gate, west.\n\nThe gate of Sheikh Jelal, south-west.\n\nThe gate of the place of Prayer, south-west.\n\nThe gate of the Arsenal, north-west.\n\nThe gate of Kelbaghach, north-west.\n\nThe wall of the city is lofty, built of unbaked bricks, and the\ncitadel built of the same materials, is situated on a mount within\nthe city, on the north side near the Imam gate: it contains many\nbuildings: the gate of the Fort is to the west, and within the gate\nare sixteen guns and five mortars, all dismounted.",
+    "Citation":"Mir Izzet Ullah, \"Travels beyond the Himalaya,\" The Journal of the Royal Asiatic Society 7, no. 2 (1843): 334.",
+    "Hyperlink":"https://archive.org/details/jstor-25207615",
+    "Country":"Uzbekistan",
+    "Region":"Western Asia",
+    "Continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 64.54023,39.79885 ]
+    },
+    "properties": {
+    "PlaceName":"Kokultash (college)",
+    "PlaceNameModern":"",
+    "NameOfTraveler":"Mir Izzet Ullah",
+    "YearOfTravel":1813,
+    "Description":"There are eighty colleges in Bokhara, containing from forty to\ntwo or three hundred chambers. That of Kokultash, which is near\nthe gate of Khajeh Beha-ud-din, contains three hundred. There is\none Muderris to each college, and two pupils in each chamber.\n\nThe colleges are supported by the rents of houses and the lands\nattached to them--their revenues vary from 300 to 5000 rupees a\nyear: but the king also contributes yearly a portion of the Zikat,\nand makes the principal professor an allowance of from five to\nfifteen tilas per month",
+    "Citation":"Mir Izzet Ullah, \"Travels beyond the Himalaya,\" The Journal of the Royal Asiatic Society 7, no. 2 (1843): 335.",
+    "Hyperlink":"https://archive.org/details/jstor-25207616",
+    "Country":"Uzbekistan",
+    "Region":"Western Asia",
+    "Continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 64.89214,40.14684 ]
+    },
+    "properties": {
+    "PlaceName":"Kohik (river)",
+    "PlaceNameModern":"Zeravshan River",
+    "NameOfTraveler":"Mir Izzet Ullah",
+    "YearOfTravel":1813,
+    "Description":"Twelve cos from Bokhara, on the north, runs the river Kohik,\nwhich comes from the mountains of Samarkand and flows to the\nwest ; canals' are cut from the river which irrigate the fields\nand gardens about the city: every fifteenth day the water is conveyed to the public reservoirs, which are filled: the same water\nsupplies the city and fort, and there are no wells. In the rainy\nseason the people use rain water, after which they are extensively\nsubject to the worm in the skin, especially in the leg, and knee.\n\nLittle snow falls in Bokhara; but there is much cold and frost, and\nthe cool weather lasts eight months the other four constitute\nspring and summer.",
+    "Citation":"Mir Izzet Ullah, \"Travels beyond the Himalaya,\" The Journal of the Royal Asiatic Society 7, no. 2 (1843): 335.",
+    "Hyperlink":"https://archive.org/details/jstor-25207617",
+    "Country":"China",
+    "Region":"Western Asia",
+    "Continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.41553,34.25826 ]
+    },
+    "properties": {
+    "PlaceName":"Báltál",
+    "PlaceNameModern":"Baltal",
+    "NameOfTraveler":"Mir Izzet Ullah",
+    "YearOfTravel":1812,
+    "Description":"North-east from Sonamurg, five cos‚ is Báltál, an uninhabited station, with the exception of one house for the accommodation of travellers : along the skirts of the mountain on the right of the road runs the Sindh*; and its sources are not far off ; the road is broad and practicable. Báltál is within the limits of Kashmir; but close to it on the east runs a mountainous elevation which separates Kashmir from Tibet ; thenceforward the road is over mountainous and barren paths, but abundant in springs.",
+    "Citation":"Mir Izzet Ullah, \"Travels beyond the Himalaya,\" The Journal of the Royal Asiatic Society 7, no. 2 (1843): 284-285.",
+    "Hyperlink":"https://archive.org/details/jstor-25207618",
+    "Country":"Ladakh",
+    "Region":"Western Asia",
+    "Continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.57705,34.15258 ]
+    },
+    "properties": {
+    "PlaceName":"Lé",
+    "PlaceNameModern":"Leh",
+    "NameOfTraveler":"Mir Izzet Ullah",
+    "YearOfTravel":1812,
+    "Description":"... good road leads to LE a populous city, the capital of Tibet, and always intended by that term or Tibet, when it is applied to the city. Fruit trees are few, but willows about it are plenty. It is situated about a cos from the right bank of the Sampo : the road to it is good. ...\n\nA sort of barley, resembling wheat, grows between Matayan and Diras: cotton also grows there. Beyond Diras wheat and barley both occur, but no cotton : the wheat is not reaped there till the end of December, but about Lé it is gathered in October ; there is but one harvest in the year : very fine turnips are cultivated at Lé. Rice and jawar, and chenna are never sown. From Matayan to Lé the water is bad, and engenders asthma and goitre ; the latter in Hindi is called Gilher: it does not seem prevalent, however, in the town of Lé; but shortness of breath, caused by the water, is very general. I was affected in this way very severely, in consequence of which I abstained from drinking the water, and drank tea only, when the complaint speedily left me. \n\n[Text goes on to describe food and clothing in the region as well as brief comments on social organization and politics.]",
+    "Citation":"Mir Izzet Ullah, \"Travels beyond the Himalaya,\" The Journal of the Royal Asiatic Society 7, no. 2 (1843): 288-294.",
+    "Hyperlink":"https://archive.org/details/jstor-25207619",
+    "Country":"Ladakh",
+    "Region":"Western Asia",
+    "Continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.24629,38.41431 ]
+    },
+    "properties": {
+    "PlaceName":"Yarkand",
+    "PlaceNameModern":"Yarkant",
+    "NameOfTraveler":"Mir Izzet Ullah",
+    "YearOfTravel":1812,
+    "Description":"YARKAND, four hours. This is a well-known city, defended by a wall of unbaked clay; the houses are of the same material : the city has five gates--the western is called the Altün gate; the south, the Khankah, is the gate of the citadel, and another gate on the south side is called the Mikrar gate; the eastern is the Kiak al Kun; the northern is the Terek Bagh gate. The principal bazar extends east and west, and has many Chinese shops. A market is held every Friday. There are more than ten colleges, supported by endowments of land.",
+    "Citation":"Mir Izzet Ullah, \"Travels beyond the Himalaya,\" The Journal of the Royal Asiatic Society 7, no. 2 (1843): 302-306.",
+    "Hyperlink":"https://archive.org/details/jstor-25207620",
+    "Country":"China",
+    "Region":"Western Asia",
+    "Continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.81609,40.51399 ]
+    },
+    "properties": {
+    "PlaceName":"Osh",
+    "PlaceNameModern":"Osh",
+    "NameOfTraveler":"Mir Izzet Ullah",
+    "YearOfTravel":1813,
+    "Description":"Osh, west, five hours. This is the first town in Ferghana': it is of considerable population, and is well supplied with water. It is governed by a Hakim, nominated by the Amir of Kokan: the road leading to it is level and good, and the Kirghizes, whose tents occur, are dependent upon this government. From Kashghar to Kurghasham they are dependant on the former place; that is, they carry their fuel, charcoal, and other things, to Kashghar for sale. They\nare privileged to have free transit, and require no passport, but come\nand go at pleasure : they are subject to China. Those from Kurghasham to Osh are the subjects of the Amir of Kokan: they possess extensive herds of cattle and horses. In the time of Narbuta Be\nthey obstructed the road, but they were compelled by (his son)\nAlem Khan to leave it free to travellers. Osh is celebrated by the\nname of Takhti Suliman, and the tomb of Asef Barkhia, the vizir of\nSuliman, is still shown here: it is of great size. The throne of\nSuliman is on a small hill west from Osh, surmounted by a building\nwith a dome. In the spring great numbers of people repair hither\nin pilgrimage to the tomb from all the surrounding countries,\nbringing with them articles of various descriptions for sale and\nbarter. A bazaar is held in Osh every Tuesday. In the warm\nseason the place swarms with mosquitoes, and the people construct\na tall frame of four long posts in the centre of their houses, and\nsleep on the top of it. Nimangan is the name of a city two stages\nfrom Osh, west north-west, the fruit of which is very famous.",
+    "Citation":"Mir Izzet Ullah, \"Travels beyond the Himalaya,\" The Journal of the Royal Asiatic Society 7, no. 2 (1843): 323-324.",
+    "Hyperlink":"https://archive.org/details/jstor-25207621",
+    "Country":"Kyrgyzstan",
+    "Region":"Western Asia",
+    "Continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.9309,40.5341 ]
+    },
+    "properties": {
+    "PlaceName":"Kokan",
+    "PlaceNameModern":"Kokand",
+    "NameOfTraveler":"Mir Izzet Ullah",
+    "YearOfTravel":1813,
+    "Description":"Kokan, eight hours, west by north: it is also written Khokand. It is a large city, without a wall; from the time of Narbuta Be it has become populous-beyond it there are not many more stations; it has a number of canals supplying every house. Amer Khan is the present ruler-two years ago, or in the beginning of A. H. 1228, it was subject to Alem Khan, his elder brother; but, in consequence of his tyrannical conduct, he became the object of universal detestation, and upon his march to Tashkend, the whole army mutinied, and, deserting him, raised the younger brother to the sovereignty of Kokan. After a short time, Alem Khan returned to Kokan to recover his authority, but lost his life in the attempt.\n\nAlem Khan and Amer Khan were both sons of Narbuta Be. The Amir of Kokan maintains a force of ten thousand horse, and pays them by grants of villages and lands; they cannot keep the field above two months at a time, as they carry with them provision for no longer a period. The other troops, raised by the tribes, amount to thirty thousand ; but they only engage to serve one month at a time, and that only once a year. Their services are not paid by the Amir. The people subject to the Government of Kokan are of the Kirghiz, Turk, Kapcbak, Ming, and Kazzak races. The troops are mostly armed with spears--some carry matchlocks. The chief cities belonging to the Amir are Osh, Namangan, Kasán, Chus, one stage from Namangan, Andejan, Marghinan, Kánbadám, Ashferek, Khojend. All these, except Chus and Namangan, are to the left of the Sir, the same river as the Sihun. Namangan and Chus and the hill country of Indejan are on the right of the river: the latter is rich in verdure and abounds with fruit. The forts of Turkestan are Sharukhiah, Tashkend, and Siram.\n\n[Text goes on for another page with some description of country.]",
+    "Citation":"Mir Izzet Ullah, \"Travels beyond the Himalaya,\" The Journal of the Royal Asiatic Society 7, no. 2 (1843): 325-326.",
+    "Hyperlink":"https://archive.org/details/jstor-25207622",
+    "Country":"Uzbekistan",
+    "Region":"Western Asia",
+    "Continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.41938,40.29824 ]
+    },
+    "properties": {
+    "PlaceName":"Kan badám",
+    "PlaceNameModern":"Konibodom",
+    "NameOfTraveler":"Mir Izzet Ullah",
+    "YearOfTravel":1813,
+    "Description":"Kan badám, three hours, west by south, a large town like a city, having a mountain on the north-west, and a river running along the skirts of it. Formerly the place was famous for almond trees (whence the name, Badám meaning \"almond\").",
+    "Citation":"Mir Izzet Ullah, \"Travels beyond the Himalaya,\" The Journal of the Royal Asiatic Society 7, no. 2 (1843): 326-327.",
+    "Hyperlink":"https://archive.org/details/jstor-25207623",
+    "Country":"Tajikistan",
+    "Region":"Western Asia",
+    "Continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 66.97497,39.62701 ]
+    },
+    "properties": {
+    "PlaceName":"Samarkand",
+    "PlaceNameModern":"Samarkand",
+    "NameOfTraveler":"Mir Izzet Ullah",
+    "YearOfTravel":1813,
+    "Description":"The city of Samarkand, two hours, west by south; a celebrated city, and the seat of the sepulchre of Amir Timur ; a lofty building with an immense cupola : within it is a remarkable slab of a brilliant green stone, and above it is a plate with an inscription, with the name of Timur engraved on it. Formerly the dome was gilt, but Shah Murad Be stripped off the gilding, and took it away; it is now merely of stucco. The attendants are in much poverty; they told me that formerly they were supported by an allowance from the Emperors of Hindustan, which ceased with Mohammed Shah ; and they wished to know if there were in India any of the descendants of Timur, whom they might apprise of their condition. The observatory of Mirza Ulugh Beg was formerly here, but it was demolished by Shaiban Khan, and there is only a mound of rubbish left.\n\nThe tombs of Khojeh Abdullah Ahrar, of Abul Mansur Maturidi, of the author of the Bedaya, and other eminent and illustrious men are also to be seen here.\n\nSamarkand is defended by a mud wall, as well as a citadel of earth. The interior of the fort is inhabited, as well as the suburb; in the centre of the city is a large hexagonal building, surmounted by a cupola, and in each angle is a market. There are many large colleges in the city; the largest is the Madressa Khanum, but it is now in ruins. Some of the colleges are still maintained, as those of Shirnak and Tilakari, founded by Baling tosh Beg; the principal of the Shir nak college is named Abu Sayid; he is the chief cazy also, and is one of the most learned and amiable men in Samarkand. The Tilakari college has two principals and two scholars. Opposite to the Shir nak college is that of Ulugh Beg, in which is the chamber of Mullah Jami.\n\nThe Governor of Samarkand is Dowlet Be Kushbegi. Before\nthe reign of Shah Murad Be, Samarkand was in an entirely dilapidated condition, and the colleges were haunted by lions and wolves. Shah Murad by great exertion repeopled the city, and it increases daily in population. There are two markets a week, on Sunday and Thursday. Horses of the Bokhara breed are cheap. The situation and climate of this city are delightful, and running streams supply it with water. A variety of tribes are to be met with in the neighbourhood, as Mohammedans from China, and Kapchaks, and Karakalpaks; formerly, perhaps, they were scattered in different cities, but they are now collected, and are all called Usbeks. The weight of Samarkand is, one tila, equal to one miskal, but the market miskal is equal to five tilas ; five bazar miskals are one gharribek, two gharribek make one pashezek, two pashezeks one yetimék, two yetiméks one nimkhora, two nimkhoras are one nim charek, two nimchareks one charek, four chareks one seer, sixteen seers one maund. Weights were formerly differently reckoned, but they have been fixed\nat these rates during the last two years.",
+    "Citation":"Mir Izzet Ullah, \"Travels beyond the Himalaya,\" The Journal of the Royal Asiatic Society 7, no. 2 (1843): 329-330.",
+    "Hyperlink":"https://archive.org/details/jstor-25207624",
+    "Country":"Uzbekistan",
+    "Region":"Western Asia",
+    "Continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 64.45557,39.76808 ]
+    },
+    "properties": {
+    "PlaceName":"Bokhara",
+    "PlaceNameModern":"Bukhara",
+    "NameOfTraveler":"Mir Izzet Ullah",
+    "YearOfTravel":1813,
+    "Description":"The city Bokhara, two hours west. Bokhara is surrounded by a mud wall, and contains a citadel within which the king resides. The city abounds with squares and markets, and the suburbs with gardens. The inhabitants of Bokhara are natives of Iran, and Rüm, and Nogais from Russia, and people from Kabul, and Peshawer, attracted thither by the good government of Mir Hyder and the perfect security of travelling. There are many colleges and students. Each college has endowments in land; besides which the king gives personal allowances to the teachers and disciples, out of the Máli Zikat, (or tax levied for charitable purposes) the rest of which is invariably distributed amongst the needy and distressed, and never goes into the royal coffers. All the affairs of the state are conducted by the king himself, without the assistance of any principal ministers, except Hakim Be, who when the king goes out from the city on any journey, is left in charge of the citadel and the administration of affairs. The collection of the Máli Zikat, and other imposts, is in the hands of Hakim Be also, under supervisal of the king: no other officer of the state has equal authority.\n\nThere is a market for horses four days in each week. On Saturday, Monday, and Thursday, it is held in the city, on the side of the gate of the desert near the citadel: on Wednesday, it occurs without the city near the tomb of Baha-ud-din. Horses of no value only are brought to market, their price is from ten to fifteen tilas: horses of higher cost, or from 100 to 150 tilas, are to be had of the dealers at their own houses, and are brought by brokers for inspection: but there are very few, and it would be difficult at any one time to collect from fifty to one hundred horses of this class.\n\n[The text goes on for several paragraphs about horses and camels before moving toward politics. There is some interest in connections with Russia.]\n\nThe tombs of Bokhara, either in the city or in its neighbourhood, are very numerous: amongst them are those of Hezret Said Amir Kulal, Khajeh Beha-ud-din of Nakshebend, Imam Abu Hefs Kabir, and Imam Ahmed Ghazali, of the author of the Shereh Wakaya, of Baba Paradoz (the darner) of Hezret Imlah and of Shah Murad Be Wali Niami; this last has no dome nor turrets: they say that the earth from this last tomb has many healing\nqualities.\n\n[Text about some of the surrounding territory.]\n\nThe houses of Bokhara are like those of Peshawer; they are built of unbaked bricks, and are two or three stories high; the walls are thin and are strengthened with wooden buttresses: the markets are mostly covered in, and there are several Serais for the accommodationn of merchants, as the serai of Alem Khan, where the Hindus from Shikarpur and other places alight. The hire of a chamber is one tila per month: the Hindu traders pay also the jezia to the king. They bring indigo chiefly, and tobacco. Another serai is the Nogha-i, where the Nogay and other traders put up: the Nogays are Musselmans subject to Russia, some of them are residents in Bokhara. There are about fifty druggists' shops in the city; but no skilful physician-the practitioners are all ignorant of the science; and when any medical professor comes along with the merchants from Peshawer or other places, he is held in very high estimation. The most common disease is the rishteh, (Guinea worm) and few people are free from it, like colds in Hindustan in the winter season; the people of Bokhara are very dexterous in the treatment of it, and extract it by incision, in this manner : if the head of the rishteh be near the wrist and the tail near the elbow, they carry the finger along it, to ascertain its course, and then lay the skin open with a lancet for three or four fingers breadth, a little below the head, which they draw back to the place where the incision began; they then make another incision of a similar kind, and so proceed gradually till they come to the origin of the worm, and remove it entirely. Other complaints are fevers, leprosy, and affections of the bowels. It happens sometimes, that where the physicians have engaged to cure the sick, and the patient has died, the heirs have demanded the price of blood; in that case the king has declared that when the physician knows his profession, he shall be held\nacquitted; but if he proves an ignoramus he is condemned to pay\nthe usual amercement--these cases are too frequent to be much\nattended to; but a physician leads but an uncomfortable sort of\nlife in Bokhara.",
+    "Citation":"Mir Izzet Ullah, \"Travels beyond the Himalaya,\" The Journal of the Royal Asiatic Society 7, no. 2 (1843): 331-342.",
+    "Hyperlink":"https://archive.org/details/jstor-25207625",
+    "Country":"Uzbekistan",
+    "Region":"Western Asia",
+    "Continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.80742,34.29213 ]
+    },
+    "properties": {
+    "PlaceName":"Diger",
+    "PlaceNameModern":"Digar",
+    "NameOfTraveler":"Mir Izzet Ullah",
+    "YearOfTravel":1812,
+    "Description":"Diger, eight cos, east by north, is a village belonging to Lé. The road is very precipitous and difficult; the first three hours were a continued ascent; the last was a declivity. The snow was above a cubit deep.",
+    "Citation":"Mir Izzet Ullah, \"Travels beyond the Himalaya,\" The Journal of the Royal Asiatic Society 7, no. 2 (1843): 295.",
+    "Hyperlink":"https://archive.org/details/jstor-25207626",
+    "Country":"Ladakh",
+    "Region":"Western Asia",
+    "Continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.83029,34.32998 ]
+    },
+    "properties": {
+    "PlaceName":"Ahkám",
+    "PlaceNameModern":"Agham",
+    "NameOfTraveler":"Mir Izzet Ullah",
+    "YearOfTravel":1812,
+    "Description":"north by east, three cos, a village of twenty houses on the left bank of the river Shayuk, and dependent on Lé.\n\nThe source of this river is at Karakürum, as will be hereafter noticed.\n\nIt runs into the river of Lé, and therefore contributes to the Attok (or Indus). It runs south-west. The road, after the descent from Diger, runs along a level, and is nothing but sand and rock. Before descending, a road runs north to Nobra, a place of some importance.",
+    "Citation":"Mir Izzet Ullah, \"Travels beyond the Himalaya,\" The Journal of the Royal Asiatic Society 7, no. 2 (1843): 295.",
+    "Hyperlink":"https://archive.org/details/jstor-25207627",
+    "Country":"Ladakh",
+    "Region":"Western Asia",
+    "Continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.60766,20.18604 ]
+    },
+    "properties": {
+    "PlaceName":"Caribbean Sea",
+    "PlaceNameModern":"Caribbean Sea",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"But I was ambitious of a quicker transit and a less beaten path, and here I am lying under the lee of the land, in a dirty, hot, motionless tub, expiating my folly. We shall never make Cien Fuegos by the 28th, and then it will be eight days more before I can reach the Havana. May God forgive me all my evil thoughts!\n\nMotionless, I said; I wish she were. Progressless should have been my word. She rolls about in a nauseous manner, disturbing the two sardines which I have economically eaten, till I begin to fear that my friend's generosity will become altogether futile. To which result greatly tends the stench left behind it by the cargo of salt fish with which the brig was freighted when she left St. John, New Brunswick, for these ports. \"We brought but a very small quantity,\" the skipper says. If so, that very small quantity was stowed above and below the very bunk which has been given up to me as a sleeping-place. Ugh!\n\n[Location estimated.]",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Caribbean Sea",
+    "Region":"Caribbean",
+    "Continent":"Americas, North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.29979,21.29565 ]
+    },
+    "properties": {
+    "PlaceName":"Caribbean Sea",
+    "PlaceNameModern":"Caribbean Sea",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"The sails are still flopping against the yard. It is now noon on the 29th of January, and neither captain, mate, crew, nor the one solitary passenger have the least idea when the good brig —— will reach the port of Cien Fuegos; not even whether she will reach it at all. Since that time we have had wind enough in all conscience—lovely breezes as the mate called them. But we have oversailed our mark; and by how much no man on board this vessel can tell. Neither the captain nor the mate were ever in Cien Fuegos before; and I begin to doubt whether they ever will be there. No one knows where we are. An old stove has, it seems, been stowed away right under the compass, giving a false bias to the needle, so that our only guide guides us wrong. There is not a telescope on board. I very much doubt the skipper's power of taking an observation, though he certainly goes through the form of holding a machine like a brazen spider up to his eye about midday. My brandy and cigars are done; and altogether we are none of us jolly.\n\n[Location estimated.]",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Caribbean Sea",
+    "Region":"Caribbean",
+    "Continent":"Americas, North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.4049,50.91054 ]
+    },
+    "properties": {
+    "PlaceName":"Southampton",
+    "PlaceNameModern":"Southampton",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1858,
+    "Description":"On the 17th of November, 1858, I left the port of Southampton in the good ship 'Atrato.' My purposed business, O cherished reader! was not that of writing these pages for thy delectation; but the accomplishment of certain affairs of State, of import grave or trifling as the case may be, with which neither thou nor I shall have further concern in these pages. So much it may be well that I should say, in order that my apparently purposeless wanderings may be understood to have had some method in them.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"England",
+    "Region":"West Europe",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.89409,18.33809 ]
+    },
+    "properties": {
+    "PlaceName":"St. Thomas",
+    "PlaceNameModern":"St. Thomas",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1858,
+    "Description":"And in the good ship 'Atrato' I reached that emporium of travellers, St. Thomas, on the 2nd of December. We had awfully bad weather, of course, and the ship did wonders. When men write their travels, the weather has always been bad, and the ship has always done wonders. We thought ourselves very uncomfortable—I, for one, now know better—and abused the company, and the captain, and the purser, and the purveyor, and the stewards every day at breakfast and dinner; not always with the eloquence of the Frenchman and his walnut, but very frequently with quite equal energy. But at the end of our journey we were all smiles, and so was the captain. He was tender to the ladies and cordial to the gentlemen; and we, each in our kind, reciprocated his attention. On the whole, O my readers! if you are going to the West Indies, you may do worse than go in the 'Atrato.' But do not think too much of your withered apples.\n\nI landed at St. Thomas, where we lay for some hours; and as I put my foot on the tropical soil for the first time, a lady handed me a rose, saying, \"That's for love, dear.\" I took it, and said that it should be for love. She was beautifully, nay, elegantly dressed. Her broad-brimmed hat was as graceful as are those of Ryde or Brighton. The well-starched skirts of her muslin dress gave to her upright figure that look of easily compressible bulk, which, let 'Punch' do what it will, has become so sightly to our eyes. Pink gloves were on her hands. \"That's for love, dear.\" Yes, it shall be for love; for thee and thine, if I can find that thou deservest it. What was it to me that she was as black as my boot, or that she had come to look after the ship's washing?\n\nI shall probably have a word or two to say about St. Thomas; but not now. It is a Niggery-Hispano-Dano-Yankee-Doodle place; in which, perhaps, the Yankee-Doodle element, declaring itself in nasal twang and sherry cobblers, seems to be of the strongest flavour; as undoubtedly will be the case in many of these parts as years go on revolving. That nasal twang will sound as the Bocca Romana in coming fashionable western circles; those sherry cobblers will be the Falernian drink of a people masters of half the world. I dined at the hotel, but should have got a better dinner on board the 'Atrato,' in spite of the withered apples.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Jamaica",
+    "Region":"Caribbean",
+    "Continent":"Americas, North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.805,17.95254 ]
+    },
+    "properties": {
+    "PlaceName":"Kingston Harbor",
+    "PlaceNameModern":"Kingston Harbor",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1858,
+    "Description":"From St. Thomas we went to Kingston, Jamaica, in the 'Derwent.' We were now separated from the large host of Spaniards who had come with us, going to Peru, the Spanish Main, Mexico, Cuba, or Porto Rico; and, to tell the truth, we were not broken-hearted on the occasion.\n\n[...]\n\nKingston harbour is a large lagune, formed by a long narrow bank of sand which runs out into the sea, commencing some three or four miles above the town of Kingston, and continuing parallel with the coast on which Kingston is built till it reaches a point some five or six miles below Kingston. This sandbank is called \"The Palisades,\" and the point or end of it is Port Royal. This is the seat of naval supremacy for Jamaica, and, as far as England is concerned, for the surrounding islands and territories. And here lies our flag-ship; and here we maintain a commodore, a dock-yard, a naval hospital, a pile of invalided anchors, and all the usual adjuncts of such an establishment. Some years ago—I am not good at dates, but say seventy, if you will—Port Royal was destroyed by an earthquake.\n\nThose who are geographically inclined should be made to understand that the communication between Port Royal and Kingston, as, indeed, between Port Royal and any other part of the island, is by water. It is, I believe, on record that hardy Subs, and hardier Mids, have ridden along the Palisades, and not died from sun-stroke in the effort. But the chances are much against them. The ordinary ingress and egress is by water. The ferry boats usually take about an hour, and the charge is a shilling. The writer of these pages, however, has been two hours and a quarter in the transit.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Jamaica",
+    "Region":"Caribbean",
+    "Continent":"Americas, North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.8411,17.93676 ]
+    },
+    "properties": {
+    "PlaceName":"Port Royal",
+    "PlaceNameModern":"Port Royal",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1858,
+    "Description":"We had no Spaniards in the 'Derwent,' but a happy jovial little crew of Englishmen and Englishwomen—or of English subjects rather, for the majority of them belonged to Jamaica. The bad weather was at an end, and all our nautical troubles nearly over; so we ate and drank and smoked and danced, and swore mutual friendship, till the officer of the Board of Health visited us as we rounded the point at Port Royal, and again ruffled our tempers by delaying us for some thirty minutes under a broiling sun.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Jamaica",
+    "Region":"Caribbean",
+    "Continent":"Americas, North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.8099,18.01787 ]
+    },
+    "properties": {
+    "PlaceName":"Kingston",
+    "PlaceNameModern":"Kingston",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1858,
+    "Description":"Were it arranged by Fate that my future residence should be in Jamaica, I should certainly prefer the life of a country mouse. The town mice, in my mind, have but a bad time of it. Of all towns that I ever saw, Kingston is perhaps, on the whole, the least alluring, and is the more absolutely without any point of attraction for the stranger than any other.\n\nIt is built down close to the sea—or rather, on the lagune which forms the harbour, has a southern aspect, and is hot even in winter. I have seen the thermometer considerably above eighty in the shade in December, and the mornings are peculiarly hot, so that there is no time at which exercise can be taken with comfort. At about 10 a.m., a sea breeze springs up, which makes it somewhat cooler than it is two hours earlier—that is, cooler in the houses. The sea breeze, however, is not of a nature to soften the heat of the sun, or to make it even safe to walk far at that hour. Then, in the evening, there is no twilight, and when the sun is down it is dark. The stranger will not find it agreeable to walk much about Kingston in the dark.\n\nIndeed, the residents in the town, and in the neighbourhood of the town, never walk. Men, even young men, whose homes are some mile or half-mile distant from their offices, ride or drive to their work as systematically as a man who lives at Watford takes the railway.\n\nKingston, on a map—for there is a map even of Kingston—looks admirably well. The streets all run in parallels. There is a fine large square, plenty of public buildings, and almost a plethora of places of worship. Everything is named with propriety, and there could be no nicer town anywhere. But this word of promise to the ear is strangely broken when the performance is brought to the test. More than half the streets are not filled with houses. Those which are so filled, and those which are not, have an equally rugged, disreputable, and bankrupt appearance. The houses are mostly of wood, and are unpainted, disjointed, and going to ruin. Those which are built with brick not unfrequently appear as though the mortar had been diligently picked out from the interstices.\n\nBut the disgrace of Jamaica is the causeway of the streets themselves. There never was so odious a place in which to move. There is no pathway or trottoir to the streets, though there is very generally some such—I cannot call it accommodation—before each individual house. But as these are all broken from each other by steps up and down, as they are of different levels, and sometimes terminate abruptly without any steps, they cannot be used by the public. One is driven, therefore, into the middle of the street. But the street is neither paved nor macadamized, nor prepared for traffic in any way. In dry weather it is a bed of sand, and in wet weather it is a watercourse. Down the middle of this the unfortunate pedestrian has to wade, with a tropical sun on his head; and this he must do in a town which, from its position, is hotter than almost any other in the West Indies. It is no wonder that there should be but little walking.\n\nBut the stranger does not find himself naturally in possession of a horse and carriage. He may have a saddle-horse for eight shillings; but that is expensive as well as dilatory if he merely wishes to call at the post-office, or buy a pair of gloves. There are articles which they call omnibuses, and which ply cheap enough, and carry men to any part of the town for sixpence; that is, they will do so if you can find them. They do not run from any given point to any other, but meander about through the slush and sand, and are as difficult to catch as the musquitoes.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Jamaica",
+    "Region":"Caribbean",
+    "Continent":"Americas, North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.97481,18.01668 ]
+    },
+    "properties": {
+    "PlaceName":"Spanish Town",
+    "PlaceNameModern":"Spanish Town",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1858,
+    "Description":"That which tends in part to the desolation of Kingston—or rather, to put the proposition in a juster form, which prevents Kingston from enjoying those advantages which would naturally attach to the metropolis of the island—is this: the seat of government is not there, but at Spanish Town. Then our naval establishment is at Port Royal.\n\n[...]\n\nNew York, probably, might be no whit improved were the National Congress to be held there; nor Amsterdam, perhaps, if the Hague were abandoned; but it would be a great thing for Kingston if Spanish Town were deserted.\n\nThe Governor lives at the latter place, as do also those satellites or moons who revolve round the larger luminary—the secretaries, namely, and executive officers. These in Jamaica are now so reduced in size that they could not perhaps do much for any city; but they would do a little, and to Kingston any little would be acceptable. Then the Legislative Council and the House of Assembly sit at Spanish Town, and the members—at any rate of the latter body—are obliged to live there during some three months of the year, not generally in very comfortable lodgings.\n\nRespectable residents in the island, who would pay some attention to the Governor if he lived at the principal town, find it impossible to undergo the nuisance of visiting Spanish Town, and in this way go neither to the one nor the other, unless when passing through Kingston on their biennial or triennial visits to the old country.\n\nAnd those visits to Spanish Town are indeed a nuisance. In saying this, I reflect in no way on the Governor or the Governor's people. Were Gabriel Governor of Jamaica, with only five thousand pounds a year, and had he a dozen angels with him as secretaries and aides-de-camp, mortal men would not go to them at Spanish Town after they had once seen of what feathers their wings were made.\n\nIt is like the city of the dead. There are long streets there in which no human inhabitant is ever seen. In others a silent old negro woman may be sitting at an open door, or a child playing, solitary, in the dust. The Governor's house—King's House as it is called—stands on one side of a square; opposite is the house of the Assembly; on the left, as you come out from the Governor's, are the executive offices and house of the Council, and on the right some other public buildings. The place would have some pretension about it did it not seem to be stricken with an eternal death. All the walls are of a dismal dirty yellow, and a stranger cannot but think that the colour is owing to the dreadfully prevailing disease of the country. In this square there are no sounds; men and women never frequent it; nothing enters it but sunbeams—and such sunbeams! The glare from those walls seems to forbid that men and women should come there.\n\nThe parched, dusty, deserted streets are all hot and perfectly without shade. The crafty Italians have built their narrow streets so that the sun can hardly enter them, except when he is in the mid heaven; but there has been no such craft at Spanish Town. The houses are very low, and when there is any sun in the heavens it can enter those streets; and in those heavens there is always a burning, broiling sun.\n\nBut the place is not wholly deserted. There is here the most frightfully hideous race of pigs that ever made a man ashamed to own himself a bacon-eating biped. I have never done much in pigs myself, but I believe that pigly grace consists in plumpness and comparative shortness—in shortness, above all, of the face and nose. The Spanish Town pigs are never plump. They are the very ghosts of swine, consisting entirely of bones and bristles. Their backs are long, their ribs are long, their legs are long, but, above all, their heads and noses are hideously long. These brutes prowl about in the sun, and glare at the unfrequent strangers with their starved eyes, as though doubting themselves whether, by some little exertion, they might not become beasts of prey.\n\nThe necessity which exists for white men going to Spanish Town to see the Governor results, I do not doubt, in some deaths every year. I will describe the first time I was thus punished. Spanish Town is thirteen miles from Kingston, and the journey is accomplished by railway in somewhat under an hour. The trains run about every four hours. On my arrival a public vehicle took me from the station up to King's House, and everything seemed to be very convenient. The streets, certainly, were rather dead, and the place hot; but I was under cover, and the desolation did not seem to affect me. When I was landed on the steps of the government-house, the first idea of my coming sorrows flitted across my mind. \"Where shall I call for you?\" said the driver; \"the train goes at a quarter past four.\" It was then one: and where was he to call for me? and what was I to do with myself for three hours? \"Here,\" I said; \"on these steps.\" What other place could I name? I knew no other place in Spanish Town.\n\n[...]",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Jamaica",
+    "Region":"Caribbean",
+    "Continent":"Americas, North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.2975,18.10958 ]
+    },
+    "properties": {
+    "PlaceName":"Jamaica (countryside)",
+    "PlaceNameModern":"Jamaica (countryside)",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1858,
+    "Description":"I have spoken in disparaging terms of the chief town in Jamaica, but I can atone for this by speaking in very high terms of the country. In that island one would certainly prefer the life of the country mouse. There is scenery in Jamaica which almost equals that of Switzerland and the Tyrol; and there is also, which is more essential, a temperature among the mountains in which a European can live comfortably.\n\nI travelled over the greater part of the island, and was very much pleased with it. The drawbacks on such a tour are the expensiveness of locomotion, the want of hotels, and the badness of the roads. As to cost, the tourist always consoles himself by reflecting that he is going to take the expensive journey once, and once only. The badness of the roads forms an additional excitement; and the want of hotels is cured, as it probably has been caused, by the hospitality of the gentry.\n\n[...]\n\nIt is of course known that the sugar-cane is the chief production of Jamaica; but one may travel for days in the island and only see a cane piece here and there. By far the greater portion of the island is covered with wild wood and jungle—what is there called bush. Through this, on an occasional favourable spot, and very frequently on the roadsides, one sees the gardens or provision-grounds of the negroes. These are spots of land cultivated by them, for which they either pay rent, or on which, as is quite as common, they have squatted without payment of any rent.\n\nThese provision-grounds are very picturesque. They are not filled, as a peasant's garden in England or in Ireland is filled, with potatoes and cabbages, or other vegetables similarly uninteresting in their growth; but contain cocoa-trees, breadfruit-trees, oranges, mangoes, limes, plantains, jack fruit, sour-sop, avocado pears, and a score of others, all of which are luxuriant trees, some of considerable size, and all of them of great beauty. The breadfruit-tree and the mango are especially lovely, and I know nothing prettier than a grove of oranges in Jamaica. In addition to this, they always have the yam, which is with the negro somewhat as the potato is with the Irishman; only that the Irishman has nothing else, whereas the negro generally has either fish or meat, and has also a score of other fruits besides the yam.\n\nThe yam, too, is picturesque in its growth. As with the potato, the root alone is eaten, but the upper part is fostered and cared for as a creeper, so that the ground may be unencumbered by its thick tendrils. Support is provided for it as for grapes or peas. Then one sees also in these provision-grounds patches of coffee and arrowroot, and occasionally also patches of sugar-cane.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Jamaica",
+    "Region":"Caribbean",
+    "Continent":"Americas, North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.76135,18.0778 ]
+    },
+    "properties": {
+    "PlaceName":"Rivers",
+    "PlaceNameModern":"Rivers in Jamaia",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1858,
+    "Description":"A man wishing to see the main features of the whole island, and proceeding from Kingston as his head-quarters, must take two distinct tours, one to the east and the other to the west. The former may be best done on horseback, as the roads are, one may say, non-existent for a considerable portion of the way, and sometimes almost worse than non-existent in other places.\n\nOne of the most remarkable characteristics of Jamaica is the copiousness of its rivers. It is said that its original name, Xaymaca, signifies a country of streams; and it certainly is not undeserved. This copiousness, though it adds to the beauty, as no doubt it does also to its salubrity and fertility, adds something too to the difficulty of locomotion. Bridges have not been built, or, sad to say, have been allowed to go to destruction. One hears that this river or that river is \"down,\" whereby it is signified that the waters are swollen; and some of the rivers when so down are certainly not easy of passage. Such impediments are more frequent in the east than elsewhere, and on this account travelling on horseback is the safest as well as the most expeditious means of transit. I found four horses to be necessary, one for the groom, one for my clothes, and two for myself. A lighter weight might have done with three.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Jamaica",
+    "Region":"Caribbean",
+    "Continent":"Americas, North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.44763,18.17127 ]
+    },
+    "properties": {
+    "PlaceName":"Port Antonio",
+    "PlaceNameModern":"Port Antonio",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1858,
+    "Description":"We went across the island to a little village called Annotta Bay, traversing the Waag-water twenty-four times, as I have said; and from thence, through the parishes of Metcalf and St. George, to Port Antonio. \"Fuit ilium et ingens gloria.\" This may certainly be said of Port Antonio and the adjacent district. It was once a military station, and the empty barracks, standing so beautifully over the sea, on an extreme point of land, are now waiting till time shall reduce them to ruin. The place is utterly desolate, though not yet broken up in its desolation, as such buildings quickly become when left wholly untenanted. A rusty cannon or two still stand at the embrasures, watching the entrance to the fort; and among the grass we found a few metal balls, the last remains of the last ordnance supplies.\n\nBut Port Antonio was once a goodly town, and the country round it, the parish of Portland, is as fertile as any in the island. But now there is hardly a sugar estate in the whole parish. It is given up to the growth of yams, cocoas, and plantains. It has become a provision-ground for negroes, and the palmy days of the town are of course gone.\n\n[...]\n\nI had another adventure at Port Antonio. About two o'clock in the morning there was an earthquake, and we were all nearly shaken out of our beds. Some one rushed into my room, declaring that not a stone would be left standing of Port Royal. There were two distinct blows, separated by some seconds, and a loud noise was heard. I cannot say that I was frightened, as I had not time to realize the fact of the earthquake before it was all over. No harm was done, I believe, anywhere, beyond the disseverance of a little plaster from the walls.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Jamaica",
+    "Region":"Caribbean",
+    "Continent":"Americas, North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.41002,18.08442 ]
+    },
+    "properties": {
+    "PlaceName":"parish of St. George's in the East",
+    "PlaceNameModern":"Portland Partish",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1858,
+    "Description":"The largest expanse of unbroken cane-fields in Jamaica is at the extreme south-east, in the parish of St. George's in the East. Here I saw a plain of about four thousand acres under canes. It looked to be prosperous; but I was told by the planter with whom I was staying that the land had lately been deluged with water; that the canes were covered with mud; and that the crops would be very short. Poor Jamaica! It seems as though all the elements are in league against her.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Jamaica",
+    "Region":"Caribbean",
+    "Continent":"Americas, North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.91732,37.88083 ]
+    },
+    "properties": {
+    "PlaceName":"road through a magnificent ravine, and then over Mount Diabolo",
+    "PlaceNameModern":"",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1858,
+    "Description":"Shortly afterwards I went to the west. The distances here were longer, but the journey was made on wheels, and was not so fatiguing. Moreover, I stayed some little time with a friend in one of the distant parishes of the island. The scenery during the whole expedition was very grand. The road goes through Spanish Town, and then divides itself, one road going westward by the northern coast, and the other by that to the south. I went by the former, and began my journey by the bog or bogue walk, a road through a magnificent ravine, and then over Mount Diabolo. The Devil assumes to himself all the finest scenery in all countries. Of a delicious mountain tarn he makes his punch-bowl; he loves to leap from crag to crag over the wildest ravines; he builds picturesque bridges in most impassable sites; and makes roads over mountains at gradients not to be attempted by the wildest engineer. The road over Mount Diabolo is very fine, and the view back to Kingston very grand.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Jamaica",
+    "Region":"Caribbean",
+    "Continent":"Americas, North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.60778,18.35261 ]
+    },
+    "properties": {
+    "PlaceName":"parish of St. Anns",
+    "PlaceNameModern":"Trelawny Parish",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1858,
+    "Description":"From thence I went down into the parish of St. Anns, on the northern side. They all speak of St. Anns as being the most fertile district in the island. The inhabitants are addicted to grazing rather than sugarmaking, and thrive in that pursuit very well. But all Jamaica is suited for a grazing-ground, and all the West Indies should be the market for their cattle.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Jamaica",
+    "Region":"Caribbean",
+    "Continent":"Americas, North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.65647,18.49284 ]
+    },
+    "properties": {
+    "PlaceName":"Falmouth",
+    "PlaceNameModern":"Falmouth",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1858,
+    "Description":"On the northern coast there are two towns, Falmouth and Montego Bay, both of which are, at any rate in appearance, more prosperous than Kingston. I cannot say that the streets are alive with trade; but they do not appear to be so neglected, desolate, and wretched as the metropolis or the seat of government. They have jails and hospitals, mayors and magistrates, and are, except in atmosphere, very like small country towns in England.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Jamaica",
+    "Region":"Caribbean",
+    "Continent":"Americas, North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.13363,18.40977 ]
+    },
+    "properties": {
+    "PlaceName":"Hanover (parish)",
+    "PlaceNameModern":"Hanover Parish",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1858,
+    "Description":"The two furthermost parishes of Jamaica are Hanover and Westmoreland, and I stayed for a short time with a gentleman who lives on the borders of the two. I certainly was never in a more lovely country. He was a sugar planter; but the canes and sugar, which, after all, are ugly and by no means savoury appurtenances, were located somewhere out of sight. As far as I myself might know, from what I saw, my host's ordinary occupations were exactly those of a country gentleman in England. He fished and shot, and looked after his estate, and acted as a magistrate; and over and above this, was somewhat particular about his dinner, and the ornamentation of the land immediately round his house. I do not know that Fate can give a man a pleasanter life. If, however, he did at unseen moments inspect his cane-holes, and employ himself among the sugar hogsheads and rum puncheons, it must be acknowledged that he had a serious drawback on his happiness.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Jamaica",
+    "Region":"Caribbean",
+    "Continent":"Americas, North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.99539,18.3252 ]
+    },
+    "properties": {
+    "PlaceName":"Knockalva",
+    "PlaceNameModern":"Knockalva District, Ramble",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1858,
+    "Description":"I saw various grazing farms—pens they are here called—while I was in this part of the country; and I could not but fancy that grazing should in Jamaica be the natural and most beneficial pursuit of the proprietor, as on the other side of the Atlantic it certainly is in Ireland. I never saw grass to equal the guinea grass in some of the parishes; and at Knockalva I looked at Hereford cattle which I have rarely, if ever, seen beaten at any agricultural show in England. At present the island does not altogether supply itself with meat; but it might do so, and supply, moreover, nearly the whole of the remaining West Indies. Proprietors of land say that the sea transit is too costly. Of course it is at present; the trade not yet existing; for indeed, at present there is no means of such transit. But screw steamers now always appear quickly enough wherever freight offers itself; and if the cattle were there, they would soon find their way down to the Windward Islands.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Jamaica",
+    "Region":"Caribbean",
+    "Continent":"Americas, North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.71453,18.07254 ]
+    },
+    "properties": {
+    "PlaceName":"Newcastle",
+    "PlaceNameModern":"Newcastle JDF Camp",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1858,
+    "Description":"I took a third expedition up to Newcastle, where are placed the barracks for our white troops, to the Blue Mountain peak, and to various gentlemen's houses in these localities. For grandeur of scenery this is the finest part of the island. The mountains are far too abrupt, and the land too much broken for those lovely park-like landscapes of which the parishes of Westmoreland and Hanover are full, and of which Stuttlestone, the property of Lord Howard de Walden, is perhaps the most beautiful specimen. But nothing can be grander, either in colour or grouping, than the ravines of the Blue Mountain ranges of hills. Perhaps the finest view in the island is from Raymond Lodge, a house high up among the mountains, in which—so local rumour says—'Tom Cringle's Log' was written.\n\n[...]\n\nI have hunted in Carmarthenshire, and a man who has done that ought to be able to ride anywhere; but in riding over some of these razorback crags, my heart, though it did not faint visibly, did almost do so invisibly. However, we got safely to Newcastle, and our fair friends returned over the same route with no other escort than that of a black groom. In spite of the crags the ride was not unpleasant.\n\nOne would almost enlist as a full private in one of her Majesty's regiments of the line if one were sure of being quartered for ever at Newcastle—at Newcastle, Jamaica, I mean. Other Newcastles of which I wot have by no means equal attraction. This place also is accessible only by foot or on horseback; and is therefore singularly situated for a barrack. But yet it consists now of a goodly village, in which live colonels, and majors, and chaplains, and surgeons, and purveyors, all in a state of bliss—as it were in a second Eden. It is a military paradise, in which war is spoken of, and dinners and dancing abound. If good air and fine scenery be dear to the heart of the British soldier, he ought to be happy at Newcastle. Nevertheless, I prefer the views from Raymond Lodge to any that Newcastle can afford.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Jamaica",
+    "Region":"Caribbean",
+    "Continent":"Americas, North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.57916,18.04666 ]
+    },
+    "properties": {
+    "PlaceName":"Blue Mountain Peak",
+    "PlaceNameModern":"Blue Mountain Peak",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1858,
+    "Description":"However, I did go up the Blue Mountain Peak, which ascends—so I was told—to the respectable height of 8,000 feet above the sea level. To enable me to do this, I provided myself with a companion, and he provided me with five negroes, a supply of beef, bread, and water, some wine and brandy, and what appeared to me to be about ten gallons of rum; for we were to spend the night on the Blue Mountain Peak, in order that the rising sun might be rightly worshipped.\n\nFor some considerable distance we rode, till we came indeed to the highest inhabited house in the island. This is the property of a coffee-planter who lives there, and who divides his time and energies between the growth of coffee and the entertainment of visitors to the mountain. So hospitable an old gentleman, or one so droll in speech, or singular in his mode of living, I shall probably never meet again. His tales as to the fate of other travellers made me tremble for what might some day be told of my own adventures. He feeds you gallantly, sends you on your way with a God-speed, and then hands you down to derision with the wickedest mockery. He is the gibing spirit of the mountain, and I would at any rate recommend no ladies to trust themselves to his courtesies.\n\n[...]\n\nI have nothing remarkable to tell of the ascent. We soon got into a cloud, and never got out of it. But that is a matter of course. We were soon wet through up to our middles, but that is a matter of course also. We came to various dreadful passages, which broke our toes and our nails and our hats, the worst of which was called Jacob's ladder—also a matter of course. \n\n[Some horrifically racist passages succeed these.]",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Jamaica",
+    "Region":"Caribbean",
+    "Continent":"Americas, North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.78116,21.52175 ]
+    },
+    "properties": {
+    "PlaceName":"Cuba",
+    "PlaceNameModern":"Cuba",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"Cuba is the largest and the most westerly of the West Indian islands. It is in the shape of a half-moon, and with one of its horns nearly lies across the mouth of the Gulf of Mexico. It belongs to the Spanish crown, of which it is by far the most splendid appendage. So much for facts—geographical and historical.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Cuba",
+    "Region":"Caribbean, Latin Americ",
+    "Continent":"Americas, North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.44377,22.15997 ]
+    },
+    "properties": {
+    "PlaceName":"Cien Fuegos",
+    "PlaceNameModern":"Cienfuegos",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"[Trigger warnings]\n\nCien Fuegos is a small new town on the southern coast of Cuba, created by the sugar trade, and devoted, of course, to commerce. It is clean, prosperous, and quickly increasing. Its streets are lighted with gas, while those in the Havana still depend upon oil-lamps. It has its opera, its governor's house, its alaméda, its military and public hospital, its market-place, and railway station; and unless the engineers deceive themselves, it will in time have its well. It has also that institution which in the eyes of travellers ranks so much above all others, a good and clean inn.\n\nMy first object after landing was to see a slave sugar estate. I had been told in Jamaica that to effect this required some little management; that the owners of the slaves were not usually willing to allow strangers to see them at work; and that the manufacture of sugar in Cuba was as a rule kept sacred from profane eyes. But I found no such difficulty. I made my request to an English merchant at Cien Fuegos, and he gave me a letter of introduction to the proprietor of an estate some fifteen miles from the town; and by their joint courtesy I saw all that I wished.\n\nOn this property, which consisted altogether of eighteen hundred acres—the greater portion of which was not yet under cultivation—there were six hundred acres of cane pieces. The average year's produce was eighteen hundred hogsheads, or three hogsheads to the acre. The hogshead was intended to represent a ton of sugar when it reached the market, but judging from all that I could learn it usually fell short of it by more than a hundredweight. The value of such a hogshead at Cien Fuegos was about twenty-five pounds. There were one hundred and fifty negro men on the estate, the average cash value of each man being three hundred and fifty pounds; most of the men had their wives. In stating this it must not be supposed that either I or my informant insist much on the validity of their marriage ceremony; any such ceremony was probably of rare occurrence. During the crop time, at which period my visit was made, and which lasts generally from November till May, the negroes sleep during six hours out of the twenty-four, have two for their meals, and work for sixteen! No difference is made on Sunday. Their food is very plentiful, and of a good and strong description. They are sleek and fat and large, like well-preserved brewers' horses; and with reference to them, as also with reference to the brewers' horses, it has probably been ascertained what amount of work may be exacted so as to give the greatest profit. During the remainder of the year the labour of the negroes averages twelve hours a day, and one day of rest in the week is usually allowed to them.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Cuba",
+    "Region":"Caribbean, Latin Americ",
+    "Continent":"Americas, North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.36659,23.11359 ]
+    },
+    "properties": {
+    "PlaceName":"Havana",
+    "PlaceNameModern":"Havana",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"There is nothing attractive about the town of Havana; nothing whatever to my mind, if we except the harbour. The streets are narrow, dirty, and foul. In this respect there is certainly much difference between those within and without the wall. The latter are wider, more airy, and less vile. But even in them there is nothing to justify the praises with which the Havana is generally mentioned in the West Indies. It excels in population, size, and no doubt in wealth any other city there; but this does not imply a great eulogium. The three principal public buildings are the Opera House, the Cathedral, and the palace of the Captain-General. The former has been nearly knocked down by an explosion of gas, and is now closed. I believe it to be an admirable model for a second-rate house. The cathedral is as devoid of beauty, both externally and internally, as such an edifice can be made. To describe such a building would be an absurd waste of time and patience. We all know what is a large Roman Catholic church, built in the worst taste, and by a combination of the lowest attributes of Gothic and Latin architecture. The palace, having been built for a residence, does not appear so utterly vile, though it is the child of some similar father. It occupies one side of a public square or pláza, and from its position has a moderately-imposing effect. Of pictures in the Havana there are none of which mention should be made.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Cuba",
+    "Region":"Caribbean, Latin Americ",
+    "Continent":"Americas, North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.35924,23.1397 ]
+    },
+    "properties": {
+    "PlaceName":"Paseo in Havana",
+    "PlaceNameModern":"Paseo del Prado, Havana",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"But the glory of the Havana is the Paseo—the glory so called. This is the public drive and fashionable lounge of the town—the Hyde Park, the Bois de Boulogne, the Cascine, the Corso, the Alaméda. It is for their hour on the Paseo that the ladies dress themselves, and the gentlemen prepare their jewelry. It consists of a road running outside a portion of the wall, of the extent perhaps of half a mile, and ornamented with seats and avenues of trees, as are the boulevards at Paris. If it is to be compared with any other resort of the kind in the West Indies, it certainly must be owned there is nothing like it; but a European on first seeing it cannot understand why it is so eulogized. Indeed, it is probable that if he first goes thither alone, as was the case with me, he will pass over it, seeking for some other Paseo.\n\nBut then the glory of the Paseo consists in its volantes. As one boasts that one has swum in a gondola, so will one boast of having sat in a volante. It is the pride of Cuban girls to appear on the Paseo in these carriages on the afternoons of holidays and Sundays; and there is certainly enough of the picturesque about the vehicle to make it worthy of some description. It is the most singular of carriages, and its construction is such as to give a flat contradiction to all an Englishman's preconceived notions respecting the power of horses.\n\nThe volante is made to hold two sitters, though there is sometimes a low middle seat which affords accommodation to a third lady. We will commence the description from behind. There are two very huge wheels, rough, strong, high, thick, and of considerable weight. The axles generally are not capped, but the nave shines with coarse polished metal. Supported on the axletree, and swinging forward from it on springs, is the body of a cabriolet such as ordinary cabriolets used to be, with the seat, however, somewhat lower, and with much more room for the feet. The back of this is open, and generally a curtain hangs down over the open space. A metal bar, which is polished so as to look like silver, runs across the footboard and supports the feet. The body, it must be understood, swings forward from these high wheels, so that the whole of the weight, instead of being supported, hangs from it. Then there are a pair of shafts, which, counting from the back of the carriage to the front where they touch the horse at the saddle, are about fourteen feet in length. They do not go beyond the saddle, or the tug depending from the saddle in which they hang. From this immense length it comes to pass that there is a wide interval, exceeding six feet, between the carriage and the horse's tail; and it follows also, from the construction of the machine, that a large portion of the weight must rest on the horse's back.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Cuba",
+    "Region":"Caribbean, Latin Americ",
+    "Continent":"Americas, North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.34111,23.13524 ]
+    },
+    "properties": {
+    "PlaceName":"Harbour at Havana",
+    "PlaceNameModern":"Havana Harbor",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"The harbour at the Havana is an interesting sight. It is in the first place very picturesque, which to the ordinary visitor is the most important feature. But it is also commodious, large, and safe. It is approached between two forts. That to the westward, which is the principal defence, is called the Morro. Here also stands the lighthouse. No Englishman omits to hear, as he enters the harbour, that these forts were taken by the English in Albemarle's time. Now, it seems to me, they might very easily be taken by any one who chose to spend on them the necessary amount of gunpowder. But then I know nothing about forts.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Cuba",
+    "Region":"Caribbean, Latin Americ",
+    "Continent":"Americas, North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.78299,17.35782 ]
+    },
+    "properties": {
+    "PlaceName":"St. Kitts",
+    "PlaceNameModern":"St. Kitts",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"After leaving St. Thomas the first island seen of any note is St. Christopher, commonly known as St. Kitts, and Nevis is close to it. Both these colonies are prospering fairly. Sugar is exported, now I am told in increasing, though still not in great quantities, and the appearance of the cultivation is good. Looking up the side of the hills one sees the sugar-canes apparently in cleanly order, and they have an air of substantial comfort. Of course the times are not so bright as in the fine old days previous to emancipation; but nevertheless matters have been on the mend, and people are again beginning to get along. On the journey from Nevis to Antigua, Montserrat is sighted, and a singular island-rock called the Redonda is seen very plainly. Montserrat, I am told, is not prospering so well as St. Kitts or Nevis.\n\nThese islands are not so beautiful, not so greenly beautiful, as are those further south to which we shall soon come. The mountains of Nevis are certainly fine as they are seen from the sea, but they are not, or do not seem to be covered with that delicious tropical growth which is so lovely in Jamaica and Trinidad, and, indeed, in many of the smaller islands.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Saint Kitts and Nevis",
+    "Region":"Caribbean",
+    "Continent":"Americas, North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.79642,17.06081 ]
+    },
+    "properties": {
+    "PlaceName":"Antigua",
+    "PlaceNameModern":"Antigua",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"Antigua is the next, going southward. This was, and perhaps is, an island of some importance. It is said to have been the first of the West Indian colonies which itself advocated the abolition of slavery, and to have been the only one which adopted complete emancipation at once, without any intermediate system of apprenticeship. Antigua has its own bishop, whose diocese includes also such of the Virgin Islands as belong to us, and the adjacent islands of St. Kitts, Nevis, and Montserrat.\n\nNeither is Antigua remarkable for its beauty. It is approached, however, by an excellent and picturesque harbour, called English Harbour, which in former days was much used by the British navy; indeed, I believe it was at one time the head-quarters of a naval station. Premising, in the first place, that I know very little about harbours, I would say that nothing could be more secure than that. Whether or no it may be easy for sailing vessels to get in and out with certain winds, that, indeed, may be doubtful.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Antigua",
+    "Region":"Caribbean",
+    "Continent":"Americas, North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.84677,17.12741 ]
+    },
+    "properties": {
+    "PlaceName":"St. John on Antigua",
+    "PlaceNameModern":"St. John",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"St. John's, the capital of Antigua, is twelve miles from English Harbour. I was in the island only three or four hours, and did not visit it. I am told that it is a good town—or city, I should rather say, now that it has its own bishop.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Antigua",
+    "Region":"Caribbean",
+    "Continent":"Americas, North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.02417,14.64152 ]
+    },
+    "properties": {
+    "PlaceName":"Martinique",
+    "PlaceNameModern":"Martinique",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"After leaving Antigua we come to the French island of Guadaloupe, and then passing Dominica, of which I will say a word just now, to Martinique, which is also French. And here we are among the rich green wild beauties of these thrice beautiful Caribbean islands. The mountain grouping of both these islands is very fine, and the hills are covered up to their summits with growth of the greenest. At both these islands one is struck with the great superiority of the French West Indian towns to those which belong to us. That in Guadaloupe is called Basseterre, and the capital of Martinique is St. Pierre. These towns offer remarkable contrasts to Roseau and Port Castries, the chief towns in the adjacent English islands of Dominica and St. Lucia. At the French ports one is landed at excellently contrived little piers, with proper apparatus for lighting, and well-kept steps. The quays are shaded by trees, the streets are neat and in good order, and the shops show that ordinary trade is thriving. There are water conduits with clear streams through the towns, and every thing is ship-shape. I must tell a very different tale when I come to speak of Dominica and St. Lucia.\n\n[...]\n\nDominica and St. Lucia export annually about 6,000 hogsheads of sugar each. Martinique exports about 60,000 hogsheads. Martinique is certainly rather larger than either of the other two, but size has little or nothing to do with it. It is anything rather than want of fitting soil which makes the produce of sugar so inconsiderable in Dominica and St. Lucia.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Martinique",
+    "Region":"Caribbean",
+    "Continent":"Americas, North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.17583,14.74166 ]
+    },
+    "properties": {
+    "PlaceName":"St. Pierre",
+    "PlaceNameModern":"St. Pierre",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"The reason for this is, I think, well given in a useful guide to the West Indies, published some years since, under the direction of the Royal Mail Steam-Packet Company. Speaking of St. Pierre, in Martinique, the author says: \"The streets are neat, regular, and cleanly. The houses are high, and have more the air of European houses than those of the English colonies. Some of the streets have an avenue of trees, which overshadow the footpath, and on either side are deep gutters, down which the water flows. There are five booksellers houses, and the fashions are well displayed in other shops. The French colonists, whether Creoles or French, consider the West Indies as their country. They cast no wistful looks towards France. They marry, educate, and build in and for the West Indies, and for the West Indies alone. In our colonies it is different. They are considered more as temporary lodging-places, to be deserted as soon as the occupiers have made money enough by molasses and sugar to return home.\"",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Martinique",
+    "Region":"Caribbean",
+    "Continent":"Americas, North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.37097,15.41499 ]
+    },
+    "properties": {
+    "PlaceName":"Dominica",
+    "PlaceNameModern":"Dominica",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"To my mind, Dominica, as seen from the sea, is by far the most picturesque of all these islands. Indeed, it would be difficult to beat it either in colour or grouping. It fills one with an ardent desire to be off and rambling among those green mountains—as if one could ramble through such wild, bush country, or ramble at all with the thermometer at 85. But when one has only to think of such things without any idea of doing them, neither the bushes nor the thermometer are considered.\n\nOne is landed at Dominica on a beach. If the water be quiet, one gets out dryshod by means of a strong jump; if the surf be high, one wades through it; if it be very high, one is of course upset. The same things happen at Jacmel, in Hayti; but then Englishmen look on the Haytians as an uncivilized, barbarous race. Seeing that Dominica lies just between Martinique and Guadaloupe, the difference between the English beach and surf and the French piers is the more remarkable.\n\nAnd then, the perils of the surf being passed, one walks into the town of Roseau. It is impossible to conceive a more distressing sight. Every house is in a state of decadence. There are no shops that can properly be so called; the people wander about chattering, idle and listless; the streets are covered with thick, rank grass; there is no sign either of money made or of money making. Everything seems to speak of desolation, apathy, and ruin. There is nothing, even in Jamaica, so sad to look at as the town of Roseau.\n\nThe greater part of the population are French in manner, religion, and language, and one would be so glad to attribute to that fact this wretched look of apathetic poverty—if it were only possible. But we cannot do that after visiting Martinique and Guadaloupe. It might be said that a French people will not thrive under British rule. But if so, what of Trinidad? This look of misery has been attributed to a great fire which occurred some eighty years since; but when due industry has been at work great fires have usually produced improved towns. Now eighty years have afforded ample time for such improvement if it were forthcoming. Alas! it would seem that it is not forthcoming.\n\nIt must, however, be stated in fairness that Dominica produces more coffee than sugar, and that the coffee estates have latterly been the most thriving. Singularly enough, her best customer has been the neighbouring French island of Martinique, in which some disease has latterly attacked the coffee plants.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Dominica",
+    "Region":"Caribbean",
+    "Continent":"Americas, North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -60.97889,13.90944 ]
+    },
+    "properties": {
+    "PlaceName":"St. Lucia",
+    "PlaceNameModern":"St. Lucia",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"We then reach St. Lucia, which is also very lovely as seen from the sea. This, too, is an island French in its language, manners, and religion; perhaps more entirely so than any other of the islands belonging to ourselves. The laws even are still French, and the people are, I believe, blessed (?) with no Lords and Commons. If I understand the matter rightly, St. Lucia is held as a colony or possession conquered from the French, and is governed, therefore, by a quasi-military governor, with the aid of a council. It is, however, in some measure dependent on the Governor of Barbados, who is again one of your supreme governors. There has, I believe, been some recent change which I do not pretend to understand. If these changes be not completed, and if it would not be presumptuous in me to offer a word of advice, I would say that in the present state of the island, with a Negro-Gallic population who do little or nothing, it might be as well to have as much as possible of the Queen, and as little as possible of the Lords and Commons.\n\nTo the outward physical eye, St. Lucia is not so triste as Dominica. There is good landing there, and the little town of Castries, though anything but prosperous in itself, is prosperous in appearance as compared with Roseau.\n\nSt. Lucia is peculiarly celebrated for its snakes. One cannot walk ten yards off the road—so one is told—without being bitten. And if one be bitten, death is certain—except by the interposition of a single individual of the island, who will cure the sufferer—for a consideration. Such, at least, is the report made on this matter. The first question one should ask on going there is as to the whereabouts and usual terms of that worthy and useful practitioner. There is, I believe, a great deal that is remarkable to attract the visitor among the mountains and valleys of St. Lucia.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Dominica",
+    "Region":"Caribbean",
+    "Continent":"Americas, North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -59.54319,13.19388 ]
+    },
+    "properties": {
+    "PlaceName":"Barbados",
+    "PlaceNameModern":"Barbados",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"And then in the usual course, running down the island, one goes to that British advanced post, Barbados—Barbados, that lies out to windward, guarding the other islands as it were! Barbados, that is and ever was entirely British! Barbados, that makes money, and is in all respects so respectable a little island! King George need not have feared at all; nor yet need Queen Victoria. If anything goes wrong in England—Napoleon coming there, not to kiss Her Majesty this time, but to make himself less agreeable—let Her Majesty come to Barbados, and she will be safe! I have said that Jamaica never boasts, and have on that account complained of her. Let such complaint be far from me when I speak of Barbados. But shall I not write a distinct chapter as to this most respectable little island—an island that pays its way?",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Barbados",
+    "Region":"Caribbean",
+    "Continent":"Americas, North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.18634,13.25097 ]
+    },
+    "properties": {
+    "PlaceName":"St. Vincent",
+    "PlaceNameModern":"St. Vincent",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"St. Vincent is the next in our course, and this, too, is green and pretty, and tempting to look at. Here also the French have been in possession but comparatively for a short time. In settling this island, the chief difficulty the English had was with the old native Indians, who more than once endeavoured to turn out their British masters. The contest ended in their being effectually turned out by those British masters, who expelled them all bodily to the island of Ruatan, in the Bay of Honduras; where their descendants are now giving the Anglo-American diplomatists so much trouble in deciding whose subjects they truly are. May we not say that, having got rid of them out of St. Vincent, we can afford to get rid of them altogether?\n\nKingston is the capital here. It looks much better than either Roseau or Castries, though by no means equal to Basseterre or St. Pierre.\n\nThis island is said to be healthy, having in this respect a much better reputation than its neighbour St. Lucia, and as far as I could learn it is progressing—progressing slowly, but progressing—in spite even of the burden of Queens, Lords, and Commons. The Lords and Commons are no doubt considerably modified by official influence.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Saint Vincent and the Grenadines",
+    "Region":"Caribbean",
+    "Continent":"Americas, North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.25,12.66666 ]
+    },
+    "properties": {
+    "PlaceName":"Grenadines",
+    "PlaceNameModern":"Grenadines",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"And then the traveller runs down the Grenadines, a petty cluster of islands lying between St. Vincent and Grenada, of which Becquia and Cariacou are the chief. They have no direct connection with the mail steamers, but are, I believe, under the Governor of Barbados. They are very pretty, though not, as a rule, very productive. Of one of them I was told that the population were all females. What a Paradise of Houris, if it were but possible to find a good Mahommedan in these degenerate days!\n\nGrenada will be the last upon the list; for I did not visit or even see Tobago, and of Trinidad I have ventured to write a separate chapter, in spite of the shortness of my visit. Grenada is also very lovely, and is, I think, the head-quarters of the world for fruit. The finest mangoes I ever ate I found there; and I think the finest oranges and pine apples.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Saint Vincent and the Grenadines",
+    "Region":"Caribbean",
+    "Continent":"Americas, North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.74879,12.05609 ]
+    },
+    "properties": {
+    "PlaceName":"St. Georges",
+    "PlaceNameModern":"St. Georges",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"The town of St. Georges, the capital, must at one time have been a place of considerable importance, and even now it has a very different appearance from those that I have just mentioned. It is more like a goodly English town than any other that I saw in any of the smaller British islands. It is well built, though built up and down steep hills, and contains large and comfortable houses. The market-place also looks like a market-place, and there are shops in it, in which trade is apparently carried on and money made.\n\nIndeed, Grenada was once a prince among these smaller islands, having other islands under it, with a Governor supreme, instead of tributary. It was fertile also, and productive—in every way of importance.\n\nBut now here, as in so many other spots among the West Indies, we are driven to exclaim, Ichabod! The glory of our Grenada has departed, as has the glory of its great namesake in the old world. The houses, though so goodly, are but as so many Alhambras, whose tenants now are by no means great in the world's esteem.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Grenada",
+    "Region":"Caribbean",
+    "Continent":"Americas, North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58.93018,4.86041 ]
+    },
+    "properties": {
+    "PlaceName":"British Guiana",
+    "PlaceNameModern":"Guyana",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"When I settle out of England, and take to the colonies for good and all, British Guiana shall be the land of my adoption. If I call it Demerara perhaps I shall be better understood. At home there are prejudices against it I know. They say that it is a low, swampy, muddy strip of alluvial soil, infested with rattlesnakes, gallinippers, and musquitoes as big as turkey-cocks; that yellow fever rages there perennially; that the heat is unendurable; that society there is as stagnant as its waters; that men always die as soon as they reach it; and when they live are such wretched creatures that life is a misfortune. Calumny reports it to have been ruined by the abolition of slavery; milk of human kindness would forbid the further exportation of Europeans to this white man's grave; and philanthropy, for the good of mankind, would wish to have it drowned beneath its own rivers. There never was a land so ill spoken of—and never one that deserved it so little. All the above calumnies I contradict; and as I lived there for a fortnight—would it could have been a month!—I expect to be believed.\n\n[...]\n\nGuiana is an enormous extent of flat mud, the alluvial deposit of those mighty rivers which for so many years have been scraping together earth in those wild unknown upland countries, and bringing it down conveniently to the sea-board, so that the world might have sugar to its tea. I really think my friend was right. There is no limit to the fertility and extent of this region. The only limit is in labour. The present culture only skirts the sea-board and the riversides. You will hardly find an estate—I do not think that you can find one—that has not a water frontage. This land formerly belonged to the Dutch, and by them was divided out into portions which on a map have about them a Euclidical appearance. Let A B C D be a right-angled parallelogram, of which the sides A B and C D are three times the length of the other sides A C and B D. 'Tis thus you would describe a Demerara property, and the Q. E. D. would have reference to the relative quantities of sugar, molasses, and rum producible therefrom.\n\nBut these strips of land, though they are thus marked out on the maps with four exact lines, are presumed to run back to any extent that the owner may choose to occupy. He starts from the water, and is bounded on each side; but backwards! Backwards he may cultivate canes up to the very Andes, if only he could get Coolies. Oh, ye soft-hearted, philanthropic gentry of the Anti-Slavery Society, only think of that; a million hogsheads of sugar—and you like cheap sugar yourselves—if you will only be quiet, or talk on subjects that you understand!\n\nThe whole of this extent of mud, beyond the present very limited sugar-growing limits, is covered by timber. One is apt to think of an American forest as being as magnificent in its individual trees as it is huge in its extent of surface. But I doubt much whether this is generally the case. There are forest giants no doubt; but indigenous primeval wood is, I take it, for the most part a disagreeable, scrubby, bushy, sloppy, unequal, inconvenient sort of affair, to walk through which a man should be either an alligator or a monkey, and to make much way he should have a touch of both. There be no forest glades there in which uncivilized Indian lovers walk at ease, with their arms round each other's naked waists; no soft grass beneath the well-trimmed trunk on which to lie and meditate poetical. But musquitoes abound there; and grass flies, which locate themselves beneath the toe-nails; and marabunters, a villanous species of wasp; and gallinippers, the grandfathers of musquitoes; and from thence up to the xagua and the boa constrictor all nature is against a cool comfortable ramble in the woods.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Guyana",
+    "Region":"Caribbean",
+    "Continent":"Americas, North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58.15512,6.80127 ]
+    },
+    "properties": {
+    "PlaceName":"Georgetown",
+    "PlaceNameModern":"Georgetown",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"If there be a deficiency in Georgetown—it is hardly necessary to explain that Georgetown is the capital of the province of Demerara, and that Demerara is the centre province in the colony of British Guiana; or that there are three provinces, Berbice, Demerara, and Essequibo, so called from the names of the three great rivers of the country—But if there be a deficiency in Georgetown, it is in respect to cabs. The town is extensive, as will by-and-by be explained; and though I would not so far militate against the feelings of the people as to say that the weather is ever hot—I should be ungrateful as well as incredulous were I to do so—nevertheless, about noonday one's inclination for walking becomes subdued. Cabs would certainly be an addition to the luxuries of the place. But even these are not so essential as might at the first sight appear, for an invitation to dinner always includes an offer of the host's carriage. Without a carriage no one dreams of dragging on existence in British Guiana. In England one would as soon think of living in a house without a fireplace, or sleeping in a bed without a blanket.\n\nFor those who wander abroad in quest of mountain scenery it must be admitted that this colony has not much attraction. The country certainly is flat. By this I mean to intimate, that go where you will, travel thereabouts as far as you may, the eye meets no rising ground. Everything stands on the same level. But then, what is the use of mountains? You can grow no sugar on them, even with ever so many Coolies. They are big, brown, valueless things, cumbering the face of the creation; very well for autumn idlers when they get to Switzerland, but utterly useless in a colony which has to count its prosperity by the number of its hogsheads. Jamaica has mountains, and look at Jamaica!\n\n[...]\n\nGeorgetown to my eyes is a prepossessing city, flat as the country round it is, and deficient as it is—as are all the West Indies—in anything like architectural pretension. The streets are wide and airy. The houses, all built of wood, stand separately, each a little off the road; and though much has not been done in the way of their gardens—for till the great coming influx of Coolies all labour is engaged in making sugar—yet there is generally something green attached to each of them. Down the centre of every street runs a wide dyke. Of these dykes I must say something further when I come to speak again of the sugar doings; for their importance in these provinces cannot well be overrated.\n\nThe houses themselves are generally without a hall. By that I mean that you walk directly into some sitting-room. This, indeed, is general through the West Indies; and now that I bethink me of the fact, I may mention that a friend of mine in Jamaica has no door whatsoever to his house. All ingress and egress is by the windows. My bedroom had no door, only a window that opened. The sitting-rooms in Georgetown open through to each other, so that the wind, let it come which way it will, may blow through the whole house. For though it is never absolutely hot in Guiana—as I have before mentioned—nevertheless, a current of air is comfortable. One soon learns to know the difference of windward and leeward when living in British Guiana.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Guyana",
+    "Region":"Caribbean",
+    "Continent":"Americas, North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58.38217,5.77878 ]
+    },
+    "properties": {
+    "PlaceName":"Demerara",
+    "PlaceNameModern":"Demerara",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"Yes; Demerara is flat; and Berbice is flat; and so is Essequibo. The whole of this land is formed by the mud which has been brought down by these great rivers and by others. The Corentyne is the most easterly, separating our colony from Dutch Guiana, or Surinam. Then comes the Berbice. The next, counting only the larger rivers, is the Demerara. Then, more to the west, the Essequibo, and running into that the Mazarony and the Cuyuni; and then, north-west along the coast, the Pomeroon; and lastly of our own rivers, the Guiana, though I doubt whether for absolute purposes of colonization we have ever gone so far as this. And beyond that are rolled in slow but turbid volume the huge waters of the Orinoco. On its shores we make no claim. Though the delta of the Orinoco is still called Guiana, it belongs to the republic of Venezuela.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Guyana",
+    "Region":"Caribbean",
+    "Continent":"Americas, North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.76265,6.73677 ]
+    },
+    "properties": {
+    "PlaceName":"Georgetown, Demerara, to New Amsterdam, Berbice",
+    "PlaceNameModern":"Georgetown, Demerara, to New Amsterdam, Berbice",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"From Georgetown, Demerara, to New Amsterdam, Berbice, men travel either by steamer along the coast, or by a mail phaeton. The former goes once a week to Berbice and back, and the latter three times. I went by the mail phaeton and returned by the steamer. And here, considering the prosperity of the colony, the well-being and comfort of all men and women in it, the go-ahead principles of the place, and the coming million hogsheads of sugar—the millennium of a West Indian colony—considering all these great existing characteristics of Guiana, I must say that I think the Governor ought to look to the mail phaeton. It was a woful affair, crumbling to pieces along the road in the saddest manner; very heart-rending to the poor fellow who had to drive it, and body-rending to some of the five passengers who were tossed to and fro as every fresh fragment deserted the parent vehicle with a jerk. And then, when we had to send the axle to be mended, that staying in the road for two hours and a half among the musquitoes! Ohe! ohe! Ugh! ugh!\n\nIt grieves me to mention this, seeing that rose colour was so clearly the prevailing tint in all matters belonging to Guiana. And I would have forgiven it had the phaeton simply broken down on the road. All sublunar phaetons are subject to such accidents. Why else should they have been named after him of the heavens who first suffered from such mishaps? But this phaeton had broken down before it commenced its journey. It started on a system of ropes, bandages, and patches which were disgraceful to such a colony and such a Governor; and I should intromit a clear duty, were I to allow it to escape the gibbet.\n\nBut we did reach New Amsterdam not more than five hours after time. I have but very little to say of the road, except this: that there is ample scope for sugar and ample room for Coolies.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Guyana",
+    "Region":"Caribbean",
+    "Continent":"Americas, North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.51365,6.24313 ]
+    },
+    "properties": {
+    "PlaceName":"New Amsterdam",
+    "PlaceNameModern":"New Amsterdam",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"[Trigger warnings]\n\nLate at night we did reach New Amsterdam, and crossed the broad Berbice after dark in a little ferryboat which seemed to be perilously near the water. At ten o'clock I found myself at the hotel, and pronounce it to be, without hesitation, the best inn, not only in that colony, but in any of these Western colonies belonging to Great Britain. It is kept by a negro, one Mr. Paris Brittain, of whom I was informed that he was once a slave. \"O, si sic omnes!\" But as regards my experience, he is merely the exception which proves the rule. I am glad, however, to say a good word for the energies and ambition of one of the race, and shall be glad if I can obtain for Mr. Paris Brittain an innkeeper's immortality.\n\nHis deserts are so much the greater in that his scope for displaying them is so very limited. No man can walk along the broad strand street of New Amsterdam, and then up into its parallel street, so back towards the starting-point, and down again to the sea, without thinking of Knickerbocker and Rip van Winkle. The Dutchman who built New Amsterdam and made it once a thriving town must be still sleeping, as the New York Dutchman once slept, waiting the time when an irruption from Paramaribo and Surinam shall again restore the place to its old possessors.\n\nAt present life certainly stagnates at New Amsterdam. Three persons in the street constitute a crowd, and five collected for any purpose would form a goodly club. But the place is clean and orderly, and the houses are good and in good repair. They stand, as do the houses in Georgetown, separately, each surrounded by its own garden or yard, and are built with reference to the wished-for breeze from the windows.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Guyana",
+    "Region":"Caribbean",
+    "Continent":"Americas, North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.98043,5.39043 ]
+    },
+    "properties": {
+    "PlaceName":"Demerara to Berbice",
+    "PlaceNameModern":"Demerara to Berbice",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"I should have said, in speaking of my journey from Demerara to Berbice, that the first fifteen miles were performed by railway. The colony would have fair ground of complaint against me were I to omit to notice that it has so far progressed in civilization as to own a railway. As far as I could learn, the shares do not at present stand at a high premium. From Berbice I returned in a coasting steamer. It was a sleepy, dull, hot journey, without subject of deep interest. I can only remember of it that they gave us an excellent luncheon on board, and luncheons at such times are very valuable in breaking the tedium of the day.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Guyana",
+    "Region":"Caribbean",
+    "Continent":"Americas, North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -59.54319,13.19388 ]
+    },
+    "properties": {
+    "PlaceName":"Barbados",
+    "PlaceNameModern":"Barbados",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"[Trigger warnings.]\n\nBarbados is a very respectable little island, and it makes a great deal of sugar. It is not picturesquely beautiful, as are almost all the other Antilles, and therefore has but few attractions for strangers.\n\nBut this very absence of scenic beauty has saved it from the fate of its neighbours. A country that is broken into landscapes, that boasts of its mountains, woods, and waterfalls, that is regarded for its wild loveliness, is seldom propitious to agriculture. A portion of the surface in all such regions defies the improving farmer. But, beyond this, such ground under the tropics offers every inducement to the negro squatter. In Jamaica, Dominica, St. Lucia, and Grenada, the negro, when emancipated, could squat and make himself happy; but in Barbados there was not an inch for him.\n\n[...]\n\nAs to its appearance, it is, as I have said, totally different from any of the other islands, and to an English eye much less attractive in its character. But for the heat its appearance would not strike with any surprise an Englishman accustomed to an ordinary but ugly agricultural country. It has not the thick tropical foliage which is so abundant in the other islands, nor the wild, grassy dells. Happily for the Barbadians every inch of it will produce canes; and, to the credit of the Barbadians, every inch of it does so. A Barbadian has a right to be proud of this, but it does not make the island interesting. It is the waste land of the world that makes it picturesque. But there is not a rood of waste land in Barbados. It certainly is not the country for a gipsy immigration. Indeed, I doubt whether there is even room for a picnic.\n\nThe island is something over twenty miles long, and something over twelve broad. The roads are excellent, but so white that they sadly hurt the eye of a stranger. The authorities have been very particular about their milestones, and the inhabitants talk much about their journeys. I found myself constantly being impressed with ideas of distance, till I was impelled to suggest a rather extended system of railroads—a proposition which was taken in very good part. I was informed that the population was larger than that of China, but my informant of course meant by the square foot. He could hardly have counted by the square mile in Barbados.\n\nAnd thus I was irresistibly made to think of the frog that would blow itself out and look as large as an ox.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Barbados",
+    "Region":"Caribbean",
+    "Continent":"Americas, North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -59.61317,13.10598 ]
+    },
+    "properties": {
+    "PlaceName":"Bridgetown",
+    "PlaceNameModern":"Barbados",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"Bridgetown, the metropolis of the island, is much like a second or third rate English town. It has none of the general peculiarities of the West Indies, except the heat. The streets are narrow, irregular, and crooked, so that at first a stranger is apt to miss his way. They all, however, converge at Trafalgar Square, a spot which, in Barbados, is presumed to compete with the open space at Charing Cross bearing the same name. They have this resemblance, that each contains a statue of Nelson. The Barbadian Trafalgar Square contains also a tree, which is more than can be said for its namesake. It can make also this boast, that no attempt has been made within it which has failed so grievously as our picture gallery. In saying this, however, I speak of the building only—by no means of the pictures.\n\nThere are good shops in Bridgetown—good, respectable, well-to-do shops, that sell everything, from a candle down to a coffin, including wedding-rings, corals, and widows' caps. But they are hot, fusty, crowded places, as are such places in third-rate English towns. But then the question of heat here is of such vital moment! A purchase of a pair of gloves in Barbados drives one at once into the ice-house.\n\nAnd here it may be well to explain this very peculiar, delightful, but too dangerous West Indian institution. By-the-by, I do not know that there was any ice-house in Kingston, Jamaica. If there be one there, my friends were peculiarly backward, for I certainly was not made acquainted with it. But everywhere else—at Demerara, Trinidad, Barbados, and St. Thomas—I was duly introduced to the ice-house.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Barbados",
+    "Region":"Caribbean",
+    "Continent":"Americas, North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.2225,10.6918 ]
+    },
+    "properties": {
+    "PlaceName":"Trinidad",
+    "PlaceNameModern":"Trinidad",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"No scenery can be more picturesque than that afforded by the entrance to Port of Spain, the chief town in the island of Trinidad. Trinidad, as all men doubtless know, is the southernmost of the West Indian islands, and lies across the delta of the Orinoco river. The western portion of the island is so placed that it nearly reaches with two horns two different parts of the mainland of Venezuela, one of the South American republics. And thus a bay is formed closed in between the island and the mainland, somewhat as is the Gulf of Mexico by the island of Cuba; only that the proportions here are much less in size. This enclosed sea is called the Gulf of Paria.\n\n[...]\n\nOn the mainland, that is the land of the main island, the coast is precipitous, but clothed to the very top with the thickest and most magnificent foliage. With an opera-glass one can distinctly see the trees coming forth from the sides of the rocks as though no soil were necessary for them, and not even a shelf of stone needed for their support And these are not shrubs, but forest trees, with grand spreading branches, huge trunks, and brilliant coloured foliage. The small island on the other side is almost equally wooded, but is less precipitous. Here, however, there are open glades, and grassy enclosures, which tempt one to wish that it was one's lot to lie there in the green shade and eat bananas and mangoes. This little island in the good old days, regretted by not a few, when planters were planters, and slaves were slaves, produced cotton up to its very hill-tops. Now I believe it yields nothing but the grass for a few cattle.\n\nOur steamer as she got well into the boca drew near to the shore of the large island, and as we passed along we had a succession of lovely scenes. Soft-green smiling nooks made themselves visible below the rocks, the very spots for picnics. One could not but long to be there with straw hats and crinoline, pigeon pies and champagne baskets. There was one narrow shady valley, into which a creek of the sea ran up, that must have been made for such purposes, either for that, or for the less noisy joys of some Paul of Trinidad with his Creole Virginia.\n\nAs we steamed on a little further we came to a whaling establishment. Ideas of whaling establishments naturally connect themselves with icebergs and the North Pole. But it seems that there are races of whales as there are of men, proper to the tropics as well as to the poles; and some of the former here render up their oily tributes. From the look of the place I should not say that the trade was flourishing. The whaling huts are very picturesque, but do not say much for the commercial enterprise of the proprietors.\n\n[...]\n\nAs my sojourn in Trinidad did not amount to two entire days, I do not feel myself qualified to give a detailed description of the whole island. Very few, I imagine, are so qualified, for much of it is unknown; there is a great want of roads, and a large proportion of it has, I believe, never been properly surveyed.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Trinidad and Tobago",
+    "Region":"Caribbean",
+    "Continent":"Americas, North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.50856,10.66031 ]
+    },
+    "properties": {
+    "PlaceName":"Port of Spain",
+    "PlaceNameModern":"Port of Spain",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"The two chief towns, I believe I may say the two only towns in Trinidad are situated in this bay. That which is the larger, and the seat of government, is called the Port of Spain, and lies near to the northern horn. \n\n[…]\n\nFrom them we went on through many smaller islands to Port of Spain. This is a large town, excellently well laid out, with the streets running all at right angles to each other, as is now so common in new towns. The spaces have been prepared for a much larger population than that now existing, so that it is at present straggling, unfilled, and full of gaps. But the time will come, and that before long, when it will be the best town in the British West Indies. There is at present in Port of Spain a degree of commercial enterprise quite unlike the sleepiness of Jamaica or the apathy of the smaller islands.\n\n[...]\n\nImmediately round Port of Spain the country is magnificent, and the views from the town itself are very lovely. Exactly behind the town, presuming the sea to be the front, is the Savanah, a large enclosed, park-like piece of common, the race-course and Hyde Park of Trinidad. I was told that the drive round it was three English miles in length; but if it be so much, the little pony which took me that drive in a hired buggy must have been a fast trotter.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Trinidad and Tobago",
+    "Region":"Caribbean",
+    "Continent":"Americas, North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.44904,10.30158 ]
+    },
+    "properties": {
+    "PlaceName":"San Fernando",
+    "PlaceNameModern":"San Fernando",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"San Fernando, the other, which is surrounded by the finest sugar districts of the island, and which therefore devotes its best energies to the export of that article, is on the other side of the bay and near the other horn.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Trinidad and Tobago",
+    "Region":"Caribbean",
+    "Continent":"Americas, North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.00028,9.00313 ]
+    },
+    "properties": {
+    "PlaceName":"Delta of the Orinoco",
+    "PlaceNameModern":"Delta of the Orinoco",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"The passages into the enclosed sea on either side are called the Bocas, or mouths. Those nearest to the delta of the Orinoco are the Serpent's mouths. The ordinary approach from England or the other islands is by the more northern entrance. Here there are three passages, of which the middle is the largest one, the Boca Grande. That between the mainland and a small island is used by the steamers in fine weather, and is by far the prettiest. Through this, the Boca di Mona, or monkey's mouth, we approached Port of Spain. These northern entrances are called the Dragon's mouths. What may be the nautical difference between the mouth of a dragon and that of a serpent I did not learn.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Trinidad and Tobago",
+    "Region":"Caribbean",
+    "Continent":"Americas, North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.51197,10.67764 ]
+    },
+    "properties": {
+    "PlaceName":"Governor's real house in Port of Spain",
+    "PlaceNameModern":"President's House in Port of Spain",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"On the further side of this lives the Governor of the island, immediately under the hills. When I was there the Governor's real house was being repaired, and the great man was living in a cottage hard by. Were I that great man I should be tempted to wish that my great house might always be under repair, for I never saw a more perfect specimen of a pretty spacious cottage, opening as a cottage should do on all sides and in every direction, with a great complexity as to doors and windows, and a delicious facility of losing one's way. And then the necessary freedom from boredom, etiquette, and Governor's grandeur, so hated by Governors themselves, which must necessarily be brought about by such a residence! I could almost wish to be a Governor myself, if I might be allowed to live in such a cottage.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Trinidad and Tobago",
+    "Region":"Caribbean",
+    "Continent":"Americas, North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.89409,18.33809 ]
+    },
+    "properties": {
+    "PlaceName":"St. Thomas",
+    "PlaceNameModern":"Saint Thomas",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"I have said in a previous chapter that the people one meets there may be described as an Hispano-Dano-Niggery-Yankee-doodle population. In this I referred not only to the settlers, but to those also who are constantly passing through it. In the shops and stores, and at the hotels, one meets the same mixture. The Spanish element is of course strong, for Venezuela, New Granada, Central America, and Mexico are all Spanish, as also is Cuba. The people of these lands speak Spanish, and hereabouts are called Spaniards. To the Danes the island belongs. The soldiers, officials, and custom-house people are Danes. They do not, however, mix much with their customers. They affect, I believe, to say that the island is overrun and destroyed by these strange comers, and that they would as lief be without such visitors. If they are altogether indifferent to money making, such may be the case. The labouring people are all black—if these blacks can be called a labouring people. They do coal the vessels at about a dollar a day each—that is, when they are so circumstanced as to require a dollar. As to the American element, that is by no means the slightest or most retiring. Dollars are going there, and therefore it is of course natural that Americans should be going also. I saw the other day a map, \"The United States as they now are, and in prospective;\" and it included all these places—Mexico, Central America, Cuba, St. Domingo, and even poor Jamaica. It may be that the man who made the map understood the destiny of his country; at any rate, he understood the tastes of his countrymen.\n\n[...]\n\nBut we must give even the devil his due. Seen from the water St. Thomas is very pretty. It is not so much the scenery of the island that pleases as the aspect of the town itself. It stands on three hills or mounts, with higher hills, green to their summit, rising behind them. Each mount is topped by a pleasant, cleanly edifice, and pretty-looking houses stretch down the sides to the water's edge. The buildings do look pretty and nice, and as though chance had arranged them for a picture. Indeed, as seen from the harbour, the town looks like a panorama exquisitely painted. The air is thin and transparent, and every line shows itself clearly. As so seen the town of St. Thomas is certainly attractive. But it is like the Dead Sea fruit; all the charm is gone when it is tasted. Land there, and the beauty vanishes.\n\n[...]\n\nA hot climate, it is generally thought, interferes with the appetite, affects the gastric juices with lassitude, gives to the stomach some of the apathy of the body, and lessens at any rate the consumption of animal food. That charge cannot be made against the air of St. Thomas. To whatever sudden changes the health may be subject, no lingering disinclination for food affects it. Men eat there as though it were the only solace of their life, and women also. Probably it is so.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"U.S. Virgin Islands",
+    "Region":"Caribbean",
+    "Continent":"Americas, North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.07209,4.71098 ]
+    },
+    "properties": {
+    "PlaceName":"New Granada",
+    "PlaceNameModern":"Colombia",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"It is probably known to all that New Granada is the most northern of the republics of South America; or it should rather be said that it is the state nearest to the isthmus, of which indeed it comprehends a considerable portion; the territory of the Gulf of Darien and the district of Panamá all being within the limits of New Granada.\n\n[...]\n\nThe district of Columbia was one of the grandest appanages of the Spanish throne when the appanages of the Spanish throne were grand indeed. The town and port of Cartagena, on the Atlantic, were admirably fortified, as was also Panamá on the Pacific. Its interior cities were populous, flourishing, and, for that age, fairly civilized. Now the whole country has received the boon of Utopian freedom; and the mind loses itself in contemplating to what lowest pitch of human degradation the people will gradually fall.\n\n[...]",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Colombia",
+    "Region":"Latin America",
+    "Continent":"Americas, South America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.21102,11.24035 ]
+    },
+    "properties": {
+    "PlaceName":"Santa Martha",
+    "PlaceNameModern":"Santa Marta",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"This Santa Martha is a wretched village—a city it is there called—at which we, with intense cruelty, maintain a British Consul, and a British post-office. There is a cathedral there of the old Spanish order, with the choir removed from the altar down towards the western door; and there is, I was informed, a bishop. But neither bishop nor cathedral were in any way remarkable. There is there a governor of the province, some small tradesman, who seemed to exercise very few governing functions. It may almost be said that no trade exists in the place, which seemed indeed to be nearly dead.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Colombia",
+    "Region":"Latin America",
+    "Continent":"Americas, South America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.1774,11.22825 ]
+    },
+    "properties": {
+    "PlaceName":"house in which Bolivar died",
+    "PlaceNameModern":"Quinta de San Pedro Alejandrino",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"I rode some four or five miles into the country to visit the house in which Bolivar died. It is a deserted little country villa or chateau, called San Pedro, standing in a farm-yard, and now containing no other furniture than a marble bust of the Dictator, with a few wretchedly coloured French prints with cracked glass plates. The bust is not a bad one, and seems to have a solemn and sad meaning in its melancholy face, standing there in its solitary niche in the very room in which the would-be liberator died.\n\nFor Bolivar had grand ideas of freedom, though doubtless he had grand ideas also of personal power and pre-eminence; as has been the case with most of those who have moved or professed to move in the vanguard of liberty. To free mankind from all injurious thraldom is the aspiration of such men; but who ever thought that obedience to himself was a thraldom that could be injurious?\n\nAnd here in this house, on the 17th December, 1830, Bolivar died, broken-hearted, owing his shelter to charity, and relieved in his last wants by the hands of strangers to his country. When the breath was out of him and he was well dead, so that on such a matter he himself could probably have no strong wish in any direction, they took away his body, of course with all honour, to the district that gave him birth, and that could afford to be proud of him now that he was dead;—into Venezuela and reburied him at Caracas. But dying poverty and funeral honours have been the fate of great men in other countries besides Columbia.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Colombia",
+    "Region":"Latin America",
+    "Continent":"Americas, South America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.48323,10.39322 ]
+    },
+    "properties": {
+    "PlaceName":"Cartagena",
+    "PlaceNameModern":"Cartagena",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"I then went on to Cartagena. This is a much better town than Santa Martha, though even this is in its decadence. It was once a flourishing city, great in commerce and strong in war. It was taken by the English, not however without signal reverses on our part, and by the special valour—so the story goes—of certain sailors who dragged a single gun to the summit of a high abrupt hill called the \"Papa,\" which commands the town. If the thermometer stood in those days as high at Cartagena as it does now, pretty nearly through the whole of the year, those sailors ought to have had the Victoria cross. But these deeds were done long years ago, in the time of Drake and his followers; and Victoria crosses were then chiefly kept for the officers.\n\nThe harbour at Cartagena is singularly circumstanced. There are two entrances to it, one some ten miles from the city and the other close to it. This nearer aperture was blocked up by the Spaniards, who sank ships across the mouth; and it has never been used or usable since. The present entrance is very strongly fortified. The fortifications are still there, bristling down to the water's edge; or they would bristle, were it not that all the guns have been sold for the value of the brass metal.\n\nCartagena was hotter even than Santa Martha; but the place is by no means so desolate and death-like. The shops there are open to the streets, as shops are in other towns. Men and women may occasionally be seen about the square; and there is a trade,—in poultry if in nothing else.\n\nThere is a cathedral here also, and I presume a bishop. The former is built after the Spanish fashion, and boasts a so-called handsome, large, marble pulpit. That it is large and marble, I confess; but I venture to question its claims to the other epithet. There are pictures also in the cathedral; of spirits in a state of torture certainly; and if I rightly remember of beatified spirits also. But in such pictures the agonies of the damned always excite more attention and a keener remembrance than the ecstasies of the blest. I cannot say that the artist had come up either to the spirit of Fra Angelico, or to the strength of Orcagna.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Colombia",
+    "Region":"Latin America",
+    "Continent":"Americas, South America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.27673,8.8855 ]
+    },
+    "properties": {
+    "PlaceName":"Isthmus of Panamá",
+    "PlaceNameModern":"Isthmus of Panama",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"From Cartagena I went on to the isthmus; the Isthmus of Panamá, as it is called by all the world, though the American town of Aspinwall will gradually become the name best known in connexion with the passage between the two oceans.\n\nThis passage is now made by a railway which has been opened by an American company between the town of Aspinwall, or Colon, as it is called in England, and the city of Panamá. Colon is the local name for this place, which also bears the denomination of Navy Bay in the language of sailors. But our friends from Yankee-land like to carry things with a high hand, and to have a nomenclature of their own. Here, as their energy and their money and their habits are undoubtedly in the ascendant, they will probably be successful; and the place will be called Aspinwall in spite of the disgust of the New Granadians, and the propriety of the English, who choose to adhere to the names of the existing government of the country.\n\nA rose by any other name would smell as sweet, and Colon or Aspinwall will be equally vile however you may call it. It is a wretched, unhealthy, miserably situated but thriving little American town, created by and for the railway and the passenger traffic which comes here both from Southampton and New York. That from New York is of course immensely the greatest, for this is at present the main route to San Francisco and California.\n\nI visited the place three times, for I passed over the isthmus on my way to Costa Rica, and on my return from that country I went again to Panamá, and of course back to Colon. I can say nothing in its favour. My only dealing there was with a washerwoman, and I wish I could place before my readers a picture of my linen in the condition in which it came back from that artist's hands. I confess that I sat down and shed bitter tears. In these localities there are but two luxuries of life, iced soda-water and clean shirts. And now I was debarred from any true enjoyment of the latter for more than a fortnight.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Panamá",
+    "Region":"CentralAmerica, Latin America",
+    "Continent":"Americas, South America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.51986,8.98237 ]
+    },
+    "properties": {
+    "PlaceName":"Panamá",
+    "PlaceNameModern":"Panamá City",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"Panamá has doubtless become a place of importance to Englishmen and Americans, and its name is very familiar to our ears. But nevertheless it is a place whose glory has passed away. It was a large Spanish town, strongly fortified, with some thirty thousand inhabitants. Now its fortifications are mostly gone, its churches are tumbling to the ground, its old houses have so tumbled, and its old Spanish population has vanished. It is still the chief city of a State, and a congress sits there. There is a governor and a judge, and there are elections; but were it not for the passengers of the isthmus there would soon be but little left of the city of Panamá.\n\n[... racism ...]\n\nThere is a Spanish cathedral here also, in which I heard a very sweet-toned organ, and one magnificent tenor voice. The old church buildings still standing here are not without pretence, and are interesting from the dark tawny colour of the stone, if from no other cause. I should guess them to be some two centuries old. Their style in many respects resembles that which is so generally odious to an Englishman's eye and ear, under the title of Renaissance. It is probably an offshoot of that which is called Plateresque in the south of Spain.\n\nDuring the whole time that I was at Panamá the thermometer stood at something above ninety. In Calcutta I believe it is often as high as one hundred and ten, so that I have no right to speak of the extreme heat. But, nevertheless, Panamá is supposed to be one of the hottest places in the western world; and I was assured, while there, that weather so continuously hot for the twenty-four hours had not been known during the last nine years. The rainy season should have commenced by this time—the early part of May. But it had not done so; and it appeared that when the rain is late, that is the hottest period of the whole year.\n\nThe heat made me uncomfortable, but never made me ill. I lost all pleasure in eating, and indeed in everything else. I used to feel a craving for my food, but no appetite when it came. I was lethargic, as though from repletion, when I did eat, and was always glad when my watch would allow me to go to bed. But yet I was never ill.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Panamá",
+    "Region":"CentralAmerica, Latin America",
+    "Continent":"Americas, South America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.55753,8.78719 ]
+    },
+    "properties": {
+    "PlaceName":"Toboga",
+    "PlaceNameModern":"Toboga Island",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"Off from Panamá, a few miles distant in the western ocean, there are various picturesque islands. On two of these are the depôts of two great steam-packet companies, that belonging to the Americans which carries on the trade to California, and an English company whose vessels run down the Pacific to Peru and Chili. I visited Toboga, in which are the head-quarters of the latter. Here I found a small English maritime colony, with a little town of their own, composed of captains, doctors, engineers, officers, artificers, and sailors, living together on the company's wages, and as regards the upper classes, at tables provided by the company. But I saw there no women of any description. I beg therefore to suggest to the company that their servants would probably be much more comfortable if the institution partook less of the monastic order.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Panamá",
+    "Region":"CentralAmerica, Latin America",
+    "Continent":"Americas, South America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.46435,8.5609 ]
+    },
+    "properties": {
+    "PlaceName":"Punta-arenas—Sandy Point",
+    "PlaceNameModern":"Sandy Point",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"We steamed up the coast for two days quietly, placidly, and steadily. I cannot say that the trip was a pleasant one, remembering how intense was the heat. On one occasion we stopped for practice-shooting, and it behoved me of course to mount the paddle-box and see what was going on. This was at eleven in the morning, and though it did not last for above an hour, I was brought almost to fainting by the power of the sun.\n\nPunta-arenas—Sandy Point—is a small town and harbour situated in Costa Rica, near the top of the Bay of Nicoya, The sail up the bay is very pretty, through almost endless woods stretching away from the shores to the hills. There is, however, nothing majestic or grand about the scenery here. There are no Andes in sight, no stupendous mountains such as one might expect to see after coming so far to see them. It is all pretty quiet and ordinary; and on the whole perhaps superior to the views from the sea at Herne Bay.\n\n[...]\n\nIt is a small village lying along a creek of the sea, inside the sandy point from whence it is named. Considerable business is done here in the exportation of coffee, which is the staple produce of Costa Rica. It is sent chiefly to England; but it seemed to me that the money-making inhabitants of Punta-arenas were mostly Americans; men who either had been to California or who had got so far on their road thither and then changed their minds. It is a hot, dusty, unattractive spot, with a Yankee inn, at which men may \"liquor,\" and a tram railroad running for twelve miles into the country. It abounds in oysters and beer, on which we dined before we started on our journey.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Costa Rica",
+    "Region":"CentralAmerica, Latin America",
+    "Continent":"Americas, South America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.75342,9.74891 ]
+    },
+    "properties": {
+    "PlaceName":"Costa Rica",
+    "PlaceNameModern":"Costa Rica",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"My visit was solely to Costa Rica, which has in some respects done better than its neighbours. But this has been owing to the circumstances of its soil and climate rather than to those of its government, which seems to me to be as bad as any can be which deserves that name. In Costa Rica there certainly is a government, and a very despotic one it is.\n\n[...]\n\nThey told me that the soil in Costa Rica was very favourable to the sugar-cane, and I looked out to see some sugar among the coffee. But not a hogshead came that way. We saw patches of the cane growing by the roadside; but no more was produced than what sufficed for the use of the proprietor himself, and for such sale as the traffic on the road afforded. Indeed, I found that they do not make sugar, so called, in Costa Rica, but import what they use. The article fabricated is called by them \"dulce.\" It comes from their hands in ugly round brown lumps, of the consistency of brick, looking, in truth, much more like a large brickbat than any possible saccharine arrangement. Nevertheless, the canes are fairly good, and the juice as sweet as that produced in first-rate sugar-growing soils.\n\n[...]\n\nIndeed, no climate can, I imagine, be more favourable to fertility and to man's comfort at the same time than that of the interior of Costa Rica. The sugar-cane comes to maturity much quicker than in Demerara or Cuba. There it should be cut in about thirteen or fourteen months from the time it is planted; in Nicaragua and Costa Rica it comes to perfection in nine or ten. The ground without manure will afford two crops of corn in a year. Coffee grows in great perfection, and gives a very heavy crop. The soil is all volcanic, or, I should perhaps more properly say, has been the produce of volcanoes, and is indescribably fertile. And all this has been given without that intensity of heat which in those southern regions generally accompanies tropical fertility, and which makes hard work fatal to a white man; while it creates lethargy and idleness, and neutralizes gifts which would otherwise be regarded as the fairest which God has bestowed on his creatures. In speaking thus, I refer to the central parts of Costa Rica only, to those which lie some thousand feet above the level of the sea. Along the sea-shores, both of the Atlantic and Pacific, the heat is as great, and the climate as unwholesome as in New Granada or the West Indies. It would be difficult to find a place worse circumstanced in this respect than Punta-arenas.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Costa Rica",
+    "Region":"CentralAmerica, Latin America",
+    "Continent":"Americas, South America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.49648,9.24774 ]
+    },
+    "properties": {
+    "PlaceName":"Road from Punta-arenas to San José",
+    "PlaceNameModern":"Road from Punta-arenas to San José",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"[Point very approximate.]\n\nOur road hitherto had been rising nearly the whole way, and had been generally through a picturesque country. We ascended one long severe hill, severe that is as a road, though to a professed climber of mountains it would be as nothing. From the summit of this hill we had a magnificent view down to the Pacific, Again, at a sort of fortress through which we passed, and which must have been first placed there by the old Spaniards to guard the hill-passes, we found a very lovely landscape looking down into the valley. Here some show of a demand was made for passports; but we had none to exhibit, and no opposition was made to our progress. Except at these two places, the scenery, which was always more or less, pretty, was never remarkable. And even at the two points named there was nothing to equal the mountain scenery of many countries in Europe.\n\nWhat struck me most was the constant traffic on the road or track over which we passed. I believe I may call it a road, for the produce of the country is brought down over it in bullock carts; and I think that in South Wales I have taken a gig over one very much of the same description. But it is extremely rude; and only fit for solid wooden wheels—circles, in fact, of timber—such as are used, and for the patient, slow step of the bullocks.\n\nBut during the morning and evening hours the strings of these bullock carts were incessant. They travel from four till ten, then rest till three or four, and again proceed for four or five hours in the cool of the evening. They are all laden with coffee, and the idea they give is, that the growth of that article in Costa Rica must be much more than sufficient to supply the whole world. For miles and miles we met them, almost without any interval. Coffee, coffee, coffee; coffee, coffee, coffee! It is grown in large quantities, I believe, only in the high lands of San José; and all that is exported is sent down to Punta-arenas, though by travelling this route it must either pass across the isthmus railway at a vast cost, or else be carried round the Horn. At present half goes one way and half the other. But not a grain is carried, as it should all be carried, direct to the Atlantic. When I come to speak of the road from San José to Greytown, the reason for this will be understood.\n\nThe bivouacs made on the roadside by the bullock drivers for their night and noon accommodation are very picturesque when seen filled by the animals. A piece of flat ground is selected by the roadside, about half an acre in size, and close to a river or some running water. Into this one or two hundred bullocks are taken, and then released from their carts. But they are kept yoked together to prevent their straying. Here they are fed exclusively on sugar-canes, which the men carry with them, and buy along the road. The drovers patiently cut the canes up with their knives, and the beasts patiently munch them. Neither the men nor the animals roar, as they would with us, or squabble for the use of the water-course, or curse their own ill luck or the good luck of their neighbours. Drivers and driven are alike orderly, patient, and slow, spending their lives in taking coffee down to Punta-arenas, and in cutting and munching thousands of sugar-canes.\n\nWe passed some of those establishments by moonlight, and they looked like large crowded fairs full of low small booths. The men, however, do not put up tents, but sleep out in their carts.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Costa Rica",
+    "Region":"CentralAmerica, Latin America",
+    "Continent":"Americas, South America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.07682,9.91297 ]
+    },
+    "properties": {
+    "PlaceName":"San José",
+    "PlaceNameModern":"San José",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"On entering the first town I had visited in Central America, I had of course looked about me for strange sights. That men should be found with their heads under their shoulders, or even living in holes burrowed in the ground, I had not ventured to hope. But when a man has travelled all the way to Costa Rica, he does expect something strange. He does not look to find everything as tame and flat and uninteresting as though he were riding into a sleepy little borough town in Wiltshire.\n\n[...]\n\nBut there is little more interest to be found in entering San José than in driving through the little Wiltshire town above alluded to. The houses are comfortable enough. They are built with very ordinary doors and windows, of one or two stories according to the wealth of the owners, and are decently clean outside, though apparently rather dirty within. The streets are broad and straight, being all at right angles to each other, and though not very well paved, are not rough enough to elicit admiration. There is a square, the pláza, in which stands the cathedral, the barracks, and a few of the best houses in the town. There is a large and tolerably well-arranged market-place. There is a really handsome set of public buildings, and there are two moderately good hotels. What more can a man rationally want if he travel for business? And if he travel for pleasure how can he possibly find less?",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Costa Rica",
+    "Region":"CentralAmerica, Latin America",
+    "Continent":"Americas, South America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.06666,9.91666 ]
+    },
+    "properties": {
+    "PlaceName":"valley of San José",
+    "PlaceNameModern":"Valle Central",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"The valley of San José, as it is called, is four thousand five hundred feet above the sea; and consequently, though within the tropics, and only ten degrees north of the line, the climate is good, and the heat, I believe, never excessive. I was there in April, and at that time, except for a few hours in the middle of the day, and that only on some days, there was nothing like tropical heat. Within ten days of my leaving San José I heard natives at Panamá complaining of the heat as being altogether unendurable. But up there, on that high plateau, the sun had no strength that was inconvenient even to an Englishman.\n\n[...]\n\nBut though the valley or plateau of San José, and the interior of the country generally is thus favourably situated, I cannot say that the nation is prosperous. It seems to be God's will that highly-fertile countries should not really prosper. Man's energy is brought to its highest point by the presence of obstacles to be overcome, by the existence of difficulties which are all but insuperable. And therefore a Scotch farm will give a greater value in produce than an equal amount of land in Costa Rica. When nature does so much, man will do next to nothing!",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Costa Rica",
+    "Region":"CentralAmerica, Latin America",
+    "Continent":"Americas, South America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.07868,9.93258 ]
+    },
+    "properties": {
+    "PlaceName":"cathedral of San José",
+    "PlaceNameModern":"The Metropolitan Cathedral of San José",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"The cathedral of San José is a long, low building, with side aisles formed by very rickety-looking wooden pillars—in substance they are hardly more than poles—running from the ground to the roof. The building itself is mean enough, but the internal decorations are not badly arranged, and the general appearance is neat, orderly, and cool. We all know the usual manner in which wooden and waxen virgins are dressed and ornamented in such churches. There is as much of this here as elsewhere; but I have seen it done in worse taste both in France and Italy. The façade of the church, fronting the pláza is hardly to be called a portion of the church; but is an adjunct to it, or rather the church has been fixed on to the façade, which is not without some architectural pretension.\n\n[...]\n\nDuring the whole of Passion Week there was a considerable amount of religious activity, in the way of preaching and processions, which reached its acme on Good Friday. On that day the whole town was processioning from morning—which means four o'clock—till evening—which means two hours after sunset. They had three figures, or rather three characters,—for two of them appeared in more than one guise and form,—each larger than life; those, namely, of our Saviour, the Virgin, and St. John. These figures are made of wax, and the faces of some of them were excellently moulded. These are manufactured in Guatemala—as the priests are; and the people there pride themselves on their manufacture, not without reason.\n\nThe figures of our Saviour and the Virgin were in different dresses and attitudes, according to the period of the day which it was intended to represent; but the St. John was always represented in the dress of a bishop of the present age. The figures were supported on men's shoulders, and were carried backwards and forwards through every portion of the town, till at last, having been brought forth in the morning from the cathedral, they were allowed at night to rest in a rival, and certainly better built, though smaller church.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Costa Rica",
+    "Region":"CentralAmerica, Latin America",
+    "Continent":"Americas, South America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.05582,9.92273 ]
+    },
+    "properties": {
+    "PlaceName":"public buildings in San José",
+    "PlaceNameModern":"",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"I cannot close my notice of San José without speaking somewhat more specially of the range of public buildings. I am told that it was built by a German, or rather by two Germans; the basement and the upper story being the work of different persons. Be this as it may, it is a handsome building, and would not disgrace any European capital. There is in it a throne-room—in England, at least, we should call it a throne; on this the President sits when he receives ambassadors from foreign countries. The velvet and gilding were quite unexceptionable, and the whole is very imposing. The sitting of Congress is held in the same chamber; but that, as I have explained, is not imposing.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Costa Rica",
+    "Region":"CentralAmerica, Latin America",
+    "Continent":"Americas, South America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.84907,9.97998 ]
+    },
+    "properties": {
+    "PlaceName":"Mount Irazu",
+    "PlaceNameModern":"Irazú Volcano",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"In the neighbourhood of San José there is a volcanic mountain, the name of which is Irazu. I was informed that it still smoked, though it had discontinued for the present the ejection of flames and lava.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Costa Rica",
+    "Region":"CentralAmerica, Latin America",
+    "Continent":"Americas, South America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.33316,10.27794 ]
+    },
+    "properties": {
+    "PlaceName":"Monte Blanco",
+    "PlaceNameModern":"Parque Nacional Juan Castro Blanco",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"Indeed, the whole country is full of such mountains. There is one, the Monte Blanco, the summit of which has never yet been reached—so rumour says in Costa Rica—far distant, enveloped among other mountains, and to be reached only through dense aboriginal forests, which still emits, and is always emitting fire and burning floods of molten stones.\n\nDifferent excursions have been made with the object of ascending the Monte Blanco, but hitherto in vain. Not long since it was attempted by a French baron, but he and his guide were for twenty days in the woods, and then returned, their provisions failing them.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Costa Rica",
+    "Region":"CentralAmerica, Latin America",
+    "Continent":"Americas, South America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.92141,9.86223 ]
+    },
+    "properties": {
+    "PlaceName":"Cartago",
+    "PlaceNameModern":"Cartago",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"The way lay through a rich and finely-cultivated country. The whole of this is now called the valley of San José, and consists, in truth, of a broad plateau, diversified by moderate hills and valleys, but all being at a considerable height; that is, from three to four thousand feet above the sea. The road also is fairly good; so good that a species of omnibus runs on it daily, there being some considerable traffic between the places; for Cartago is the second town in the republic.\n\nCartago is now the second town, but not long since it was the capital. It was, however, destroyed by an earthquake; and though it has been rebuilt, it has never again taken its former position. Its present population is said to be ten thousand; but this includes not only the suburbs, but the adjacent villages. The town covers a large tract of ground, which is divided into long, broad, parallel streets, with a large pláza in the middle; as though it had been expected that a fine Utopian city would have sprung up. Alas! there is nothing fine about it, and very little that is Utopian.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Costa Rica",
+    "Region":"CentralAmerica, Latin America",
+    "Continent":"Americas, South America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.84985,9.98246 ]
+    },
+    "properties": {
+    "PlaceName":"Crater of Mount Irazu",
+    "PlaceNameModern":"Cráter Principal del Volcán Irazú",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"The guide however now knew the spot. We were near the summit of Irazu, and a further ride of a quarter of an hour took us there; and indeed here there was no difficulty in riding. The side of the hill was covered with grass, and not over steep. \"There,\" said the mild voice, pointing to a broad, bushy, stumpy tree, \"there is the place where Lady Ouseley breakfasted.\" And he looked at our modest havresack. \"And we will breakfast there too,\" I answered. \"But we will go down the crater first.\"\n\n\"Oh, yes; certainly,\" said the mild voice. \"But perhaps—I don't know—I am not sure I can go exactly down into the crater.\"\n\nThe crater of the volcano is not at the top of the mountain, or rather it is not at what is now the top of the mountain; so that at first one has to look down upon it. I doubt even whether the volcano has ever effected the absolute summit. I may as well state here that the height of the mountain on which we were now standing is supposed to be 11,500 feet above the sea-level.\n\nLuckily for us, though the mist reached to us where we stood, everything to the left of us was clear, and we could look down, down into the crater as into a basin. Everything was clear, so that we could count the different orifices, eight in number, of which two, however, had almost run themselves into one; and see, as far as it was possible to see, how the present formation of the volcano had been brought about.\n\nIt was as though a very large excavation had been made on the side of a hill, commencing, indeed, not quite from the summit, but very near it, and leaving a vast hole—not deep in proportion to its surface—sloping down the mountain-side. This huge excavation, which I take to be the extent of the crater, for it has evidently been all formed by the irruption of volcanic matter, is divided into two parts, a broken fragment of a mountain now lying between them; and the smaller of these two has lost all volcanic appearance. It is a good deal covered with bush and scrubby forest trees, and seems to have no remaining connection with sulphur and brimstone.\n\nThe other part, in which the crater now absolutely in use is situated, is a large hollow in the mountain-side, which might perhaps contain a farm of six hundred acres. Not having been able to measure it, I know no other way of describing what appeared to me to be its size. But a great portion of this again has lost all its volcanic appendages; except, indeed, that lumps of lava are scattered over the whole of it, as they are, though more sparingly, over the mountain beyond. There is a ledge of rock running round the interior of this division of the excavation, half-way down it, like a row of seats in a Roman amphitheatre, or an excrescence, if one can fancy such, half-way down a teacup. The ground above this ledge is of course more extensive than that below, as the hollow narrows towards the bottom. The present working mouth of the volcanic, and all those that have been working for many a long year—the eight in number of which I have spoken—lie at the bottom of this lowest hollow. This I should say might contain a farm of about two hundred acres.\n\n[Text goes on for some time about the crater with descriptions of flora and weather.]",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Costa Rica",
+    "Region":"CentralAmerica, Latin America",
+    "Continent":"Americas, South America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.12017,9.99834 ]
+    },
+    "properties": {
+    "PlaceName":"towns of Aredia and Barba",
+    "PlaceNameModern":"Heredia, San José",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"[Location estimated.]\n\nWe took four mules, that was one each for ourselves, and two for our baggage; we had two guides or muleteers, according to bargain, both of whom travelled on foot. The understanding was, that one mule lightly laden with provisions and a pair of slippers and tooth-brush should accompany us, one man also going with us; but that the heavy-laden mule should come along after us at its own pace. Things, however, did not so turn out: on the first day both the men and both the mules lagged behind, and on one occasion we were obliged to wait above an hour for them; but after that we all kept in a string together, having picked up a third muleteer somewhere on the road. We had also with us a distressed British subject, who was intrusted to my tender mercies by the Consul at San José. He was not a good sample of a Britisher; he had been a gold-finder in California, then a filibuster, after that a teacher of the piano in the country part of Costa Rica, and lastly an omnibus driver. He was to act as interpreter for us, which, however, he did not do with much honesty or zeal.\n\nOur road at first lay through the towns of Aredia and Barba, the former of which is a pleasant-looking little village, where, however, we found great difficulty in getting anything to drink. Up to this, and for a few leagues further, the road was very fair, and the land on each side of us was cultivated. We had started at eight a.m., and at about three in the afternoon there seemed to be great doubt as to where we should stop. The leading muleteer wished to take us to a house of a friend of his own, whereas the lieutenant and I resolved that the day's work had not been long enough. I take it that on the whole we were right, and the man gave in with sufficient good humour; but it ended in our passing the night in a miserable rancho. That at the potrero, on the road to the volcanic mountain, had been a palace to it.\n\nAnd here we got into the forest; we had hitherto been ascending the whole way from San José, and had by degrees lost all appearance of tillage. Still, however, there had been open spaces here and there cleared for cattle, and we had not as yet found ourselves absolutely enveloped by woods. This rancho was called Buena-vista; and certainly the view from it was very pretty. It was pretty and extensive, as I have seen views in Baden and parts of Bavaria; but again there was nothing about which I could rave.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Costa Rica",
+    "Region":"CentralAmerica, Latin America",
+    "Continent":"Americas, South America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.16666,10.19999 ]
+    },
+    "properties": {
+    "PlaceName":"Desenganos",
+    "PlaceNameModern":"Quebrada El Desengaño",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"On the next morning we again ascended for about a couple of leagues, and as long as we did so the road was still good; the surface was hard, and the track was broad, and a horseman could wish nothing better. And then we reached the summit of the ridge over which we were passing; this we did at a place called Desenganos, and from thence we looked down into vast valleys all running towards the Atlantic. Hitherto the fall of water had been into the Pacific.\n\nAt this place we found a vast shed, with numberless bins and troughs lying under it in great confusion. The facts, as far as I could learn, were thus: Up to this point the government, that is Don Juan Mora, or perhaps his predecessor, had succeeded in making a road fit for the transit of mule carts. This shed had also been built to afford shelter for the postmen and accommodation for the muleteers. But here Don Juan's efforts had been stopped; money probably had failed; and the great remainder of the undertaking will, I fear, be left undone for many a long year.\n\nAnd yet this, or some other road from the valley of San José to the Atlantic, would be the natural outlet of the country. At present the coffee grown in the central high lands is carried down to Punta-arenas on the Pacific, although it must cross the Atlantic to reach its market; consequently, it is either taken round the Horn, and its sale thus delayed for months, or it is transported across the isthmus by railway, at an enormous cost. They say there is a point at which the Atlantic may be reached more easily than by the present route of the Serapiqui river; nothing, however, has as yet been done in the matter. To make a road fit even for mule carts, by the course of the present track, would certainly be a work of enormous difficulty.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Costa Rica",
+    "Region":"CentralAmerica, Latin America",
+    "Continent":"Americas, South America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.18241,10.27318 ]
+    },
+    "properties": {
+    "PlaceName":"Careblanco",
+    "PlaceNameModern":"Cariblanco",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"Splash, splash, slosh, slosh! we were at it all day. At Careblanco—the place of the white-faced pigs I understood it to mean;—they say that there is a race of wild hogs with white faces which inhabit the woods hereabouts—we overtook the post, and kept close to them afterwards. This was a pasture farm in the very middle of the forest, a bit of cleared land on which some adventurer had settled himself and dared to live. The adventurer himself was not there, but he had a very pretty wife, with whom my friend the lieutenant seemed to have contracted an intimate acquaintance on his previous journey up to San José.\n\nBut at Careblanco we only stopped two minutes, during which, however, it became necessary that the lieutenant should go into the rancho on the matter of some article of clothes which had been left behind on his previous journey; and then, again, on we went, slosh, slosh, splash, splash! My shins by this time were black and blue, and I held myself on to my mule chiefly by my spurs. Our way was still through dense forest, and was always either up or down hill.\n\nAnd here we came across the grandest scenery that I met with in the western world; scenery which would admit of raving, if it were given to me to rave on such a subject.\n\nWe were travelling for the most part along the side of a volcanic mountain, and every now and then the declivity would become so steep as to give us a full view down into the ravine below, with the prospect of the grand, steep, wooded hill on the other side, one huge forest stretching up the mountain for miles. At the bottom of the ravine one's eye would just catch a river, looking like a moving thread of silver wire. And yet, though the descent was so great, there would be no interruption to it. Looking down over the thick forest trees which grew almost from the side of a precipice, the eye would reach the river some thousand feet below, and then ascend on the other side over a like unbroken expanse of foliage.\n\nOf course we both declared that we had never seen anything to equal it. In moments of ecstasy one always does so declare. But there was a monotony about it, and a want of grouping which forbids me to place it on an equality with scenery really of the highest kind, with the mountains, for instance, round Colico, with the head of the Lake of the Four Cantons, or even with the views of the upper waters of Killarney.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Costa Rica",
+    "Region":"CentralAmerica, Latin America",
+    "Continent":"Americas, South America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.18175,10.31577 ]
+    },
+    "properties": {
+    "PlaceName":"San Miguel",
+    "PlaceNameModern":"San Miguel",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"Mud, mud; mud, mud! At about five o'clock we splashed into another pasture farm in the middle of the forest, a place called San Miguel, and there we rested for that night. Here we found that our beef also must be thrown away, and that our bread was all gone. We had picked up some more hard-boiled eggs at ranchos on the road, but hard-boiled eggs to my companion were no more than grains of gravel to a barn-door fowl; they merely enabled him to enjoy his regular diet. At this place, however, we were able to purchase fowls—skinny old hens which were shot for us at a moment's warning. The price being, here and elsewhere along the road, a dollar a head. Tea and candles a ministering angel had given to me at the moment of my departure from San José. But for them we should have indeed been comfortless, thirsty, and in utter darkness. Towards evening a man gets tired of brandy and water, when he has been drinking it since six in the morning.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Costa Rica",
+    "Region":"CentralAmerica, Latin America",
+    "Continent":"Americas, South America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.03333,10.44999 ]
+    },
+    "properties": {
+    "PlaceName":"Padregal",
+    "PlaceNameModern":"Padregal",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"We again breakfasted at a forest clearing, paying a dollar each for tough old hens, and in the evening we came to a cacao plantation in the middle of the forest which had been laid out and settled by an American of the United States residing in Central America. This place is not far from the Serapiqui river, and is called Padregal. It was here that the young lieutenant had read the funeral service over the body of that unfortunate lady.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Costa Rica",
+    "Region":"CentralAmerica, Latin America",
+    "Continent":"Americas, South America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.01872,10.47705 ]
+    },
+    "properties": {
+    "PlaceName":"Muelle",
+    "PlaceNameModern":"Muelle",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"We had one more stage down to the spot at which we were to embark in the canoe—the spot at which the lady had been drowned—and this one we accomplished early in the morning. This place is called the Muelle, and here there is a fort with a commandant and a small company of soldiers. The business of the commandant is to let no one up or down the river without a passport; and as a passport cannot be procured anywhere nearer than San José, here may arise a great difficulty to travellers. We were duly provided, but our recently-picked-up American friend was not; and he was simply told that he would not be allowed to get into a boat on the river.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Costa Rica",
+    "Region":"CentralAmerica, Latin America",
+    "Continent":"Americas, South America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.0067,10.45154 ]
+    },
+    "properties": {
+    "PlaceName":"Serapiqui",
+    "PlaceNameModern":"Serapiqui",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"That passage down the Serapiqui was not without interest, though it was somewhat monotonous. Here, for the first time in my life, I found my bulk and size to be of advantage to me. In the after part of the canoe sat the master boatman, the captain of the expedition, steering with a paddle. Then came the mails and our luggage, and next to them I sat, having a seat to myself, being too weighty to share a bench with a neighbour. I therefore could lean back among the luggage; and with a cigar in my mouth, with a little wooden bicher of weak brandy and water beside me, I found that the position had its charms.\n\n[...]\n\nThe Serapiqui is a fine river; very rapid, but not so much so as to make it dangerous, if care be taken to avoid the snags. There is not a house or hut on either side of it; but the forest comes down to the very brink. Up in the huge trees the monkeys hung jabbering, shaking their ugly heads at the boat as it went down, or screaming in anger at this invasion of their territories. The macaws flew high over head, making their own music, and then there was the constant little splash of the paddle in the water. The boatmen spoke no word, but worked on always, pausing now and again for a moment to drink out of the hollow of their hands. And the sun became hotter and hotter as we neared the sea; and the musquitoes began to bite; and cigars were lit with greater frequency. 'Tis thus that one goes down the waters of the Serapiqui.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Costa Rica",
+    "Region":"CentralAmerica, Latin America",
+    "Continent":"Americas, South America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.7245,10.78548 ]
+    },
+    "properties": {
+    "PlaceName":"San Juan (river)",
+    "PlaceNameModern":"Rio San Juan",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"About three we got into the San Juan. This is the river by which the great lake of Nicaragua empties itself into the sea; which has been the channel used by the transit companies who have passed from ocean to ocean through Nicaragua; which has been so violently interfered with by filibusters, till all such transit has been banished from its waters; and which has now been selected by M. Belly as the course for his impossible canal. It has seen dreadful scenes of cruelty, wrong, and bloodshed. Now it runs along peaceably enough, in its broad, shallow, swift course, bearing on its margin here and there the rancho and provision-ground of some wild settler who has sought to overcome\n\n\"The whips and scorns of time—\nThe oppressor's wrong, the proud man's contumely,\"\nby looking for bread and shelter on those sad, sunburnt, and solitary banks.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Nicaragua",
+    "Region":"CentralAmerica, Latin America",
+    "Continent":"Americas, South America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.73452,10.9462 ]
+    },
+    "properties": {
+    "PlaceName":"Greytown",
+    "PlaceNameModern":"Greytown",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"On the next morning we reached Greytown, following the San Juan river down to that pleasant place. There is another passage out to the sea by the Colorado, a branch river which, striking out from the San Juan, runs into the ocean by a shorter channel. This also has been thought of as a course for the projected canal, preferable to that of the San Juan. I believe them to be equally impracticable. The San Juan river itself is so shallow that we were frequently on the ground even in our light canoe.\n\nAnd what shall I say of Greytown? We have a Consul-General there, or at least had one when these pages were written; a Consul-General whose duty it is, or was, to have under his special care the King of Mosquitia—as some people are pleased to call this coast—of the Mosquito coast as it is generally styled. Bluefields, further along the coast, is the chosen residence of this sable tyrant; but Greytown is the capital of his dominions. Now it is believed that, in deference to the feelings of the United States, and to the American reading of the Clayton-Bulwer treaty, and in deference, I may add, to a very sensible consideration that the matter is of no possible moment to ourselves, the protectorate of the Mosquito coast is to be abandoned. What the king will do I cannot imagine; but it will be a happy day I should think for our Consul when he is removed from Greytown. Of all the places in which I have ever put my foot, I think that is the most wretched. It is a small town, perhaps of two thousand inhabitants, though this on my part is a mere guess, at the mouth of the San Juan, and surrounded on every side either by water or impassable forests. A walk of a mile in any direction would be impossible, unless along the beach of the sea; but this is of less importance, as the continual heat would prevent any one from thinking of such exercise. Sundry Americans live here, worshipping the almighty dollar as Americans do, keeping liquor shops and warehouses; and with the Americans, sundry Englishmen and sundry Germans. Of the female population I saw nothing except some negro women, and one white, or rather red-faced owner of a rum shop. The native population are the Mosquito Indians; but it seems that they are hardly allowed to live in Greytown. They are to be seen paddling about in their canoes, selling a few eggs and chickens, catching turtle, and not rarely getting drunk. They would seem from their colour and physiognomy to be a cross between the negro and the Indian; and such I imagine to be the case. They have a language of their own, but those on the coast almost always speak English also.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Nicaragua",
+    "Region":"CentralAmerica, Latin America",
+    "Continent":"Americas, South America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.68216,32.37316 ]
+    },
+    "properties": {
+    "PlaceName":"St. George's harbour",
+    "PlaceNameModern":"St. George's Harbour",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"In four days we reached Bermuda, and made our way into St. George's harbour. Looking back at my fortnight's sojourn there it seems to me that there can be no place in the world as to which there can be less to be said than there is about this island,—sayings at least of the sort in which it is my nature to express itself. Its geological formation is, I have no doubt, mysterious. It seems to be made of soft white stone, composed mostly of little shells; so soft, indeed, that you might cut Bermuda up with a handsaw. And people are cutting Bermuda up with handsaws. One little island, that on which the convicts are established, has been altogether so cut up already. When I visited it, two fat convicts were working away slowly at the last fragment.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Bermuda",
+    "Region":"Atlantic",
+    "Continent":"Atlantic, North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.78538,32.29456 ]
+    },
+    "properties": {
+    "PlaceName":"Hamilton",
+    "PlaceNameModern":"Hamilton",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"There are two towns, situated on different islands, called St. George and Hamilton. The former is the head-quarters of the military; the latter of the governor. In speaking of the place as a fortress I should have said that it is the summer head-quarters of the admiral in command of the Halifax station. The dock-yard, which is connected with the convict establishment, is at an island called Ireland; but the residence of the admiral is not far from Hamilton, on that which the Bermudians call the \"Continent.\"\n\nI spent a week in each of these towns, and I can hardly say which I found the most triste. The island, or islands, as one must always say—using the plural number—have many gifts of nature to recommend them. They are extremely fertile. The land, with a very moderate amount of cultivation, will give two crops of ordinary potatoes, and one crop of sweet potatoes in the year. Most fruits will grow here, both those of the tropics and of the more northern latitudes. Oranges and lemons, peaches and strawberries, bananas and mulberries thrive, or would thrive equally well, if they were even slightly encouraged to do so.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Bermuda",
+    "Region":"Atlantic",
+    "Continent":"Atlantic, North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.7505,32.3078 ]
+    },
+    "properties": {
+    "PlaceName":"Bermuda",
+    "PlaceNameModern":"Bermuda",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"Snow is not prevalent in Bermuda, at least not in the months of May and June; but the first look of the houses in each of its two small towns, and indeed all over the island, gives one the idea of a snow storm. Every house is white, up from the ground to the very point of the roof. Nothing is in so great demand as whitewash. They whitewash their houses incessantly, and always include the roofs. This becomes a nuisance, from the glare it occasions; and is at last painful to the eyes. They say there that it is cleanly and cheap, and no one can deny that cleanliness and economy are important domestic virtues.\n\n[...]\n\nNo climate in the world probably is better adapted for beetroot, potatoes, onions, and tomatoes. The place is so circumstanced geographically that it should be the early market-garden for New York—as to a certain small extent it is. New York cannot get her early potatoes—potatoes in May and June—from her own soil; but Bermuda can give them to her in any quantity.\n\nArrowroot also grows here to perfection. The Bermudians claim to say that their arrowroot is the best in the world; and I believe that none bears a higher price. Then the land produces barley, oats, and Indian corn; and not only produces them, but produces two, sometimes three crops a year. Let the English farmer with his fallow field think of that.\n\nBut with all their advantages Bermuda is very poor. Perhaps, I should add, that on the whole, she is contented with her poverty. And if so, why disturb such contentment?\n\nBut, nevertheless, one cannot teach oneself not to be desirous of progress. One cannot but feel it sad to see people neglecting the good things which are under their feet. Lemons and oranges there are now none in Bermuda. The trees suffered a blight some year or two since, and no effort has been made to restore them. I saw no fruit of any description, though I am told I was there in the proper season, and heard much of the fruit that there used to be in former days. I saw no vegetables but potatoes and onions, and was told that as a rule the people are satisfied with them. I did not once encounter a piece of meat fit to be eaten, excepting when I dined on rations supplied by the Convict establishment. The poultry was somewhat better than the meat, but yet of a very poor description. Both bread and butter are bad; the latter quite uneatable. English people whom I met declared that they were unable to get anything to eat. The people, both white and black, seemed to be only half awake. The land is only half cultivated; and hardly half is tilled of that which might be tilled.\n\nThe reason of this neglect, for I maintain that it is neglect, should however be explained. Nearly all the islands are covered with small stunted bushy cedar trees. Not cedars such as those of Lebanon, not the cedar trees of Central America, nor those to which we are accustomed in our gardens at home. In Bermuda they are, as I have said, low bushy trees, much resembling stunted firs. But the wood, when it can be found large enough, is, they say, good for shipbuilding; and as shipbuilding has for years been a trade in these islands, the old owners of the property do not like to clear their land.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Bermuda",
+    "Region":"Atlantic",
+    "Continent":"Atlantic, North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.77927,32.34156 ]
+    },
+    "properties": {
+    "PlaceName":"Bermudas",
+    "PlaceNameModern":"Bermudas",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"These islands are certainly very pretty; or I should perhaps say that the sea, which forms itself into bays and creeks by running in among them, is very pretty. The water is quite clear and transparent, there being little or no sand on those sides on which the ocean makes its entrance; and clear water is in itself so beautiful. Then the singular way in which the land is broken up into narrow necks, islands, and promontories, running here and there in a capricious, half-mysterious manner, creating a desire for amphibiosity, necessarily creates beauty. But it is mostly the beauty of the sea, and not of the land. The islands are flat, or at any rate there is no considerable elevation in them. They are covered throughout with those scrubby little trees; and, although the trees are green, and therefore when seen from the sea give a freshness to the landscape, they are uninteresting and monotonous on shore.\n\nI must not forget the oleanders, which at the time of my visit were in full flower; which, for aught I know, may be in full flower during the whole year. They are so general through all the islands, and the trees themselves are so covered with the large straggling, but bright blossoms, as to give quite a character to the scenery. The Bermudas might almost be called the oleander isles.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Bermuda",
+    "Region":"Atlantic",
+    "Continent":"Atlantic, North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.85332,32.30824 ]
+    },
+    "properties": {
+    "PlaceName":"Boaz (Island)",
+    "PlaceNameModern":"Boaz Island",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"There is no wall round the prison. I must explain that the convicts are kept on two islands, those called Boaz and Ireland. At Boaz is the parent establishment, at which live the controller, chaplains, doctors, and head officers. But here is the lesser number of prisoners, about six hundred. They live in ordinary prisons. The other nine hundred are kept in two hulks, old men-of-war moored by the breakwaters, at the dockyard establishment in Ireland. It was in one of these that the murder was committed. The labour of these nine hundred men is devoted to the dockyard works. There is a bridge between the two islands over which runs a public road, and from this road there are ways equally public, as far as the eye goes, to all parts of the prison. A man has only to say that he is going to the chaplain's house, and he may pass all through the prison,—with spirits in his pocket if it so please him. That the prisoners should not be about without warders is no doubt a prison rule; but where everything is done by the prisoners, from the building of stores to the picking of weeds and lighting of lamps, how can any moderate number of warders see everything, even if they were inclined? There is nothing to prevent spirits being smuggled in after dark through the prison windows. And the men do get rum, and drunkenness is a common offence. Prisoners may work outside prison walls; but I remember no other prison that is not within walls—that looks from open windows on to open roads, as is here the case.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Bermuda",
+    "Region":"Atlantic",
+    "Continent":"Atlantic, North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.08494,43.08955 ]
+    },
+    "properties": {
+    "PlaceName":"Niagara",
+    "PlaceNameModern":"Niagara Falls",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"In that case let them not go on to what is called the Niagara Falls station, but pass over at a station called the Suspension Bridge—very well known on the road—to the other or Canada side of the water, and thence go to the Clifton Hotel. There can be no doubt as to this being the site at which tourists should stop. It is one of those cases in which to see is to be sure. But if the traveller be carried on to Niagara Falls station, he has a long and expensive journey to make back; and the United States side of the water will be antagonistic to him in doing so. The ticket from Albany to Niagara cost me six dollars; the carriage from Niagara to the Clifton Hotel cost me five. It was better to pay the five than to remain where I was; but it would have been better still to have saved them. I mention this as passengers to the Falls have no sort of intimation that they should get out at the Suspension Bridge; though they are all duly shaken out of their berths, and inquired of whether or not they be going west.\n\nNothing ever disappointed me less than the Falls of Niagara—but my raptures did not truly commence for the first half-day. Their charms grow upon one like the conversation of a brilliant man. Their depth and breadth and altitude, their music, colour, and brilliancy are not fully acknowledged at the first moment. It may be that my eye is slow; but I can never take in to its full enjoyment any view or any picture at the first glance. I found this to be especially the case at Niagara. It was only by long gazing and long listening that I was able to appreciate the magnitude of that waste of waters.\n\n[...]\n\nBut I must be allowed one word as to that visit after sunset; one word as to that which an obedient tourist will then see. In the spot to which I allude the visitor stands on a broad safe path, made of shingles, between the rock over which the water rushes and the rushing water. He will go in so far that the spray rising back from the bed of the torrent does not incommode him. With this exception, the further he can go the better; but here also circumstances will clearly show him the spot. Unless the water be driven in by a very strong wind, five yards make the difference between a comparatively dry coat and an absolutely wet one.\n\nAnd then let him stand with his back to the entrance, thus hiding the last glimmer of the expiring day. So standing he will look up among the falling waters, or down into the deep misty pit, from which they reascend in almost as palpable a bulk. The rock will be at his right hand, high and hard, and dark and straight, like the wall of some huge cavern, such as children enter in their dreams. For the first five minutes he will be looking but at the waters of a cataract,—at the waters, indeed, of such a cataract as we know no other, and at their interior curves, which elsewhere we cannot see. But by-and-by all this will change. He will no longer be on a shingly path beneath a waterfall; but that feeling of a cavern wall will grow upon him, of a cavern deep, deep below roaring seas, in which the waves are there, though they do not enter in upon him; or rather not the waves, but the very bowels of the deep ocean. He will feel as though the floods surrounded him, coming and going with their wild sounds, and he will hardly recognize that though among them he is not in them. And they, as they fall with a continual roar, not hurting the ear, but musical withal, will seem to move as the vast ocean waters may perhaps move in their internal currents. He will lose the sense of one continued descent, and think that they are passing round him in their appointed courses. The broken spray that rises from the depth below, rises so strongly, so palpably, so rapidly, that the motion in every direction will seem equal. And then, as he looks on, strange colours will show themselves through the mist; the shades of gray will become green and blue, with ever and anon a flash of white; and then, when some gust of wind blows in with greater violence, the sea-girt cavern will become all dark and black. Oh, my friend, let there be no one there to speak to thee then; no, not even a heart's brother. As you stand there speak only to the waters.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"Canada",
+    "Region":"Great Lakes",
+    "Continent":"Americas, North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.78456,43.08313 ]
+    },
+    "properties": {
+    "PlaceName":"Saratoga Springs",
+    "PlaceNameModern":"Saratoga Springs",
+    "NameOfTraveler":"Anthony Trollope",
+    "YearOfTravel":1859,
+    "Description":"From Montreal I went down Lake Champlain to Saratoga Springs, the great resort of New Yorkers when the weather in the city becomes too hot for endurance. I was there late in June, but was very glad at that time to sit with my toes over a fire. The country about Saratoga is by no means pretty. The waters, I do not doubt, are very healthy, and the hotels very good. It must, I should think, be a very dull place for persons who are not invalids.",
+    "Citation":"Anthony Trollope, The West Indies and the Spanish Main (London: Chapman & Hall, 1859), https://www.gutenberg.org/files/55100/55100-h/55100-h.htm.",
+    "Hyperlink":"https://www.gutenberg.org/files/55100/55100-h/55100-h.htm",
+    "Country":"United States",
+    "Region":"Eastern North America",
+    "Continent":"Americas, North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.23515762,51.56122572 ]
+    },
+    "properties": {
+    "PlaceName":"London",
+    "PlaceNameModern":"London",
+    "NameOfTraveler":"John Cremer",
+    "YearOfTravel":1710,
+    "Description":"I was born in East Lane in Rotherif, in the Parrish of St. Marie Mardelins, Bourmonce, in the Subberbs of London.",
+    "Citation":"Cremer, John. Ramblin’ Jack: The Journal of Captain John Cremer, 1700-1774. Edited by Richard Reynell Bellamy. London: Jonathan Cape, 1937.",
+    "Hyperlink":"",
+    "Country":"England",
+    "Region":"Western Europe",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -52.63270102,47.53377422 ]
+    },
+    "properties": {
+    "PlaceName":"St. John's",
+    "PlaceNameModern":"St. John's",
+    "NameOfTraveler":"John Cremer",
+    "YearOfTravel":1710,
+    "Description":"We got safe into St. John's Harbor with our Convoy safe. I remember little or nothing pirtickular while theair.",
+    "Citation":"Cremer, John. Ramblin’ Jack: The Journal of Captain John Cremer, 1700-1774. Edited by Richard Reynell Bellamy. London: Jonathan Cape, 1937.",
+    "Hyperlink":"",
+    "Country":"Canada",
+    "Region":"Northern America",
+    "Continent":"Noth America, Americas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.142522625,38.7217943 ]
+    },
+    "properties": {
+    "PlaceName":"Lisbon",
+    "PlaceNameModern":"Lisbon",
+    "NameOfTraveler":"John Cremer",
+    "YearOfTravel":1710,
+    "Description":"We lay sometime heare, and my Unkle let me goe on shoar with a midshipman to Bellile, wheair he went to see that old Goathick Chruch.",
+    "Citation":"Cremer, John. Ramblin’ Jack: The Journal of Captain John Cremer, 1700-1774. Edited by Richard Reynell Bellamy. London: Jonathan Cape, 1937.",
+    "Hyperlink":"",
+    "Country":"Portugal",
+    "Region":"Mediterranean",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.97483889,57.72342357 ]
+    },
+    "properties": {
+    "PlaceName":"Gothenburg",
+    "PlaceNameModern":"Gothenburg",
+    "NameOfTraveler":"John Cremer",
+    "YearOfTravel":1710,
+    "Description":"We was ordered to Harridge to joyne the 'Deadford' and 'Medstone' to Convoy a fleet to Cottinburge, wheair we arrived safe with the fleet.",
+    "Citation":"Cremer, John. Ramblin’ Jack: The Journal of Captain John Cremer, 1700-1774. Edited by Richard Reynell Bellamy. London: Jonathan Cape, 1937.",
+    "Hyperlink":"",
+    "Country":"Sweden",
+    "Region":"Centeral Europe",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.521339672,51.41778752 ]
+    },
+    "properties": {
+    "PlaceName":"Chatham",
+    "PlaceNameModern":"Chatham",
+    "NameOfTraveler":"John Cremer",
+    "YearOfTravel":1710,
+    "Description":"A Twenty-Gun ship came from the Nore to Gaurd us and upon a High Spring (tide) got the ship to Harwidge in or about a Month Time, and secured the Ship to swim up to Chatham, wheair she was well repaired.",
+    "Citation":"Cremer, John. Ramblin’ Jack: The Journal of Captain John Cremer, 1700-1774. Edited by Richard Reynell Bellamy. London: Jonathan Cape, 1937.",
+    "Hyperlink":"",
+    "Country":"England",
+    "Region":"Western Europe",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.23515762,51.56122572 ]
+    },
+    "properties": {
+    "PlaceName":"London",
+    "PlaceNameModern":"London",
+    "NameOfTraveler":"John Cremer",
+    "YearOfTravel":1710,
+    "Description":"I was home with my mother about a Month, and wearied I was, for my brothers was beloved by her, and I not at all, soe that I was always fighting and quarling with them",
+    "Citation":"Cremer, John. Ramblin’ Jack: The Journal of Captain John Cremer, 1700-1774. Edited by Richard Reynell Bellamy. London: Jonathan Cape, 1937.",
+    "Hyperlink":"",
+    "Country":"England",
+    "Region":"Western Europe",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.935452793,43.26469721 ]
+    },
+    "properties": {
+    "PlaceName":"Bilbao",
+    "PlaceNameModern":"Bilbao",
+    "NameOfTraveler":"John Cremer",
+    "YearOfTravel":1710,
+    "Description":"In soe much as I was made as Steward to buy provisions for the Ship's Company everey market day up to the Citty of Bilboa, I believe near Two miles from wheair the Ship lay at a place Called Sainto May, a fine pleasant Walk backward and forward, delightfull pleasant. ",
+    "Citation":"Cremer, John. Ramblin’ Jack: The Journal of Captain John Cremer, 1700-1774. Edited by Richard Reynell Bellamy. London: Jonathan Cape, 1937.",
+    "Hyperlink":"",
+    "Country":"Spain",
+    "Region":"Mediterranean",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.881986147,52.37518999 ]
+    },
+    "properties": {
+    "PlaceName":"Amsterdam",
+    "PlaceNameModern":"Amsterdam",
+    "NameOfTraveler":"John Cremer",
+    "YearOfTravel":1710,
+    "Description":"We then loaded with Chase-nuts for Amsterdam, and Vastly deep loaded; but in a week's time the chase-nuts heated Soe much, we was afraid they would Set the ship on fiar",
+    "Citation":"Cremer, John. Ramblin’ Jack: The Journal of Captain John Cremer, 1700-1774. Edited by Richard Reynell Bellamy. London: Jonathan Cape, 1937.",
+    "Hyperlink":"",
+    "Country":"The Netherlands",
+    "Region":"Western Europe",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.23515762,51.56122572 ]
+    },
+    "properties": {
+    "PlaceName":"London",
+    "PlaceNameModern":"London",
+    "NameOfTraveler":"John Cremer",
+    "YearOfTravel":1710,
+    "Description":"Now when I was got in the Cuntry againe with my Unkle at hendon, when Notice was sent that my Mother was Dying, at which my Unkle bed me goe and sea her, and I went to London.",
+    "Citation":"Cremer, John. Ramblin’ Jack: The Journal of Captain John Cremer, 1700-1774. Edited by Richard Reynell Bellamy. London: Jonathan Cape, 1937.",
+    "Hyperlink":"",
+    "Country":"England",
+    "Region":"Western Europe",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.375528058,51.48037047 ]
+    },
+    "properties": {
+    "PlaceName":"Gravesend",
+    "PlaceNameModern":"Gravesend",
+    "NameOfTraveler":"John Cremer",
+    "YearOfTravel":1710,
+    "Description":"I must begin our being at Gravesend, what passages past hear with our Ship's Companey.",
+    "Citation":"Cremer, John. Ramblin’ Jack: The Journal of Captain John Cremer, 1700-1774. Edited by Richard Reynell Bellamy. London: Jonathan Cape, 1937.",
+    "Hyperlink":"",
+    "Country":"England",
+    "Region":"Western Europe",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.8967,42.5195 ]
+    },
+    "properties": {
+    "PlaceName":"Salem, MA",
+    "PlaceNameModern":"Salem, MA",
+    "NameOfTraveler":"Nancy Prince",
+    "YearOfTravel":1814,
+    "Description":"I left Essex and went to Salem , in the month of April, 1814 , without a friend , without a guide . I first went to Gloucester , to bid my mother and the family adieu . George , my brother , I left with a promise to send for him when I should be settled .",
+    "Citation":"Mrs. Nancy Prine, A Narrative of the Life and Travels, of Mrs. Nancy Prince (Boston: Published by the Author, 1850)",
+    "Hyperlink":"https://babel.hathitrust.org/cgi/pt?id=hvd.hnpixd&view=1up&seq=8",
+    "Country":"United States",
+    "Region":"Nothern America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.3188,61.524 ]
+    },
+    "properties": {
+    "PlaceName":"Russia",
+    "PlaceNameModern":"Russia",
+    "NameOfTraveler":"Nancy Prince",
+    "YearOfTravel":1824,
+    "Description":"April 15th embarked board the Romulus captain Epes Sargent commander, bound for Russia",
+    "Citation":"Mrs. Nancy Prine, A Narrative of the Life and Travels, of Mrs. Nancy Prince (Boston: Published by the Author, 1850)",
+    "Hyperlink":"https://babel.hathitrust.org/cgi/pt?id=hvd.hnpixd&view=1up&seq=8",
+    "Country":"Russia",
+    "Region":"Eastern Europe",
+    "Continent":"Europe, Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.5921,56.0308 ]
+    },
+    "properties": {
+    "PlaceName":"Elsinore",
+    "PlaceNameModern":"Elsinore",
+    "NameOfTraveler":"Nancy Prince",
+    "YearOfTravel":1824,
+    "Description":"May 24th , arrived at Elsinore , the same day Copenhagen where remained twelve days",
+    "Citation":"Mrs. Nancy Prine, A Narrative of the Life and Travels, of Mrs. Nancy Prince (Boston: Published by the Author, 1850)",
+    "Hyperlink":"https://babel.hathitrust.org/cgi/pt?id=hvd.hnpixd&view=1up&seq=8",
+    "Country":"Denmark",
+    "Region":"Nothern Europe",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.7655,59.9959 ]
+    },
+    "properties": {
+    "PlaceName":"Crostadt",
+    "PlaceNameModern":"Crostadt",
+    "NameOfTraveler":"Nancy Prince",
+    "YearOfTravel":1824,
+    "Description":"We left Copenha gen the 7th June, and arrived Cronstadt the 19th",
+    "Citation":"Mrs. Nancy Prine, A Narrative of the Life and Travels, of Mrs. Nancy Prince (Boston: Published by the Author, 1850)",
+    "Hyperlink":"https://babel.hathitrust.org/cgi/pt?id=hvd.hnpixd&view=1up&seq=8",
+    "Country":"Russia",
+    "Region":"Eastern Europe",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.3609,59.9311 ]
+    },
+    "properties": {
+    "PlaceName":"St. Petersburgh",
+    "PlaceNameModern":"St. Petersburgh",
+    "NameOfTraveler":"Nancy Prince",
+    "YearOfTravel":1825,
+    "Description":"May, 1825. I spent some time visiting the different towns in the vicinity of St. Petersburg.",
+    "Citation":"Mrs. Nancy Prine, A Narrative of the Life and Travels, of Mrs. Nancy Prince (Boston: Published by the Author, 1850)",
+    "Hyperlink":"https://babel.hathitrust.org/cgi/pt?id=hvd.hnpixd&view=1up&seq=8",
+    "Country":"Russia",
+    "Region":"Eastern Europe",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.006,40.7128 ]
+    },
+    "properties": {
+    "PlaceName":"New York",
+    "PlaceNameModern":"New York",
+    "NameOfTraveler":"Nancy Prince",
+    "YearOfTravel":1833,
+    "Description":"Petersburg, August 14th, 1833, having been absent about nine years and six months. On the 17th, sailed from Cronstadt, for New left Tuesday, 29th, left. September the 2d, laid gale. September 18th, made Plymouth, Old England. 19th sailed. Arrived New York, Oct. 10th.",
+    "Citation":"Mrs. Nancy Prine, A Narrative of the Life and Travels, of Mrs. Nancy Prince (Boston: Published by the Author, 1850)",
+    "Hyperlink":"https://babel.hathitrust.org/cgi/pt?id=hvd.hnpixd&view=1up&seq=8",
+    "Country":"United States",
+    "Region":"Eastern Seaboard",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 71.0589,42.3601 ]
+    },
+    "properties": {
+    "PlaceName":"Boston",
+    "PlaceNameModern":"Boston",
+    "NameOfTraveler":"Nancy Prince",
+    "YearOfTravel":1833,
+    "Description":"Left there Tuesday 18th, arrived in Boston the 23d.",
+    "Citation":"Mrs. Nancy Prine, A Narrative of the Life and Travels, of Mrs. Nancy Prince (Boston: Published by the Author, 1850)",
+    "Hyperlink":"https://babel.hathitrust.org/cgi/pt?id=hvd.hnpixd&view=1up&seq=8",
+    "Country":"United States",
+    "Region":"Eastern Seaboard",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.2975,18.1096 ]
+    },
+    "properties": {
+    "PlaceName":"Jamaica",
+    "PlaceNameModern":"Jamaica",
+    "NameOfTraveler":"Nancy Prince",
+    "YearOfTravel":1840,
+    "Description":"l left America November 16th, 1840, in the ship Scion, Captain Mansfield, bound for Jamaica....\n\nSunday,December 6th,at six o’clock in the evening,dropped anchor at St.Ann Harbor, Jamaica.We blessed the Lord for his goodness in sparing us to see the place of our destination;",
+    "Citation":"Mrs. Nancy Prine, A Narrative of the Life and Travels, of Mrs. Nancy Prince (Boston: Published by the Author, 1850)",
+    "Hyperlink":"https://babel.hathitrust.org/cgi/pt?id=hvd.hnpixd&view=1up&seq=8",
+    "Country":"Jamaica",
+    "Region":"Caribbean",
+    "Continent":"North America, Americas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.1652,39.9526 ]
+    },
+    "properties": {
+    "PlaceName":"Philadelphia",
+    "PlaceNameModern":"Philadelphia",
+    "NameOfTraveler":"Nancy Prince",
+    "YearOfTravel":1841,
+    "Description":"I sailed for Philadelphia, July 20th, 1841, twenty-one\ndays from Jamaica, in good health.",
+    "Citation":"Mrs. Nancy Prine, A Narrative of the Life and Travels, of Mrs. Nancy Prince (Boston: Published by the Author, 1850)",
+    "Hyperlink":"https://babel.hathitrust.org/cgi/pt?id=hvd.hnpixd&view=1up&seq=8",
+    "Country":"United States",
+    "Region":"Eastern Seaboard",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.2975,18.1096 ]
+    },
+    "properties": {
+    "PlaceName":"Jamaica",
+    "PlaceNameModern":"Jamaica",
+    "NameOfTraveler":"Nancy Prince",
+    "YearOfTravel":1842,
+    "Description":"Tuesday, 29th, left. September the 2d, laid gale. September 18th, made Plymouth, Old England. 19th sailed. Arrived New York, Oct. 10th.April 15th, embarked ou board the brig Norma, of New York, for Jamaica. I arrived at Kingston May 6th, and found every thing different from what it was when I left;",
+    "Citation":"Mrs. Nancy Prine, A Narrative of the Life and Travels, of Mrs. Nancy Prince (Boston: Published by the Author, 1850)",
+    "Hyperlink":"https://babel.hathitrust.org/cgi/pt?id=hvd.hnpixd&view=1up&seq=8",
+    "Country":"Jamaica",
+    "Region":"Caribbean",
+    "Continent":"North America, Americas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8198,1.3521 ]
+    },
+    "properties": {
+    "PlaceName":"Singapore",
+    "PlaceNameModern":"Singapore",
+    "NameOfTraveler":"Carl Lumholtz",
+    "YearOfTravel":1913,
+    "Description":"Singapore, with its green lawns and trees, has a pleasant, though humid climate, cooler than that of Batavia, and quite comfortable although so near the equator.",
+    "Citation":"Carl Lumholtz, Through Central Borneo; an Account of Two Years' Travel in the Land of Head-Hunters Between the Years 1913 and 1917 (NewYork: C. Schreibner’ Sons, 1920).",
+    "Hyperlink":"https://www.gutenberg.org/ebooks/7489 ",
+    "Country":"Singapore",
+    "Region":"South Eastern Asia",
+    "Continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.638,35.4437 ]
+    },
+    "properties": {
+    "PlaceName":"Yokohama",
+    "PlaceNameModern":"Yokohama",
+    "NameOfTraveler":"Carl Lumholtz",
+    "YearOfTravel":1913,
+    "Description":"As we entered the bay of Yokohama the sun was setting over a landscape that realised one's preconceived ideas of the beauty of the country. On one side, low ridges with rows of picturesque pine-trees just as you know them from Japanese prints, while in the background to the west, above the clouds rose the top of Fuji, nearly 4,000 metres above sea-level. We steamed up in absolute calm, while the long twilight was still further prolonged by a brilliant afterglow.",
+    "Citation":"Carl Lumholtz, Through Central Borneo; an Account of Two Years' Travel in the Land of Head-Hunters Between the Years 1913 and 1917 (NewYork: C. Schreibner’ Sons, 1920).",
+    "Hyperlink":"https://www.gutenberg.org/ebooks/7489 ",
+    "Country":"Japan",
+    "Region":"Eastern Asia",
+    "Continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 135.7681,35.0116 ]
+    },
+    "properties": {
+    "PlaceName":"Kyoto",
+    "PlaceNameModern":"Kyoto",
+    "NameOfTraveler":"Carl Lumholtz",
+    "YearOfTravel":1913,
+    "Description":"Of the many temples I visited in Kioto the first was Chion-in, which lies impressively on an elevation at the foot of a charming wooded hill. The tiny lake at the back of the quaint structure, the peaceful atmosphere, the sunshine, and singing birds—the tout ensemble was inexpressibly beautiful.",
+    "Citation":"Carl Lumholtz, Through Central Borneo; an Account of Two Years' Travel in the Land of Head-Hunters Between the Years 1913 and 1917 (NewYork: C. Schreibner’ Sons, 1920).",
+    "Hyperlink":"https://www.gutenberg.org/ebooks/7489 ",
+    "Country":"Japan",
+    "Region":"Eastern Asia",
+    "Continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.806,6.5971 ]
+    },
+    "properties": {
+    "PlaceName":"Buitenzorg",
+    "PlaceNameModern":"Bogor",
+    "NameOfTraveler":"Carl Lumholtz",
+    "YearOfTravel":1913,
+    "Description":"During the few days I stayed in Buitenzorg, the botanical gardens were a source of ever new delight. It was in the latter half of November and thus well into the rainy season. Usually showers came every afternoon, but the mornings, even up to eleven o'clock, always appeared like spring-time, only in a more magnificent edition than that of temperate zones. In the effulgence of light and the fresh coolness of the first hours of the day, plant and animal life seemed jubilant.",
+    "Citation":"Carl Lumholtz, Through Central Borneo; an Account of Two Years' Travel in the Land of Head-Hunters Between the Years 1913 and 1917 (NewYork: C. Schreibner’ Sons, 1920).",
+    "Hyperlink":"https://www.gutenberg.org/ebooks/7489 ",
+    "Country":"Indonesia",
+    "Region":"South Eastern Asia",
+    "Continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.7122,7.6145 ]
+    },
+    "properties": {
+    "PlaceName":"Java",
+    "PlaceNameModern":"Java",
+    "NameOfTraveler":"Carl Lumholtz",
+    "YearOfTravel":1913,
+    "Description":"The total population of the island is probably 3,000,000. As regards the South and Eastern Division of Dutch Borneo—roughly half of the island—to which my travels were confined, the census returns of 1914 give in round figures a total of 906,000 people, of whom 800 are Europeans (470 men and 330 women), 86,000 Chinese, 817,000 Dayaks and Malays, and 2,650 Arabs and other aliens.",
+    "Citation":"Carl Lumholtz, Through Central Borneo; an Account of Two Years' Travel in the Land of Head-Hunters Between the Years 1913 and 1917 (NewYork: C. Schreibner’ Sons, 1920).",
+    "Hyperlink":"https://www.gutenberg.org/ebooks/7489 ",
+    "Country":"Indonesia",
+    "Region":"South Eastern Asia",
+    "Continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.5944,3.3186 ]
+    },
+    "properties": {
+    "PlaceName":"Bandjermasin",
+    "PlaceNameModern":"Banjarmasin",
+    "NameOfTraveler":"Carl Lumholtz",
+    "YearOfTravel":1913,
+    "Description":"In the beginning of December I arrived at Bandjermasin, the principal town in Dutch Borneo, inhabited for the most part by Malays and Chinese. It is the seat of the Resident of the vast South and Eastern Division and has a garrison. The sea loudly announces its presence here, the tide overflowing much of the low ground, hence the Malay name, bandjir = overflow, másin = salt water. Large clumps of a peculiar water-plant float on the river in Bandjermasin in great numbers, passing downward with the current, upward with the tide, producing a singular, but pleasing sight.",
+    "Citation":"Carl Lumholtz, Through Central Borneo; an Account of Two Years' Travel in the Land of Head-Hunters Between the Years 1913 and 1917 (NewYork: C. Schreibner’ Sons, 1920).",
+    "Hyperlink":"https://www.gutenberg.org/ebooks/7489 ",
+    "Country":"Indonesia",
+    "Region":"South Eastern Asia",
+    "Continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.3648,2.8448 ]
+    },
+    "properties": {
+    "PlaceName":"Tandjong Selor",
+    "PlaceNameModern":"Tanjung Selor",
+    "NameOfTraveler":"Carl Lumholtz",
+    "YearOfTravel":1913,
+    "Description":"Two days later, among mighty forests of nipa-palms, we sailed up the Kayan or Bulungan River and arrived at Tandjong Selor, a small town populated by Malays and Chinese, the number of Europeans being usually limited to two, the controleur and the custom-house manager. It lies in a flat swampy country and on the opposite side of the river, which here is 600 metres wide, lives the Sultan of Bulungan.",
+    "Citation":"Carl Lumholtz, Through Central Borneo; an Account of Two Years' Travel in the Land of Head-Hunters Between the Years 1913 and 1917 (NewYork: C. Schreibner’ Sons, 1920).",
+    "Hyperlink":"https://www.gutenberg.org/ebooks/7489 ",
+    "Country":"Indonesia",
+    "Region":"South Eastern Asia",
+    "Continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113,2 ]
+    },
+    "properties": {
+    "PlaceName":"Upper Mahakam",
+    "PlaceNameModern":"Mahakam River",
+    "NameOfTraveler":"Carl Lumholtz",
+    "YearOfTravel":1913,
+    "Description":"On the Upper Mahakam I later made acquaintance with some of the Punans who roam the mountainous regions surrounding the headwaters of that river. Those are known under the name Punan Kohi, from a river of that name in the mountains toward Sarawak. The members of the same tribe further east in the mountains of the Bulungan district are called Punan Lun, from the River Lun, to whom the present individuals probably belonged. According to the raja, there are two kinds of Punans here, and his statement seems to be borne out by the variations in their physical appearance.",
+    "Citation":"Carl Lumholtz, Through Central Borneo; an Account of Two Years' Travel in the Land of Head-Hunters Between the Years 1913 and 1917 (NewYork: C. Schreibner’ Sons, 1920).",
+    "Hyperlink":"https://www.gutenberg.org/ebooks/7489 ",
+    "Country":"Indonesia",
+    "Region":"South Eastern Asia",
+    "Continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.9852,2.9042 ]
+    },
+    "properties": {
+    "PlaceName":"Bulungan",
+    "PlaceNameModern":"Bulungan Regency",
+    "NameOfTraveler":"Carl Lumholtz",
+    "YearOfTravel":1913,
+    "Description":"The controleur told me that his large district, the northernmost part of Dutch Borneo, called Bulungan, comprised \"about 1,100 square miles.\" He estimated the number of inhabitants to be about 60,000, roughly speaking, 50 to each mile, but the population here as elsewhere follows the rivers. The Dayaks are greatly in majority, the Malays inhabiting the Sultan's kampong and a couple of small settlements in the vicinity.",
+    "Citation":"Carl Lumholtz, Through Central Borneo; an Account of Two Years' Travel in the Land of Head-Hunters Between the Years 1913 and 1917 (NewYork: C. Schreibner’ Sons, 1920).",
+    "Hyperlink":"https://www.gutenberg.org/ebooks/7489 ",
+    "Country":"Indonesia",
+    "Region":"South Eastern Asia",
+    "Continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115,1.7 ]
+    },
+    "properties": {
+    "PlaceName":"Apo Kayan",
+    "PlaceNameModern":"Apo Kayan",
+    "NameOfTraveler":"Carl Lumholtz",
+    "YearOfTravel":1913,
+    "Description":"He expressed his opinion that the government would find it extremely difficult to stamp out head-hunting in Apo Kayan, with its 15,000 Dayaks, because the custom is founded in their religious conception. \"Our ancestors have always taken heads,\" they say; \"we also do it, and the spirits will then be satisfied. We have learned it from our ancestors, who want us to do it.\" \"They often ask us,\" the lieutenant said: \"When are you going to leave Long Nawang? When you are gone then we will again take up the head-hunting.\"",
+    "Citation":"Carl Lumholtz, Through Central Borneo; an Account of Two Years' Travel in the Land of Head-Hunters Between the Years 1913 and 1917 (NewYork: C. Schreibner’ Sons, 1920).",
+    "Hyperlink":"https://www.gutenberg.org/ebooks/7489 ",
+    "Country":"Indonesia",
+    "Region":"South Eastern Asia",
+    "Continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.3738,48.2082 ]
+    },
+    "properties": {
+    "PlaceName":"Vienna",
+    "PlaceNameModern":"Vienna",
+    "NameOfTraveler":"Ida Pfeiffer",
+    "YearOfTravel":1842,
+    "Description":"And thus, on the 22d of March 1842, I commenced my journey from Vienna.",
+    "Citation":"Ida Pfeiffer, Visit to the Holy Land, Egypt, and Italy, trans. by H.W. Dulcken (London: Ingram Cooke & Co., 1853).",
+    "Hyperlink":"https://www.gutenberg.org/ebooks/12561",
+    "Country":"Austria",
+    "Region":"Eastern Europe, Central Europe",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.008,45.4353 ]
+    },
+    "properties": {
+    "PlaceName":"Galatz",
+    "PlaceNameModern":"Galatz",
+    "NameOfTraveler":"Ida Pfeiffer",
+    "YearOfTravel":1842,
+    "Description":"The scenery round the town is so far from being inviting, that I did not feel the least inclination to explore it. I therefore remained in the town, and went up hill and down dale through the ill-paved streets. Coffee-houses appear in great abundance; but if it were not for the people sitting in front of them drinking coffee and smoking tobacco, no one would do these dirty rooms the honour of taking them for places of entertainment.\n\nIn the market and the squares we notice a great preponderance of the male sex over the female. The former are seen bustling about every where, and, like the Italians, perform some duties which usually fall to the lot of the softer sex. We notice a mixture of the most different nations, and among them a particularly large number of Jews.\n\nThe bazaar is overloaded with southern fruits of all kinds. Oranges and lemons are seen here in great numbers, like the commonest of our fruits. The prices are of course very trifling. The cauliflowers brought from Asia Minor are particularly fine. I noticed many as large as a man’s head.\n\nIn the evening I was required to repair to the harbour and re-embark.\n\nIt is almost impossible to form an idea of the confusion which reigns here. A wooden railing forms the barrier between the healthy people and those who come from or intend travelling to a country infected with the plague. Whoever passes this line of demarcation is not allowed to return. Soldiers, officers, government officials, and superintendents, the latter of whom are armed with sticks and pairs of tongs, stand at the entrance to drive those forcibly back who will not be content with fair words. Provisions and other articles are either thrown over the barrier or left in front of it. In the latter case, however, they may not be touched until the bearers have departed. A gentleman on the “plague” side wished to give a letter to one on the other; it was immediately snatched from his hand and handed across by means of a pair of tongs. And all this time such a noise and hubbub is going on, that you can scarcely hear the sound of your own voice.\n\n“Pray hand me over my luggage!” cries one. “Keep farther away! don’t come near me, and mind you don’t touch me!” anxiously exclaims another. And then the superintendents keep shouting—“Stand back, stand back!” etc.\n\nI was highly entertained by this spectacle; the scene was entirely new to me. But on my return, when I shall be one of the prisoners, I fear I may find it rather tedious. For this time I was not at all hindered in the prosecution of my journey.\n\nOn the whole, these timid precautions seemed to me exceedingly uncalled for, particularly at a time when neither the plague nor any kind of contagious disease prevailed in Turkey. One of my fellow-passengers had been banished to our ship on the previous day because he had had the misfortune to brush against an official on going to see after his luggage.\n\nAt seven o’clock the tattoo is beaten, the grating is shut, and the farce ends. We now repaired to the fourth and last steamer, the Ferdinand. From first to last we changed vessels six times during a journey from Vienna to Constantinople; we travelled by four steamers and twice in boats; a circumstance which cannot be reckoned among the pleasures of a trip down the Danube.\n\nThough not a large boat, the Ferdinand is comfortable and well built. Even the second-class cabin is neatly arranged, and a pretty stove diffused a warmth which was peculiarly grateful to us all, as the thermometer showed only six to eight degrees above zero. Unfortunately even here the men and women are not separated in the second-class cabin; but care is at least taken that third-class passengers do not intrude. Twelve berths are arranged round the walls, and in front of these are placed broad benches well cushioned.",
+    "Citation":"Ida Pfeiffer, Visit to the Holy Land, Egypt, and Italy, trans. by H.W. Dulcken (London: Ingram Cooke & Co., 1853).",
+    "Hyperlink":"https://www.gutenberg.org/ebooks/12561",
+    "Country":"Romania",
+    "Region":"Eastern Europe, South Eastern Europe",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.9784,41.0082 ]
+    },
+    "properties": {
+    "PlaceName":"Constantinople",
+    "PlaceNameModern":"Istanbul",
+    "NameOfTraveler":"Ida Pfeiffer",
+    "YearOfTravel":1842,
+    "Description":"I arrived at Constantinople on a Tuesday, and immediately inquired what was worth seeing. I was advised to go and see the dancing dervishes, as this was the day on which they held their religious exercises in Pera.\n\nAs I reached the mosque an hour too soon, I betook myself in the meantime to the adjoining garden, which is set apart as the place of meeting of the Turkish women. Here several hundred ladies reclined on the grass in varied groups, surrounded by their children and their nurses, the latter of whom are all negresses. Many of these Turkish women were smoking pipes of tobacco with an appearance of extreme enjoyment, and drinking small cups of coffee without milk. Two or three friends often made use of the same pipe, which was passed round from mouth to mouth. These ladies seemed also to be partial to dainties: most of them were well provided with raisins, figs, sugared nuts, cakes, etc., and ate as much as the little ones. They seemed to treat their slaves very kindly; the black servants sat among their mistresses, and munched away bravely: the slaves are well dressed, and could scarcely be distinguished from their owners, were it not for their sable hue.\n\nDuring my whole journey I remarked with pleasure that the lot of a slave in the house of a Mussulman is not nearly so hard as we believe. The Turkish women are no great admirers of animated conversations; still there was more talking in their societies than in the assemblies of the men, who sit silent and half asleep in the coffee-houses, languidly listening to the narrations of a story-teller.\n\nThe ladies’ garden resembles a churchyard. Funeral monuments peer forth at intervals between the cypresses, beneath which the visitors sit talking and joking cheerfully. Every now and then one would suddenly start up, spread a carpet beside her companions, and kneel down to perform her devotions.\n\nAs no one of the male sex was allowed to be present, all were unveiled. I noticed many pretty faces among them, but not a single instance of rare or striking beauty. Fancy large brilliant eyes, pale cheeks, broad faces, and an occasional tendency to corpulence, and you have the ladies’ portrait. Small-pox must still be rather prevalent in these parts, for I saw marks of it on many faces.\n\nThe Turkish ladies’ costume is not very tasteful. When they go abroad, they are completely swathed in an upper garment, generally made of dark merino. In the harem, or in any place where men are not admitted, they doff this garment, and also the white cloth in which they wrap their heads and faces. Their costume consists, properly speaking, of very wide trousers drawn together below the ancle, a petticoat with large wide sleeves, and a broad sash round the waist. Over this sash some wear a caftan, others only a spencer, generally of silk. On their feet they wear delicate boots, and over these slippers of yellow morocco; on their heads a small fez-cap, from beneath which their hair falls on their shoulders in a number of thin plaits. Those Turks, male and female, who are descended from Mahomet, have either a green caftan or a green turban. This colour is here held so sacred, that scarcely any one may wear it. I would even advise the Franks to avoid green in their dresses, as they may expose themselves to annoyance by using it.\n\nAfter I had had more than an hour’s leisure to notice all these circumstances, a noise suddenly arose in the courtyard, which produced a stir among the women. I considered from these appearances that it was time to go to the temple, and hastened to join my party. A great crowd was waiting in the courtyard, for the Sultan was expected. I was glad to have the good fortune to behold him on the very day of my arrival. As a stranger, I was allowed, without opposition, a place in the front ranks,—a trait of good breeding on the part of the Turks which many a Frank would do well to imitate. In a Turk, moreover, this politeness is doubly praiseworthy, from the fact that he looks upon my poor sex with great disrespect; indeed, according to his creed, we have not even a soul.\n\nI had only stood a few moments, when the Sultan appeared on horseback, surrounded by his train. He alone rode into the courtyard; the others all dismounted at the gate, and entered on foot. The horse on which the Sultan rode was of rare beauty, and, as they told me, of the true Arabian breed; the saddle-cloth was richly embroidered with gold, and the stirrups, of the same precious metal, were in the form of shoes, covered with the finest chased work.",
+    "Citation":"Ida Pfeiffer, Visit to the Holy Land, Egypt, and Italy, trans. by H.W. Dulcken (London: Ingram Cooke & Co., 1853).",
+    "Hyperlink":"https://www.gutenberg.org/ebooks/12561",
+    "Country":"Turkey",
+    "Region":"South Eastern Europe, Western Asia",
+    "Continent":"Europe;Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.0576,41.0189 ]
+    },
+    "properties": {
+    "PlaceName":"Scutari",
+    "PlaceNameModern":"Uskudar",
+    "NameOfTraveler":"Ida Pfeiffer",
+    "YearOfTravel":1842,
+    "Description":"I chose a Friday for an excursion to Scutari, the celebrated burying-place of the Turks, in order that I might have an opportunity of seeing the “howling dervishes.”\n\nIn company with a French physician, I traversed the Bosphorus in a kaik. {48} We passed by the “Leander’s Tower,” which stands in the sea, a few hundred paces from the Asiatic coast, and has been so frequently celebrated in song by the poets. We soon arrived at our destination.\n\nIt was with a peculiar feeling of emotion that for the first time in my life I set foot on a new quarter of the globe. Now, and not till now, I seemed separated by an immeasurable distance from my home. Afterwards, when I landed on the coast of Africa, the circumstance did not produce the same impression on my mind.\n\nNow at length I was standing in the quarter of the earth which had been the cradle of the human race; where man had risen high, and had again sunk so low that the Almighty had almost annihilated him in his righteous anger. And here in Asia it was that the Son of God came on earth to bring the boon of redemption to fallen man. My long and warmly-cherished wish to tread this most wonderful of the four quarters of the earth was at length fulfilled, and with God’s help I might confidently hope to reach the sacred region whence the true light of the world had shone forth.\n\nBurial Place at Scutari.\n\nScutari is the place towards which the Mussulman looks with the hope of one day reposing beneath its shade. No disciple of any other creed is allowed to be buried here; and here, therefore, the Mahometan feels himself at home, and worthy of his Prophet. The cemetery is the grandest in the world. One may wander for hours through this grove of cypresses, without reaching the end. On the gravestones of the men turbans are sculptured; on those of the women fruits and flowers: the execution is in most cases very indifferent.\n\nThough neither the chief nor the tributary streets in Scutari are even, they are neither so badly paved nor quite so narrow as those at Pera. The great barracks, on a height in the foreground, present a splendid appearance, and also afford a delicious view towards the Sea of Marmora and the inimitably beautiful Bosphorus. The barracks are said to contain accommodation for 10,000 men.",
+    "Citation":"Ida Pfeiffer, Visit to the Holy Land, Egypt, and Italy, trans. by H.W. Dulcken (London: Ingram Cooke & Co., 1853).",
+    "Hyperlink":"https://www.gutenberg.org/ebooks/12561",
+    "Country":"Turkey",
+    "Region":"South Eastern Europe, Western Asia",
+    "Continent":"Europe;Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.9045,32.519 ]
+    },
+    "properties": {
+    "PlaceName":"Caesarea",
+    "PlaceNameModern":"Caesarea",
+    "NameOfTraveler":"Ida Pfeiffer",
+    "YearOfTravel":1842,
+    "Description":"During the night we reached Cæsarea. With the eloquence of a Demosthenes, our captain endeavoured to dissuade us from our project of landing here; he pointed out to us the dangers to which we were exposing ourselves, and the risks we should run from Bedouins and snakes. The former, he averred, were accustomed to conceal themselves in hordes among the ruins, in order to ease travellers of their effects and money; being well aware that such spots were only visited by curious tourists with well-filled purses, they were continually on the watch, like the robber-knights of the good old German empire. “An enemy no less formidable,” said the captain, “was to be encountered in the persons of numerous snakes lurking in the old walls and on the weed-covered ground, which endangered the life of the traveller at every step.” We were perfectly well aware of these facts, having gleaned them partly from descriptions of voyages, partly from oral traditions; and so they were not powerful enough to arrest our curiosity. The captain himself was really less actuated by the sense of our danger, in advising us to abandon our undertaking, than by the reflection of the time it lost him; but he exerted himself in vain. He was obliged to cast anchor, and at daybreak to send a boat ashore with us.\n\nOur arms consisted of parasols and sticks (the latter we carried in order to beat the bushes); we were escorted by the captain, his servant, and a couple of sailors.\n\nIn the ruins we certainly met with a few suspicious-looking characters in the shape of wandering Bedouins. As it was too late to beat a retreat, we advanced bravely towards them with trusting and friendly looks. The Bedouins did the same, and so there was an end of this dangerous affair. We climbed from one fragment to another, and certainly spent more than two hours among the ruins, without sustaining the slightest injury at the hands of these people. Of the threatened snakes we saw not a single one.\n\nRuins, indeed, we found every where in plenty. Whole side-walls, which appeared to have belonged to private houses, but not to splendid palaces or temples, stood erect and almost unscathed. Fragments of pillars lay scattered about in great abundance, but without capitals, pedestals, or friezes.\n\nIt was with a feeling of awe hitherto unknown to me that I trod the ground where my Redeemer had walked. Every spot, every building became invested with a double interest. “Perchance,” I thought, “I may be lingering within the very house where Jesus once sojourned.” More than satisfied with my excursion, I returned to our bark.\n\nBy three o’clock in the afternoon we were close under the walls of Joppa. To enter this harbour, partially choked up as it is with sand, is described as a difficult feat. We were assured that we should see many wrecks of stranded ships and boats; accordingly I strained my eyes to the utmost, and could discover nothing. We ran safely in; and thus ended a little journey in the course of which I had seen many new and interesting objects, besides gaining some insight into the mode of life among the sailors. Frequently, when it fell calm, our Arabs would recline on the ground in a circle, singing songs of an inconceivably inharmonious and lugubrious character, while they clapped their hands in cadence, and burst at intervals into a barking laugh. I could not find any thing very amusing in this entertainment; on the contrary, it had the effect of making me feel very melancholy, as displaying these good people in a very idiotic and degrading light.\n\nThe costume of the sailors was simple in the extreme. A shirt covered them in rather an imperfect manner, and a handkerchief bound round their heads protected them from a coup de soleil. The captain was distinguished from the rest only by his turban, which looked ridiculous enough, surmounting his half-clad form. Their diet consisted of a single warm meal of pilau or beans, eaten in the evening. During the day they stayed their appetites with bread. Their drink was water.\n\nThe town of Joppa, extending from the sea-shore to the summit of a rather considerable and completely isolated hill, has a most peculiar appearance. The lower street is surrounded by a wall, and appears sufficiently broad; the remaining streets run up the face of the hills, and seem at a distance to be resting on the houses below. Viewing the town from our boat, I could have sworn that people were walking about on flat house-tops.\n\nAs Joppa boasts neither an inn nor a convent which might shelter a traveller, I waited upon the Consul of the Austrian Empire, Herr D---, who received me very kindly and introduced me to his family, which comprised his lady, three sons, and three daughters. They wore the Turkish costume. The daughters, two of whom were exceedingly beautiful, wore wide trousers, a caftan, and a sash round the waist. On their heads they had little fez-caps, and their hair was divided into fifteen or twenty narrow plaits, interwoven with little gold coins, and a larger one at the end of each plait. A necklace of gold coins encircled their necks. The mother was dressed in exactly the same way. When elderly women have little or no hair left, they make up with artificial silk plaits for the deficiencies of nature.\n\nThe custom of wearing coins as ornaments is so prevalent throughout Syria, that the very poorest women, girls, and children strive to display as many as possible. Where they cannot sport gold, they content themselves with silver money; and where even this metal is not attainable, with little coins of copper and other baser metals.\n\nThe Consul and his son were also clothed in the Turkish garb; but instead of a turban the father wore an old cocked hat, which gave him an indescribably ludicrous appearance. A son and a daughter of this worthy patron of the semi-Turkish, semi-European garb, had but one eye, a defect frequently met with in Syria. It is generally supposed to be caused by the dry heat, the fine particles of sand, and the intense glare of the chalky hills.\n\nAs I reached Joppa early in the afternoon, I proceeded in company of the Consul to view the town and its environs. In dirt, bad paving, etc., I found it equal to any of the towns I had yet seen. The lower street, near the sea, alone is broad and bustling, with loaded and unloaded camels passing continually to and fro. The bazaar is composed of some miserable booths containing common provisions and a few cheap wares.\n\nThe neighbourhood of Joppa is exceedingly fertile. Numerous large gardens, with trees laden with all kinds of tropical fruits, and guarded by impenetrable hedges of the Indian fig-tree, form a half-circle round the lower portion of the town.\n\nThe Indian fig-tree, which I here saw for the first time, has an odd appearance. From its stem, which is very dwarfish, leaves a foot in length, six inches in breadth, and half an inch in thickness, shoot forth. This tree seldom sends forth branches; the leaves grow one out of another, and at the extremity the fruit is formed. Its length is about two or three inches. Ten or twenty such figs are frequently found adhering to a single leaf.\n\nI could not conceive how it happened that in these hot countries, without rain to refresh them, the trees all looked so healthy and beautiful. This fact, I found, was owing to the numerous channels cut through the gardens, which are thus artificially irrigated. The heavy dews and cool nights also tend to restore the drooping vegetation. One great ornament of our gardens was, however, totally wanting—a lawn with wild flowers. Trees and vegetables here grow out of the sandy or stony earth, a circumstance hardly noticed at a distance, but which produces a disagreeable effect on a near view. Flowers I found none.\nDuring the night we reached Cæsarea. With the eloquence of a Demosthenes, our captain endeavoured to dissuade us from our project of landing here; he pointed out to us the dangers to which we were exposing ourselves, and the risks we should run from Bedouins and snakes. The former, he averred, were accustomed to conceal themselves in hordes among the ruins, in order to ease travellers of their effects and money; being well aware that such spots were only visited by curious tourists with well-filled purses, they were continually on the watch, like the robber-knights of the good old German empire. “An enemy no less formidable,” said the captain, “was to be encountered in the persons of numerous snakes lurking in the old walls and on the weed-covered ground, which endangered the life of the traveller at every step.” We were perfectly well aware of these facts, having gleaned them partly from descriptions of voyages, partly from oral traditions; and so they were not powerful enough to arrest our curiosity. The captain himself was really less actuated by the sense of our danger, in advising us to abandon our undertaking, than by the reflection of the time it lost him; but he exerted himself in vain. He was obliged to cast anchor, and at daybreak to send a boat ashore with us.\n\nOur arms consisted of parasols and sticks (the latter we carried in order to beat the bushes); we were escorted by the captain, his servant, and a couple of sailors.\n\nIn the ruins we certainly met with a few suspicious-looking characters in the shape of wandering Bedouins. As it was too late to beat a retreat, we advanced bravely towards them with trusting and friendly looks. The Bedouins did the same, and so there was an end of this dangerous affair. We climbed from one fragment to another, and certainly spent more than two hours among the ruins, without sustaining the slightest injury at the hands of these people. Of the threatened snakes we saw not a single one.\n\nRuins, indeed, we found every where in plenty. Whole side-walls, which appeared to have belonged to private houses, but not to splendid palaces or temples, stood erect and almost unscathed. Fragments of pillars lay scattered about in great abundance, but without capitals, pedestals, or friezes.\n\nIt was with a feeling of awe hitherto unknown to me that I trod the ground where my Redeemer had walked. Every spot, every building became invested with a double interest. “Perchance,” I thought, “I may be lingering within the very house where Jesus once sojourned.” More than satisfied with my excursion, I returned to our bark.\n\nBy three o’clock in the afternoon we were close under the walls of Joppa. To enter this harbour, partially choked up as it is with sand, is described as a difficult feat. We were assured that we should see many wrecks of stranded ships and boats; accordingly I strained my eyes to the utmost, and could discover nothing. We ran safely in; and thus ended a little journey in the course of which I had seen many new and interesting objects, besides gaining some insight into the mode of life among the sailors. Frequently, when it fell calm, our Arabs would recline on the ground in a circle, singing songs of an inconceivably inharmonious and lugubrious character, while they clapped their hands in cadence, and burst at intervals into a barking laugh. I could not find any thing very amusing in this entertainment; on the contrary, it had the effect of making me feel very melancholy, as displaying these good people in a very idiotic and degrading light.\n\nThe costume of the sailors was simple in the extreme. A shirt covered them in rather an imperfect manner, and a handkerchief bound round their heads protected them from a coup de soleil. The captain was distinguished from the rest only by his turban, which looked ridiculous enough, surmounting his half-clad form. Their diet consisted of a single warm meal of pilau or beans, eaten in the evening. During the day they stayed their appetites with bread. Their drink was water.\n\nThe town of Joppa, extending from the sea-shore to the summit of a rather considerable and completely isolated hill, has a most peculiar appearance. The lower street is surrounded by a wall, and appears sufficiently broad; the remaining streets run up the face of the hills, and seem at a distance to be resting on the houses below. Viewing the town from our boat, I could have sworn that people were walking about on flat house-tops.\n\nAs Joppa boasts neither an inn nor a convent which might shelter a traveller, I waited upon the Consul of the Austrian Empire, Herr D---, who received me very kindly and introduced me to his family, which comprised his lady, three sons, and three daughters. They wore the Turkish costume. The daughters, two of whom were exceedingly beautiful, wore wide trousers, a caftan, and a sash round the waist. On their heads they had little fez-caps, and their hair was divided into fifteen or twenty narrow plaits, interwoven with little gold coins, and a larger one at the end of each plait. A necklace of gold coins encircled their necks. The mother was dressed in exactly the same way. When elderly women have little or no hair left, they make up with artificial silk plaits for the deficiencies of nature.\n\nThe custom of wearing coins as ornaments is so prevalent throughout Syria, that the very poorest women, girls, and children strive to display as many as possible. Where they cannot sport gold, they content themselves with silver money; and where even this metal is not attainable, with little coins of copper and other baser metals.\n\nThe Consul and his son were also clothed in the Turkish garb; but instead of a turban the father wore an old cocked hat, which gave him an indescribably ludicrous appearance. A son and a daughter of this worthy patron of the semi-Turkish, semi-European garb, had but one eye, a defect frequently met with in Syria. It is generally supposed to be caused by the dry heat, the fine particles of sand, and the intense glare of the chalky hills.\n\nAs I reached Joppa early in the afternoon, I proceeded in company of the Consul to view the town and its environs. In dirt, bad paving, etc., I found it equal to any of the towns I had yet seen. The lower street, near the sea, alone is broad and bustling, with loaded and unloaded camels passing continually to and fro. The bazaar is composed of some miserable booths containing common provisions and a few cheap wares.\n\nThe neighbourhood of Joppa is exceedingly fertile. Numerous large gardens, with trees laden with all kinds of tropical fruits, and guarded by impenetrable hedges of the Indian fig-tree, form a half-circle round the lower portion of the town.\n\nThe Indian fig-tree, which I here saw for the first time, has an odd appearance. From its stem, which is very dwarfish, leaves a foot in length, six inches in breadth, and half an inch in thickness, shoot forth. This tree seldom sends forth branches; the leaves grow one out of another, and at the extremity the fruit is formed. Its length is about two or three inches. Ten or twenty such figs are frequently found adhering to a single leaf.\n\nI could not conceive how it happened that in these hot countries, without rain to refresh them, the trees all looked so healthy and beautiful. This fact, I found, was owing to the numerous channels cut through the gardens, which are thus artificially irrigated. The heavy dews and cool nights also tend to restore the drooping vegetation. One great ornament of our gardens was, however, totally wanting—a lawn with wild flowers. Trees and vegetables here grow out of the sandy or stony earth, a circumstance hardly noticed at a distance, but which produces a disagreeable effect on a near view. Flowers I found none.\nDuring the night we reached Cæsarea. With the eloquence of a Demosthenes, our captain endeavoured to dissuade us from our project of landing here; he pointed out to us the dangers to which we were exposing ourselves, and the risks we should run from Bedouins and snakes. The former, he averred, were accustomed to conceal themselves in hordes among the ruins, in order to ease travellers of their effects and money; being well aware that such spots were only visited by curious tourists with well-filled purses, they were continually on the watch, like the robber-knights of the good old German empire. “An enemy no less formidable,” said the captain, “was to be encountered in the persons of numerous snakes lurking in the old walls and on the weed-covered ground, which endangered the life of the traveller at every step.” We were perfectly well aware of these facts, having gleaned them partly from descriptions of voyages, partly from oral traditions; and so they were not powerful enough to arrest our curiosity. The captain himself was really less actuated by the sense of our danger, in advising us to abandon our undertaking, than by the reflection of the time it lost him; but he exerted himself in vain. He was obliged to cast anchor, and at daybreak to send a boat ashore with us.\n\nOur arms consisted of parasols and sticks (the latter we carried in order to beat the bushes); we were escorted by the captain, his servant, and a couple of sailors.\n\nIn the ruins we certainly met with a few suspicious-looking characters in the shape of wandering Bedouins. As it was too late to beat a retreat, we advanced bravely towards them with trusting and friendly looks. The Bedouins did the same, and so there was an end of this dangerous affair. We climbed from one fragment to another, and certainly spent more than two hours among the ruins, without sustaining the slightest injury at the hands of these people. Of the threatened snakes we saw not a single one.\n\nRuins, indeed, we found every where in plenty. Whole side-walls, which appeared to have belonged to private houses, but not to splendid palaces or temples, stood erect and almost unscathed. Fragments of pillars lay scattered about in great abundance, but without capitals, pedestals, or friezes.\n\nIt was with a feeling of awe hitherto unknown to me that I trod the ground where my Redeemer had walked. Every spot, every building became invested with a double interest. “Perchance,” I thought, “I may be lingering within the very house where Jesus once sojourned.” More than satisfied with my excursion, I returned to our bark.\n\nBy three o’clock in the afternoon we were close under the walls of Joppa. To enter this harbour, partially choked up as it is with sand, is described as a difficult feat. We were assured that we should see many wrecks of stranded ships and boats; accordingly I strained my eyes to the utmost, and could discover nothing. We ran safely in; and thus ended a little journey in the course of which I had seen many new and interesting objects, besides gaining some insight into the mode of life among the sailors. Frequently, when it fell calm, our Arabs would recline on the ground in a circle, singing songs of an inconceivably inharmonious and lugubrious character, while they clapped their hands in cadence, and burst at intervals into a barking laugh. I could not find any thing very amusing in this entertainment; on the contrary, it had the effect of making me feel very melancholy, as displaying these good people in a very idiotic and degrading light.\n\nThe costume of the sailors was simple in the extreme. A shirt covered them in rather an imperfect manner, and a handkerchief bound round their heads protected them from a coup de soleil. The captain was distinguished from the rest only by his turban, which looked ridiculous enough, surmounting his half-clad form. Their diet consisted of a single warm meal of pilau or beans, eaten in the evening. During the day they stayed their appetites with bread. Their drink was water.\n\nThe town of Joppa, extending from the sea-shore to the summit of a rather considerable and completely isolated hill, has a most peculiar appearance. The lower street is surrounded by a wall, and appears sufficiently broad; the remaining streets run up the face of the hills, and seem at a distance to be resting on the houses below. Viewing the town from our boat, I could have sworn that people were walking about on flat house-tops.\n\nAs Joppa boasts neither an inn nor a convent which might shelter a traveller, I waited upon the Consul of the Austrian Empire, Herr D---, who received me very kindly and introduced me to his family, which comprised his lady, three sons, and three daughters. They wore the Turkish costume. The daughters, two of whom were exceedingly beautiful, wore wide trousers, a caftan, and a sash round the waist. On their heads they had little fez-caps, and their hair was divided into fifteen or twenty narrow plaits, interwoven with little gold coins, and a larger one at the end of each plait. A necklace of gold coins encircled their necks. The mother was dressed in exactly the same way. When elderly women have little or no hair left, they make up with artificial silk plaits for the deficiencies of nature.\n\nThe custom of wearing coins as ornaments is so prevalent throughout Syria, that the very poorest women, girls, and children strive to display as many as possible. Where they cannot sport gold, they content themselves with silver money; and where even this metal is not attainable, with little coins of copper and other baser metals.\n\nThe Consul and his son were also clothed in the Turkish garb; but instead of a turban the father wore an old cocked hat, which gave him an indescribably ludicrous appearance. A son and a daughter of this worthy patron of the semi-Turkish, semi-European garb, had but one eye, a defect frequently met with in Syria. It is generally supposed to be caused by the dry heat, the fine particles of sand, and the intense glare of the chalky hills.\n\nAs I reached Joppa early in the afternoon, I proceeded in company of the Consul to view the town and its environs. In dirt, bad paving, etc., I found it equal to any of the towns I had yet seen. The lower street, near the sea, alone is broad and bustling, with loaded and unloaded camels passing continually to and fro. The bazaar is composed of some miserable booths containing common provisions and a few cheap wares.\n\nThe neighbourhood of Joppa is exceedingly fertile. Numerous large gardens, with trees laden with all kinds of tropical fruits, and guarded by impenetrable hedges of the Indian fig-tree, form a half-circle round the lower portion of the town.\n\nThe Indian fig-tree, which I here saw for the first time, has an odd appearance. From its stem, which is very dwarfish, leaves a foot in length, six inches in breadth, and half an inch in thickness, shoot forth. This tree seldom sends forth branches; the leaves grow one out of another, and at the extremity the fruit is formed. Its length is about two or three inches. Ten or twenty such figs are frequently found adhering to a single leaf.\n\nI could not conceive how it happened that in these hot countries, without rain to refresh them, the trees all looked so healthy and beautiful. This fact, I found, was owing to the numerous channels cut through the gardens, which are thus artificially irrigated. The heavy dews and cool nights also tend to restore the drooping vegetation. One great ornament of our gardens was, however, totally wanting—a lawn with wild flowers. Trees and vegetables here grow out of the sandy or stony earth, a circumstance hardly noticed at a distance, but which produces a disagreeable effect on a near view. Flowers I found none.\nDuring the night we reached Cæsarea. With the eloquence of a Demosthenes, our captain endeavoured to dissuade us from our project of landing here; he pointed out to us the dangers to which we were exposing ourselves, and the risks we should run from Bedouins and snakes. The former, he averred, were accustomed to conceal themselves in hordes among the ruins, in order to ease travellers of their effects and money; being well aware that such spots were only visited by curious tourists with well-filled purses, they were continually on the watch, like the robber-knights of the good old German empire. “An enemy no less formidable,” said the captain, “was to be encountered in the persons of numerous snakes lurking in the old walls and on the weed-covered ground, which endangered the life of the traveller at every step.” We were perfectly well aware of these facts, having gleaned them partly from descriptions of voyages, partly from oral traditions; and so they were not powerful enough to arrest our curiosity. The captain himself was really less actuated by the sense of our danger, in advising us to abandon our undertaking, than by the reflection of the time it lost him; but he exerted himself in vain. He was obliged to cast anchor, and at daybreak to send a boat ashore with us.\n\nOur arms consisted of parasols and sticks (the latter we carried in order to beat the bushes); we were escorted by the captain, his servant, and a couple of sailors.\n\nIn the ruins we certainly met with a few suspicious-looking characters in the shape of wandering Bedouins. As it was too late to beat a retreat, we advanced bravely towards them with trusting and friendly looks. The Bedouins did the same, and so there was an end of this dangerous affair. We climbed from one fragment to another, and certainly spent more than two hours among the ruins, without sustaining the slightest injury at the hands of these people. Of the threatened snakes we saw not a single one.\n\nRuins, indeed, we found every where in plenty. Whole side-walls, which appeared to have belonged to private houses, but not to splendid palaces or temples, stood erect and almost unscathed. Fragments of pillars lay scattered about in great abundance, but without capitals, pedestals, or friezes.\n\nIt was with a feeling of awe hitherto unknown to me that I trod the ground where my Redeemer had walked. Every spot, every building became invested with a double interest. “Perchance,” I thought, “I may be lingering within the very house where Jesus once sojourned.” More than satisfied with my excursion, I returned to our bark.\n\nBy three o’clock in the afternoon we were close under the walls of Joppa. To enter this harbour, partially choked up as it is with sand, is described as a difficult feat. We were assured that we should see many wrecks of stranded ships and boats; accordingly I strained my eyes to the utmost, and could discover nothing. We ran safely in; and thus ended a little journey in the course of which I had seen many new and interesting objects, besides gaining some insight into the mode of life among the sailors. Frequently, when it fell calm, our Arabs would recline on the ground in a circle, singing songs of an inconceivably inharmonious and lugubrious character, while they clapped their hands in cadence, and burst at intervals into a barking laugh. I could not find any thing very amusing in this entertainment; on the contrary, it had the effect of making me feel very melancholy, as displaying these good people in a very idiotic and degrading light.",
+    "Citation":"Ida Pfeiffer, Visit to the Holy Land, Egypt, and Italy, trans. by H.W. Dulcken (London: Ingram Cooke & Co., 1853).",
+    "Hyperlink":"https://www.gutenberg.org/ebooks/12561",
+    "Country":"Israel",
+    "Region":"Mediterranean",
+    "Continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.2024,31.7054 ]
+    },
+    "properties": {
+    "PlaceName":"Bethlehem",
+    "PlaceNameModern":"Bethlehem",
+    "NameOfTraveler":"Ida Pfeiffer",
+    "YearOfTravel":1842,
+    "Description":"Bethlehem lies on a hill, surrounded by several others; with the exception of the convent, it contains not a single handsome building. The inhabitants, half of whom are Catholics, muster about 2500 strong; many live in grottoes and semi-subterranean domiciles, cutting out garlands and other devices in mother-of pearl, etc. The number of houses does not exceed a hundred at the most, and the poverty here seems excessive, for nowhere have I been so much pestered with beggar children as in this town. Hardly has the stranger reached the convent-gates before these urchins are seen rapidly approaching from all quarters. One rushes forward to hold the horse, while a second grasps the stirrup; a third and a fourth present their arm to help you to dismount; and in the end the whole swarm unanimously stretch forth their hands for “backsheesh.” In cases like these it is quite necessary to come furnished either with a multiplicity of small coins or with a riding-whip, in order to be delivered in one way or another from the horrible importunity of the diminutive mob. It is very fortunate that the horses here are perfectly accustomed to such scenes; were this not the case, they would take fright and gallop headlong away.\n\nThe little convent and church are both situated near the town, and are built on the spot where the Saviour was born. The whole is surrounded by a strong fortress-wall, a very low, narrow gate forming the entrance. In front of this fortress extends a handsome well-paved area. So soon as we have passed through the little gate, we find ourselves in the courtyard, or rather in the nave of the church, which is unfortunately more than half destroyed, but must once have been eminent both for its size and beauty. Some traces of mosaic can still be detected on the walls. Two rows of high handsome pillars, forty-eight in number, intersect the interior; and the beam-work, said to be of cedar-wood from Lebanon, looks almost new. Beneath the high altar of this great church is the grotto in which Christ was born. Two staircases lead downwards to it. One of the staircases belongs to the Armenians, the other to the Greeks; the Catholics have none at all. Both the walls and the floor are covered with marble slabs. A marble tablet, with the inscription,\n\n“HIC DE VIRGINE MARIA JESUS CHRISTUS NATUS EST,”\n\nmarks the spot whence the true Light shone abroad over the world. A figure of a beaming sun, which receives its light from numerous lamps kept continually burning, is placed in the back-ground of this tablet.\n\nThe spot where our Saviour was shewn to the worshipping Magi is but few paces distant. An altar is erected opposite, on the place where the manger stood in which the shepherds found our Lord. The manger itself is deposited in the basilica Santa Maria Maggiore, in Rome. This altar belongs to the Roman Catholics. A little door, quite in the background of the grotto, leads to a subterranean passage communicating with the convent and the Catholic chapel. In this passage another altar has been erected to the memory of the innocents slaughtered and buried here. Proceeding along the passage we come upon the grave of St. Paula and her daughter Eustachia on one side, and that of St. Hieronymus on the other. The body of the latter is, however, deposited at Rome.",
+    "Citation":"Ida Pfeiffer, Visit to the Holy Land, Egypt, and Italy, trans. by H.W. Dulcken (London: Ingram Cooke & Co., 1853).",
+    "Hyperlink":"https://www.gutenberg.org/ebooks/12561",
+    "Country":"Palestine",
+    "Region":"Mediterranean",
+    "Continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.3035,32.6996 ]
+    },
+    "properties": {
+    "PlaceName":"Nazareth",
+    "PlaceNameModern":"Nazareth",
+    "NameOfTraveler":"Ida Pfeiffer",
+    "YearOfTravel":1842,
+    "Description":"t was only nine o’clock when we reached Nazareth, and repaired to the house for strangers in the Franciscan convent, where the priests welcomed us very kindly. As soon as we had made a short survey of our rooms (which resulted in our finding them very like those at Jerusalem, both as regards appearance and arrangement), we set forth once more to visit all the remarkable places, and above all the church which contains the Grotto of Annunciation. This church, to which we were accompanied by a clergyman, was built by St. Helena, and is of no great size. In the background a staircase leads down into the grotto, where it is asserted that the Virgin Mary received the Lord’s message from the angel. Three little pillars of granite are still to be seen in this grotto. The lower part of one of these pillars was broken away by the Turks, so that it is only fastened from above. On the strength of this circumstance many have averred that the pillar hangs suspended in air! Had these men but looked beyond their noses, had they only cast their eyes upwards, they could not have had the face to preach a miracle where it is so palpable that none exists. A picture on the wall, not badly executed, represents the Annunciation. The house of the Virgin is not shewn here, because, according to the legend, an angel carried it away to Loretto in Italy. A few steps lead to another grotto, affirmed to be the residence of a neighbour of the Virgin, during whose absence she presided over the house and attended to the duties of the absent Mary.\n\nAnother grotto in the town is shewn as “the workshop of Joseph;” it has been left in its primitive state, except that a plain wooden altar has been added. Not far off we find the synagogue where our Lord taught the people, thereby exasperating the Pharisees to such a degree, that they wished to cast Him down from a rock outside the city. In conclusion we were shewn an immense block of stone on which the Saviour is said to have eaten the Passover with His disciples(!).\n\nIn the afternoon we went to see “Mary’s Well,” on the road to Tabarith, at a short distance from Nazareth. This well is fenced round with masonry, and affords pure clear water. Hither, it is said, the Virgin came every day to draw water, and here the women and girls of Nazareth may still be daily seen walking to and fro with pitchers on their shoulders. Those whom we saw were all poorly clad, and looked dirty. Many wore no covering on their head, and, what was far worse, their hair hung down in a most untidy manner. Their bright eyes were the only handsome feature these people possessed. The custom of wearing silver coins round the head also prevailed here.\n\nTo-day was a day of misfortunes for me; in the morning, when we departed from Lagun, I had already felt unwell. On the road I was seized with violent headache, nausea, and feverish shiverings, so that I hardly thought I should be able to reach Nazareth. The worst of all this was, that I felt obliged to hide my illness, as I had done on our journey to Jerusalem, for fear I should be left behind. The wish to view all the holy places in Nazareth was also so powerful within me, that I made a great effort, and accompanied the rest of my party for the whole day, though I was obliged every moment to retire into the background that my condition might not be observed. But when we went to table, the smell of the viands produced such an effect upon me, that I hastily held my handkerchief before my face as though my nose were bleeding, and hurried out. Thanks to my sunburnt skin, through which no paleness could penetrate, no one noticed that I was ill. The whole day long I could eat nothing; but towards evening I recovered a little. My appetite now also returned, but unfortunately nothing was to be had but some bad mutton-broth and an omelette made with rancid oil. It is bad enough to be obliged to subsist on such fare when we are in health, but the hardship increases tenfold when we are ill. However, I sent for some bread and wine, and strengthened myself therewith as best I might.",
+    "Citation":"Ida Pfeiffer, Visit to the Holy Land, Egypt, and Italy, trans. by H.W. Dulcken (London: Ingram Cooke & Co., 1853).",
+    "Hyperlink":"https://www.gutenberg.org/ebooks/12561",
+    "Country":"Israel",
+    "Region":"Mediterranean",
+    "Continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.2765,33.5138 ]
+    },
+    "properties": {
+    "PlaceName":"Damascus",
+    "PlaceNameModern":"Damascus",
+    "NameOfTraveler":"Ida Pfeiffer",
+    "YearOfTravel":1842,
+    "Description":"Damascus is one of the most ancient cities of the East, but yet we see no ruins; a proof that no grand buildings ever existed here, and that therefore the houses, as they became old and useless, were replaced by new ones.\n\nTo-day we visited the seat of all the riches—the great bazaar. It is mostly covered in, but only with beams and straw mats. On both sides are rows of wooden booths, containing all kinds of articles, but a great preponderance of eatables, which are sold at an extraordinarily cheap rate. We found the “mish-mish” particularly good.\n\nAs in Constantinople, the rarest and most costly of the wares are not exposed for sale, but must be sought for in closed store-houses. The booths look like inferior hucksters’ shops, and each merchant is seen sitting in the midst of his goods. We passed hastily through the bazaar, in order soon to reach the great mosque, situate in the midst of it. As we were forbidden, however, not only to enter the mosque, but even the courtyard, we were obliged to content ourselves with wondering at the immense portals, and stealing furtive glances at the interior of the open space beyond. This mosque was originally a Christian church; and a legend tells that St. George was decapitated here.\n\nThe khan, also situate in the midst of the bazaar, is peculiarly fine, and is said to be the best in all the East. The high and boldly-arched portal is covered with marble, and enriched with beautiful sculptures. The interior forms a vast rotunda, surrounded by galleries, divided from each other, and furnished with writing-tables for the use of the merchants. Below in the hall the bales and chests are piled up, and at the side are apartments for travelling dealers. The greater portion of the floor and the walls is covered with marble.\n\nAltogether, marble seems to be much sought after at Damascus. Every thing that passes for beautiful or valuable is either entirely composed of this stone, or at least is inlaid with it. Thus a pretty fountain in a little square near the bazaar is of marble; and a coffee-house opposite the fountain, the largest and most frequented of any in Damascus, is ornamented with a few small marble pillars. But all these buildings, not even excepting the great bathing-house, would be far less praised and looked at if they stood in a better neighbourhood. As the case is, however, they shine forth nobly from among the clay houses of Damascus.\n\nIn the afternoon we visited the Grotto of St. Paul, lying immediately outside the town. On the ramparts we were shewn the place where the apostle is said to have leaped from the wall on horseback, reaching the ground in safety, and taking refuge from his enemies in the neighbouring grotto, which is said to have closed behind him by miracle, and not to have opened again until his persecutors had ceased their pursuit. At present, nothing is to be seen of this grotto excepting a small stone archway, like that of a bridge. Tombs of modern date, consisting of vaults covered with large blocks of stone, are very numerous near this grotto.\n\nWe paid several more visits, and every where found great pomp of inner arrangement and decoration, varying of course in different houses. We were always served with coffee, sherbet, and argilé; and in the houses of the Turks a dreary conversation was carried on through the medium of an interpreter.\n\nWalks and places of amusement there are none. The number of Franks resident here is too small to call for a place of general recreation, and the Turk never feels a want of this kind. The most he does is to saunter slowly from the bath to the coffee-house, and there to kill his time with the help of a pipe and a cup of coffee, staring vacantly on the ground before him. Although the coffee-houses are more frequented than any other buildings in the East, they are often miserable sheds, being all small, and generally built only of wood.\n\nThe inhabitants of Damascus wear the usual Oriental garb, but as a rule I thought them better dressed than in any Eastern town. Some of the women are veiled, but others go abroad with their faces uncovered. I saw here some very attractive countenances; and an unusual number of lovely children’s heads looked at me from all sides with an inquisitive smile.",
+    "Citation":"Ida Pfeiffer, Visit to the Holy Land, Egypt, and Italy, trans. by H.W. Dulcken (London: Ingram Cooke & Co., 1853).",
+    "Hyperlink":"https://www.gutenberg.org/ebooks/12561",
+    "Country":"Syria",
+    "Region":"Western Asia",
+    "Continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.2357,30.0444 ]
+    },
+    "properties": {
+    "PlaceName":"Cairo",
+    "PlaceNameModern":"Cairo",
+    "NameOfTraveler":"Ida Pfeiffer",
+    "YearOfTravel":1842,
+    "Description":"The aspect of this great Egyptian metropolis is not nearly so imposing as I had fancied it to be; its situation is too flat, and from on board we can only discern scattered portions of its extended area. The gardens skirting the shore are luxuriant and lovely.\n\nAt my debarcation, and on the road to the consulate, I met with several adventures, which I relate circumstantially, trifling as they may appear, in order to give a hint as to the best method of dealing with the people here.\n\nAt the very commencement I became involved in a dispute with the captain of the vessel. I had still to pay him three dollars and a half, and gave him four dollars, in the expectation that he would return me my change. This, however, he refused to do, and persisted in keeping the half-dollar. He said it should be divided as backsheesh among the crew; but I am sure they would have seen nothing of it. Luckily, however, he was stupid enough not to put the money in his pocket, but kept it open in his hand. I quickly snatched a coin from him, and put it into my pocket, explaining to him at the same time that he should not have it back until he had given me my change, adding that I would give the men a gratuity myself. He shouted and stormed, and kept on asking for the money. I took no heed of him, but continued quietly packing up my things. Seeing, at length, that nothing was to be done with me, he gave me back my half-dollar; whereupon we parted good friends. This affair concluded, I had to look about for a couple of asses; one for myself, and another for my luggage. If I had stepped ashore I should have been almost torn in pieces by contending donkey-drivers, each of whom would have lugged me in a different direction. I therefore remained quietly for a time in my cabin, until the drivers ceased to suspect that any one was there. In the meantime I had been looking upon the shore from the cabin-window, and speculating upon which animal I should take; then I quickly rushed out, and before the proprietors of the long-eared steeds were aware of my intention, I had seized one by the bridle and pointed to another. This concluded the matter at once; for the proprietors of the chosen animals defended me from the rest, and returned with me to the boat to carry my baggage.\n\nA fellow came up and arranged my little trunk on the back of the ass. For this trifling service I gave him a piastre; but observing that I was alone, he probably thought he could soon intimidate me into giving whatever he demanded. So he returned me my piastre, and demanded four. I took the money, and told him (for fortunately he understood a little Italian) that if he felt dissatisfied with this reward he might accompany me to the consulate, where his four piastres would be paid so soon as it appeared that he had earned them. He shouted and blustered, just as the captain had done; but I remained deaf, and rode forward towards the custom-house. Then he came down to three piastres, then to two, and finally said he would be content with one, which I threw to him. When I reached the custom-house, hands were stretched out towards me from all sides; I gave something to the chief person, and let the remaining ones clamour on. When, after experiencing these various annoyances, I rode on towards the town, a new obstacle arose. My Arab guide inquired whither he should conduct me. I endeavoured in vain to explain to him where I wanted to go; he could not be made to understand me. Nothing now remained for me but to accost every well-dressed Oriental whom I met, until I should find one who could understand either French or Italian. The third person I addressed fortunately knew something of the latter language, and I begged him to tell my guide to take me to the Austrian consulate. This was done, and my troubles concluded.\n\nA ride of three quarters of an hour in a very broad handsome street, planted with a double row of a kind of acacia altogether strange to me, among a crowd of men, camels, asses, etc., brought me to the town, the streets of which are in general narrow. There is so much noise and crowding every where, that one would suppose a tumult had broken out. But as I approached, the immense mass always opened as if by magic, and I pursued my way without hindrance to the consulate, which lies hidden in a little narrow blind alley.\n\nI went immediately to the office, and presented myself to the consul, with the request that he would recommend me a respectable inn of the second class. Herr Chamgion, the consul, interested himself for me with heartfelt kindness; he immediately despatched a kavasse to an innkeeper whom he knew, paid my guide, and recommended the host strongly to take good care of me; in short, he behaved towards me with true Christian kindliness. His house was ever open to me, and I could go to him with any petition I wished to make. It is a real pleasure to me to be able publicly once more to thank this worthy man.\n\nI had been furnished with a letter of recommendation to a certain Herr Palm. The consul kindly sent at once for this gentleman, who soon appeared, and accompanied me to the inn.\n\nI requested Herr P. to recommend me a servant who could either speak Italian or French, and afterwards to tell me the best method to set about seeing the lions of the town. Herr P. very willingly undertook to do so; and after the lapse of an hour, the dragoman had already been found, and two asses stood before the door to carry me and my servant through the whole town.\n\nThe animated bustle and hum of business in the streets of Cairo is very great. I can even say that in the most populous cities of Italy I never saw any thing I could compare to it; and certainly this is a bold assertion.\n\nMany of the streets are so narrow, that when loaded camels meet, one party must always be led into a by-street until the other has passed. In these narrow lanes I continually encountered crowds of passengers, so that I really felt quite anxious, and wondered how I should find my way through. People mounted on horses and donkeys tower above the moving mass; but the asses themselves appear like pigmies beside the high, lofty-looking camels, which do not lose their proud demeanour even under their heavy burdens. Men often slip by under the heads of the camels. The riders keep as close as possible to the houses, and the mass of pedestrians winds dexterously between. There are water-carriers, vendors of goods, numerous blind men groping their way with sticks, and bearing baskets with fruit, bread, and other provisions for sale; numerous children, some of them running about the streets, and others playing before the house-doors; and lastly, the Egyptian ladies, who ride on asses to pay their visits, and come in long processions with their children and negro servants. Let the reader further imagine the cries of the vendors, the shouting of the drivers and passengers, the terrified screams of flying women and children, the quarrels which frequently arise, and the peculiar noisiness and talkativeness of these people, and he can fancy what an effect this must have on the nerves of a stranger. I was in mortal fear at every step, and on reaching home in the evening felt quite unwell; but as I never once saw an accident occur, I at length accustomed myself to the hubbub, and could follow my guide where the crowd was thickest without feeling uneasy.\nThe aspect of this great Egyptian metropolis is not nearly so imposing as I had fancied it to be; its situation is too flat, and from on board we can only discern scattered portions of its extended area. The gardens skirting the shore are luxuriant and lovely.\n\nAt my debarcation, and on the road to the consulate, I met with several adventures, which I relate circumstantially, trifling as they may appear, in order to give a hint as to the best method of dealing with the people here.\n\nAt the very commencement I became involved in a dispute with the captain of the vessel. I had still to pay him three dollars and a half, and gave him four dollars, in the expectation that he would return me my change. This, however, he refused to do, and persisted in keeping the half-dollar. He said it should be divided as backsheesh among the crew; but I am sure they would have seen nothing of it. Luckily, however, he was stupid enough not to put the money in his pocket, but kept it open in his hand. I quickly snatched a coin from him, and put it into my pocket, explaining to him at the same time that he should not have it back until he had given me my change, adding that I would give the men a gratuity myself. He shouted and stormed, and kept on asking for the money. I took no heed of him, but continued quietly packing up my things. Seeing, at length, that nothing was to be done with me, he gave me back my half-dollar; whereupon we parted good friends. This affair concluded, I had to look about for a couple of asses; one for myself, and another for my luggage. If I had stepped ashore I should have been almost torn in pieces by contending donkey-drivers, each of whom would have lugged me in a different direction. I therefore remained quietly for a time in my cabin, until the drivers ceased to suspect that any one was there. In the meantime I had been looking upon the shore from the cabin-window, and speculating upon which animal I should take; then I quickly rushed out, and before the proprietors of the long-eared steeds were aware of my intention, I had seized one by the bridle and pointed to another. This concluded the matter at once; for the proprietors of the chosen animals defended me from the rest, and returned with me to the boat to carry my baggage.\n\nA fellow came up and arranged my little trunk on the back of the ass. For this trifling service I gave him a piastre; but observing that I was alone, he probably thought he could soon intimidate me into giving whatever he demanded. So he returned me my piastre, and demanded four. I took the money, and told him (for fortunately he understood a little Italian) that if he felt dissatisfied with this reward he might accompany me to the consulate, where his four piastres would be paid so soon as it appeared that he had earned them. He shouted and blustered, just as the captain had done; but I remained deaf, and rode forward towards the custom-house. Then he came down to three piastres, then to two, and finally said he would be content with one, which I threw to him. When I reached the custom-house, hands were stretched out towards me from all sides; I gave something to the chief person, and let the remaining ones clamour on. When, after experiencing these various annoyances, I rode on towards the town, a new obstacle arose. My Arab guide inquired whither he should conduct me. I endeavoured in vain to explain to him where I wanted to go; he could not be made to understand me. Nothing now remained for me but to accost every well-dressed Oriental whom I met, until I should find one who could understand either French or Italian. The third person I addressed fortunately knew something of the latter language, and I begged him to tell my guide to take me to the Austrian consulate. This was done, and my troubles concluded.\n\nA ride of three quarters of an hour in a very broad handsome street, planted with a double row of a kind of acacia altogether strange to me, among a crowd of men, camels, asses, etc., brought me to the town, the streets of which are in general narrow. There is so much noise and crowding every where, that one would suppose a tumult had broken out. But as I approached, the immense mass always opened as if by magic, and I pursued my way without hindrance to the consulate, which lies hidden in a little narrow blind alley.\n\nI went immediately to the office, and presented myself to the consul, with the request that he would recommend me a respectable inn of the second class. Herr Chamgion, the consul, interested himself for me with heartfelt kindness; he immediately despatched a kavasse to an innkeeper whom he knew, paid my guide, and recommended the host strongly to take good care of me; in short, he behaved towards me with true Christian kindliness. His house was ever open to me, and I could go to him with any petition I wished to make. It is a real pleasure to me to be able publicly once more to thank this worthy man.\n\nI had been furnished with a letter of recommendation to a certain Herr Palm. The consul kindly sent at once for this gentleman, who soon appeared, and accompanied me to the inn.\nThe aspect of this great Egyptian metropolis is not nearly so imposing as I had fancied it to be; its situation is too flat, and from on board we can only discern scattered portions of its extended area. The gardens skirting the shore are luxuriant and lovely.\n\nAt my debarcation, and on the road to the consulate, I met with several adventures, which I relate circumstantially, trifling as they may appear, in order to give a hint as to the best method of dealing with the people here.\n\nAt the very commencement I became involved in a dispute with the captain of the vessel. I had still to pay him three dollars and a half, and gave him four dollars, in the expectation that he would return me my change. This, however, he refused to do, and persisted in keeping the half-dollar. He said it should be divided as backsheesh among the crew; but I am sure they would have seen nothing of it. Luckily, however, he was stupid enough not to put the money in his pocket, but kept it open in his hand. I quickly snatched a coin from him, and put it into my pocket, explaining to him at the same time that he should not have it back until he had given me my change, adding that I would give the men a gratuity myself. He shouted and stormed, and kept on asking for the money. I took no heed of him, but continued quietly packing up my things. Seeing, at length, that nothing was to be done with me, he gave me back my half-dollar; whereupon we parted good friends. This affair concluded, I had to look about for a couple of asses; one for myself, and another for my luggage. If I had stepped ashore I should have been almost torn in pieces by contending donkey-drivers, each of whom would have lugged me in a different direction. I therefore remained quietly for a time in my cabin, until the drivers ceased to suspect that any one was there. In the meantime I had been looking upon the shore from the cabin-window, and speculating upon which animal I should take; then I quickly rushed out, and before the proprietors of the long-eared steeds were aware of my intention, I had seized one by the bridle and pointed to another. This concluded the matter at once; for the proprietors of the chosen animals defended me from the rest, and returned with me to the boat to carry my baggage.\n\nA fellow came up and arranged my little trunk on the back of the ass. For this trifling service I gave him a piastre; but observing that I was alone, he probably thought he could soon intimidate me into giving whatever he demanded. So he returned me my piastre, and demanded four. I took the money, and told him (for fortunately he understood a little Italian) that if he felt dissatisfied with this reward he might accompany me to the consulate, where his four piastres would be paid so soon as it appeared that he had earned them. He shouted and blustered, just as the captain had done; but I remained deaf, and rode forward towards the custom-house. Then he came down to three piastres, then to two, and finally said he would be content with one, which I threw to him. When I reached the custom-house, hands were stretched out towards me from all sides; I gave something to the chief person, and let the remaining ones clamour on. When, after experiencing these various annoyances, I rode on towards the town, a new obstacle arose. My Arab guide inquired whither he should conduct me. I endeavoured in vain to explain to him where I wanted to go; he could not be made to understand me. Nothing now remained for me but to accost every well-dressed Oriental whom I met, until I should find one who could understand either French or Italian. The third person I addressed fortunately knew something of the latter language, and I begged him to tell my guide to take me to the Austrian consulate. This was done, and my troubles concluded.\n\nA ride of three quarters of an hour in a very broad handsome street, planted with a double row of a kind of acacia altogether strange to me, among a crowd of men, camels, asses, etc., brought me to the town, the streets of which are in general narrow. There is so much noise and crowding every where, that one would suppose a tumult had broken out. But as I approached, the immense mass always opened as if by magic, and I pursued my way without hindrance to the consulate, which lies hidden in a little narrow blind alley.\n\nI went immediately to the office, and presented myself to the consul, with the request that he would recommend me a respectable inn of the second class. Herr Chamgion, the consul, interested himself for me with heartfelt kindness; he immediately despatched a kavasse to an innkeeper whom he knew, paid my guide, and recommended the host strongly to take good care of me; in short, he behaved towards me with true Christian kindliness. His house was ever open to me, and I could go to him with any petition I wished to make. It is a real pleasure to me to be able publicly once more to thank this worthy man.\n\nI had been furnished with a letter of recommendation to a certain Herr Palm. The consul kindly sent at once for this gentleman, who soon appeared, and accompanied me to the inn.\n",
+    "Citation":"Ida Pfeiffer, Visit to the Holy Land, Egypt, and Italy, trans. by H.W. Dulcken (London: Ingram Cooke & Co., 1853).",
+    "Hyperlink":"https://www.gutenberg.org/ebooks/12561",
+    "Country":"Egypt",
+    "Region":"Mediterranean, Northern Africa",
+    "Continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.4964,41.9028 ]
+    },
+    "properties": {
+    "PlaceName":"Rome",
+    "PlaceNameModern":"Rome",
+    "NameOfTraveler":"Ida Pfeiffer",
+    "YearOfTravel":1842,
+    "Description":"As we approach Rome the country becomes more and more barren; the mountains recede, and the extended plains have a desert, uncultivated look. Towns and villages become so thinly scattered, that it seems as though the whole region were depopulated. The road is rather narrow, and as the country is in many places exceedingly marshy, a great portion of it has been paved. For many miles before we enter Rome we do not pass a single town or village. At length, some three hours before we reach the city, the dome of St. Peter’s is seen looming in the distance; one church after another appears, and at length the whole city lies spread before us.\n\nMany ruins of aqueducts and buildings of every kind shewed at every step what treasures of the past here awaited us. I was particularly pleased with the old town-gate Lateran, by which we entered.\n\nIt was already quite dark when we reached the Dogana. I at once betook myself to my room and retired to rest.\n\nI remained a fortnight at Rome, and walked about the streets from morning till night. I visited St. Peter’s almost every day, and went to the Vatican several times.\n\nAll the squares in Rome (and there are a great many) are decorated with fountains, and still more frequently with obelisks. The finest is the Piazza del Popolo. To the right rises the terrace-hill Picino, rich in pillars, statues, fountains, and other ornaments,—a favourite walk of the citizens. On this hill, which is arranged after the manner of a beautiful garden, we have a splendid view. The city of Rome here appears to much greater advantage than when we approach it from the direction of Naples. We can see the whole town at one glance, with the yellow Tiber flowing through the midst, and a vast plain all around. The background is closed by beautiful mountain-ranges, with villas, little towns, and cottages on the declivities. But I missed one feature, to which I had become so accustomed that the most beautiful view appeared incomplete without it—the sea. To make up for this drawback, we here encounter wherever we walk such a number of ruins, that we soon become forgetful of all around us, and live only in the past.\n\nThe Piazza del Popolo forms the termination of the three principal streets in Rome; on the largest and finest of these, the Corso, many palaces are to be seen.\n\nThe splendid post-office, of white marble, rises on the Colonna square. Two clocks are erected on this building; one with our dial, one with the Italian. At night both are illuminated,—a very useful as well as an ornamental arrangement. The ancient column of Antoninus also stands in this square.\n\nThe façade of the Dogana boasts some pillars from the temple of Antonius Pius.\n\nThe objects I have just enumerated struck me particularly as I wended my way to St. Peter’s. I cannot describe how deeply I was impressed by the sight of this colossal structure. I need only state the fact, that on the first day I entered the cathedral at nine in the morning, and did not emerge from its gates until three in the afternoon.\n\nI sat down before the pictures in mosaic, underneath the huge dome and the canopy; then I stood before the statues and monuments, and could only gaze in wonder at every thing.\n\nThe expense of building and decorating this church is said to have amounted to 45,852,000 dollars. It occupies the site of Nero’s circus. Two arcades, with four rows of pillars and ninety-six statues, surround the square leading to the church.\n\nThe façade of St. Peter’s is decorated with Corinthian pillars, and on its parapet stand statues fifty-two feet in height.\n\nThe entrance is so crowded with statues, carved work, and gilding, that several hours may be spent in examining its wonders. The traveller’s attention is particularly attracted by the gigantic gates of bronze.\n\nI cannot adequately describe the splendour of the interior, nor have I seen any thing with which I could compare it.\n\nThe most beautiful mosaics, monuments, statues, carvings in bronze, gilded ornaments, in short every thing that art can produce, are here to be found in the highest perfection. Oil-paintings alone are excluded. Every thing here is in mosaic; even the cupola displays mosaic work instead of the usual fresco-paintings. Immense statues of white marble occupy the niches.\n\nBeneath the cupola, the finest portion of the building, stands the great altar, at which none but the Pope may read mass. Over this altar extends a giant canopy of bronze, with spiral pillars richly decorated with arabesques. The weight of metal used in its construction was 186,392 pounds, and the cost of the gold for gilding was 40,000 dollars; the entire canopy is worth above 150,000 dollars. The cupola was executed by Michael Angelo; it rests on four massive pillars, each of them furnished with a balcony. In the interior of these pillars chapels are constructed, where the chief relics are kept, and only displayed to the people from the balcony at particular times. I was in the church at the time when the handkerchief which wiped the drops of agony from our Lord’s brow, and a piece of the true cross, were shewn.\n\nThe pulpit stands in a very elevated position, and was executed in bronze by Bernini; 219,161 pounds of metal, and 172,000 dollars, were spent upon its construction. In the interior is concealed the wooden pulpit from which St. Peter preached; and immediately beside this we find a pillar of white marble, said to have belonged to Solomon’s temple at Jerusalem.\n\nThe lions on the monument of Clement XIII., by Canova, are considered the finest that were ever sculptured.\n\nI was fortunate enough to penetrate into the catacombs of St. Peter’s, a favour which women rarely obtain, and which I only owed to my having been a pilgrimage to Jerusalem. These catacombs consist of handsome passages and pillars of masonry, which do not, however, exceed eight or nine feet in height. A number of sarcophagi, containing the remains of emperors and popes, are here deposited.",
+    "Citation":"Ida Pfeiffer, Visit to the Holy Land, Egypt, and Italy, trans. by H.W. Dulcken (London: Ingram Cooke & Co., 1853).",
+    "Hyperlink":"https://www.gutenberg.org/ebooks/12561",
+    "Country":"Italy",
+    "Region":"Mediterranean, Southern Europe",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.0813,29.9368 ]
+    },
+    "properties": {
+    "PlaceName":"New Orleans",
+    "PlaceNameModern":"New Orleans, Louisana",
+    "NameOfTraveler":"Henry Murray",
+    "YearOfTravel":1857,
+    "Description":"New Orleans is a surprising evidence of what men will endure, when cheered by the hopes of an ever-flowing tide of all-mighty dollars and cents. It is situated on a marsh, and bounded by the river on one side, and on the other by a continuation of the marsh on which it is built, beyond which extends a forest swamp. All sewerage and drainage is superficial—more generally covered in, but in very many places dragging its sluggish stream, under the broad light of day, along the edges of the footway. The chief business is, of course, in those streets skirting the river; and at this season—December—when the cotton and sugar mania is at its height, the bustle and activity is marvellous. Streets are piled in every direction with mounds of cotton, which rise as high as the roofs; storehouses are bursting with bales; steam and hydraulic presses hiss in your ear at every tenth step, and beneath their power the downy fibre is compressed into a substance as hard as Aberdeen granite, which semi-nude negroes bind, roll, and wheel in all directions, the exertion keeping them in perpetual self-supplying animal steam-baths. Gigantic mules arrive incessantly, dragging fresh freight for pressure; while others as incessantly depart, bearing freight for embarkation to Europe..... In the old, or French part, the streets are generally very narrow; but in the American, or the La Fayette quarter, they are very broad, and, whether from indolence or some other reason, badly paved and worse cleansed; nevertheless, if the streets are dirty and muddy, the houses have the advantage of being airy.",
+    "Citation":"Henry Murray, Lands of The Slave and The Free; or, Cuba, The United States, and Canada (New York: Routledge & Co., 1857), 140-1.",
+    "Hyperlink":"https://tile.loc.gov/storage-services/service/gdc/lhbtn/02857/02857.pdf",
+    "Country":"United States of America",
+    "Region":"South Eastern North America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4364,37.5335 ]
+    },
+    "properties": {
+    "PlaceName":"Richmond",
+    "PlaceNameModern":"Richmond, Virginia",
+    "NameOfTraveler":"Henry Murray",
+    "YearOfTravel":1857,
+    "Description":"Richmond is a lovely spot, situated on the northern bank of James River, one hundred and fifty miles from the sea, and is the capital of Virginia. It contains nearly 30,000 inhabitants who 1000 are slaves. Being built upon several hills, it is free from the eternal sameness of level and regularity of lines which tire the eye so much in New York, Philadelphia, &e., and its site resembles more that of Boston or Baltimore. The James River is navigable for small vessels as high as Richmond; but just above the town there is a barrier which arrests alike the navigator's course and the traveller's eye. This barrier is called the Rapids, and is a most beautiful feature in the scenery....There are various public buildings here, among the most conspicuous of which is the Capitol, built in the great public square, and from its summit commanding a splendid panoramic view. There are also about thirty churches, one of which, the Monumental Church—which is Episcopalian—stands upon ground of melancholy recollections; for here, in 1811, stood the theatre, which during that year was utterly consumed by a fire, in which the governor and scores of other human beings perished.",
+    "Citation":"Henry Murray, Lands of The Slave and The Free; or, Cuba, The United States, and Canada (New York: Routledge & Co., 1857), 216-20.",
+    "Hyperlink":"https://tile.loc.gov/storage-services/service/gdc/lhbtn/02857/02857.pdf",
+    "Country":"United States of America",
+    "Region":"South Eastern North America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0061,40.719 ]
+    },
+    "properties": {
+    "PlaceName":"New York City",
+    "PlaceNameModern":"New York City, New York",
+    "NameOfTraveler":"Henry Latham",
+    "YearOfTravel":1866,
+    "Description":"The stores of the Broadway are the most wonderful glorified shops ever seen. Something between a Manchester warehouse and a London clubhouse. Everybody is talking so much of the rush there will be to the Exhibition in Paris, that we have actually been this day to the Cunard Office, and secured passages back to England, to sail from New York on March 20th; some ten days after which, au revoir. I have spent all my day in going to and fro in Broadway, the wonderful street of New York; in ten years' time the finest street in the world. At present, there are still so many small old houses standing in line with the enormous stores, that the effect is somewhat spoilt, by reason of the ranks not being well dressed. Broadway is now much in the condition of a child's mouth when cutting its second set of teeth; slightly gappy. The enormous stores look even larger now than they will do when the intervals are filled up. The external splendour of the shops is chiefly architectural; they make no great display of goods in the windows; but the large size of the rooms with enables them to set out and exhibit many times the amount of goods that an English shopkeeper shows. The city of New York is on the southern point of Manhattan island; having the East River running along one side, and the North River or Hudson along the other. Some day far in the future, when the present municipality is purged or swept away, and the splendour of the Thames Embankment scheme has been realised, New York will probably have two lines of quays, planted with trees and edged with warehouses, which will make it one of the finest cities in the world. The business quarter is at the point of the peninsula. The fashionable quarter is to the North, reaching every year farther inland. As the city increases, the stores keep moving Northwards, taking possession of the houses, and driving the residents farther back. The land is not yet built over up to Central Park, said to be so called because it will be the future centre of the city that is to be....New York is not a difficult city to find your way about in. Along every Avenue runs a line of Street Cars on an iron tramway. The cars take you for ten cents currency, about fourpence English, from one end of the city to the other. The Avenues are the streets which run the length of the city from North to South, parallel to Broadway; and are called First, Second, Third Avenue, numbering from the East. The streets run at right angles to the Avenues; and are called on the one side of Broadway First, Second, and Third East Street, and on the other side of Broadway First, Second, and Third West Street. The whole city is shaped somewhat like a kite, with Broadway for the wooden rib in the middle. The method and arrangement is admirable, but the rate at which you move on wheels would excite the contempt of a London cabby. There are two Hansome cabs in New York, but they do not take; horses are falling down too much just now.",
+    "Citation":"Henry Latham, Black and White: A Journal of a Three Months' Tour in The United States (London: Macmillan and Co., 1867), 7-10.",
+    "Hyperlink":"https://tile.loc.gov/storage-services/service/gdc/lhbtn/03380/03380.pdf",
+    "Country":"United States of America",
+    "Region":"Noth Eastern Noth America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.167,39.9377 ]
+    },
+    "properties": {
+    "PlaceName":"Philadelphia",
+    "PlaceNameModern":"Philadelphia, Pennsylvania",
+    "NameOfTraveler":"Henry Latham",
+    "YearOfTravel":1866,
+    "Description":"Philadelphia is a most difficult town just now for pedestrians, the doorsteps being all of white marble glazed with ice; and sliding on the pavement may be had in perfection. Spent the best part of the day in slipping about, trying to deliver letters of introduction. The system of naming the streets of Philadelphia and of numbering the houses is extremely ingenious, and answers perfectly when you have made yourself acquainted with it; but as it takes an ordinary mind a week to find it out, the stranger who stops four or five days is apt to execrate it. All the streets run at right angles to one another, so that a short cut, the joy of the accomplished Londoner, is impossible. It is a chessboard upon which the Bishop's move is unknown. Nothing diagonal can be done. The city is ruled like a page of a ledger, from top to bottom with streets, from side to side with avenues. It is all divided into squares. When you are first told this, a vision arises of the possibility of cutting across these squares from corner to corner. Not a bit of it—a square at Philadelphia means a solid block of houses, not an open space enclosed by buildings. When you have wandered about for some time, the idea suggests itself that every house is exactly like the house next to it; although the inhabitants have given up the old uniformity of costume, the houses have not; and without this elaborate system of numbering, the inhabitants of Philadelphia would never be able to find their way home. Nevertheless, if that is the finest town in which its inhabitants are best lodged, Philadelphia is the finest town in the world. It lodges a much smaller population than that of New York in more houses. In no other large town are rents comparatively so cheap. Every decent working-man can afford to have his separate house, with gas and water laid on, and fitted with a bath.",
+    "Citation":"Henry Latham, Black and White: A Journal of a Three Months' Tour in The United States (London: Macmillan and Co., 1867), 15-6.",
+    "Hyperlink":"https://tile.loc.gov/storage-services/service/gdc/lhbtn/03380/03380.pdf",
+    "Country":"United States of America",
+    "Region":"Noth Eastern Noth America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.0036,38.8903 ]
+    },
+    "properties": {
+    "PlaceName":"Washington, D.C.",
+    "PlaceNameModern":"Washington, D.C.",
+    "NameOfTraveler":"Henry Latham",
+    "YearOfTravel":1867,
+    "Description":"We went this morning over the Capitol, an enormous edifice still in progress; parts of it are continually built on to, and rebuilt, to meet the wants of the legislature. The two new white marble wings are very beautiful, and nearly complete, and the dome is on the same scale with them, and of the same material. The centre is now out of proportion since the wings were built, and is of stone, painted white to match the rest in colour and preserve it from the frost. If the South had succeeded in seceding, it might have sufficed; but now it is bound to grow, and Congress are going to vote the amount of dollars necessary to make the Capitol complete. When completed it will be magnificent. We are very unlucky in seeing these great marble palaces (for several of the public buildings of Washington are of this material) with the snow upon the ground. Against the pure white snow they appear dingy; under a summer sun they must show to far greater advantage. What ancient Athens appeared like, surrounding its marble temples, I can hardly realise; but the effect of the splendid public buildings in Washington is very much detracted from by the sheds and shanties which are near them. The builders of Washington determined that it should be a great city, and staked out its streets accordingly twice the width and length of any other streets: rightly is it named the city of magnificent distances. But although the Potomac is certainly wide enough, and apparently deep enough, to justify a certain amount of trade, and its situation is more central than that of Philadelphia, the town has never grown to fill the outlines traced for it. To make a Washington street, take one marble temple or public office, a dozen good houses of brick, and a dozen of wood, and fill in with sheds and fields. Some blight seems to have fallen upon the city. It is the only place we have seen which is not full of growth and vitality. I have even heard its inhabitants tell stories of nightly pig-hunts in the streets, and of the danger of tumbling over a cow on the pavement on a dark night; but this must refer to bygone times.",
+    "Citation":"Henry Latham, Black and White: A Journal of a Three Months' Tour in The United States (London: Macmillan and Co., 1867), 58-9.",
+    "Hyperlink":"https://tile.loc.gov/storage-services/service/gdc/lhbtn/03380/03380.pdf",
+    "Country":"United States of America",
+    "Region":"Noth Eastern Noth America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4364,37.5335 ]
+    },
+    "properties": {
+    "PlaceName":"Richmond",
+    "PlaceNameModern":"Richmond, Virginia",
+    "NameOfTraveler":"Henry Latham",
+    "YearOfTravel":1867,
+    "Description":"Got a carriage driven by a nice intelligent negro, and drove out to see the lines. Those we saw consisted of a line of forts, encircling Richmond, earthworks, generally open to the rear, about two miles from the town, and about half a mile apart, each road approaching the town is also protected by earthworks. The most conspicuous weathercock in the town is a golden trumpet on the spire of one of the churches—no bad symbol of beleaguered Richmond, to which the wind brought tidings of war from whichever side it blew. Saw four turkey buzzards sitting on a rail, looking exactly like disreputable turkeys; they are the scavengers of this country. During the war time they are said all to have disappeared from Richmond, there was so much better feasting outside. When the Confederates marched out, the town was set on fire in the tumult. It was nobody's business or care to put it out, and according to our landlord, 1,244 buildings, valued at 3,000,000 dollars, were burnt. About one-half of the space cleared by the fire is now covered again with large handsome stores, said to be double the size of those they replaced. These are being built by Richmond men, but not by the owners of the former stores. Richmond is very different in appearance from any city we have passed through yet; it looks nearly a century older. You see in the suburbs a great many houses which look like the town-residences of well-to-do gentry. Some of these have large Grecian porticoes for shade, and others verandas, story above story, large enough to be in fact a set of open-air summer-rooms, showing that it is hot here sometimes, though cold enough at present.",
+    "Citation":"Henry Latham, Black and White: A Journal of a Three Months' Tour in The United States (London: Macmillan and Co., 1867), 100-1.",
+    "Hyperlink":"https://tile.loc.gov/storage-services/service/gdc/lhbtn/03380/03380.pdf",
+    "Country":"United States of America",
+    "Region":"South Eastern North America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.392,33.7565 ]
+    },
+    "properties": {
+    "PlaceName":"Atlanta",
+    "PlaceNameModern":"Atlanta, Georgia",
+    "NameOfTraveler":"Henry Latham",
+    "YearOfTravel":1867,
+    "Description":"At 10.30 a.m. we arrived at Atlanta. Here we come upon the track of Sherman's terrible march. He burnt Atlanta to the ground, leaving only two stores standing. The old wooden town is now nearly re-built of brick. We have now glorious summer weather; making us rejoice that we have postponed going north, where all the world is snowed up, and trains are being dug out of the drifts: many stories in the papers also of gales upon the eastern coast, and wrecks about Cape Hatteras, causing me to rejoice that we had not gone south by ship as proposed at one time. As we approached Atlanta the country became more cleared and cultivated. Sixteen miles before reaching it, our eyes were rejoiced by the sight of Stone Mountain, a bare granite bluff, the first hill we have seen in America. The whole coast-line, down which we have travelled, appears to be one level flat. A good deal of stone is being quarried here for the new buildings at Atlanta. The city of Atlanta seems to have no particular natural advantages, but derives its importance from being situated at the junction of four railroads, which run north to Chattanooga, south to Macon, east to Charleston, and west to Montgomery.",
+    "Citation":"Henry Latham, Black and White: A Journal of a Three Months' Tour in The United States (London: Macmillan and Co., 1867), 129-30.",
+    "Hyperlink":"https://tile.loc.gov/storage-services/service/gdc/lhbtn/03380/03380.pdf",
+    "Country":"United States of America",
+    "Region":"South Eastern North America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.0428,30.6933 ]
+    },
+    "properties": {
+    "PlaceName":"Mobile",
+    "PlaceNameModern":"Mobile, Alabama",
+    "NameOfTraveler":"Henry Latham",
+    "YearOfTravel":1867,
+    "Description":"Mobile seems to have suffered little from the war, except by impoverishment and stagnation of trade. It was one of the last places which surrendered to the North. Admiral Farragut defeated the Confederate gun-boats in Mobile Bay, and took the town without its passing through the ordeal of either burning or bombardment. The great devastation was committed by the inhabitants themselves, who now lament bitterly that, in clearing the ground for fortifications which were never used, they cut down the whole of the fine evergreen oaks and magnolias which formerly shaded the suburbs. We were driven to-day along the ‘Shell-road,’ which skirts the western side of the bay. Mobile oysters are beautiful when fried, and after death the shells are made into the smoothest of turnpike roads. Before the war this road ran through a wood of magnificent magnolias, which when in blossom used to fill the air with perfume. The part of the grove next to the town is all swept away, the trees which shaded the citizens' summer evening drive have been felled. Camellias grow here in the gardens, ten feet high; and roses and jonquils are in blossom. Palmettoes grow along the shore, and one house in Government Street had an orange-tree growing on the turf, covered with large dark-red oranges. Several of the best houses in Government Street are said to be tenanted by the former owners of blockade-runners; a trade in which the Jews largely embarked.",
+    "Citation":"Henry Latham, Black and White: A Journal of a Three Months' Tour in The United States (London: Macmillan and Co., 1867), 145-6.",
+    "Hyperlink":"https://tile.loc.gov/storage-services/service/gdc/lhbtn/03380/03380.pdf",
+    "Country":"United States of America",
+    "Region":"South Eastern North America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.0813,29.9368 ]
+    },
+    "properties": {
+    "PlaceName":"New Orleans",
+    "PlaceNameModern":"New Orleans, Louisana",
+    "NameOfTraveler":"Henry Latham",
+    "YearOfTravel":1867,
+    "Description":"New Orleans is called ‘the Crescent City,’ from its curving round a bend of the Mississippi. It contains about 200,000 inhabitants, and before the war was the chief market of the world for cotton, and the chief market of the United States for sugar. During the war, the market of New Orleans was closed. The year before the war, Louisiana could show 1,292 plantations under cultivation, producing 500,000 hogsheads of sugar. In 1864 there were but 180 plantations at work, and their production of sugar was but 6,750 hogsheads. Ninetenths of the sugar-cane raised in the U. S. is grown in Louisiana. Before the war, Cuba sent her sugars to New Orleans to be sold; at present they go to New York. The natural market is beginning now, as the Americans say, to ‘recuperate;’ and our walk on the Levée was very amusing.",
+    "Citation":"Henry Latham, Black and White: A Journal of a Three Months' Tour in The United States (London: Macmillan and Co., 1867), 148.",
+    "Hyperlink":"https://tile.loc.gov/storage-services/service/gdc/lhbtn/03380/03380.pdf",
+    "Country":"United States of America",
+    "Region":"South Eastern North America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.2218,46.8101 ]
+    },
+    "properties": {
+    "PlaceName":"Quebec",
+    "PlaceNameModern":"Québec City, Quebec",
+    "NameOfTraveler":"John James Aubertin",
+    "YearOfTravel":1886,
+    "Description":"As regards Quebec itself, after coursing it about, 20 I cannot speak of its great beauties. And one feature seemed to me to be offensive—the spurious glittering of tin roofs over many of the houses, and even of some otherwise solidly put together. The effect of this metal is even worse than that produced by corrugated iron. If you would insist on metal roofs, they should be of copper, both for durability and beauty. Copper lasts well, and soon takes on a most picturesque olive-green tint. A very striking effect of copper roofing may be realized in a view of Moscow, something very different indeed from that produced by the tin roofing of Quebec. Though I heard nothing but curious English and curious French among the general frequenters of the streets, yet there was something among many of them that reminded one, in their look and gait (though not particularly in their brogue), of Tipperary men.",
+    "Citation":"John James Aubertin, A Fight with Distances: The States, The Hawaiian Islands, Canada, British Columbia, Cuba, The Bahamas (London: Kegan Paul, Trench & Co., 1888), 20.",
+    "Hyperlink":"https://tile.loc.gov/storage-services/service/gdc/lhbtn/01390/01390.pdf",
+    "Country":"Canada",
+    "Region":"Noth Eastern Noth America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.5755,45.4955 ]
+    },
+    "properties": {
+    "PlaceName":"Montreal",
+    "PlaceNameModern":"Montreal, Quebec",
+    "NameOfTraveler":"John James Aubertin",
+    "YearOfTravel":1886,
+    "Description":"The first view of this great city from the river struck me as being flat and smoky, and particularly so as coming immediately after Quebec. But this deficiency in aspect proves its superiority as a living and still growing city, the first sign of which is seen in its magnificent stone quays and its lines of warehouses. The immense quantity of wood, planked and stacked for sale, may be a common feature to a good many persons, but it was most surprising to me. We landed and found our way to the great Windsor Hotel, an enormous house, and here we found evidence of the Parisian having safely arrived before us by the presence of Captain Wylie, looking very bright and jolly, and very glad to see us. At this hotel I first realized the general features of the great hotels of the States, of which I shall have to speak by-and-by, so that I will not enter into particulars on the subject here. And if I were to begin to show how Montreal is a fine large city with fine large buildings, and with a very great number of churches, I might be met with the remark, “Of course it is.” But among the buildings most spoken of, I must confess that the yet incomplete Cathedral of St. Peter presented to me nothing that could recall what it is declared to intend to represent on a somewhat smaller scale—the great Basilica at Rome. If you would desire a fine and impressive view of the city, you must ascend Mont Real (or Mount Royal) behind, and survey the impressive scene, reflecting on all the wealth and commerce that is in active and constant movement among the thousands below, belonging to the largest and most important city of the Dominion. The well-wooded sides of the mountain itself, rising 700 feet above the river, are beautiful. Nor is it possible to overlook in the varied and extensive prospect the vast Victoria Bridge, striding across the river and connecting the city and Lower Canada with the New England States and New York—a connection which formerly was carried on by Lake Champlain and the Hudson. The name of the city as at present written shows a curtailment as well as a corruption of its original one, the full name having been La Ville Marie de Mont Real. But the pronunciation of the name emphasizes the corruption, for the last syllable must be broadened out (as weall know) to “all”—Montreall!",
+    "Citation":"John James Aubertin, A Fight with Distances: The States, The Hawaiian Islands, Canada, British Columbia, Cuba, The Bahamas (London: Kegan Paul, Trench & Co., 1888), 21-2.",
+    "Hyperlink":"https://tile.loc.gov/storage-services/service/gdc/lhbtn/01390/01390.pdf",
+    "Country":"Canada",
+    "Region":"Noth Eastern Noth America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.7009,45.4183 ]
+    },
+    "properties": {
+    "PlaceName":"Ottawa",
+    "PlaceNameModern":"Ottawa, Ontario",
+    "NameOfTraveler":"John James Aubertin",
+    "YearOfTravel":1886,
+    "Description":"As, when I realized Montreal, I wondered why that city had not been chosen as the seat of government, so, when I realized Ottawa, I wondered how and why it had been. High in the air, in the distance, I first caught sight of the elaborate and pretentious Government Buildings,: and presently came to compare with their somewhat garish style and highly finished precincts the strangely opposite aspect of the city below and around them. Ottawa is vulgarly called “Slab Town,” and, disavowing for my own part the slightest possible of sneers which the name might be thought to convey, I cannot pretend to wonder at its application. Was there ever such an overwhelming labyrinth of heaps and stacks of lumber—that is, timber sawn for use—to be found anywhere else? And if you wish to view a scene of sawing industries that produce all this profusion, go to the Chaudiére, or Caldron Falls, and behold and hear the army of saws that are set in motion by the impatient waters of the Ottawa river, here narrowed by islands to a width of stone two hundred feet, and rushing down for some forty feet over the brows of a rugged slope of rock. This busy, noisy scene of saw and water is sufficiently impressive both to eye and ear, but all the natural wild and boisterous beauty of the Rapids is completely suffocated by the practical uses they are put to. In this point of view, the scene reminded me of Trollhättan Falls, on the river Gotha, Sweden, the wild beauties of which are likewise entirely spoiled by the invasion of the surrounding saw-mills.",
+    "Citation":"John James Aubertin, A Fight with Distances: The States, The Hawaiian Islands, Canada, British Columbia, Cuba, The Bahamas (London: Kegan Paul, Trench & Co., 1888), 32.",
+    "Hyperlink":"https://tile.loc.gov/storage-services/service/gdc/lhbtn/01390/01390.pdf",
+    "Country":"Canada",
+    "Region":"Noth Eastern Noth America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.6286,41.8793 ]
+    },
+    "properties": {
+    "PlaceName":"Chicago",
+    "PlaceNameModern":"Chicago, Illinois",
+    "NameOfTraveler":"John James Aubertin",
+    "YearOfTravel":1886,
+    "Description":"That is a well-known name, and here is the well-known city that owns it. Samuel Rogers, in that somewhat faint but pretty book of his called “Italy,” says that when he waked in Rome he said to himself, “I am at Rome!” Let me be supposed to have said, “I am at Chicago!” The difference, I will confess, is very great, the sentiments aroused very opposite. But in this case Chicago may serve as a foil to the word “Rome,” and thus be all the more vividly shown forth for what it really is. A raw, crowded, noisy, daring, busy, bustling, thriving young republican city, affording a splendid scene and flourish of trumpets for the first drawing up of the curtain of a visit to the States. In this respect it is far more to the purpose than New York, which is upon the sea and at the very doorway of the country; whereas Chicago is some thousand miles inland from that city...As to the teeming city itself, it is in some places scarcely less perplexing than the Board of Trade, and I must leave it to describe itself by its well-known name: it is Chicago. You may readily traverse it, for there is an extensive construction of the endless cable tramway system, the steel rope being in constant movement, and the cars being moved or stopped by clipping or unclipping connection with the chain underneath, in the centre of the road, and running in an open groove. A very large post-office—all in movement, of course—holds its place in the city; and there are wide streets and narrow streets, and large buildings and small buildings; and (while I was there) every sort of advertisement, including, very ostentatiously, those of rival railway companies, competing one against the other at incredibly cheap fares for great distances, such as some of us may remember, but on a somewhat smaller scale, in the early days of our own English railway system. Chicago appears to deal in the superlative in all matters. Some fifty years ago, it was only a small Indian town. Going as far back as 1830, the report I have referred to gives its population as only 70. In 1850, it was 29,963. In 1885, it was estimated at 727,000. And this, in spite of two conflagrations: that of 1871 one of the most destructive on record anywhere. Its grain elevators and depôts are marvels. The water-works have been called one of the wonders of the world, and its parks are of magnificent extent. They are ten in number, and contain altogether more than 2000 acres, with many miles of carriage drives, besides those along the extensive boulevards. It claims to be the third manufacturing city in the States; stands next to New York in general commercial importance; and to be the greatest grain, live-stock, and lumber market in the world. Yet, says the report, “considering what must be the development of the vast States and Territories, not yet really populated, which must depend on Chicago for the outlet of their produce, we must stand amazed at the future which is spread out before this favoured city situated at the head of a mighty chain of inland seas a highway along which to distribute the multiform products of an immense region, and by which in return to supply the varied wants of an increasing civilisation.” Already twenty-six railways converge in the city.",
+    "Citation":"John James Aubertin, A Fight with Distances: The States, The Hawaiian Islands, Canada, British Columbia, Cuba, The Bahamas (London: Kegan Paul, Trench & Co., 1888), 55-9.",
+    "Hyperlink":"https://tile.loc.gov/storage-services/service/gdc/lhbtn/01390/01390.pdf",
+    "Country":"United States of America",
+    "Region":"Noth Eastern Noth America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.2666,44.9771 ]
+    },
+    "properties": {
+    "PlaceName":"Minneapolis",
+    "PlaceNameModern":"Minneapolis, Minnesota",
+    "NameOfTraveler":"John James Aubertin",
+    "YearOfTravel":1886,
+    "Description":"In speaking of St. Paul, I must combine with it Minneapolis, at a few miles distant, both being in the State of Minnesota; the former its capital city, and both rival and rapidly advancing cities, at rather more than fourteen hundred miles from New York. The rapidity of the growth of these two cities, as officially reported, seems incredible. In 1860, the total population of the two was but 16,222; in 1884, it had grown to little short of 200,000; when I was there, each was claiming 150,000. There are only ten miles between them, and, in spite of their rivalry, a junction is predicted of the two into one. Anything in the shape of development appears to be possible in the States. The Americans have not only introduced new modes of spelling words, but they have given them a new meaning, and a very extended one in this instance. Nature, in the States, has permitted the junction of two elements which she has been justly charged with denying in other regions: a strong race with a strong land. Here she can give all she is properly asked for, and she is tolerably sure of being asked for everything she has to give. That by-and-by she will have a great many more to give to than she has now on her hands out here is a matter which must be left to the future to take care of. Both cities are on the Mississippi, which, in Indian language, signifies “The Father of Waters;” but it struck me that Minneapolis is the better placed of the two, because it can make more use of the mighty river than St. Paul can. I allude to the water-power at what are called the Falls of St. Anthony. It is round these falls that are constructed the gigantic flour-mills of Messrs. Pilsbury, which form the chief sight at Minneapolis, and where again figures of millions are put forward. In 1879, the millers there manipulated 7,514,364 bushels of wheat; and in 1885, the returns gave 32,112,840. Another calculation for 1885 is that the mills together are capable of delivering 33,973 barrels (of 60 lb.) per day; an amount said to be equal to the day's necessities of one-half of the population of Great Britain.",
+    "Citation":"John James Aubertin, A Fight with Distances: The States, The Hawaiian Islands, Canada, British Columbia, Cuba, The Bahamas (London: Kegan Paul, Trench & Co., 1888), 74-5.",
+    "Hyperlink":"https://tile.loc.gov/storage-services/service/gdc/lhbtn/01390/01390.pdf",
+    "Country":"United States of America",
+    "Region":"Western North America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.573,44.4185 ]
+    },
+    "properties": {
+    "PlaceName":"Yellowstone National Park",
+    "PlaceNameModern":"Yellowstone National Park, Wyoming",
+    "NameOfTraveler":"John James Aubertin",
+    "YearOfTravel":1886,
+    "Description":"The enormous extent of the white formation, and the grouping of the projections whence the geysers from time to time play, must be unique in the world. All lies in front of the hotel, and it involves a very long walk to visit all the surface. The geysers, large and small, extending over this (so to speak) white territory, are said to be fifty in number; the large ones bear the several curious names of Old Faithful, the Bee-Hive, Castle, Splendid, Grand, Giantess, Giant, Lion, Lioness and Cubs, etc., etc. But herein. lies the great disappointment and drawback: they never go off altogether except in a picture. You may even lose days to see nothing but: the ridiculously named “Old Faithful;” and thus the impression of this visit to what we are told is the “grandest country, spectacularly, God Almighty has made,” and that it is “the Supreme Builder's own design and completion,” turns out disappointing. For our own part, we were not over-fortunate; Old Faithful, of course, we saw, for he goes off every seventy minutes or so, and is scarcely five minutes from the hotel. He is the mainstay of the visit, and yet, if you want to see the others, he at last begins to be almost a sort of nuisance. For ourselves, the first thing we heard on our arrival was that the Castle had just gone off, “about an hour ago,” and that the Grand had played “yesterday.” On the Saturday morning we were told that the Grand and the Giant had both been playing in the night; while the Beehive was disappointing everybody, as it had never been quiet for so long an interval. All that was accorded to us was a sudden call at supper on this last day, when some one came rushing in to say the large Cub had begun, and that the little one and the Lioness were sure to follow. And so they did; but the Lioness gave little more than a growl and lay down again, while the Cubs only behaved like cubs.",
+    "Citation":"John James Aubertin, A Fight with Distances: The States, The Hawaiian Islands, Canada, British Columbia, Cuba, The Bahamas (London: Kegan Paul, Trench & Co., 1888), 89-90.",
+    "Hyperlink":"https://tile.loc.gov/storage-services/service/gdc/lhbtn/01390/01390.pdf",
+    "Country":"United States of America",
+    "Region":"Western North America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0268,51.041 ]
+    },
+    "properties": {
+    "PlaceName":"Calgari",
+    "PlaceNameModern":"Calgary, Alberta",
+    "NameOfTraveler":"John James Aubertin",
+    "YearOfTravel":1886,
+    "Description":"And now, if Calgari by-and-by becomes a large city, I shall be able to say (if still alive) that I saw it in its very beginnings. I have certainly seen, in reality, a city trying to begin, and already the hotel, only partly built, is called “The Royal.” There is also a newspaper, and there are stores. Plenty of the well-known corrugated iron is converted into use, if not beauty. I verily believe, from all I could gather, that this spot, situated as it is in the northwest of Canada, with almost unbounded capacities for corn and cattle around, is destined to become the focus of an immense thriving population. The grazing lands are spoken of as embracing four thousand square miles. Cattle already abound. The beef I ate from the rude kitchen was excellent. Americans are coming in to secure land, and on the very day I was there one of them arrived for the purpose of “locating” five hundred\nhorses. They have not yet any great building which they call their Law Courts, and if they\ncannot have anything better than the cumbrous and inconvenient lump of ugliness that\nnow adorns the neighbourhood of our Temple Bar, God forbid they ever should have!",
+    "Citation":"John James Aubertin, A Fight with Distances: The States, The Hawaiian Islands, Canada, British Columbia, Cuba, The Bahamas (London: Kegan Paul, Trench & Co., 1888), 117.",
+    "Hyperlink":"https://tile.loc.gov/storage-services/service/gdc/lhbtn/01390/01390.pdf",
+    "Country":"Canada",
+    "Region":"Western North America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.6353,45.5519 ]
+    },
+    "properties": {
+    "PlaceName":"Portland",
+    "PlaceNameModern":"Portland, Oregon",
+    "NameOfTraveler":"John James Aubertin",
+    "YearOfTravel":1886,
+    "Description":"At about twelve miles above the confluence with the Columbia, on the west bank, Portland is finely situated, and no other city can more vividly exemplify the effects of railway development. In the year 1870 it contained a population of only 1100; by 1880, as a result of the construction of the eastern section of the Northern Pacific line, and the approaching completion of the great transcontinental system, the number had increased to 23,000. But in 1883 the population was given as nearly 40,000. Although one hundred miles from the coast, Portland is virtually a seaport, and vessels of 3000 tons may be seen loading at its wharfs; and in the busy season a perfect fleet of merchantmen is employed in shipping the great wheat crop of Oregon to Europe. The trade in tinned salmon from the Columbia is also very large; but, considering the immense destruction that is going on amidst the almost fabulous abundance of this fish in all these western waters, it seems possible that this item of commerce may not be continuously so extensive. Its position is attractive and picturesque. “It is a novel experience,” writes Mr. Fee in his pamphlet, from which some of these particulars are taken, “to stand in the primæval forest which hugs the city closely on all sides, and look down upon the bustling activity of trade and pleasure. Here are the tall pines and the dark thicket; there the masts, the smoky chimneys, and the dusty streets.” From Robinson's Hill the view comprises the rivers and all the five mountains: Mounts Jefferson and Hood, in Oregon, and, to the north, Mounts Adams and St. Helen's, with Tacoma at a greater distance. There are many resident thriving merchants, whose villas bespeak their wealth and adorn the suburbs. The climate is commendable as partaking of the softness of the Pacific, in contrast with the harshness of the Atlantic Ocean; and it is customary to compare the two Portlands in this respect. Portland in Maine is of rather a lower latitude than Portland in Oregon, the former standing at about 43° north, and the latter at about 46°. But the difference between the two climates, in favour of the latter, is so marked, and was so often mentioned to me, that I offered the following distich:— While Portland, Maine, lies wrapt in snow, In Portland, Oregon, the roses blow.",
+    "Citation":"John James Aubertin, A Fight with Distances: The States, The Hawaiian Islands, Canada, British Columbia, Cuba, The Bahamas (London: Kegan Paul, Trench & Co., 1888), 125-6.",
+    "Hyperlink":"https://tile.loc.gov/storage-services/service/gdc/lhbtn/01390/01390.pdf",
+    "Country":"United States of America",
+    "Region":"Western North America",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.2219388,28.6517178 ]
+    },
+    "properties": {
+    "PlaceName":"Delhi",
+    "PlaceNameModern":"Delhi",
+    "NameOfTraveler":"Alexander Burnes",
+    "YearOfTravel":1832,
+    "Description":"In the end of December, 1831, I had the honour to obtain the final sanction of the Governor-general of India to proceed to Central Asia. I received my passports from his lordship at Delhi on the 23rd of that month, and proceeded by express to Lodiana on the frontiers, where I had the pleasure of meeting my fellow-traveller Mr. James Gerard, of the Bengal army. We here experienced many acts of kindness and assistance from Capt. C. M. Wade, the political agent, whose good offices I have to acknowledge with gratitude. The society of this, the most remote station of British India, also evinced an interest in our welfare which was truly gratifying. We took leave of it at a convivial party given for the occasion on the 2d of January, and on the following day bade a long farewell to such scenes, and plunged into the solitude of an Indian desert.We took the route that leads along the left bank of the Sutlege, till that river is joined by the Beas or Hyphasis.",
+    "Citation":"Alexander Burnes, Travels into Bokhara, (London: John Murray, 1834), 2.",
+    "Hyperlink":"https://www.gutenberg.org/files/58074/58074-h/58074-h.htm",
+    "Country":"India",
+    "Region":"Southern Asia",
+    "Continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.67864,28.12791 ]
+    },
+    "properties": {
+    "PlaceName":"Lodiana",
+    "PlaceNameModern":"Ludhiana",
+    "NameOfTraveler":"Alexander Burnes",
+    "YearOfTravel":1832,
+    "Description":"In the upper parts of the Sutlege, near Lodiana, the inhabitants are exclusively agricultural; but, after that river has been joined by the Beas or Hyphasis, the habits of the people are predatory. There they are known under the various denominations of Dogur, Julmairee, Salairee, &c. and by the general designation of Raat, and live in a perpetual state of opposition to one another. In the cultivated parts this country has the appearance of an extensive meadow. It is entirely free from underwood, and some of the wheat fields extend for miles without a hedge. The grain is raised without irrigation, though the water is but twenty-six feet from the surface. There are no trees except in the vicinity of the villages; and such is the scarcity of fuel, that cow dung is universally used in its stead. This is dried and stacked. The fire formed of it throws out a most powerful heat, which leaves the people no cause to regret the want of other fuel. The country below that stripe which fringes the river is known by the name of Malwa. It has a dry climate and soil, and produces gram and barley, with bajree and mut, which are exported to the Punjab.",
+    "Citation":"Alexander Burnes, Travels into Bokhara, (London: John Murray, 1834), .",
+    "Hyperlink":"https://www.gutenberg.org/files/58074/58074-h/58074-h.htm",
+    "Country":"India",
+    "Region":"Southern Asia",
+    "Continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.095289,30.2930623 ]
+    },
+    "properties": {
+    "PlaceName":"Manja",
+    "PlaceNameModern":"Manja",
+    "NameOfTraveler":"Alexander Burnes",
+    "YearOfTravel":1832,
+    "Description":"On the following morning we commenced our march across the “Doab,” between the Beas and Ravee (Hydraotes), which has the name of Manja. It is the highest portion of the Punjab east of the Hydaspes; a fact which is established by the eastern bank of the one river as well as the western one of the other being both elevated. The left bank of the Ravee is about forty feet high, and so is the right bank of the Beas. The wells are also much deeper than south of the Sutlege; here they exceed sixty feet, there they are not twenty-six. The soil is a hard, indurated clay, sometimes gravelly, producing thorny shrubs and brambles, called by the natives jund, khureel, and baboolCultivation depends upon the rain, and irrigation is by no means general. Herds of neelgaee roam over it. Ancient canals.In former years the Mogul emperors, seeing the comparative sterility of this tract, fertilised it by canals from the Ravee, which connected that river with the Beas. The remains of one of them may be yet traced at the town of Puttee, running down at right angles upon the Beas, though it has been choked up for the last 150 years. The district of Manja is celebrated for the bravery of its soldiers, and the breed of its horses, which would always entitle it to the patronage of a sovereign.",
+    "Citation":"Alexander Burnes, Travels into Bokhara, (London: John Murray, 1834), 10.",
+    "Hyperlink":"https://www.gutenberg.org/files/58074/58074-h/58074-h.htm",
+    "Country":"India",
+    "Region":"Southern Asia",
+    "Continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 743587,31.5204 ]
+    },
+    "properties": {
+    "PlaceName":"Lahore",
+    "PlaceNameModern":"Lahore",
+    "NameOfTraveler":"Alexander Burnes",
+    "YearOfTravel":1832,
+    "Description":"On the morning of the 17th we entered the imperial city of Lahore, which has once rivalled Delhi. We wound among its ruins; and, when yet three miles distant, were met by Monsieur Allard, and two natives of rank sent to welcome us. The Chevalier came in his carriage drawn by four mules, into which the Dr. and myself stepped, and drove to his hospitable mansion, where we alighted and took up our quarters. After the ceremony of receiving various friendly and formal messages from Runjeet, the native part of the deputation withdrew, leaving a profusion of the fruits of Cashmeer and Cabool as an earnest of the condescension of their master. In the evening, a purse of 1100 rupees was sent to us by the Maharaja; nor was it possible to refuse the money without giving offence.",
+    "Citation":"Alexander Burnes, Travels into Bokhara, (London: John Murray, 1834), 16-33.",
+    "Hyperlink":"https://www.gutenberg.org/files/58074/58074-h/58074-h.htm",
+    "Country":"Pakistan",
+    "Region":"Southern Asia",
+    "Continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 71.7178,34.4931 ]
+    },
+    "properties": {
+    "PlaceName":"Kote",
+    "PlaceNameModern":"Kot",
+    "NameOfTraveler":"Alexander Burnes",
+    "YearOfTravel":1832,
+    "Description":"Half-way across to the Chenab, we halted in a garden at Kote, the residence of one of Runjeet Sing’s colonels. It was an agreeable halting-place. It was not 100 yards square, but well stored with fruit-trees and flowers: most of the former were now in blossom, and an enumeration of them would give a favourable idea of this climate. They consisted of the peach, apricot, greengage, fig, pomegranate, quince, orange sweet and bitter, lime, lemon, guava, grape, mango, jamboo, bair, date, cardamom, almond, and the apple; with seven or eight other kinds,[42] of which I can only give the native names,—the gooler, sohaujna, goolcheen, umltass, bell, bussoora. The walks of the garden were lined with beautiful cypresses and weeping willows; and in the flower-beds were the narcissus, and rose-bushes of the “sidburg,” or an hundred leaves. Most of the trees and flowers are indigenous, but many had been introduced from Cashmeer; and a native of that valley was the gardener. The proprietor of this pleasant spot was absent: his villa was in disorder, and much neglected, since he is suffering from the avarice of his ruler. His son, a sharp boy of nine years old, paid us a visit, and repeated some lines of a Persian poet which he was reading at school. Little fellow, he is growing up to witness scenes of blood, at all events of alteration, in this land!",
+    "Citation":"Alexander Burnes, Travels into Bokhara, (London: John Murray, 1834), 42.",
+    "Hyperlink":"https://www.gutenberg.org/files/58074/58074-h/58074-h.htm",
+    "Country":"Pakistan",
+    "Region":"Southern Asia",
+    "Continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.779465,32.32724 ]
+    },
+    "properties": {
+    "PlaceName":"Ramnuggur",
+    "PlaceNameModern":"Rasul Nagar",
+    "NameOfTraveler":"Alexander Burnes",
+    "YearOfTravel":1832,
+    "Description":"We reached the banks of the Chenab, or Acesines, at Ramnuggur, a small town, the favourite resort of Runjeet Sing, and where he has often mustered his troops when proceeding on his campaigns beyond the Indus. It stands on a spacious plain for the exercise of his troops. The name of the place has been altered from Russool to Ramnuggur since the Mahommedan supremacy has been overthrown. The one name signifies the city of the prophet, the other the city of a god; nor is it remarkable that the name of the Deity should prevail.The “Doab,” between the Ravee and Chenab, is a little better cultivated, and more fertile, than that which we had passed. Its soil is sandy, and in its centre the wells are but twenty-five feet deep. Their temperature averaged about 70° of Fahrenheit. In the morning, vapour or clouds of smoke ascended from them, till the atmosphere was sufficiently heated to hide it. At this season the climate is cold and bleak, frequently rainy, and always cloudy. The wind generally blows from the north. Sugar.The sugar-cane thrives here; and they were now expressing its juice, which is extracted by placing two wooden rollers horizontally on the top of each other, and setting them in motion by a pair of oxen.",
+    "Citation":"Alexander Burnes, Travels into Bokhara, (London: John Murray, 1834), 44-45.",
+    "Hyperlink":"https://www.gutenberg.org/files/58074/58074-h/58074-h.htm",
+    "Country":"Pakistan",
+    "Region":"Southern Asia",
+    "Continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.0435,32.5884 ]
+    },
+    "properties": {
+    "PlaceName":"Pind Dadan Khan",
+    "PlaceNameModern":"Pind Dadan Khan",
+    "NameOfTraveler":"Alexander Burnes",
+    "YearOfTravel":1832,
+    "Description":"At Pind Dadun Khan we were met and welcomed by the authorities on the banks of the river. They presented us with a purse of 500 rupees, and some jars of sweetmeats. Pind Dadun Khan is the capital of a small district, and has a population of about 6000 souls. It consists of three small towns situated close to each other, and about four miles from the river. Its houses are like others in the Punjab; but their frameworks are made of cedar (deodar), which is floated down with the inundations of the river from the Hemilaya. The durability and fragrance of this wood recommend it for building of every description. We saw a cedar-tree lying on the banks of the Hydaspes, with a circumference of thirteen feet. On this river the Macedonians constructed the fleet by which they navigated the Indus; and it is a remarkable fact, that in none of the other Punjab rivers are such trees floated down, nor do there exist any where else such facilities for the construction of vessels",
+    "Citation":"Alexander Burnes, Travels into Bokhara, (London: John Murray, 1834), 50-52.",
+    "Hyperlink":"https://www.gutenberg.org/files/58074/58074-h/58074-h.htm",
+    "Country":"Pakistan",
+    "Region":"Southern Asia",
+    "Continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.011,32.6305 ]
+    },
+    "properties": {
+    "PlaceName":"Keora",
+    "PlaceNameModern":"Khewra",
+    "NameOfTraveler":"Alexander Burnes",
+    "YearOfTravel":1832,
+    "Description":"At the village of Keora, five miles from Pind Dadun Khan, we examined one of the principal mines. It was situated near the outside of the range, in a valley, which was cut by a rivulet of salt water. It opened into the hill through the red clayey formation above mentioned, at a distance of about 200 feet from the base. We were conducted by a narrow gallery, sufficient to admit of one person passing another, for about 350 yards, of which fifty may be taken as actual descent. Here we entered a cavern of irregular dimensions, and about 100 feet high, excavated entirely in salt. The mineral is deposited in strata of the utmost regularity, occurring, like the external rock, in vertical layers. Some of them, however, subtend an angle of from twenty to thirty degrees, and have the same appearance as bricks that have been placed upon one another. None of the layers exceed a foot and a half in thickness, and each is distinctly separated from its neighbour by a deposit of argillaceous earth about an eighth of an inch thick, which lies like mortar between the strata. Some of the salt occurs in hexagonal crystals, but oftener in masses: the whole of it is tinged with red, varying from the slightest shade to the deepest hue; when pounded, the salt is white. The temperature of the cavern exceeded that of the open air by twenty degrees, where the thermometer stood at sixty-four (in February). The natives state that these mines are much colder in the hot season; but this only shows that they undergo little or no alteration, while the heat outside alters with the season. There was no moist feeling, which one might have expected in a salt mine",
+    "Citation":"Alexander Burnes, Travels into Bokhara, (London: John Murray, 1834), 53.",
+    "Hyperlink":"https://www.gutenberg.org/files/58074/58074-h/58074-h.htm",
+    "Country":"Pakistan",
+    "Region":"Southern Asia",
+    "Continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.2121,32.648 ]
+    },
+    "properties": {
+    "PlaceName":"Julalpoor",
+    "PlaceNameModern":"Jalalpur",
+    "NameOfTraveler":"Alexander Burnes",
+    "YearOfTravel":1832,
+    "Description":"We marched up the right bank of the Jelum to Julalpoor for about thirty miles by a tract of rich land and great fertility. The husbandmen were mowing down the green wheat for the use of their cattle. The salt range runs parallel with the river, and presents a perfect contrast of desolation to its fertile valley; for it has no vegetation. Villages.Many villages, however, are perched upon the outer hills, which rise over one another in a picturesque manner. Nor are they more remarkable for their romantic situation than their comfort. We halted at one of them, which was neat and well kept, and lodged in a room which was about sixteen feet long, and half that breadth. It had cupboards and shelves, while the magazines for grain, which are formed[57] of earth, answered the purposes of tables. The whole buildings, both inside and out, are plastered with a grey-coloured earth, which gives them a cleanly appearance; and since these villages stand on the declivity of the hills, the rain washes down all that is disagreeable with it.",
+    "Citation":"Alexander Burnes, Travels into Bokhara, (London: John Murray, 1834), 57.",
+    "Hyperlink":"https://www.gutenberg.org/files/58074/58074-h/58074-h.htm",
+    "Country":"Pakistan",
+    "Region":"Southern Asia",
+    "Continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.5745,32.9645 ]
+    },
+    "properties": {
+    "PlaceName":"Fort Rotas",
+    "PlaceNameModern":"Rohtas Fort",
+    "NameOfTraveler":"Alexander Burnes",
+    "YearOfTravel":1832,
+    "Description":"On the 1st of March we reached the celebrated fort of Rotas, considered to be one of the great bulwarks between Tartary and India. As we wound through the dismal defiles, and might be ruminating on the various expeditions which had traversed this very road, the fort burst upon our view like the scene of a magic lantern. It had been hidden from us by towering precipices. We approached its ponderous walls by a straggling path which time had chiselled in the rock, and soon reached its lofty gateway. The black hoary aspect of the fort, and the arid sterility of the surrounding rocks, inspired us with no favourable idea of the neighbourhood, which has been the resort of many a desperate band. We had omitted to provide ourselves with Runjeet Sing’s order for admission into this fortress; but we proceeded to the gateway, as a matter of course, and after a parley the doors were thrown open. The official permission arrived from Lahore on the following day.",
+    "Citation":"Alexander Burnes, Travels into Bokhara, (London: John Murray, 1834), 62.",
+    "Hyperlink":"https://www.gutenberg.org/files/58074/58074-h/58074-h.htm",
+    "Country":"India",
+    "Region":"Southern Asia",
+    "Continent":"Asia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.13389,53.29441 ]
+    },
+    "properties": {
+    "PlaceName":"Dunlary",
+    "PlaceNameModern":"Dún Laoghaire",
+    "NameOfTraveler":"Arthur Young",
+    "YearOfTravel":1776,
+    "Description":"The public buildings are magnificent, very many of the streets regularly laid out, and exceedingly well built. The front of the Parliament-house is grand, though not so light as a more open finishing of the roof would have made it. The apartments are spacious, elegant, and convenient, much beyond that heap of confusion at Westminster, so inferior to the magnificence to be looked for in the seat of empire.",
+    "Citation":"Arthur Young, A Tour in Ireland: 1776-1779, ed. Henry Morley (London: Cassell & Company, Limited, 1897), 13.",
+    "Hyperlink":"https://www.gutenberg.org/files/22387/22387-h/22387-h.html",
+    "Country":"Ireland",
+    "Region":"Western Europe",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.54365,53.70864 ]
+    },
+    "properties": {
+    "PlaceName":"Slaine",
+    "PlaceNameModern":"Slane",
+    "NameOfTraveler":"Arthur Young",
+    "YearOfTravel":1776,
+    "Description":"The country very pleasant all the way; much of it on the banks of the Boyne, variegated with some woods, planted hedgerows, and gentle hills. The cabins continue much the same, the same plenty of poultry, pigs, and cows. The cattle in the road have their fore legs all tied together with straw to keep them from breaking into the fields; even sheep, and pigs, are all in the same bondage.",
+    "Citation":"Arthur Young, A Tour in Ireland: 1776-1779, ed. Henry Morley (London: Cassell & Company, Limited, 1897), 23.",
+    "Hyperlink":"https://www.gutenberg.org/files/22387/22387-h/22387-h.html",
+    "Country":"Ireland",
+    "Region":"Western Europe",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.94234,53.27858 ]
+    },
+    "properties": {
+    "PlaceName":"bog of Allen",
+    "PlaceNameModern":"Bog of Allen",
+    "NameOfTraveler":"Arthur Young",
+    "YearOfTravel":1776,
+    "Description":"[The bog] seems here extensive, and would make a noble tract of meadow. The way the road was made over it was simply to cut a drain on each side, and then lay on the gravel, which, as fast as it was laid and spread, bore the ears. Along the edges is fine white clover.",
+    "Citation":"Arthur Young, A Tour in Ireland: 1776-1779, ed. Henry Morley (London: Cassell & Company, Limited, 1897), 28.",
+    "Hyperlink":"https://www.gutenberg.org/files/22387/22387-h/22387-h.html",
+    "Country":"Ireland",
+    "Region":"Western Europe",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.06511,52.48753 ]
+    },
+    "properties": {
+    "PlaceName":"Innisteague",
+    "PlaceNameModern":"Inistioge",
+    "NameOfTraveler":"Arthur Young",
+    "YearOfTravel":1776,
+    "Description":"The little borough of Innisteague in a most picturesque situation, the whole bounded by mountains. Cross the bridge, and going through the town, take a path that leads to a small building in the woods, called Mount Sandford. It is at the top of a rocky declivity almost perpendicular, but with brush wood growing from the rocks. At the bottom is the river, which comes from the right from behind a very bold hanging wood, that seems to unite with the hill on the opposite shore. At this pass the river fills the vale, but it widens by degrees, and presents various reaches, intermixed with little tufts of trees. The bridge we passed over is half hid. Innisteague is mixed with them, and its buildings backed by a larger wood, give variety to the scene. Opposite to the point of view there are some pretty enclosures, fringed with wood, and a line of cultivated mountain sides, with their bare tops limit the whole.",
+    "Citation":"Arthur Young, A Tour in Ireland: 1776-1779, ed. Henry Morley (London: Cassell & Company, Limited, 1897), 31.",
+    "Hyperlink":"https://www.gutenberg.org/files/22387/22387-h/22387-h.html",
+    "Country":"Ireland",
+    "Region":"Western Europe",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.94719,52.3962 ]
+    },
+    "properties": {
+    "PlaceName":"Ross",
+    "PlaceNameModern":"New Ross",
+    "NameOfTraveler":"Arthur Young",
+    "YearOfTravel":1776,
+    "Description":"From the hill before you go down to the ferry is a noble scene of the Barrow, a vast river flowing through bold shores. In some places trees on the bank half obscure it, in others it opens in large reaches, the effect equally grand and beautiful. Ships sailing up to the town, which is built on the side of a hill to the water’s edge, enliven the scene not a little. The water is very deep and the navigation secure, so that ships of seven hundred tons may come up to the town; but these noble harbours on the coast of Ireland are only melancholy capabilities of commerce: it is languid and trifling. There are only four or five brigs and sloops that belong to the place.",
+    "Citation":"Arthur Young, A Tour in Ireland: 1776-1779, ed. Henry Morley (London: Cassell & Company, Limited, 1897), 32.",
+    "Hyperlink":"https://www.gutenberg.org/files/22387/22387-h/22387-h.html",
+    "Country":"Ireland",
+    "Region":"Western Europe",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.35609,53.71785 ]
+    },
+    "properties": {
+    "PlaceName":"Drogheda",
+    "PlaceNameModern":"Drogheda",
+    "NameOfTraveler":"Arthur Young",
+    "YearOfTravel":1776,
+    "Description":"To Drogheda, a well-built town, active in trade, the Boyne bringing ships to it. It was market-day, and I found the quantity of corn, etc., and the number of people assembled, very great; few country markets in England more thronged.",
+    "Citation":"Arthur Young, A Tour in Ireland: 1776-1779, ed. Henry Morley (London: Cassell & Company, Limited, 1897), 44.",
+    "Hyperlink":"https://www.gutenberg.org/files/22387/22387-h/22387-h.html",
+    "Country":"Ireland",
+    "Region":"Western Europe",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.40595,53.99794 ]
+    },
+    "properties": {
+    "PlaceName":"Dundalk",
+    "PlaceNameModern":"Dundalk",
+    "NameOfTraveler":"Arthur Young",
+    "YearOfTravel":1776,
+    "Description":"The view down on this town also very beautiful: swelling hills of a fine verdure, with many rich inclosures backed by a bold outline of mountain that is remarkable. Laid at the Clanbrassil Arms, and found it a very good inn. The place, like most of the Irish towns I have been in, full of new buildings, with every mark of increasing wealth and prosperity. A cambric manufacture was established here by Parliament, but failed; it was, however, the origin of that more to the north.",
+    "Citation":"Arthur Young, A Tour in Ireland: 1776-1779, ed. Henry Morley (London: Cassell & Company, Limited, 1897), 46.",
+    "Hyperlink":"https://www.gutenberg.org/files/22387/22387-h/22387-h.html",
+    "Country":"Ireland",
+    "Region":"Western Europe",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.93012,54.59728 ]
+    },
+    "properties": {
+    "PlaceName":"Belfast",
+    "PlaceNameModern":"Belfast",
+    "NameOfTraveler":"Arthur Young",
+    "YearOfTravel":1776,
+    "Description":"Belfast is a very well built town of brick, they having no stone quarry in the neighbourhood. The streets are broad and straight, and the inhabitants, amounting to about fifteen thousand, make it appear lively and busy. The public buildings are not numerous nor very striking, but over the exchange Lord Donegal is building an assembly room, sixty feet long by thirty broad, and twenty-four high; a very elegant room.",
+    "Citation":"Arthur Young, A Tour in Ireland: 1776-1779, ed. Henry Morley (London: Cassell & Company, Limited, 1897), 52.",
+    "Hyperlink":"https://www.gutenberg.org/files/22387/22387-h/22387-h.html",
+    "Country":"Northern Ireland",
+    "Region":"Western Europe",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.52916,55.23222 ]
+    },
+    "properties": {
+    "PlaceName":"Giant's Causeway",
+    "PlaceNameModern":"Giant's Causeway",
+    "NameOfTraveler":"Arthur Young",
+    "YearOfTravel":1776,
+    "Description":"It is certainly a very great curiosity as an object for speculation upon the manner of its formation; whether it owes its origin to fire, and is a species of lava, or to crystallisation, or to whatever cause, is a point that has employed the attention of men much more able to decide upon it than I am; and has been so often treated, that nothing I could say could be new. When two bits of these basalts are rubbed together quick, they emit a considerable scent like burnt leather. The scenery of the Causeway, nor of the adjacent mountains, is very magnificent, though the cliffs are bold; but for a considerable distance there is a strong disposition in the rocks to run into pentagonal cylinders, and even at a bridge by Mr. Lesly’s is a rock in which the same disposition is plainly visible. I believe the Causeway would have struck me more if I had not seen the prints of Staffa.",
+    "Citation":"Arthur Young, A Tour in Ireland: 1776-1779, ed. Henry Morley (London: Cassell & Company, Limited, 1897), 55-56.",
+    "Hyperlink":"https://www.gutenberg.org/files/22387/22387-h/22387-h.html",
+    "Country":"Northern Ireland",
+    "Region":"Western Europe",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.32744,51.17526 ]
+    },
+    "properties": {
+    "PlaceName":"Scheldt (River)",
+    "PlaceNameModern":"Scheldt (River)",
+    "NameOfTraveler":"George Eliot",
+    "YearOfTravel":1854,
+    "Description":"I said a last farewell to Cambridge Street on 20th July, 1854, and found myself on board the Ravensbourne, bound for Antwerp. The day was glorious, and our passage perfect. The sunset was lovely, but still lovelier the dawn as we were passing up the Scheldt between two and three in the morning. The crescent moon, the stars, the first faint blush of the dawn reflected in the glassy river, the dark mass of clouds on the horizon, which sent forth flashes of lightning, and the graceful forms of the boats and sailing vessels, painted in jetblack on the reddish gold of the sky and water, made up an unforgettable picture. Then the sun rose and lighted up the sleepy shores of Belgium, with their fringe of long grass, their rows of poplars, their church spires and farm\nbuildings.",
+    "Citation":"George Eliot, The Writings of George Eliot: George Eliot’s Life as Related in Her Letters and Journals, ed. J. W. Cross, vol. 23, 25 vols. (Boston: Houghton Mifflin Co., 1908), 267.",
+    "Hyperlink":"https://catalog.hathitrust.org/Record/006090060",
+    "Country":"Germany",
+    "Region":"Western Europe",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.32354,50.97949 ]
+    },
+    "properties": {
+    "PlaceName":"Weimar",
+    "PlaceNameModern":"Weimar",
+    "NameOfTraveler":"George Eliot",
+    "YearOfTravel":1854,
+    "Description":"It was very pretty to look out of the window, when dressing, on a garden that reminded one of an English village: the town is more like a huge village, or market-town, than the precincts of a court.",
+    "Citation":"George Eliot, The Writings of George Eliot: George Eliot’s Life as Related in Her Letters and Journals, ed. J. W. Cross, vol. 23, 25 vols. (Boston: Houghton Mifflin Co., 1908), 267.",
+    "Hyperlink":"https://catalog.hathitrust.org/Record/006090060",
+    "Country":"Germany",
+    "Region":"Central Europe",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.36157,50.9941 ]
+    },
+    "properties": {
+    "PlaceName":"Tiefurt",
+    "PlaceNameModern":"Tiefurt",
+    "NameOfTraveler":"George Eliot",
+    "YearOfTravel":1854,
+    "Description":"... We went with the Schölls and Sauppes to Tiefurt, and saw the queer little Schloss which\nused to be Amalia's residence. Tiefurt was a favourite resort of ours, for the walk to it is a very pleasant one, and the Tiefurt park is a little paradise. The Ilm is seen here to the best advantage: it is clearer than at Weimar, and winds about gracefully among fine trees. One of the banks is a high steep declivity, which shows the trees in all their perfection. In autumn, when the yellow and scarlet were at their brightest, these banks were fairy-like in their beauty. It was here that Goethe and his Court friends got up the performance of \" Die Fischerin\" by torchlight.",
+    "Citation":"George Eliot, The Writings of George Eliot: George Eliot’s Life as Related in Her Letters and Journals, ed. J. W. Cross, vol. 23, 25 vols. (Boston: Houghton Mifflin Co., 1908), 268.",
+    "Hyperlink":"https://catalog.hathitrust.org/Record/006090060",
+    "Country":"Germany",
+    "Region":"Central Europe",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.27884,51.03419 ]
+    },
+    "properties": {
+    "PlaceName":"Ettersburg",
+    "PlaceNameModern":"Ettersburg",
+    "NameOfTraveler":"George Eliot",
+    "YearOfTravel":1854,
+    "Description":"About ten days after our arrival at Weimar, we made an excursion to Ettersburg, one of the Duke's summer residences, interesting to us beforehand as the scene of private theatricals and sprees in the Goethe days. We carried provisions with us and Keats's poems. The morning was one of the brightest and hottest that August ever bestowed, and it required some resolution to trudge along the shadeless chaussee, which formed the first two or three miles of our way. One compensating pleasure was the sight of the beautiful mountain-ashes in full berry which, alternately with cherry trees, border\nthe road for a considerable distance. I felt a child's love for the bunches of coral standing out against the blue sky. The Schloss is a house of very moderate size, and no pretension of any kind. Two flights of steps lead up to the door, and the balustrades are ornamented with beautiful creepers. A tiny sort of piazza under the steps is ornamented with creepers too, and has pretty earthenware vases filled with plants hanging from the ceiling.\nWe felt how much beauty might be procured at small expense in looking at these things. A beautiful walk through a beechwood took us to the Mooshütte, before which stands the beech whereon Goethe and his friends cut their names, and from which Goethe denounced Waldemar. We could recognize some of the initials.",
+    "Citation":"George Eliot, The Writings of George Eliot: George Eliot’s Life as Related in Her Letters and Journals, ed. J. W. Cross, vol. 23, 25 vols. (Boston: Houghton Mifflin Co., 1908), 269.",
+    "Hyperlink":"https://catalog.hathitrust.org/Record/006090060",
+    "Country":"Germany",
+    "Region":"Central Europe",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.92547,50.68435 ]
+    },
+    "properties": {
+    "PlaceName":"Ilmenau",
+    "PlaceNameModern":"Ilmenau",
+    "NameOfTraveler":"George Eliot",
+    "YearOfTravel":1854,
+    "Description":"Our greatest expedition from Weimar was to Ilmenau. We set out with a determination to find the Gabel-Bach and Kickel-hahn (Goethe's residence) without the encumbrance of a guide. We found the man who inhabits the simple wooden house, which used to be Carl August's hunting-box. He sent a man on with us to show us the way to the Kickel-hahn, which we at last reached — I with weary legs. There is a magnificent view of hills from this spot; but Goethe's tiny wooden house is now closely shut in by fir trees, and nothing can be seen from the windows. His room, which forms the upper floor of the house, is about ten or twelve feet square. It is now quite empty, but there is an interesting memorial of his presence in these wonderful lines, written by his own hand, near the window-frame —\n\"Ueber allen Gipfeln\nIst Ruh,\nIn alien Wipfeln\nSpürest du\nKaum einen Hauch;\nDie Vogelein schweigen im Walde.\nWarte nur, balde\nRuhest du auch.\"\nWe wrote our names near one of the windows.",
+    "Citation":"George Eliot, The Writings of George Eliot: George Eliot’s Life as Related in Her Letters and Journals, ed. J. W. Cross, vol. 23, 25 vols. (Boston: Houghton Mifflin Co., 1908), 270.",
+    "Hyperlink":"https://catalog.hathitrust.org/Record/006090060",
+    "Country":"Germany",
+    "Region":"Central Europe",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.53424,52.16044 ]
+    },
+    "properties": {
+    "PlaceName":"Road near Wolfenbüttel",
+    "PlaceNameModern":"Road near Wolfenbüttel",
+    "NameOfTraveler":"George Eliot",
+    "YearOfTravel":1855,
+    "Description":"It was a bitterly cold sleety morning — the 11th of March — when we set out from Berlin, leaving behind us, alas! G.'s rug, which should have kept his feet warm on the journey. Our travelling companions to Cologne were fat Madame Roger, her little daughter, and her dog, and a Queen's messenger — a very agreeable man, who afterwards persuaded another of the same vocation to join us for the sake of warmth. This poor man's teeth were chattering with cold, though he was wrapped in\nfur; and we, all fur-less as we were, pitied him, and were thankful that at least we were not feverish and ill, as he evidently was. We saw the immortal old town of Wolfenbüttel at a distance, as we rolled along: beyond this there was nothing of interest in our first day's journey, and the only incident was the condemnation of poor Madame Roger's dog to the dog-box, apart from its mistress with her warm cloaks...",
+    "Citation":"George Eliot, The Writings of George Eliot: George Eliot’s Life as Related in Her Letters and Journals, ed. J. W. Cross, vol. 23, 25 vols. (Boston: Houghton Mifflin Co., 1908), 294.",
+    "Hyperlink":"https://catalog.hathitrust.org/Record/006090060",
+    "Country":"Germany",
+    "Region":"Central Europe, Eastern Europe",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.33202,50.98071 ]
+    },
+    "properties": {
+    "PlaceName":"Schloss in Weimar",
+    "PlaceNameModern":"Stadtschloss in Weimar",
+    "NameOfTraveler":"George Eliot",
+    "YearOfTravel":1854,
+    "Description":"G. called on Scholl, and im the afternoon he (Scholl) came and took us to the Schloss, where we saw the Dichter Zimmer — a suite of rooms dedicated to Goethe, Schiller, and Wieland. In each room there is the bust of the poet who is its presiding genius; and the walls of the Goethe and Schiller rooms are decorated with frescoes, representing scenes from their works. The Wieland room is decorated with arabesques only. The idea of these rooms is a very pretty one, but the frescoes are badly executed.",
+    "Citation":"George Eliot, The Writings of George Eliot: George Eliot’s Life as Related in Her Letters and Journals, ed. J. W. Cross, vol. 23, 25 vols. (Boston: Houghton Mifflin Co., 1908), 267-268.",
+    "Hyperlink":"https://catalog.hathitrust.org/Record/006090060",
+    "Country":"Germany",
+    "Region":"Central Europe",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.32781,50.97893 ]
+    },
+    "properties": {
+    "PlaceName":"Schiller's House in Weimar",
+    "PlaceNameModern":"Schiller-Museum in Weimar",
+    "NameOfTraveler":"George Eliot",
+    "YearOfTravel":1854,
+    "Description":"When we passed along the Schiller Strasse, I used to be very much thrilled by the inscription, \"Hier wohnte Schiller,\" over the door of his small house. Very interesting it is to see his study, which is happily left in its original state. In his bedroom we saw his skull for the first time, and were amazed at the smallness of the intellectual region. There is an intensely interesting sketch of Schiller lying dead, which I saw for the first time in the study; but all pleasure in thinking of Schiller's portraits and bust is now destroyed to me by the conviction of their untruthfulness. Rauch told us that he had a miserable Stirne. Waagen says that Tieck the sculptor told him there was something in Schiller's whole person which reminded him of a camel.",
+    "Citation":"George Eliot, The Writings of George Eliot: George Eliot’s Life as Related in Her Letters and Journals, ed. J. W. Cross, vol. 23, 25 vols. (Boston: Houghton Mifflin Co., 1908), 272-273.",
+    "Hyperlink":"https://catalog.hathitrust.org/Record/006090060",
+    "Country":"Germany",
+    "Region":"Central Europe",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.3287,50.97757 ]
+    },
+    "properties": {
+    "PlaceName":"Goethe's House in Weimar",
+    "PlaceNameModern":"Goethes Wohnhaus in Weimar",
+    "NameOfTraveler":"George Eliot",
+    "YearOfTravel":1854,
+    "Description":"Goethe's house is much more important-looking, but, to English eyes, far from being the palatial residence which some German writers think it. The entrance-hall is certainly rather imposing, with its statues in niches and broad staircase. The latter was made after his own design, and was an \"after-shine\" of Italian tastes. The pictures are wretched, the casts not much better — indeed, I remember nothing which seemed intrinsically worth looking at. The MS. of his \"Römische Elegien,\"\nwritten by himself in the Italian character, is to be seen here; and one likes to look at it better than at most of the other things. G. had obtained permission from Frau v. Goethe to see the studio and Schlafzimmer, which are not open to the public, and here our feelings were deeply moved. We entered first a small room containing drawers and shelves devoted to his mineralogical collections. From these we passed into the study. It is rather a dark room, for there are only two small windows — German windows. A plain deal table stands in the middle, and near the chair, against this table, is a high basket, where, I was afterwards told, Goethe used to put his pocket-handkerchief. A long sort of writing-table and bookcase united stands against one wall. Here hangs the pin-cushion, just as he left it, with visiting-cards suspended on threads, and other trifles which greatness and death have made sacred. Against the opposite wall, where you enter the bedroom, there is a high writing-desk, on which stands a little statue of Napoleon in creamy glass. The bedroom is very small. By the side of the bed stands a stuffed armchair, where he used to sit and read while he drank his coffee in the morning.\nIt was not until very late in his life that he adopted the luxury of an armchair. From the other side of the study one enters the library, which is fitted up in a very makeshift fashion, with rough deal shelves, and bits of paper, with Philosophy, History, etc., written on them to mark the classification of the books. Among such memorials one breathes deeply, and the tears rush to one's eyes. \nThere is one likeness of Goethe that is really startling and thrilling from the idea it gives one of perfect resemblance. It is painted on a cup, and is a tiny miniature, but the execution is so perfect that, on applying a magnifying glass, every minute stroke has as natural an appearance as the texture of a flower or the parts of an insect under the microscope.",
+    "Citation":"George Eliot, The Writings of George Eliot: George Eliot’s Life as Related in Her Letters and Journals, ed. J. W. Cross, vol. 23, 25 vols. (Boston: Houghton Mifflin Co., 1908), 273-274.",
+    "Hyperlink":"https://catalog.hathitrust.org/Record/006090060",
+    "Country":"Germany",
+    "Region":"Central Europe",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.3501,52.51453 ]
+    },
+    "properties": {
+    "PlaceName":"Thiergarten in Berlin",
+    "PlaceNameModern":"Tiergarten in Berlin",
+    "NameOfTraveler":"George Eliot",
+    "YearOfTravel":1854,
+    "Description":"For the first six weeks, when the weather permitted, we took long walks in the Thiergarten, where the\nstraight and uniform avenues of insignificant trees contrasted* very disadvantageously with the charming variety of our beloved park at Weimar. Still we now and then noticed a beautiful wintry effect, especially in the part most remote \"from the town, where the trees are finer and the arrangements more varied. One walk, which skirted the Thiergarten on the right-hand side coming from the town, we were particularly fond of, because it gave us on one side an open view, with water\nand a boat or two, which, touched by the magic of sunshine, was pleasant to see. At Berlin it was \"a day of small things \" with regard to the beautiful, and we made much of little.",
+    "Citation":"George Eliot, The Writings of George Eliot: George Eliot’s Life as Related in Her Letters and Journals, ed. J. W. Cross, vol. 23, 25 vols. (Boston: Houghton Mifflin Co., 1908), 278-279.",
+    "Hyperlink":"https://catalog.hathitrust.org/Record/006090060",
+    "Country":"Germany",
+    "Region":"Central Europe, Eastern Europe",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.40495,52.52 ]
+    },
+    "properties": {
+    "PlaceName":"Berlin",
+    "PlaceNameModern":"Berlin",
+    "NameOfTraveler":"George Eliot",
+    "YearOfTravel":1854,
+    "Description":"There are certain persons without any physiognomy,the catalogue of whose features, as item a Roman nose, item a pair Gf black eyes, etc., gives you the entire contents of their faces. There is no difference of opinion about the looks of such people. All the world is agreed either that they are pretty or ugly. So it is with Berlin. Every one tells you it is an uninteresting modern city, with broad, monotonous streets; and when you see it, you cannot for the life of you get up an emotion of surprise, or make a remark about the place which you have not heard before.\nThe day after our arrival was Sunday, 6th November: the sun shone brightly, and we went to walk in the Linden, elbowing our way among the promeneurs endimanchés, who looked remarkably smart and handsome after the Thuringians. ...\n[...]\nThey were very happy months we spent at Berlin, in spite of the bitter cold which came on in January and lasted almost till we left. How we used to rejoice in the idea of our warm room and coffee as we battled our way from dinner against the wind and snow! Then came the delightful long evening, in which we read Shakespeare, Goethe, Heine, and Macaulay, with German Pfefferkuchen and Semmels at the end to complete the noctes cenoeque deûm.\nWe used often to turn out for a little walk in the evening, when it was not too cold, to refresh ourselves by a little pure air as a change from the stove-heated room. Our favourite walk was along the Linden, in the broad road between the trees. We used to pace to old Fritz's monument, which loomed up dark and mysterious against the sky. Once or twice we went along the gaslighted walk towards Kroll's. One evening in our last week, we went on to the bridge leading to the Friedrichstadt, and there by moon- and gas-light saw the only bit of picturesqueness Berlin afforded us. The outline of the Schloss towards the water is very varied, and a light in one of the windows near the top of a tower was a happy accident. The row of houses on the other side of\nthe water was shrouded in indistinctness, and no ugly object marred the scene. The next day, under the light of the sun, it was perfectly prosaic.",
+    "Citation":"George Eliot, The Writings of George Eliot: George Eliot’s Life as Related in Her Letters and Journals, ed. J. W. Cross, vol. 23, 25 vols. (Boston: Houghton Mifflin Co., 1908), 278, 293.",
+    "Hyperlink":"https://catalog.hathitrust.org/Record/006090060",
+    "Country":"Germany",
+    "Region":"Central Europe, Eastern Europe",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0794,8.6574 ]
+    },
+    "properties": {
+    "PlaceName":"Flores (Island of Indonesia)",
+    "PlaceNameModern":"Flores (Island of Indonesia)",
+    "NameOfTraveler":"Mark Twain (Samuel Clemens)",
+    "YearOfTravel":1867,
+    "Description":"The island in sight was Flores. It seemed only a mountain of mud standing up out of the dull mists of the sea. But as we bore down upon it the sun came out and made it a beautiful picture—a mass of green farms and meadows that swelled up to a height of fifteen hundred feet and mingled its upper outlines with the clouds. It was ribbed with sharp, steep ridges and cloven with narrow canyons, and here and there on the heights, rocky upheavals shaped themselves into mimic battlements and castles; and out of rifted clouds came broad shafts of sunlight, that painted summit, and slope and glen, with bands of fire, and left belts of somber shade between. It was the aurora borealis of the frozen pole exiled to a summer land!",
+    "Citation":"Mark Train (Samuel L. Clemens), The Inocent Abroad (Hartford, CT: American Publishing Company, 1869), Ch. 5.",
+    "Hyperlink":"https://www.gutenberg.org/files/3176/3176-h/3176-h.htm",
+    "Country":"Indonesia",
+    "Region":"Pacific Islands",
+    "Continent":"Asia, Pacific"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.63,38.5348 ]
+    },
+    "properties": {
+    "PlaceName":"Horta, Azores",
+    "PlaceNameModern":"Horta, Azores",
+    "NameOfTraveler":"Mark Twain (Samuel Clemens)",
+    "YearOfTravel":1869,
+    "Description":"We anchored in the open roadstead of Horta, half a mile from the shore. The town has eight thousand to ten thousand inhabitants. Its snow-white houses nestle cosily in a sea of fresh green vegetation, and no village could look prettier or more attractive. It sits in the lap of an amphitheater of hills which are three hundred to seven hundred feet high, and carefully cultivated clear to their summits—not a foot of soil left idle. Every farm and every acre is cut up into little square inclosures by stone walls, whose duty it is to protect the growing products from the destructive gales that blow there. These hundreds of green squares, marked by their black lava walls, make the hills look like vast checkerboards.\nThe islands belong to Portugal, and everything in Fayal has Portuguese characteristics about it. But more of that anon. A swarm of swarthy, noisy, lying, shoulder-shrugging, gesticulating Portuguese boatmen, with brass rings in their ears and fraud in their hearts, climbed the ship’s sides, and various parties of us contracted with them to take us ashore at so much a head, silver coin of any country. We landed under the walls of a little fort, armed with batteries of twelve-and-thirty-two-pounders, which Horta considered a most formidable institution, but if we were ever to get after it with one of our turreted monitors, they would have to move it out in the country if they wanted it where they could go and find it again when they needed it. The group on the pier was a rusty one—men and women, and boys and girls, all ragged and barefoot, uncombed and unclean, and by instinct, education, and profession beggars. They trooped after us, and never more while we tarried in Fayal did we get rid of them. We walked up the middle of the principal street, and these vermin surrounded us on all sides and glared upon us; and every moment excited couples shot ahead of the procession to get a good look back, just as village boys do when they accompany the elephant on his advertising trip from street to street. It was very flattering to me to be part of the material for such a sensation. Here and there in the doorways we saw women with fashionable Portuguese hoods on. This hood is of thick blue cloth, attached to a cloak of the same stuff, and is a marvel of ugliness. It stands up high and spreads far abroad, and is unfathomably deep. It fits like a circus tent, and a woman’s head is hidden away in it like the man’s who prompts the singers from his tin shed in the stage of an opera. There is no particle of trimming about this monstrous capote, as they call it—it is just a plain, ugly dead-blue mass of sail, and a woman can’t go within eight points of the wind with one of them on; she has to go before the wind or not at all. The general style of the capote is the same in all the islands, and will remain so for the next ten thousand years, but each island shapes its capotes just enough differently from the others to enable an observer to tell at a glance what particular island a lady hails from.",
+    "Citation":"Mark Train (Samuel L. Clemens), The Inocent Abroad (Hartford, CT: American Publishing Company, 1869), Ch. 5.",
+    "Hyperlink":"https://www.gutenberg.org/files/3176/3176-h/3176-h.htm",
+    "Country":"Portugal",
+    "Region":"Atlantic",
+    "Continent":"Atlantic"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.3536,36.1408 ]
+    },
+    "properties": {
+    "PlaceName":"Gibraltar",
+    "PlaceNameModern":"Gibraltar",
+    "NameOfTraveler":"Mark Twain (Samuel Clemens)",
+    "YearOfTravel":1869,
+    "Description":"We were approaching the famed Pillars of Hercules, and already the African one, “Ape’s Hill,” a grand old mountain with summit streaked with granite ledges, was in sight. The other, the great Rock of Gibraltar, was yet to come. The ancients considered the Pillars of Hercules the head of navigation and the end of the world. The information the ancients didn’t have was very voluminous. Even the prophets wrote book after book and epistle after epistle, yet never once hinted at the existence of a great continent on our side of the water; yet they must have known it was there, I should think.\nIn a few moments a lonely and enormous mass of rock, standing seemingly in the center of the wide strait and apparently washed on all sides by the sea, swung magnificently into view, and we needed no tedious traveled parrot to tell us it was Gibraltar. There could not be two rocks like that in one kingdom.\nThe Rock of Gibraltar is about a mile and a half long, I should say, by 1,400 to 1,500 feet high, and a quarter of a mile wide at its base. One side and one end of it come about as straight up out of the sea as the side of a house, the other end is irregular and the other side is a steep slant which an army would find very difficult to climb. At the foot of this slant is the walled town of Gibraltar—or rather the town occupies part of the slant. Everywhere—on hillside, in the precipice, by the sea, on the heights—everywhere you choose to look, Gibraltar is clad with masonry and bristling with guns. It makes a striking and lively picture from whatsoever point you contemplate it. It is pushed out into the sea on the end of a flat, narrow strip of land, and is suggestive of a “gob” of mud on the end of a shingle. A few hundred yards of this flat ground at its base belongs to the English, and then, extending across the strip from the Atlantic to the Mediterranean, a distance of a quarter of a mile, comes the “Neutral Ground,” a space two or three hundred yards wide, which is free to both parties.",
+    "Citation":"Mark Train (Samuel L. Clemens), The Inocent Abroad (Hartford, CT: American Publishing Company, 1869), Ch. 7.",
+    "Hyperlink":"https://www.gutenberg.org/files/3176/3176-h/3176-h.htm",
+    "Country":"British Overseas Territory",
+    "Region":"Mediterranean",
+    "Continent":"Europe, Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.834,35.7595 ]
+    },
+    "properties": {
+    "PlaceName":"Tangier",
+    "PlaceNameModern":"Tangier",
+    "NameOfTraveler":"Mark Twain (Samuel Clemens)",
+    "YearOfTravel":1869,
+    "Description":"This is royal! Let those who went up through Spain make the best of it—these dominions of the Emperor of Morocco suit our little party well enough. We have had enough of Spain at Gibraltar for the present. Tangier is the spot we have been longing for all the time. Elsewhere we have found foreign-looking things and foreign-looking people, but always with things and people intermixed that we were familiar with before, and so the novelty of the situation lost a deal of its force. We wanted something thoroughly and uncompromisingly foreign—foreign from top to bottom—foreign from center to circumference—foreign inside and outside and all around—nothing anywhere about it to dilute its foreignness—nothing to remind us of any other people or any other land under the sun. And lo! In Tangier we have found it. Here is not the slightest thing that ever we have seen save in pictures—and we always mistrusted the pictures before. We cannot anymore. The pictures used to seem exaggerations—they seemed too weird and fanciful for reality. But behold, they were not wild enough—they were not fanciful enough—they have not told half the story. Tangier is a foreign land if ever there was one, and the true spirit of it can never be found in any book save The Arabian Nights. Here are no white men visible, yet swarms of humanity are all about us. Here is a packed and jammed city enclosed in a massive stone wall which is more than a thousand years old. All the houses nearly are one-and two-story, made of thick walls of stone, plastered outside, square as a dry-goods box, flat as a floor on top, no cornices, whitewashed all over—a crowded city of snowy tombs! And the doors are arched with the peculiar arch we see in Moorish pictures; the floors are laid in varicolored diamond flags; in tesselated, many-colored porcelain squares wrought in the furnaces of Fez; in red tiles and broad bricks that time cannot wear; there is no furniture in the rooms (of Jewish dwellings) save divans—what there is in Moorish ones no man may know; within their sacred walls no Christian dog can enter. And the streets are oriental—some of them three feet wide, some six, but only two that are over a dozen; a man can blockade the most of them by extending his body across them. Isn’t it an oriental picture?",
+    "Citation":"Mark Train (Samuel L. Clemens), The Inocent Abroad (Hartford, CT: American Publishing Company, 1869), Ch. 8.",
+    "Hyperlink":"https://www.gutenberg.org/files/3176/3176-h/3176-h.htm",
+    "Country":"Morocco",
+    "Region":"Northern Africa",
+    "Continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.3698,43.2965 ]
+    },
+    "properties": {
+    "PlaceName":"Marseilles",
+    "PlaceNameModern":"Marseilles",
+    "NameOfTraveler":"Mark Twain (Samuel Clemens)",
+    "YearOfTravel":1869,
+    "Description":"A long walk through smooth, asphaltum-paved streets bordered by blocks of vast new mercantile houses of cream-colored stone every house and every block precisely like all the other houses and all the other blocks for a mile, and all brilliantly lighted—brought us at last to the principal thoroughfare. On every hand were bright colors, flashing constellations of gas burners, gaily dressed men and women thronging the sidewalks—hurry, life, activity, cheerfulness, conversation, and laughter everywhere!",
+    "Citation":"Mark Train (Samuel L. Clemens), The Inocent Abroad (Hartford, CT: American Publishing Company, 1869), Ch. 10.",
+    "Hyperlink":"https://www.gutenberg.org/files/3176/3176-h/3176-h.htm",
+    "Country":"France",
+    "Region":"Western Europe",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2137,46.2276 ]
+    },
+    "properties": {
+    "PlaceName":"France",
+    "PlaceNameModern":"France",
+    "NameOfTraveler":"Mark Twain (Samuel Clemens)",
+    "YearOfTravel":1869,
+    "Description":"We have come five hundred miles by rail through the heart of France. What a bewitching land it is!/ / What a garden! Surely the leagues of bright green lawns are swept and brushed and watered every day and their grasses trimmed by the barber. Surely the hedges are shaped and measured and their symmetry preserved by the most architectural of gardeners. Surely the long straight rows of stately poplars that divide the beautiful landscape like the squares of a checker-board are set with line and plummet, and their uniform height determined with a spirit level. Surely the straight, smooth, pure white turnpikes are jack-planed and sandpapered every day. How else are these marvels of symmetry, cleanliness, and order attained? It is wonderful. There are no unsightly stone walls and never a fence of any kind. There is no dirt, no decay, no rubbish anywhere—nothing that even hints at untidiness—nothing that ever suggests neglect. All is orderly and beautiful—every thing is charming to the eye. /We had such glimpses of the Rhone gliding along between its grassy banks; of cosy cottages buried in flowers and shrubbery; of quaint old red-tiled villages with mossy medieval cathedrals looming out of their midst; of wooded hills with ivy-grown towers and turrets of feudal castles projecting above the foliage; such glimpses of Paradise, it seemed to us, such visions of fabled fairyland! / We knew then what the poet meant when he sang of: “—thy cornfields green, and sunny vines, O pleasant land of France!” / And it is a pleasant land. No word describes it so felicitously as that one. They say there is no word for “home” in the French language. Well, considering that they have the article itself in such an attractive aspect, they ought to manage to get along without the word. Let us not waste too much pity on “homeless” France. I have observed that Frenchmen abroad seldom wholly give up the idea of going back to France some time or other. I am not surprised at it now.",
+    "Citation":"Mark Train (Samuel L. Clemens), The Inocent Abroad (Hartford, CT: American Publishing Company, 1869), Ch. 12.",
+    "Hyperlink":"https://www.gutenberg.org/files/3176/3176-h/3176-h.htm",
+    "Country":"France",
+    "Region":"Western Europe",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3499,48.853 ]
+    },
+    "properties": {
+    "PlaceName":"Notre Dame Cathedral",
+    "PlaceNameModern":"Notre Dame Cathedral in Paris",
+    "NameOfTraveler":"Mark Twain (Samuel Clemens)",
+    "YearOfTravel":1869,
+    "Description":"We went to see the Cathedral of Notre Dame. We had heard of it before. It surprises me sometimes to think how much we do know and how intelligent we are. We recognized the brown old Gothic pile in a moment; it was like the pictures. We stood at a little distance and changed from one point of observation to another and gazed long at its lofty square towers and its rich front, clustered thick with stony, mutilated saints who had been looking calmly down from their perches for ages. The Patriarch of Jerusalem stood under them in the old days of chivalry and romance, and preached the third Crusade, more than six hundred years ago; and since that day they have stood there and looked quietly down upon the most thrilling scenes, the grandest pageants, the most extraordinary spectacles that have grieved or delighted Paris. These battered and broken-nosed old fellows saw many and many a cavalcade of mail-clad knights come marching home from Holy Land; they heard the bells above them toll the signal for the St. Bartholomew’s Massacre, and they saw the slaughter that followed; later they saw the Reign of Terror, the carnage of the Revolution, the overthrow of a king, the coronation of two Napoleons, the christening of the young prince that lords it over a regiment of servants in the Tuileries to-day—and they may possibly continue to stand there until they see the Napoleon dynasty swept away and the banners of a great republic floating above its ruins. I wish these old parties could speak. They could tell a tale worth the listening to. / They say that a pagan temple stood where Notre Dame now stands, in the old Roman days, eighteen or twenty centuries ago—remains of it are still preserved in Paris; and that a Christian church took its place about A.D. 300; another took the place of that in A.D. 500; and that the foundations of the present cathedral were laid about A.D. 1100. The ground ought to be measurably sacred by this time, one would think. One portion of this noble old edifice is suggestive of the quaint fashions of ancient times. It was built by Jean Sans-Peur, Duke of Burgundy, to set his conscience at rest—he had assassinated the Duke of Orleans. Alas! Those good old times are gone when a murderer could wipe the stain from his name and soothe his troubles to sleep simply by getting out his bricks and mortar and building an addition to a church. / The portals of the great western front are bisected by square pillars. They took the central one away in 1852, on the occasion of thanksgivings for the reinstitution of the presidential power—but precious soon they had occasion to reconsider that motion and put it back again! And they did. / We loitered through the grand aisles for an hour or two, staring up at the rich stained-glass windows embellished with blue and yellow and crimson saints and martyrs, and trying to admire the numberless great pictures in the chapels, and then we were admitted to the sacristy and shown the magnificent robes which the Pope wore when he crowned Napoleon I; a wagon-load of solid gold and silver utensils used in the great public processions and ceremonies of the church; some nails of the true cross, a fragment of the cross itself, a part of the crown of thorns. We had already seen a large piece of the true cross in a church in the Azores, but no nails. They showed us likewise the bloody robe which that archbishop of Paris wore who exposed his sacred person and braved the wrath of the insurgents of 1848, to mount the barricades and hold aloft the olive branch of peace in the hope of stopping the slaughter. His noble effort cost him his life. He was shot dead. They showed us a cast of his face taken after death, the bullet that killed him, and the two vertebrae in which it lodged. These people have a somewhat singular taste in the matter of relics. Ferguson told us that the silver cross which the good archbishop wore at his girdle was seized and thrown into the Seine, where it lay embedded in the mud for fifteen years, and then an angel appeared to a priest and told him where to dive for it; he did dive for it and got it, and now it is there on exhibition at Notre Dame, to be inspected by anybody who feels an interest in inanimate objects of miraculous intervention.",
+    "Citation":"Mark Train (Samuel L. Clemens), The Inocent Abroad (Hartford, CT: American Publishing Company, 1869), Ch. 14.",
+    "Hyperlink":"https://www.gutenberg.org/files/3176/3176-h/3176-h.htm",
+    "Country":"France",
+    "Region":"Western Europe",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3475,48.8549 ]
+    },
+    "properties": {
+    "PlaceName":"The Morgue",
+    "PlaceNameModern":"The Morgue in Paris",
+    "NameOfTraveler":"Mark Twain (Samuel Clemens)",
+    "YearOfTravel":1869,
+    "Description":"Next we went to visit the Morgue, that horrible receptacle for the dead who die mysteriously and leave the manner of their taking off a dismal secret. We stood before a grating and looked through into a room which was hung all about with the clothing of dead men; coarse blouses, water-soaked; the delicate garments of women and children; patrician vestments, hacked and stabbed and stained with red; a hat that was crushed and bloody. / On a slanting stone lay a drowned man, naked, swollen, purple; clasping the fragment of a broken bush with a grip which death had so petrified that human strength could not unloose it—mute witness of the last despairing effort to save the life that was doomed beyond all help. A stream of water trickled ceaselessly over the hideous face. We knew that the body and the clothing were there for identification by friends, but still we wondered if anybody could love that repulsive object or grieve for its loss. We grew meditative and wondered if, some forty years ago, when the mother of that ghastly thing was dandling it upon her knee, and kissing it and petting it and displaying it with satisfied pride to the passers-by, a prophetic vision of this dread ending ever flitted through her brain. I half feared that the mother, or the wife or a brother of the dead man might come while we stood there, but nothing of the kind occurred. Men and women came, and some looked eagerly in and pressed their faces against the bars; others glanced carelessly at the body and turned away with a disappointed look—people, I thought, who live upon strong excitements and who attend the exhibitions of the Morgue regularly, just as other people go to see theatrical spectacles every night.",
+    "Citation":"Mark Train (Samuel L. Clemens), The Inocent Abroad (Hartford, CT: American Publishing Company, 1869), Ch. 14.",
+    "Hyperlink":"https://www.gutenberg.org/files/3176/3176-h/3176-h.htm",
+    "Country":"France",
+    "Region":"Western Europe",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3935,48.8615 ]
+    },
+    "properties": {
+    "PlaceName":"Pere la Chaise",
+    "PlaceNameModern":"Pere la Chaise in Paris",
+    "NameOfTraveler":"Mark Twain (Samuel Clemens)",
+    "YearOfTravel":1869,
+    "Description":"One of our pleasantest visits was to Pere la Chaise, the national burying-ground of France, the honored resting-place of some of her greatest and best children, the last home of scores of illustrious men and women who were born to no titles, but achieved fame by their own energy and their own genius. It is a solemn city of winding streets and of miniature marble temples and mansions of the dead gleaming white from out a wilderness of foliage and fresh flowers. Not every city is so well peopled as this, or has so ample an area within its walls. Few palaces exist in any city that are so exquisite in design, so rich in art, so costly in material, so graceful, so beautiful. / We had stood in the ancient church of St. Denis, where the marble effigies of thirty generations of kings and queens lay stretched at length upon the tombs, and the sensations invoked were startling and novel; the curious armor, the obsolete costumes, the placid faces, the hands placed palm to palm in eloquent supplication—it was a vision of gray antiquity. It seemed curious enough to be standing face to face, as it were, with old Dagobert I., and Clovis and Charlemagne, those vague, colossal heroes, those shadows, those myths of a thousand years ago! I touched their dust-covered faces with my finger, but Dagobert was deader than the sixteen centuries that have passed over him, Clovis slept well after his labor for Christ, and old Charlemagne went on dreaming of his paladins, of bloody Roncesvalles, and gave no heed to me. / The great names of Pere la Chaise impress one, too, but differently. There the suggestion brought constantly to his mind is, that this place is sacred to a nobler royalty—the royalty of heart and brain. Every faculty of mind, every noble trait of human nature, every high occupation which men engage in, seems represented by a famous name. The effect is a curious medley. / Davoust and Massena, who wrought in many a battle tragedy, are here, and so also is Rachel, of equal renown in mimic tragedy on the stage. The Abbe Sicard sleeps here—the first great teacher of the deaf and dumb—a man whose heart went out to every unfortunate, and whose life was given to kindly offices in their service; and not far off, in repose and peace at last, lies Marshal Ney, whose stormy spirit knew no music like the bugle call to arms. The man who originated public gas-lighting, and that other benefactor who introduced the cultivation of the potato and thus blessed millions of his starving countrymen, lie with the Prince of Masserano, and with exiled queens and princes of Further India. Gay-Lussac the chemist, Laplace the astronomer, Larrey the surgeon, de Suze the advocate, are here, and with them are Talma, Bellini, Rubini; de Balzac, Beaumarchais, Beranger; Moliere and Lafontaine, and scores of other men whose names and whose worthy labors are as familiar in the remote by-places of civilization as are the historic deeds of the kings and princes that sleep in the marble vaults of St. Denis. / But among the thousands and thousands of tombs in Pere la Chaise, there is one that no man, no woman, no youth of either sex, ever passes by without stopping to examine. Every visitor has a sort of indistinct idea of the history of its dead and comprehends that homage is due there, but not one in twenty thousand clearly remembers the story of that tomb and its romantic occupants. This is the grave of Abelard and Heloise—a grave which has been more revered, more widely known, more written and sung about and wept over, for seven hundred years, than any other in Christendom save only that of the Saviour. All visitors linger pensively about it; all young people capture and carry away keepsakes and mementoes of it; all Parisian youths and maidens who are disappointed in love come there to bail out when they are full of tears; yea, many stricken lovers make pilgrimages to this shrine from distant provinces to weep and wail and “grit” their teeth over their heavy sorrows, and to purchase the sympathies of the chastened spirits of that tomb with offerings of immortelles and budding flowers. / Go when you will, you find somebody snuffling over that tomb. Go when you will, you find it furnished with those bouquets and immortelles. Go when you will, you find a gravel-train from Marseilles arriving to supply the deficiencies caused by memento-cabbaging vandals whose affections have miscarried.",
+    "Citation":"Mark Train (Samuel L. Clemens), The Inocent Abroad (Hartford, CT: American Publishing Company, 1869), Ch. 15.",
+    "Hyperlink":"https://www.gutenberg.org/files/3176/3176-h/3176-h.htm",
+    "Country":"France",
+    "Region":"Western Europe",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1301,48.8014 ]
+    },
+    "properties": {
+    "PlaceName":"Versailles",
+    "PlaceNameModern":"Versailles",
+    "NameOfTraveler":"Mark Twain (Samuel Clemens)",
+    "YearOfTravel":1869,
+    "Description":"VERSAILLES! It is wonderfully beautiful! You gaze and stare and try to understand that it is real, that it is on the earth, that it is not the Garden of Eden—but your brain grows giddy, stupefied by the world of beauty around you, and you half believe you are the dupe of an exquisite dream. The scene thrills one like military music! A noble palace, stretching its ornamented front, block upon block away, till it seemed that it would never end; a grand promenade before it, whereon the armies of an empire might parade; all about it rainbows of flowers, and colossal statues that were almost numberless and yet seemed only scattered over the ample space; broad flights of stone steps leading down from the promenade to lower grounds of the park—stairways that whole regiments might stand to arms upon and have room to spare; vast fountains whose great bronze effigies discharged rivers of sparkling water into the air and mingled a hundred curving jets together in forms of matchless beauty; wide grass-carpeted avenues that branched hither and thither in every direction and wandered to seemingly interminable distances, walled all the way on either side with compact ranks of leafy trees whose branches met above and formed arches as faultless and as symmetrical as ever were carved in stone; and here and there were glimpses of sylvan lakes with miniature ships glassed in their surfaces. And every where—on the palace steps, and the great promenade, around the fountains, among the trees, and far under the arches of the endless avenues—hundreds and hundreds of people in gay costumes walked or ran or danced, and gave to the fairy picture the life and animation which was all of perfection it could have lacked. / It was worth a pilgrimage to see. Everything is on so gigantic a scale. Nothing is small—nothing is cheap. The statues are all large; the palace is grand; the park covers a fair-sized county; the avenues are interminable. All the distances and all the dimensions about Versailles are vast. I used to think the pictures exaggerated these distances and these dimensions beyond all reason, and that they made Versailles more beautiful than it was possible for any place in the world to be. I know now that the pictures never came up to the subject in any respect, and that no painter could represent Versailles on canvas as beautiful as it is in reality. I used to abuse Louis XIV for spending two hundred millions of dollars in creating this marvelous park, when bread was so scarce with some of his subjects; but I have forgiven him now. He took a tract of land sixty miles in circumference and set to work to make this park and build this palace and a road to it from Paris. He kept 36,000 men employed daily on it, and the labor was so unhealthy that they used to die and be hauled off by cartloads every night. The wife of a nobleman of the time speaks of this as an “inconvenience,” but naively remarks that “it does not seem worthy of attention in the happy state of tranquillity we now enjoy.”",
+    "Citation":"Mark Train (Samuel L. Clemens), The Inocent Abroad (Hartford, CT: American Publishing Company, 1869), Ch. 16.",
+    "Hyperlink":"https://www.gutenberg.org/files/3176/3176-h/3176-h.htm",
+    "Country":"France",
+    "Region":"Western Europe",
+    "Continent":"Europe"
     }
   }
 ]
