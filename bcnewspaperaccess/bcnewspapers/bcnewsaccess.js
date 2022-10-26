@@ -4,7 +4,7 @@
 		var mapOptions = {
 			center: [41.8875, 0], //set center
 			zoom: 2 , //set initial zoom
-			maxZoom : 7,  //set max zoom
+			maxZoom : 9,  //set max zoom
 			minZoom : 1,
 			maxBounds: [ [-90, -180] , [90,180] ],
 			tap: false
@@ -61,12 +61,13 @@ function popUp(f,l) {
 	//adds spaces in between entries
 	if (f.properties) {
 		out.push('<h3>' + '<a href="'+ f.properties.URL + '" target="_blank">' + f.properties.Title + '</a>' + '</h3>' );
-		out.push('<b>Place of Publication: </b>' + f.properties.PublicationPlace + ', ' + f.properties.PublicationPlaceCountry);
-		out.push('<b>Date(s) of Coverage: </b>' + f.properties.Year + ' - ' + f.properties.YearEnd + '(coverage is likely incomplete)' + '<br>');
+		out.push('<b>Place of Publication: </b>' + f.properties.PublicationPlace + ', ' + f.properties.PublicationPlaceCountry + '<br>');
+		out.push('<b>Date(s) of Coverage: </b>' + f.properties.Year + ' - ' + f.properties.YearEnd + ' (coverage is likely incomplete)' + '<br>');
 		out.push('<b>Type: </b>' + f.properties.Type + '<br>');
 		out.push('<b>Subject(s): </b>' + f.properties.Subject1 + '<br>');
-		out.push('<b>Fulltext and Access: </b>' + '<a href="'+ f.properties.URL + '" target="_blank">Access the title</a>' + ' on ' );  //allows for link to external URL via attribute in .geoJson table
-		out.push(f.properties.Platform + ' in ' + f.properties.Section + ', which is ' + f.properties.AccessLevel + '.');
+		out.push('<b>Platform and Access: </b>' + 'Title available on'  );  //allows for link to external URL via attribute in .geoJson table
+		out.push(f.properties.Platform + ' in ' + f.properties.Section + ' (collection), which is ' + f.properties.AccessLevel + '.' + '<br>');
+		out.push ('<b>Entry accurate as of: </b>' + f.properties.Last_Update);
 		l.bindPopup(out.join("<br />"));
 	}
 }
@@ -96,7 +97,7 @@ function popUp(f,l) {
 
 				var searchControl = new L.Control.Search({
 					layer: searchLayers,
-					propertyName: 'PlaceName',
+					propertyName: 'PublicationPlace',
 					marker: false,
 					textPlaceholder: 'Search by Location',
 					textErr: 'Location not found',
