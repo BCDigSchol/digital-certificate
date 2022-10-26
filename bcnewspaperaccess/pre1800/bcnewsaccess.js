@@ -22,7 +22,7 @@
 var piriReis1554 = L.tileLayer('WorldMap2/{z}/{x}/{y}.png', {tms: true, attribution: "David Rumsey Map Collection"});
 
 
-var places = L.geoJson(images, {
+var places = L.geoJson(data, {
 	onEachFeature: popUp
 }
 );
@@ -36,20 +36,40 @@ var geojsonMarkerOptions = {
     fillOpacity: 0.8
 };
 
+var imagesMap =L.geoJson(images, {
+	pointToLayer: function (feature, latlng) {
+        return L.circleMarker(latlng, geojsonMarkerOptions);
+    },
+	onEachFeature: popUpImages
+}
+).addTo(map);
 
-
-function popUp(f,l) {
+function popUpImages(f,l) {
 	var photoImg = '<img src="'+f.properties.ImageURL+'" width="300px" />';
 	var out = [];
 	if (f.properties) {
-		out.push('<strong>' + f.properties.Artist + ' </strong> (' + 'b.' + f.properties.Birth +' - '+ 'd.'+f.properties.Death+ ')');
-		out.push('Ruled in ' + f.properties.StateRuled + ' from ' + f.properties.Reign_Begin +' to '+f.properties.Reign_End+ '');
-		out.push('<a href="' +f.properties.ImageURL + '" target="_blank">' + photoImg +'</a>');
+		out.push('<i>' + f.properties.ImageTitle + ' </i> (' + f.properties.PlaceName +', '+f.properties.Year+ ')');
+		out.push(f.properties.Artist);
 		out.push(f.properties.HostInstitution);
+		out.push('<a href="' +f.properties.ImageURL + '" target="_blank">' + photoImg +'</a>');
 		l.bindPopup(out.join("<br />"));
 	}};
 
+function popUp(f,l) {
+	var out = [];
 
+	//adds spaces in between entries
+	if (f.properties) {
+		out.push('<h3>' + '<a href="'+ f.properties.URL + '" target="_blank">' + f.properties.Title + '</a>' + '</h3>' );
+		out.push('<b>Place of Publication: </b>' + f.properties.PublicationPlace + ', ' + f.properties.PublicationPlaceCountry);
+		out.push('<b>Date(s) of Coverage: </b>' + f.properties.Year + ' - ' + f.properties.YearEnd + '(coverage is likely incomplete)' + '<br>');
+		out.push('<b>Type: </b>' + f.properties.Type + '<br>');
+		out.push('<b>Subject(s): </b>' + f.properties.Subject1 + '<br>');
+		out.push('<b>Fulltext and Access: </b>' + '<a href="'+ f.properties.URL + '" target="_blank">Access the title</a>' + ' on ' );  //allows for link to external URL via attribute in .geoJson table
+		out.push(f.properties.Platform + ' in ' + f.properties.Section + ', which is ' + f.properties.AccessLevel + '.');
+		l.bindPopup(out.join("<br />"));
+	}
+}
 
 			var cluster_places= new L.MarkerClusterGroup({showCoverageOnHover: false});
 				 cluster_places.addLayer(places);
@@ -97,7 +117,7 @@ function popUp(f,l) {
 
 var yearSlider = document.getElementById('slider-year');
 noUiSlider.create(yearSlider, {
-    start: [1500, 1900],
+    start: [1650, 2010],
     connect: true,
 		step:5,
 		pips: {
@@ -107,8 +127,8 @@ noUiSlider.create(yearSlider, {
         stepped: true
     },
     range: {
-        'min': 1500,
-        'max': 1900
+        'min': 1650,
+        'max': 2100
     },
 		format: wNumb({
         decimals: 0})
@@ -117,8 +137,8 @@ var yearValues = [
 	document.getElementById('event-start'),
 	document.getElementById('event-end')
 ];
-yearValues[0].innerHTML=1500;
-yearValues[1].innerHTML=1900;
+yearValues[0].innerHTML=1650;
+yearValues[1].innerHTML=2100;
 
 yearSlider.noUiSlider.on('change', function (values, handle) {
 	yearValues[handle].innerHTML = values[handle];
@@ -133,7 +153,7 @@ yearSlider.noUiSlider.on('change', function (values, handle) {
 		onEachFeature: popUp,
 		filter:
 			function(feature, layer) {
-				return (feature.properties.YearOfTravel <= rangeMax) && (feature.properties.YearOfTravel >= rangeMin);
+				return (feature.properties.Year <= rangeMax) && (feature.properties.Year >= rangeMin);
 			}
 	});
 
