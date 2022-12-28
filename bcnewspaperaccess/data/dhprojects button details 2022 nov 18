@@ -1,0 +1,44 @@
+/* Button styling */
+
+.button-container-details {
+  text-align: center;
+  width:100%;
+}
+
+.button-details {
+  border: none;
+  background-color:#116466; /* some sort of dark, teal-ish color */
+  width:22%;
+  color:#D1E8E2;
+  padding: 10px 5px 10px 5px;
+  margin: 5px 5px 5px 5px;
+  display: flex;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.button-details-5 {
+  border: none;
+  background-color:#116466; /* some sort of dark, teal-ish color */
+  width:15%;
+  color:#D1E8E2;
+  padding: 10px 5px 10px 5px;
+  margin: 5px 5px 5px 5px;
+  display: flex;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.button-details a {
+  color:   #ffCB9A;
+}
+
+.button-details-5 a {
+  color:   #ffCB9A;
+}
+.button-details a:hover {  text-decoration-line: underline;}
+.button-details-5 a:hover {text-decoration-line: underline;}
