@@ -1,4 +1,4 @@
-var data = 
+var data =
 
 {
    "type": "FeatureCollection",
@@ -21338,6 +21338,633 @@ var data =
     "Country":"United States of America",
     "Region":"Northern America",
     "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -42.8125967,77.6192349 ]
+    },
+    "properties": {
+    "PlaceName":"Greenland",
+    "PlaceNameModern":"Greenland",
+    "NameOfTraveler":"Hans Egede",
+    "YearOfTravel":1721,
+    "Description":"GREENLAND lies but forty miles to the West of Iceland, beginning from 59° 50´ North Latitude. The Eastern coast extends itself in the North as far as Spitzbergen, between 78° and 80°; which is thought to be an island, separated from the continent of Greenland. The Western shore is discovered as far as seventy odd degrees. Whether it be a large island, or borders upon countries to the North, is not yet found out; there seems great reason to believe it is contiguous to America on the North West side; because there we meet with the bay or inlet, which in the sea charts is called Davis’s Straits, from an Englishman, who in the year 1585 was the first discoverer of it; and is yearly frequented by ships of different nations, on account of the Whale Fishery: but nobody as yet has been able to find out the bottom of it.",
+    "Citation":"Hans Egede, A Description of Greenland (London: T. and J. Allman, 1818).",
+    "Hyperlink":"https://www.gutenberg.org/cache/epub/58308/pg58308-images.html",
+    "Country":"Greenland",
+    "Region":"Arctic Region",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -44.0675789,60.2761751 ]
+    },
+    "properties": {
+    "PlaceName":"Baal River",
+    "PlaceNameModern":"Nuup Kangerlua",
+    "NameOfTraveler":"Hans Egede",
+    "YearOfTravel":1721,
+    "Description":"Greenland is a high and rocky country, always covered with ice and snow (except on the sea side, and in the bays or inlets) which never thaws nor melts away. You may judge of the height by the prospect they yield at more than twenty Norway miles distance from the shore. The whole coast is surrounded with a vast number of large and small islands. There are a great many inlets and large rivers to be met with, among which the principal is called Baal’s River, in 64°, and has been navigated eighteen or twenty Norway miles up the country; where the first Danish lodge was settled in the year 1721.",
+    "Citation":"Hans Egede, A Description of Greenland (London: T. and J. Allman, 1818).",
+    "Hyperlink":"https://www.gutenberg.org/cache/epub/58308/pg58308-images.html",
+    "Country":"Greenland",
+    "Region":"Arctic Region",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -52.8967885,65.4175454 ]
+    },
+    "properties": {
+    "PlaceName":"West Bygd",
+    "PlaceNameModern":"[Maniitsoq]",
+    "NameOfTraveler":"Hans Egede",
+    "YearOfTravel":1721,
+    "Description":"The ancient historians divide Greenland into two parts or districts, called West Bygd, and East Bygd. As to the West district, which is said to have contained four parishes, and one hundred villages, all we find in the ancient histories amounts to this, viz. that in the fourteenth century it was sorely infested by a wild nation called Schrellings, and laid so waste, that when the inhabitants of the Eastern district came to the assistance of the Christians, and to expel the barbarous nation of the Schrellings, who were fallen upon the Christians, they found to their great astonishment the province quite emptied of its inhabitants, and nothing remaining but some cattle and flocks of sheep, straying wild and unguarded round about the fields and meadows; whereof they killed a good number, which they brought home with them in their ships.",
+    "Citation":"Hans Egede, A Description of Greenland (London: T. and J. Allman, 1818).",
+    "Hyperlink":"https://www.gutenberg.org/cache/epub/58308/pg58308-images.html",
+    "Country":"Greenland",
+    "Region":"Arctic Region",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -22.41667,70.46667 ]
+    },
+    "properties": {
+    "PlaceName":"Bay of Good Hope",
+    "PlaceNameModern":"Cape Hope",
+    "NameOfTraveler":"Hans Egede",
+    "YearOfTravel":1721,
+    "Description":"In the great Bay, which in the sea charts goes under the name of Baal’s River, and at present is called the Bay of Good Hope (from the Danish colony settled near the entrance of this inlet), there are on both sides of the colony many good pieces of meadow ground, for the grazing and pasturing numbers of cattle, besides plenty of provision, which the sea as well as the land yields.",
+    "Citation":"Hans Egede, A Description of Greenland (London: T. and J. Allman, 1818).",
+    "Hyperlink":"https://www.gutenberg.org/cache/epub/58308/pg58308-images.html",
+    "Country":"Greenland",
+    "Region":"Arctic Region",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -52.2863487,69.1144133 ]
+    },
+    "properties": {
+    "PlaceName":"Bay of Disco",
+    "PlaceNameModern":"Disko Bay",
+    "NameOfTraveler":"Hans Egede",
+    "YearOfTravel":1721,
+    "Description":"THE natives of Greenland have no reason to complain of rains and stormy weather, which seldom trouble them; especially in the Bay of Disco, in the 68th degree of Latitude, where they commonly have clear and settled weather during the whole summer season: but again, when foul and stormy weather falls in, it rages with an incredible fierceness and violence, chiefly when the wind comes about Southerly, or South West; and the storm is laid and succeeded by fair weather as soon as the wind shifts about to the West and North.",
+    "Citation":"Hans Egede, A Description of Greenland (London: T. and J. Allman, 1818).",
+    "Hyperlink":"https://www.gutenberg.org/cache/epub/58308/pg58308-images.html",
+    "Country":"Greenland",
+    "Region":"Arctic Region",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -49.6659478,61.994618 ]
+    },
+    "properties": {
+    "PlaceName":"Western coast",
+    "PlaceNameModern":"[Paamiut]",
+    "NameOfTraveler":"Hans Egede",
+    "YearOfTravel":1721,
+    "Description":"IT is undoubted, that the modern inhabitants of Greenland are the offspring of the Schrellings, especially those that live on the Western coast; and there may be some mixture, for aught we know, of the ancient Norway colonies that formerly dwelled in the country, who in length of time were blended and naturalized among the natives, which is made probable by several Norway words found in their language. For, although the Norway colonies were destroyed, yet there were, no doubt, some remains of them, which joined with the natives and became all one nation. With these inhabitants all the sea coasts are peopled, some more and some less.",
+    "Citation":"Hans Egede, A Description of Greenland (London: T. and J. Allman, 1818).",
+    "Hyperlink":"https://www.gutenberg.org/cache/epub/58308/pg58308-images.html",
+    "Country":"Greenland",
+    "Region":"Arctic Region",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -41.637984,77.619235 ]
+    },
+    "properties": {
+    "PlaceName":"inner parts of the country",
+    "PlaceNameModern":"Greenland",
+    "NameOfTraveler":"Hans Egede",
+    "YearOfTravel":1721,
+    "Description":"In the inner parts of the country nobody lives, except at certain times in the summer season, when they go rein deer hunting. The reason of this is, that (as has been said above) the whole upland country is perpetually covered with ice and snow.",
+    "Citation":"Hans Egede, A Description of Greenland (London: T. and J. Allman, 1818).",
+    "Hyperlink":"https://www.gutenberg.org/cache/epub/58308/pg58308-images.html",
+    "Country":"Greenland",
+    "Region":"Arctic Region",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -41.637984,78.991657 ]
+    },
+    "properties": {
+    "PlaceName":"Old lands",
+    "PlaceNameModern":"[Avannaata and Northeast Greenland National Park]",
+    "NameOfTraveler":"Hans Egede",
+    "YearOfTravel":1721,
+    "Description":"If the old lands, formerly inhabited and manured by the Norway colonies, were anew peopled with men and cattle; they would, without doubt, yield as much as either Iceland or Feroe, seeing there is as good pasture ground as in those islands.",
+    "Citation":"Hans Egede, A Description of Greenland (London: T. and J. Allman, 1818).",
+    "Hyperlink":"https://www.gutenberg.org/cache/epub/58308/pg58308-images.html",
+    "Country":"Greenland",
+    "Region":"Arctic Region",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -50.217063,67.302567 ]
+    },
+    "properties": {
+    "PlaceName":"West side",
+    "PlaceNameModern":"[Qeqertalik, Qeqqata, Sermersooq, and Kujalleq]",
+    "NameOfTraveler":"Hans Egede",
+    "YearOfTravel":1721,
+    "Description":"I shall forbear to mention salmon and cod fishing, as it seems at present to be but of little or no importance, especially on the West side",
+    "Citation":"Hans Egede, A Description of Greenland (London: T. and J. Allman, 1818).",
+    "Hyperlink":"https://www.gutenberg.org/cache/epub/58308/pg58308-images.html",
+    "Country":"Greenland",
+    "Region":"Arctic Region",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -45.51854,61.299129 ]
+    },
+    "properties": {
+    "PlaceName":"Southern coast",
+    "PlaceNameModern":"[Kujalleq]",
+    "NameOfTraveler":"Hans Egede",
+    "YearOfTravel":1721,
+    "Description":"though I am credibly informed by the natives, that on the Southern coast they catch abundance of fine large cod.",
+    "Citation":"Hans Egede, A Description of Greenland (London: T. and J. Allman, 1818).",
+    "Hyperlink":"https://www.gutenberg.org/cache/epub/58308/pg58308-images.html",
+    "Country":"Greenland",
+    "Region":"Arctic Region",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -50.034689,69.536734 ]
+    },
+    "properties": {
+    "PlaceName":"The North",
+    "PlaceNameModern":"[Qeqertalik]",
+    "NameOfTraveler":"Hans Egede",
+    "YearOfTravel":1721,
+    "Description":"Yet this may be more than sufficiently compensated by the whale fishery on the North",
+    "Citation":"Hans Egede, A Description of Greenland (London: T. and J. Allman, 1818).",
+    "Hyperlink":"https://www.gutenberg.org/cache/epub/58308/pg58308-images.html",
+    "Country":"Greenland",
+    "Region":"Arctic Region",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -45.51854,61.299129 ]
+    },
+    "properties": {
+    "PlaceName":"The South",
+    "PlaceNameModern":"[Kujalleq]",
+    "NameOfTraveler":"Hans Egede",
+    "YearOfTravel":1721,
+    "Description":"the capture of seals on the South, which if rightly undertaken, and with vigour set on foot, will bring as much, nay far more profit than the salmon and cod catching does in other places; chiefly the seal capture, which can be undertaken at very small expenses, viz. at the coast with strong nets, with which they may catch many thousands in Greenland; which, if hitherto not practised, ought to be imputed to negligence and want of a good regulation. In short, Greenland, as we see, is very convenient for trading, and may be very well worth one’s while to take in hand.",
+    "Citation":"Hans Egede, A Description of Greenland (London: T. and J. Allman, 1818).",
+    "Hyperlink":"https://www.gutenberg.org/cache/epub/58308/pg58308-images.html",
+    "Country":"Greenland",
+    "Region":"Arctic Region",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -42.812597,77.619235 ]
+    },
+    "properties": {
+    "PlaceName":"inland country",
+    "PlaceNameModern":"Greenland",
+    "NameOfTraveler":"Hans Egede",
+    "YearOfTravel":1721,
+    "Description":"For Greenland can pass for no better than a dismal and pitiful country, in regard to the greatest part of it, viz. all the inland country, which is perpetually covered with ice and snow, that never melts, and therefore of no use to mankind; and as to the remaining part, on the sea side, most of it lies uncultivated and uninhabited. But here it may again be said, that as to the first part, or the inland country, it is a thing that is past remedy",
+    "Citation":"Hans Egede, A Description of Greenland (London: T. and J. Allman, 1818).",
+    "Hyperlink":"https://www.gutenberg.org/cache/epub/58308/pg58308-images.html",
+    "Country":"Greenland",
+    "Region":"Arctic Region",
+    "Continent":"North America"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1276474,51.5073219 ]
+    },
+    "properties": {
+    "PlaceName":"London",
+    "PlaceNameModern":"London",
+    "NameOfTraveler":"David Ross Locke",
+    "YearOfTravel":1881,
+    "Description":"But when one notices the condition of the streets the wonder at the loads that are drawn ceases. They are as smooth as glass. The stone pavements are evenly laid and absolutely without ruts. The wooden pavement, answering to the Nicholson, which has invariably been a failure in America, is a success here, and for a very simple reason.",
+    "Citation":"David R. Locke, Nasby in Exile (Boston, MA: Locke Publishing Company, 1882).",
+    "Hyperlink":"https://www.gutenberg.org/cache/epub/46451/pg46451-images.html",
+    "Country":"England",
+    "Region":"Western Europe",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.0939658,49.4404591 ]
+    },
+    "properties": {
+    "PlaceName":"Rouen",
+    "PlaceNameModern":"Rouen",
+    "NameOfTraveler":"David Ross Locke",
+    "YearOfTravel":1881,
+    "Description":"There is nothing in Rouen that is not interesting. Sunday as it was, the sidewalks in front of the numberless cafés were occupied with chairs, the white-aproned waiters flitting hither and thither, serving their customers with the light wines of the country; the market was in full blast, and business was going on the same as any other day. There is no Sunday in France, that is as Americans understand the day.",
+    "Citation":"David R. Locke, Nasby in Exile (Boston, MA: Locke Publishing Company, 1882).",
+    "Hyperlink":"https://www.gutenberg.org/cache/epub/46451/pg46451-images.htmll",
+    "Country":"France",
+    "Region":"Western Europe",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.4654674,51.897077 ]
+    },
+    "properties": {
+    "PlaceName":"Cork",
+    "PlaceNameModern":"Cork",
+    "NameOfTraveler":"David Ross Locke",
+    "YearOfTravel":1881,
+    "Description":"Cork is a lovely city; that is, it would be a lovely city were it a city at all. Nature intended Cork for a great city, but man stepped in and thwarted Nature. It is situated on the most magnificent site for a city there is in all Europe. A wonderfully beautiful river, with water enough to float any vessel, flows through it; and at the mouth of that river, twelve miles below, is one of the great harbors of the world. Queenstown—I wonder that any Irishman ever consented to call it Queenstown—is the nearest port to the great western hemisphere, and Cork should be the center of all the trade from America.",
+    "Citation":"David R. Locke, Nasby in Exile (Boston, MA: Locke Publishing Company, 1882).",
+    "Hyperlink":"https://www.gutenberg.org/cache/epub/46451/pg46451-images.html",
+    "Country":"Ireland",
+    "Region":"Western Europe",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1466014,46.2017559 ]
+    },
+    "properties": {
+    "PlaceName":"Geneva",
+    "PlaceNameModern":"Geneva",
+    "NameOfTraveler":"David Ross Locke",
+    "YearOfTravel":1881,
+    "Description":"Geneva is a curious old city, one of the links that connect the dead past with the terribly active and quite distinct present. Its memories are of monks and opposers of monks; its present is of watches and music boxes. However, the Genevan has been shrewd enough to carefully preserve the dust of the past, out of which, combined with its delightful situation, it gathers many shekels from the horde of tourists who sweep over Europe every year. Everybody must and does see Geneva. It is the capital of the smallest canton in Switzerland but one, the entire territory being but fifteen miles long by as many square, a large portion of this being taken up by the lake. Its population is less than fifty thousand, but, nevertheless, it is the largest city in Switzerland, and one which has the most of historical interest attached to it.",
+    "Citation":"David R. Locke, Nasby in Exile (Boston, MA: Locke Publishing Company, 1882).",
+    "Hyperlink":"https://www.gutenberg.org/cache/epub/46451/pg46451-images.html",
+    "Country":"Switzerland",
+    "Region":"Western Europe; Central Europe",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.4673098,49.4892913 ]
+    },
+    "properties": {
+    "PlaceName":"Mannheim",
+    "PlaceNameModern":"Mannheim",
+    "NameOfTraveler":"David Ross Locke",
+    "YearOfTravel":1881,
+    "Description":"Mannheim is a purely commercial and manufacturing town. It enjoys a most picturesque situation. Its streets are regular and handsome, and in the outskirts of the city are numerous pretty parks, which add greatly to the beauty of the place.",
+    "Citation":"David R. Locke, Nasby in Exile (Boston, MA: Locke Publishing Company, 1882).",
+    "Hyperlink":"https://www.gutenberg.org/cache/epub/46451/pg46451-images.html",
+    "Country":"Germany",
+    "Region":"Western Europe; Central Europe",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.5410422,47.3744489 ]
+    },
+    "properties": {
+    "PlaceName":"Zurich",
+    "PlaceNameModern":"Zurich",
+    "NameOfTraveler":"David Ross Locke",
+    "YearOfTravel":1881,
+    "Description":"Zurich is a beautiful city, lying around the head of the lake of the same name. The old portion dates back to the twelfth century, and contains many interesting relics of that period. But around the old part there has grown up a fine modern city, whose solid substantial buildings, of fine architecture, contrast strangely with the old houses and churches that were built centuries ago.\n \n Its location could not be more beautiful. In front is the clear pale-green lake, from which the limpid Limmat emerges and divides the city into two parts. Its shores are lined with picturesque villas, peeping out from among the orchards and vineyards that clothe the banks, clear to the foot of the snow clad Alps which form a strong background, being so far away that they are soft and subdued in the hazy air that partly obscures them from view.",
+    "Citation":"David R. Locke, Nasby in Exile (Boston, MA: Locke Publishing Company, 1882).",
+    "Hyperlink":"https://www.gutenberg.org/cache/epub/46451/pg46451-images.html",
+    "Country":"Switzerland",
+    "Region":"Western Europe; Central Europe",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.7507127,48.584614 ]
+    },
+    "properties": {
+    "PlaceName":"Strasburg",
+    "PlaceNameModern":"Strasbourg",
+    "NameOfTraveler":"David Ross Locke",
+    "YearOfTravel":1881,
+    "Description":"In this old city of Strasburg, founded by the Romans hundreds of years ago, we get a better idea of old architecture than in any city yet visited. Its narrow, crooked streets, with high, many-storied roofs, tell the story of its age in unmistakable language. The unique wood carving that embellishes the façades of so many of the old wooden buildings look strange and out of place in this matter-of-fact age, but in years gone by they gave to Strasburg the name of “the most beautiful city.”",
+    "Citation":"David R. Locke, Nasby in Exile (Boston, MA: Locke Publishing Company, 1882).",
+    "Hyperlink":"https://www.gutenberg.org/cache/epub/46451/pg46451-images.html",
+    "Country":"France",
+    "Region":"Western Europe",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.320041,48.8588897 ]
+    },
+    "properties": {
+    "PlaceName":"Paris",
+    "PlaceNameModern":"Paris",
+    "NameOfTraveler":"David Ross Locke",
+    "YearOfTravel":1881,
+    "Description":"Paris is the city of luxury. No matter where you go, nor among what class of people, you see but two things—a vast population catering to sensualism, and another vast population paying the price for it.\n \n The difference between London and Paris is shown even in its proprietary medicines. In London the walls groan, or would if they could, under announcements of liver medicines; in Paris the walls of corresponding conspicuousness are covered with advertisements of articles for the hair and complexion.",
+    "Citation":"David R. Locke, Nasby in Exile (Boston, MA: Locke Publishing Company, 1882).",
+    "Hyperlink":"https://www.gutenberg.org/cache/epub/46451/pg46451-images.html",
+    "Country":"France",
+    "Region":"Western Europe",
+    "Continent":"Europe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.5887063,-20.1560599 ]
+    },
+    "properties": {
+    "PlaceName":"Bulawayo",
+    "PlaceNameModern":"Bulawayo",
+    "NameOfTraveler":"James Bryce",
+    "YearOfTravel":1895,
+    "Description":"When I passed from Mafeking to Bulawayo in October, 1895, thousands of oxen were drawing hundreds of waggons along the track between those towns.",
+    "Citation":"James Bryce, Impressions of South Africa (London:Macmillan and Co, 1899), 183 https://www.gutenberg.org/cache/epub/22323/pg22323-images.html.",
+    "Hyperlink":"https://www.gutenberg.org/cache/epub/22323/pg22323-images.html",
+    "Country":"Zimbabwe",
+    "Region":"Southern Africa",
+    "Continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4780059,-19.1437458 ]
+    },
+    "properties": {
+    "PlaceName":"Chimoyo",
+    "PlaceNameModern":"Chimoio",
+    "NameOfTraveler":"James Bryce",
+    "YearOfTravel":1895,
+    "Description":"When, a month later, I travelled from Fort Salisbury to Chimoyo, then the terminus of the Beira line, I passed countless waggons standing idle along the track, because owing to the locusts and the drought which had destroyed most of the grass, the oxen had either died or grown too lean and feeble to be able to drag the loads.",
+    "Citation":"James Bryce, Impressions of South Africa (London:Macmillan and Co, 1899), 183-84. https://www.gutenberg.org/cache/epub/22323/pg22323-images.html.",
+    "Hyperlink":"https://www.gutenberg.org/cache/epub/22323/pg22323-images.html",
+    "Country":"Mozambique",
+    "Region":"Southern Africa",
+    "Continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.4992231,-18.9283715 ]
+    },
+    "properties": {
+    "PlaceName":"Matabeleland North",
+    "PlaceNameModern":"Matabeleland North",
+    "NameOfTraveler":"James Bryce",
+    "YearOfTravel":1895,
+    "Description":"In October, 1895, we travelled, unarmed and unconcerned, by night as well as by day, through villages where five months later the Kafirs rose and murdered every European within reach.",
+    "Citation":"James Bryce, Impressions of South Africa (London:Macmillan and Co, 1899), 224. https://www.gutenberg.org/cache/epub/22323/pg22323-images.html.",
+    "Hyperlink":"https://www.gutenberg.org/cache/epub/22323/pg22323-images.html",
+    "Country":"Zimbabwe",
+    "Region":"Southern Africa",
+    "Continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.8124,-19.4657 ]
+    },
+    "properties": {
+    "PlaceName":"Gwelo",
+    "PlaceNameModern":"Gweru",
+    "NameOfTraveler":"James Bryce",
+    "YearOfTravel":1895,
+    "Description":"In October, 1895, it had about fifteen houses inhabited by Europeans and perhaps thirty houses altogether; but the materials for building other houses were already on the ground, and the usual symptoms of a \"boom\" were discernible. Comparing it with the many similar \"new cities\" I had seen in Western America, I was much struck with the absence of the most conspicuous features of those cities—the \"saloons\" and \"bars.\"",
+    "Citation":"James Bryce, Impressions of South Africa (London:Macmillan and Co, 1899), 232. https://www.gutenberg.org/cache/epub/22323/pg22323-images.html",
+    "Hyperlink":"https://www.gutenberg.org/cache/epub/22323/pg22323-images.html",
+    "Country":"Zimbabwe",
+    "Region":"Southern Africa",
+    "Continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.935,-20.2722222 ]
+    },
+    "properties": {
+    "PlaceName":"Zimbabwye",
+    "PlaceNameModern":"Great Zimbabwe",
+    "NameOfTraveler":"James Bryce",
+    "YearOfTravel":1895,
+    "Description":"The track leads through a pretty country, with alternate stretches of wood and grass, bold hills on either side, and blue peaked mountains in the distance. Crossing a low, bare ridge of granite, one sees nearly a mile away, among thick trees, a piece of grey wall, and when one comes nearer, what seems the top of a tower just peeping over the edge of the wall. It is Zimbabwye—a wall of loose but well trimmed and neatly fitted pieces of granite surrounding an elliptical inclosure; within this inclosure other half-ruined walls over-grown by shrubs and trees, and a strange solid tower or pillar thirty feet high, built, without mortar, of similar pieces of trimmed granite.",
+    "Citation":"James Bryce, Impressions of South Africa (London:Macmillan and Co, 1899), 235-36. https://www.gutenberg.org/cache/epub/22323/pg22323-images.html.",
+    "Hyperlink":"https://www.gutenberg.org/cache/epub/22323/pg22323-images.html",
+    "Country":"Zimbabwe",
+    "Region":"Southern Africa",
+    "Continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.56745,-25.966213 ]
+    },
+    "properties": {
+    "PlaceName":"Lourenço Marques",
+    "PlaceNameModern":"Maputo",
+    "NameOfTraveler":"James Bryce",
+    "YearOfTravel":1895,
+    "Description":"At the north end, where two rivers discharge their waters into it, is an almost landlocked inlet, on the east side of which stands the town of Lourenço Marques, so called from the Portuguese captain who first explored it in 1544, though it had been visited in 1502 by Vasco da Gama. The approach to this harbour is long and circuitous, for a vessel has to wind hither and thither to avoid shoals; and as the channel is ill-buoyed, careful captains sometimes wait for the tide to be at least half full before they cross the shallowest part, where there may be only twenty feet of water at low tide. Within the harbour there is plenty of good deep anchorage opposite the town, and a still more sheltered spot is found a little farther up the inlet in a sort of lagoon. The town, which is growing fast, but still in a rough and unsightly condition, runs for half a mile along the bay front, while behind a suburb is built up the slope of a hill facing to the west. The site looks healthy enough, though it would have been better to plant the houses nearer to the high point which shields the anchorage. But behind the town to the east and north there are large swamps, reeking with malaria; and the residents have, therefore, though of course much less in the dry season, to be on their guard against fever, which, indeed, few who remain for a twelvemonth escape. The Portuguese Government is unfortunately hard pressed for money and has not been able to complete the projected quays, nor even to provide a custom-house and warehouses fit to receive and store the goods intended for the Transvaal, which are now discharged here in large quantities. In November, 1895, everything was in confusion, and the merchants loud in their complaints.",
+    "Citation":"James Bryce, Impressions of South Africa (London:Macmillan and Co, 1899), 281-82. https://www.gutenberg.org/cache/epub/22323/pg22323-images.html.",
+    "Hyperlink":"https://www.gutenberg.org/cache/epub/22323/pg22323-images.html",
+    "Country":"Mozambique",
+    "Region":"Southern Africa",
+    "Continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.05,-5.85 ]
+    },
+    "properties": {
+    "PlaceName":"Boma",
+    "PlaceNameModern":"Boma",
+    "NameOfTraveler":"Joachim John Monteiro",
+    "YearOfTravel":1858,
+    "Description":"Near Boma, however, the banks are higher, and become bare of trees and shrubs, the whole country being comparatively free of any other vegetation but high grass; we have arrived, in fact, at the grass-covered high country before mentioned as beginning at the third elevation from the coast over the whole of Angola.",
+    "Citation":"Joachim John Monteiro, Angola and the River Congo, vo. 1 (London: Macmillian and Co., 1875).",
+    "Hyperlink":"https://www.gutenberg.org/cache/epub/68110/pg68110-images.html#Page_83",
+    "Country":"Democratic Republic of the Congo",
+    "Region":"Western Africa",
+    "Continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.106493,-7.844312 ]
+    },
+    "properties": {
+    "PlaceName":"Ambriz",
+    "PlaceNameModern":"Ambriz",
+    "NameOfTraveler":"Joachim John Monteiro",
+    "YearOfTravel":1858,
+    "Description":"The Baobab, or “monkey fruit tree,” is well known from descriptions as one of the giants of the vegetable kingdom. It rears its vast trunk thirty or forty feet high, with a diameter of three or four feet in the baby plants, to usually twenty to thirty feet in the older trees. Adansonias of more than thirty feet in diameter are rare, but they have been measured of as great a size as over 100 feet in circumference; the thickest trunk I have ever seen was sixty-four feet in circumference, and was clean and unbroken, without a crack on its smooth bark.The leaves and flowers are produced during the rainy season, and are succeeded by the long pendant gourd-like fruit, like hanging notes of admiration, giving the gigantic, nearly leafless tree a most singular appearance. Millions of these trees cover the whole of Angola, as they do in fact the whole of tropical Africa",
+    "Citation":"Joachim John Monteiro, Angola and the River Congo, vo. 1 (London: Macmillian and Co., 1875).",
+    "Hyperlink":"https://www.gutenberg.org/cache/epub/68110/pg68110-images.html#Page_120",
+    "Country":"Angola",
+    "Region":"Southern Africa",
+    "Continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.0354692,-7.6154221 ]
+    },
+    "properties": {
+    "PlaceName":"Musserra",
+    "PlaceNameModern":"Musserra",
+    "NameOfTraveler":"Joachim John Monteiro",
+    "YearOfTravel":1858,
+    "Description":"This coast abounds with fish, but very few of the natives engage in their capture, as they make so much by trading that they will not take the trouble. Several fish, such as the “Pungo,” weighing as much as three “arrobas,” or ninety-six pounds, visit the coast only in the “cacimbo” or cold season of the year, or from June to August.The Bay of Musserra is a noted place for large captures of this fine fish, as many as forty or fifty being caught in a day by the natives, with hook and line, from their small curious shaped canoes. It is a very firm-fleshed fish, and cut up, salted, and dried in the sun, was a great article of trade at Musserra, being sold to the natives from the interior, particularly to the “Zombos” composing the caravans of ivory, who are very fond of salt fish. There was a great row in the season 1870",
+    "Citation":"Joachim John Monteiro, Angola and the River Congo, vo. 1 (London: Macmillian and Co., 1875).",
+    "Hyperlink":"https://www.gutenberg.org/cache/epub/68110/pg68110-images.html#Page_143",
+    "Country":"Angola",
+    "Region":"Southern Africa",
+    "Continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.3097083,-10.0338204 ]
+    },
+    "properties": {
+    "PlaceName":"Bembe",
+    "PlaceNameModern":"Bembe",
+    "NameOfTraveler":"Joachim John Monteiro",
+    "YearOfTravel":1858,
+    "Description":"After being at Bembe eight or nine months, the mining captain, either from stupidity or wilfulness, not only had not discovered a single pound of malachite, but insisted that there was none in the place, where the natives for years previously had extracted from 200 to 300 tons every dry season! In view of his conduct I took upon myself the responsibility of taking charge of the mining operations, and sent him back to England. A few days after we discovered fine blocks of malachite, fifteen tons of which I sent to the Company in the same steamer that took him home.",
+    "Citation":"Joachim John Monteiro, Angola and the River Congo, vo. 1 (London: Macmillian and Co., 1875).",
+    "Hyperlink":"https://www.gutenberg.org/cache/epub/68110/pg68110-images.html#Page_161",
+    "Country":"Democratic Republic of the Congo",
+    "Region":"Western Africa",
+    "Continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.38025,-8.13465 ]
+    },
+    "properties": {
+    "PlaceName":"Quingombe",
+    "PlaceNameModern":"Quingombe",
+    "NameOfTraveler":"Joachim John Monteiro",
+    "YearOfTravel":1858,
+    "Description":"The evening before we reached Quingombe, we raced the blackest thunderstorm I have ever witnessed. About four o’clock in the afternoon of the very fierce, hot and sultry day, the wind began to lull and distant thunder was heard behind us. The sky indicated plainly that no ordinary storm was gathering, the clouds deepening in colour till at last they seemed to descend and touch the ground, forming a nearly black curtain, which as it slowly advanced hid hills, trees, and everything behind it; the top part of this thick black curtain seemed to travel at a faster rate than the rest below, and slowly formed a black arch over-head; at about five o’clock it seemed to be only a few hundred yards behind us, like a solid angry night trying to overtake us. Sudden flashes and long streaks of lightning seemed to shoot out of it, up and down and in all directions, with scarcely any intermission of the explosions of thunder that accompanied them.",
+    "Citation":"Joachim John Monteiro, Angola and the River Congo, vo. 1 (London: Macmillian and Co., 1875).",
+    "Hyperlink":"https://www.gutenberg.org/cache/epub/68110/pg68110-images.html#Page_234",
+    "Country":"Angola",
+    "Region":"Southern Africa",
+    "Continent":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.2,-12.233333 ]
+    },
+    "properties": {
+    "PlaceName":"Cuio",
+    "PlaceNameModern":"Cuio",
+    "NameOfTraveler":"Joachim John Monteiro",
+    "YearOfTravel":1858,
+    "Description":"A three years’ drought in the interior of Loanda is still vividly remembered, the inhabitants, from their improvident habits, perishing miserably by thousands from starvation. In my mining explorations at Benguella, I was at Cuio under a cloudless sky for twenty-six months, in the years 1863 and 1864, with hardly a drop of water falling.",
+    "Citation":"Joachim John Monteiro, Angola and the River Congo, vo. 1 (London: Macmillian and Co., 1875).",
+    "Hyperlink":"https://www.gutenberg.org/cache/epub/68110/pg68110-images.html#Page_42",
+    "Country":"Angola",
+    "Region":"Southern Africa",
+    "Continent":"Africa"
     }
   }
 ]
