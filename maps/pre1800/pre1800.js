@@ -126,7 +126,7 @@ noUiSlider.create(yearSlider, {
         stepped: true
     },
     range: {
-        'min': 1500,
+        'min': 1400,
         'max': 1900
     },
 		format: wNumb({
